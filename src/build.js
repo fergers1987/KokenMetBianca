@@ -34,7 +34,7 @@ const STORES = readJson('stores.json', {});
 const MARKETS = readJson('supermarkets.json', []);
 const order = NL_RECIPES.slice().sort((a, b) => NL_CHAPTERS.indexOf(a.chapter) - NL_CHAPTERS.indexOf(b.chapter) || a.id - b.id);
 const NUM = {}; order.forEach((r, i) => { NUM[r.id] = i + 1; });
-const CHIDX = {}, GUID = {}, META = {}; NL_RECIPES.forEach(r => { CHIDX[r.id] = NL_CHAPTERS.indexOf(r.chapter); GUID[r.id] = r.guid; META[r.id] = { cuisine: r.cuisine, protein: r.protein, side: r.side, price: r.price, spice: r.spice, vega: r.vega, freeze: r.freeze, hrs: hours(r.low) }; });
+const CHIDX = {}, GUID = {}, META = {}; NL_RECIPES.forEach(r => { CHIDX[r.id] = NL_CHAPTERS.indexOf(r.chapter); GUID[r.id] = r.guid; META[r.id] = { kind: r.kind || 'dish', cuisine: r.cuisine, protein: r.protein, side: r.side, price: r.price, spice: r.spice, vega: r.vega, freeze: r.freeze, hrs: hours(r.low) }; });
 if (new Set(Object.values(GUID)).size !== NL_RECIPES.length || Object.values(GUID).some(g => !g)) throw new Error('Elk recept heeft een unieke guid nodig in recipes.json');
 
 const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'];
@@ -44,12 +44,17 @@ for (const L of LANGS) {
   if (!recipes) recipes = NL_RECIPES;
   const text = readJson(`i18n-source.${L}.json`, readJson('i18n-source.nl.json'));
   const byId = {};
+  const nlById = Object.fromEntries(NL_RECIPES.map(r => [r.id, r]));
+  // rollen, budgettips en basisprijs komen uit de Nederlandse bron (per index); vertaalde swap-tekst wint
+  const withRoles = (list, nlList) => list.map((i, k) => ({ role: (nlList[k] || {}).role || 'basis', swap: (nlList[k] || {}).swap, saves: (nlList[k] || {}).saves, ...i }));
+  recipes = recipes.map(r => { const n = nlById[r.id]; return n ? { ...r, price_basic: n.price_basic, optSteps: n.steps.map(st => /^Optioneel:/.test(st)), ingredients: withRoles(r.ingredients, n.ingredients), serve: withRoles(r.serve, n.serve) } : r; });
   const haveIds = new Set(recipes.map(r => r.id));
   recipes = recipes.concat(NL_RECIPES.filter(r => !haveIds.has(r.id)));  // nog niet vertaald: Nederlands als terugval
   recipes.forEach(r => { byId[r.id] = { ...r, ...META[r.id], guid: GUID[r.id], slug: r.slug || slugify(r.title), n: NUM[r.id], nn: String(NUM[r.id]).padStart(2, '0'), ci: CHIDX[r.id] }; });
   const nlText = readJson('i18n-source.nl.json');
   text.chapters = nlText.chapters.map((c, i) => text.chapters[i] || c);
-  D[L] = { text, byId, list: order.map(r => byId[r.id]) };
+  const all = order.map(r => byId[r.id]);
+  D[L] = { text, byId, all, list: all.filter(r => r.kind !== 'extra'), extras: all.filter(r => r.kind === 'extra') };
 }
 
 // ---------- urls ----------
@@ -60,6 +65,7 @@ const u = {
   market: L => `/${L}/${PATHS[L].market}/`,
   basics: L => `/${L}/${PATHS[L].basics}/`,
   list: L => `/${L}/${PATHS[L].list}/`,
+  more: L => `/${L}/${PATHS[L].more}/`,
 };
 const dishImg = id => `/img/dish/${id}.svg`;
 const brand = L => UI[L].brand.join(' ');
@@ -77,7 +83,7 @@ const chColor = ci => T.chapters[ci % T.chapters.length];
 
 function tags(L, r, compact = false) {
   const ui = UI[L]; const t = [];
-  t.push(`<span class="tag price"><b>${price(L, r.price)}</b>${compact ? '' : `<i>${perPerson(L, r.price)}</i>`}</span>`);
+  t.push(`<span class="tag price"><b>${price(L, r.price)}</b>${compact || r.kind === 'extra' ? (r.price_basic && r.price_basic !== r.price ? `<i>${esc(UI[L].budget.from)} ${price(L, r.price_basic)}</i>` : '') : `<i>${perPerson(L, r.price)}</i>`}</span>`);
   t.push(`<span class="tag spice" title="${esc(spiceWord(L, r.spice))}">${peppers(r.spice)}<em>${esc(spiceWord(L, r.spice))}</em></span>`);
   if (r.vega) t.push(`<span class="tag vega">${art.leafIcon(T.vars.leaf)}<em>${ui.vega}</em></span>`);
   if (!compact) {
@@ -125,7 +131,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script
 <header class="site-head">
   <div class="wrap head-in">
     <a class="brand" href="${u.home(L)}"><span class="b1">${esc(ui.brand[0])}</span> <span class="b2">${esc(ui.brand[1])}</span></a>
-    <nav class="main-nav" aria-label="Menu"><a class="nav-favs" href="${u.recipes(L)}?fav=1" aria-label="${esc(ui.onlyFavs)}">${heart()}<span data-fav-count></span></a><a class="nav-list" href="${u.list(L)}"${key === 'list' ? ' aria-current="page"' : ''}>${cartIco()}${esc(ui.list.nav)}<span data-list-count></span></a>${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('basics', ui.nav.basics)}</nav>
+    <nav class="main-nav" aria-label="Menu"><a class="nav-favs" href="${u.recipes(L)}?fav=1" aria-label="${esc(ui.onlyFavs)}">${heart()}<span data-fav-count></span></a><a class="nav-list" href="${u.list(L)}"${key === 'list' ? ' aria-current="page"' : ''}>${cartIco()}${esc(ui.list.nav)}<span data-list-count></span></a>${navItem('recipes', ui.nav.recipes)}${navItem('more', ui.more.nav)}${navItem('market', ui.nav.market)}${navItem('basics', ui.nav.basics)}</nav>
     <nav class="langs" aria-label="${ui.langLabel}">${alts.map(a => `<a href="${a.href}" hreflang="${a.L}" lang="${a.L}"${a.L === L ? ' aria-current="true"' : ''}>${a.L.toUpperCase()}</a>`).join('')}</nav>
   </div>
 </header>
@@ -137,7 +143,7 @@ ${body}
     <div class="sprig">${sprig()}</div>
     <p class="f-title">${esc(brand(L))} <span>· ${esc(ui.by)}</span></p>
     <p class="f-tag">${esc(D[L].text.content.tagline)}</p>
-    <nav class="f-nav">${navItem('home', ui.nav.home)}${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('basics', ui.nav.basics)}${navItem('list', ui.list.title)}</nav>
+    <nav class="f-nav">${navItem('home', ui.nav.home)}${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('more', ui.more.title)}${navItem('basics', ui.nav.basics)}${navItem('list', ui.list.title)}</nav>
     <p class="f-small">${esc(ui.footer)} · ${alts.map(a => `<a href="${a.href}" lang="${a.L}">${UI[a.L].langName}</a>`).join(' · ')}</p>
   </div>
 </footer>
@@ -303,12 +309,14 @@ function buyChips(L, es) {
 }
 
 function ingList(L, list, rid, offset = 0) {
-  return list.map((i, k) => `<li><label><input type="checkbox" data-k="${rid}-${offset + k}"><span class="q">${nb(i.q)}</span><span class="it">${esc(i.item)}${L !== 'es' && i.es ? `<span class="es" lang="es">${esc(i.es)}</span>` : ''}</span></label>${buyChips(L, i.es)}</li>`).join('');
+  const bu = UI[L].budget;
+  return list.map((i, k) => `<li data-role="${i.role || 'basis'}"><label><input type="checkbox" data-k="${rid}-${offset + k}"><span class="q">${nb(i.q)}</span><span class="it">${esc(i.item)}${L !== 'es' && i.es ? `<span class="es" lang="es">${esc(i.es)}</span>` : ''}${i.role === 'extra' || i.role === 'topping' ? `<em class="role">${esc(bu[i.role])}</em>` : ''}</span></label>${i.swap ? `<p class="swap"><b>${esc(bu.tip)}:</b> ${esc(i.swap)}${i.saves ? ` <span class="nw">(${esc(i.saves)})</span>` : ''}</p>` : ''}${buyChips(L, i.es)}</li>`).join('');
 }
 
 function recipePage(L, r) {
   const ui = UI[L], tx = D[L].text;
-  const idx = D[L].list.indexOf(r), prev = D[L].list[idx - 1], next = D[L].list[idx + 1];
+  const grp = r.kind === 'extra' ? D[L].extras : D[L].list;
+  const idx = grp.indexOf(r), prev = grp[idx - 1], next = grp[idx + 1];
   const shop = r.ingredients.concat(r.serve).map(i => `${i.q ? i.q + ' ' : ''}${i.item}${L !== 'es' && i.es ? ` (${i.es})` : ''}`).join('\n');
   const lowH = hours(r.low), prepM = parseInt(r.prep, 10) || 15;
   const jsonld = {
@@ -324,16 +332,17 @@ function recipePage(L, r) {
   const body = `
 <article class="recipe" style="--ch:${chColor(r.ci)}" data-guid="${r.guid}">
   <div class="wrap">
-    <nav class="crumbs"><a href="${u.recipes(L)}">${ui.nav.recipes}</a> <span>›</span> <a href="${u.recipes(L)}?h=${r.ci}">${esc(tx.chapters[r.ci])}</a></nav>
+    <nav class="crumbs">${r.kind === 'extra' ? `<a href="${u.more(L)}">${esc(ui.more.title)}</a>` : `<a href="${u.recipes(L)}">${ui.nav.recipes}</a> <span>›</span> <a href="${u.recipes(L)}?h=${r.ci}">${esc(tx.chapters[r.ci])}</a>`}</nav>
     <header class="r-head">
       <div class="r-text">
-        <p class="r-no">Nº ${r.nn} · ${esc(tx.chapters[r.ci])} · ${ui.persons}</p>
+        <p class="r-no">${r.kind === 'extra' ? esc(ui.more.title) : `Nº ${r.nn} · ${esc(tx.chapters[r.ci])} · ${ui.persons}`}</p>
         <h1 class="r-title">${esc(r.title)}</h1>
         <div class="r-actions">${favBtn(L, r, true)}
           <div class="add-wrap">${addBtn(L, r, true)}<label class="persons"><select data-persons="${r.guid}" aria-label="${esc(ui.list.persons)}">${[2, 3, 4, 5, 6, 8, 10].map(n => `<option value="${n}"${n === 4 ? ' selected' : ''}>${n} ${esc(ui.list.persons)}</option>`).join('')}</select></label></div>
         </div>
         <p class="intro">${esc(r.intro)}</p>
         ${tags(L, r)}
+        ${r.ingredients.concat(r.serve).some(i => i.role === 'extra' || i.role === 'topping' || i.swap) ? `<label class="budget-toggle"><input type="checkbox" data-budget="${r.guid}"><span class="bt-ui"></span><span><b>${esc(ui.budget.label)}</b>${r.price_basic ? ` · ${esc(ui.budget.from)} ${price(L, r.price_basic)}` : ''}<small>${esc(ui.budget.hint)}</small></span></label>` : ''}
         <aside class="note r-tip"><h4>${ui.tip}</h4><p>${nb(r.tip)}</p></aside>
       </div>
       <div class="r-art"><img src="${dishImg(r.id)}" alt="${esc(r.title)}" width="600" height="600"></div>
@@ -351,7 +360,7 @@ function recipePage(L, r) {
       </section>
       <section class="steps" aria-labelledby="h-steps">
         <h2 id="h-steps">${ui.method}</h2>
-        <ol>${r.steps.map((s, i) => `<li><span class="sn">${i + 1}</span><p>${nb(s)}</p></li>`).join('')}</ol>
+        <ol>${r.steps.map((s, i) => `<li${(r.optSteps || [])[i] ? ' class="opt"' : ''}><span class="sn">${i + 1}</span><p>${nb(s)}</p></li>`).join('')}</ol>
         <aside class="note"><h4>${ui.kids}</h4><p>${nb(r.kids)}</p></aside>
       </section>
     </div>
@@ -423,16 +432,27 @@ function aisleRank(a) {
 }
 function dataJson(L) {
   const recipes = {};
-  D[L].list.forEach(r => {
-    recipes[r.guid] = { n: r.n, t: r.title, u: u.recipe(L, r.id), img: dishImg(r.id), ing: r.ingredients.concat(r.serve).map(i => [i.q || '', i.item, i.es || '']) };
+  D[L].all.forEach(r => {
+    recipes[r.guid] = { n: r.n, t: r.title, u: u.recipe(L, r.id), img: dishImg(r.id), ing: r.ingredients.concat(r.serve).map(i => [i.q || '', i.item, i.es || '', i.role || 'basis']) };
   });
   const aisles = {};
   Object.entries(STORES).forEach(([es, s]) => { aisles[es] = [s.aisle_es || '', aisleRank(s.aisle_es), (s.stores || []).filter(n => n !== 'Overal')]; });
   return JSON.stringify({ recipes, aisles });
 }
+function morePage(L) {
+  const ui = UI[L], m = ui.more;
+  const body = `
+<section class="wrap sec">
+  <p class="eyebrow">${esc(m.nav)}</p>
+  <h1 class="page-title">${esc(m.title)}</h1>
+  <p class="lead narrow">${esc(m.lead)}</p>
+  <ul class="cards" id="moreCards">${D[L].extras.map(r => card(L, r)).join('')}</ul>
+</section>`;
+  return layout(L, { title: `${m.title} – ${brand(L)}`, desc: m.lead, body, key: 'more' });
+}
 function listPage(L) {
   const ui = UI[L], l = ui.list;
-  const strings = { ...l, everywhere: ui.everywhere, lang: L };
+  const strings = { ...l, everywhere: ui.everywhere, lang: L, budgetLabel: ui.budget.label };
   const body = `
 <section class="wrap sec shoplist" data-strings="${esc(JSON.stringify(strings))}" data-src="/data/${L}.json?v=${V.data}">
   <p class="eyebrow">${ui.nav.recipes} · ${esc(l.nav)}</p>
@@ -538,7 +558,8 @@ function build() {
     put(u.basics(L), basicsPage(L));
     put(u.list(L), listPage(L));
     writeFile(`data/${L}.json`, dataJson(L));
-    D[L].list.forEach(r => put(u.recipe(L, r.id), recipePage(L, r)));
+    D[L].all.forEach(r => put(u.recipe(L, r.id), recipePage(L, r)));
+    put(u.more(L), morePage(L));
   }
   if (SITE) {
     writeFile('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(x => `<url><loc>${SITE}${x}</loc></url>`).join('')}</urlset>`);

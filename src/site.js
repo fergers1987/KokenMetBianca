@@ -185,6 +185,16 @@
   });
   paintList();
 
+  // ---------- budgetversie (per recept, gedeeld met de boodschappenlijst) ----------
+  var BKEY = 'sk-budget';
+  function budgets() { return readJson(BKEY, {}); }
+  function setBudget(g, on) { var b = budgets(); if (on) b[g] = 1; else delete b[g]; store.set(BKEY, JSON.stringify(b)); }
+  document.querySelectorAll('[data-budget]').forEach(function (cb) {
+    var g = cb.getAttribute('data-budget'), art = cb.closest('.recipe');
+    cb.checked = !!budgets()[g]; if (art) art.classList.toggle('budget', cb.checked);
+    cb.addEventListener('change', function () { setBudget(g, cb.checked); if (art) art.classList.toggle('budget', cb.checked); });
+  });
+
   // ---------- boodschappenlijst-pagina ----------
   var shop = document.querySelector('.shoplist');
   if (shop) {
@@ -221,8 +231,9 @@
       var o = list(), rows = {}, dishes = [];
       Object.keys(o).forEach(function (g) {
         var r = DATA.recipes[g]; if (!r) return;
-        var f = o[g] / 4; dishes.push({ g: g, r: r, p: o[g] });
+        var f = o[g] / 4, bud = !!budgets()[g]; dishes.push({ g: g, r: r, p: o[g], b: bud });
         r.ing.forEach(function (i) {
+          if (bud && (i[3] === 'extra' || i[3] === 'topping')) return;
           var q = i[0], item = i[1], es = i[2], key = (es || cleanName(item)).toLowerCase();
           var row = rows[key] || (rows[key] = { key: key, name: cleanName(item), es: es, parts: [], sums: {}, recipes: [], aisle: DATA.aisles[es] || ['', 99, []] });
           if (row.recipes.indexOf(r.t) < 0) row.recipes.push(r.t);
@@ -249,6 +260,7 @@
       $$('slDishes').innerHTML = res.dishes.map(function (d) {
         return '<li><a href="' + d.r.u + '"><img src="' + d.r.img + '" alt="" width="56" height="56"></a><div><a href="' + d.r.u + '">' + esc(d.r.t) + '</a>' +
           '<div class="stepper"><button type="button" data-step="-1" data-g="' + d.g + '" aria-label="−">−</button><span>' + d.p + ' ' + esc(S.persons) + '</span><button type="button" data-step="1" data-g="' + d.g + '" aria-label="+">+</button>' +
+          '<label class="sl-bud"><input type="checkbox" data-sl-budget="' + d.g + '"' + (d.b ? ' checked' : '') + '> ' + esc(S.budgetLabel) + '</label>' +
           '<button type="button" class="linkbtn" data-rm="' + d.g + '">' + esc(S.remove) + '</button></div></div></li>';
       }).join('');
       var groups = {};
@@ -295,6 +307,7 @@
     });
     shop.addEventListener('change', function (e) {
       var ck = e.target.closest('[data-ck]'); if (ck) { setCheck(ck.getAttribute('data-ck'), ck.checked); render(); }
+      var sb = e.target.closest('[data-sl-budget]'); if (sb) { setBudget(sb.getAttribute('data-sl-budget'), sb.checked); render(); }
     });
     $$('slHide').addEventListener('change', render);
     $$('slAll').addEventListener('click', function () { var c = {}; build().rows.forEach(function (r) { c[r.key] = 1; }); own().forEach(function (t) { c['own:' + t.toLowerCase()] = 1; }); store.set(CKEY, JSON.stringify(c)); render(); });

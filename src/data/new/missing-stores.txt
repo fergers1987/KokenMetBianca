@@ -21,6 +21,7 @@ azafrán en hebra
 azúcar
 berenjena
 berenjenas
+bicarbonato sódico
 boniato
 brócoli
 cacao puro en polvo
@@ -31,6 +32,7 @@ caldo de pollo o de verduras
 canela en rama
 canela en rama y clavo
 caramelo líquido
+carcasas de pollo
 carne de cerdo para guisar (paleta o aguja)
 carne de pimiento choricero
 carne para guisar (aguja o morcillo de ternera)
@@ -79,12 +81,16 @@ fideos finos
 fideos finos (cabellín)
 filetes de merluza o bacalao fresco
 flaneras
+fresas de Huelva
 frijoles negros cocidos (Carrefour) of alubias rojas
 galletas Lotus caramelizadas
 gambas peladas
 garam masala (Carrefour of Aziatische winkel)
 garbanzos cocidos (bote)
+garbanzos secos
+gasa de cocina
 guisantes secos partidos
+harina de fuerza
 hierbabuena
 hierbas provenzales
 hueso de jamón o taco de jamón
@@ -98,6 +104,8 @@ laurel y tomillo
 leche entera
 leche semidesnatada
 lentejas rojas (lentejas coral)
+levadura química (gasificante)
+levadura seca de panadería
 lomos de merluza
 lomos de salmón
 macarrones
@@ -105,14 +113,17 @@ magro de cerdo (paleta en tacos)
 mantequilla sin sal
 manzana
 manzana Granny Smith
+manzana verde
 manzanas
 manzanas Golden
 manzanas Golden o Fuji
+manzanas golden y reineta
 masa de hojaldre refrigerada
 mejillones frescos (malla)
 miel o azúcar moreno
 miel y compota de manzana
 mirin (tienda asiática)
+molde de cake
 morcillo o aguja de ternera
 mostaza de Dijon
 mostaza suave
@@ -123,6 +134,9 @@ naranja
 naranjas de zumo
 nata agria (Lidl/Carrefour) of crème fraîche
 nata agria o yogur griego natural
+nata para montar
+nubes
+nueces peladas
 nuez moscada molida
 orégano o hierbas italianas
 orégano y romero
@@ -130,6 +144,7 @@ pan de hamburguesa
 pan del día anterior
 papel de aluminio
 papel de cocina
+papel de horno
 papel de horno y papel de cocina
 pasas
 pasta pequeña para sopa (estrellitas)
@@ -138,6 +153,7 @@ pastillas de caldo
 patata
 patatas baby
 patatas baby (para guarnición)
+patatas para asar
 patatas para puré
 patatas pequeñas
 pera conferencia
@@ -146,6 +162,7 @@ perejil
 pimentón dulce (no ahumado)
 pimentón dulce de la Vera
 pimienta de Jamaica molida (Carrefour of Marokkaanse winkel)
+pimienta negra en grano
 pimiento verde
 pimiento verde italiano
 pimientos
@@ -154,8 +171,10 @@ pimientos rojos
 pimientos rojos o amarillos
 pimientos rojos y amarillos
 pimientos verdes italianos
+pipas de girasol peladas
 piña en su jugo
 placas de lasaña
+plátanos maduros
 puerro
 queso feta
 queso gouda o emmental rallado
@@ -165,23 +184,35 @@ queso rallado (mozzarella o emmental)
 queso rallado para gratinar
 rabo de ternera troceado
 ricotta
+romero fresco
 sal
+sal en escamas
+sal gruesa
 salchichas ahumadas (Lidl)
 salchichas frescas de cerdo
 salsa Worcestershire (Perrins)
 salsa barbacoa
 salsa de soja baja en sal
 sepia limpia troceada
+tahini (crema de sésamo)
 taquitos de bacon
 taquitos de bacon o panceta
 taquitos de jamón cocido
 taquitos de jamón serrano
+tarros de cristal
+termómetro de cocina
+toalla de baño
+tomate
 tomate frito
 tomates
+tomates cherry
 tomillo seco
 vinagre de vino tinto
 vino blanco
 vino blanco para cocinar
 vino tinto
 vino tinto o mosto tinto
+yogur griego
+yogur natural
+zumo de manzana
 zumo de uva tinta

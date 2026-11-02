@@ -1,0 +1,3035 @@
+[
+ {
+  "id": 56,
+  "price_basic": "6–7",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bak de worstjes in olie in 8 minuten rondom bruin; ze hoeven nog niet gaar. Snijd ze daarna doormidden.",
+   "Snijd ui, wortels en paprika (optioneel) in stukken, leg ze onderin de slowcooker en leg de worstjes erop.",
+   "Roer knoflook, tomatenblokjes, bouillon, paprikapoeder en Worcestershiresaus (optioneel) door elkaar en giet over de worstjes.",
+   "Gaar 6–7 uur op LOW of 3–4 uur op HIGH. Roer de uitgelekte bonen het laatste uur erdoor, zodat ze heel blijven.",
+   "Proef en breng op smaak met peper en eventueel zout. Prak een paar bonen tegen de wand voor een dikkere saus."
+  ]
+ },
+ {
+  "id": 57,
+  "price_basic": "4–6",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "steps": [
+   "Snijd ui, wortels, selderij, courgette (optioneel) en aardappel in blokjes van 1 cm. Kleine, gelijke stukjes garen gelijkmatig en passen op een kinderlepel.",
+   "Doe groenten, knoflook, tomatenblokjes, bouillon en kruiden in de slowcooker en roer door. Vul de pot hooguit driekwart.",
+   "Gaar 6–7 uur op LOW of 3–4 uur op HIGH, tot de wortel zacht is.",
+   "Zet op HIGH, roer pasta en uitgelekte bonen erdoor en gaar nog 25–30 minuten met deksel. Pasta altijd pas aan het eind.",
+   "Te dik geworden? Voeg een scheut heet water toe. Proef op peper en zout en serveer met geraspte kaas."
+  ]
+ },
+ {
+  "id": 58,
+  "price_basic": "6–8",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis",
+    "swap": "varkensgehakt in plaats van rundergehakt",
+    "saves": "ca. € 1"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Snijd de kapjes van de paprika's en verwijder de zaadlijsten. Snijd ze zo nodig onderaan recht, zodat ze stabiel staan.",
+   "Meng gehakt, rijst, ui, ei, paprikapoeder, zout en peper en vul de paprika's losjes.",
+   "Roer passata, water, suiker en oregano door elkaar in de slowcooker. Zet de paprika's rechtop in de saus en leg de kapjes erop.",
+   "Gaar 5–6 uur op LOW of 3 uur op HIGH. De vulling is gaar als die vanbinnen niet meer roze is (75 °C).",
+   "Strooi de kaas (optioneel) erover en laat met deksel nog 10–15 minuten smelten. Schep bij het serveren saus over de paprika's."
+  ]
+ },
+ {
+  "id": 59,
+  "price_basic": "8–10",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   }
+  ],
+  "steps": [
+   "Bestrooi de kalkoen met zout en peper en bak hem kort aan in boter, alleen voor de kleur. Schep hem in de slowcooker.",
+   "Voeg ui, wortel, champignons, bouillon en laurier toe. Gaar 4–5 uur op LOW of 2½–3 uur op HIGH; magere kalkoen droogt uit bij langer garen.",
+   "Zet op HIGH. Roer de maizena glad met de kookroom en roer dit samen met de doperwten (optioneel) door de stoof.",
+   "Laat 20 minuten doorgaren tot de saus bindt en de erwtjes (optioneel) warm zijn. Vis het laurierblad eruit.",
+   "Breng op smaak met citroensap, nootmuskaat, peper en zout. Een kneepje citroen maakt de romige saus frisser."
+  ]
+ },
+ {
+  "id": 60,
+  "price_basic": "6–8",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [],
+  "steps": [
+   "Doe kip, ui, knoflook, passata, bouillon, kruiden, zout en peper in de slowcooker en roer goed door.",
+   "Gaar 4–5 uur op LOW of 2½–3 uur op HIGH, tot de kip gaar en mals is.",
+   "Zet op HIGH. Roer de ongekookte pasta, het hete water en de broccoli erdoor; zorg dat de pasta onder de saus zit.",
+   "Gaar met deksel 25–35 minuten tot de pasta beetgaar is. Roer na een kwartier één keer om, zodat niets aan de bodem plakt.",
+   "Optioneel: Roer de kookroom erdoor, strooi de kaas erover en laat met deksel 10 minuten smelten. Direct serveren."
+  ]
+ },
+ {
+  "id": 61,
+  "price_basic": "3–5",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Fruit ui, knoflook en gember 3 minuten in de olie. Roer kerrie en komijn erdoor en bak 1 minuut mee, zo komen de specerijen tot leven.",
+   "Spoel de linzen in een zeef tot het water helder is. Doe ze met de uienmix, tomaten en bouillon in de slowcooker en roer goed.",
+   "Sluit het deksel en gaar 6–7 uur op LOW of 3–4 uur op HIGH, tot de linzen helemaal zacht en romig zijn.",
+   "Optioneel: Roer de kokosmelk erdoor en leg de spinazie erop. Laat 10 minuten met het deksel erop slinken en roer alles door.",
+   "Breng op smaak met zout en peper. Te dik? Verdun met een scheut heet water; de dal dikt bij staan nog wat in."
+  ]
+ },
+ {
+  "id": 62,
+  "price_basic": "5–6",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Fruit ui en paprika 5 minuten in de olie. Roer knoflook, paprikapoeder en komijn erdoor en bak 1 minuut tot het geurt.",
+   "Leg de zoete aardappel onderin de slowcooker. Schep de uienmix erop en voeg bonen, maïs (optioneel), tomaten en bouillon toe. Roer door.",
+   "Sluit het deksel en gaar 6–7 uur op LOW of 3–4 uur op HIGH, tot de zoete aardappel zacht is.",
+   "Prak een paar lepels bonen en aardappel tegen de wand fijn voor een dikkere chili. Breng op smaak met zout en peper."
+  ]
+ },
+ {
+  "id": 63,
+  "price_basic": "5–7",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Bak de aubergine in 1 el olie 5 minuten goudbruin; dat geeft smaak en voorkomt grijze, slappe stukjes.",
+   "Fruit ui en knoflook in de rest van de olie. Doe alles met courgette, paprika, kikkererwten, tomaat, puree, kruiden en suiker in de slowcooker.",
+   "Voeg geen extra vocht toe: de groenten geven zelf genoeg sap. Sluit het deksel en gaar 5–6 uur op LOW of 3–4 uur op HIGH.",
+   "Is de saus te dun? Leg het laatste halfuur het deksel op een kier. Breng op smaak met zout en peper."
+  ]
+ },
+ {
+  "id": 64,
+  "price_basic": "6–8",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Fruit ui en knoflook 5 minuten in de olie. Voeg courgette, tomaat, puree en oregano toe en laat 5 minuten pruttelen. Geen water toevoegen.",
+   "Vet de binnenpan in. Leg de helft van de aubergineplakken op de bodem en dek af met lasagnebladen, gebroken waar nodig.",
+   "Schep er een derde van de saus op met klodders ricotta. Herhaal aubergine, bladen en ricotta en eindig met de rest van de saus.",
+   "Zorg dat alle bladen onder saus liggen. Gaar 2½–3 uur op HIGH of 4–4½ uur op LOW, tot pasta en aubergine zacht zijn.",
+   "Zet uit, verdeel de mozzarella (optioneel) erover en laat 10 minuten met het deksel erop smelten en opstijven."
+  ]
+ },
+ {
+  "id": 65,
+  "price_basic": "4–5",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Fruit de ui 5 minuten glazig in de olie. Snijd pompoen, wortel, aardappel en appel (optioneel) in gelijke stukken van ongeveer 3 cm.",
+   "Doe alles met knoflook, nootmuskaat en bouillon in de slowcooker; de bouillon hoeft de groenten maar net te bedekken.",
+   "Sluit het deksel en gaar 6–7 uur op LOW of 3–4 uur op HIGH, tot de pompoen helemaal zacht is.",
+   "Pureer glad met de staafmixer. Roer de room (optioneel) er pas nu door en warm 10 minuten op zonder te laten koken, dan schift hij niet.",
+   "Breng op smaak met zout en peper. Te dik? Verdun met een scheut hete bouillon."
+  ]
+ },
+ {
+  "id": 66,
+  "price_basic": "6–8",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Fruit ui, paprika en knoflook 5 minuten in de olie. Doe ze met tomaat, paprikapoeder en bouillon in de slowcooker.",
+   "Gaar de saus 4–5 uur op LOW of 2–3 uur op HIGH. Spoel intussen de mosselen; gooi gebroken exemplaren en open mosselen die na een tikje niet sluiten weg.",
+   "Zet de slowcooker op HIGH. Roer mosselen en garnalen (optioneel) door de hete saus, sluit het deksel en gaar 20–30 minuten.",
+   "Schep halverwege één keer om. De garnalen (optioneel) zijn klaar als ze roze en stevig zijn; de mosselen staan dan open.",
+   "Gooi mosselen die dicht blijven weg. Breng op smaak, bestrooi met peterselie (optioneel) en knijp er citroen (optioneel) over."
+  ]
+ },
+ {
+  "id": 67,
+  "price_basic": "9–11",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis",
+    "swap": "diepvries koolvis in plaats van heek",
+    "saves": "ca. € 2"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Leg de aardappelplakken onderin de slowcooker, waar het het warmst is. Schep ui, paprika, courgette (optioneel), tomaat en knoflook erop.",
+   "Giet bouillon en olie erover en bestrooi met zout en peper. Gaar 5–6 uur op LOW of 3–4 uur op HIGH, tot de aardappel zacht is.",
+   "Zet op HIGH. Bestrooi de heek met zout, peper en citroenrasp en leg de filets op de groenten, met wat citroenplakjes erop.",
+   "Sluit het deksel en gaar 30–45 minuten, tot de vis wit en ondoorzichtig is en makkelijk uit elkaar valt.",
+   "Til de vis met een spatel voorzichtig eruit en serveer op de groenten met peterselie (optioneel) en een scheutje olijfolie."
+  ]
+ },
+ {
+  "id": 68,
+  "price_basic": "2–3",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "serve": [],
+  "steps": [
+   "Vet de binnenpan tot halverwege de wand in met boter; dat voorkomt aanbakken. Verwarm de melk in een pan tot hij bijna kookt.",
+   "Spoel de rijst niet: het zetmeel maakt de pap romig. Doe rijst, hete melk, suiker, citroenschil, kaneelstokje en zout in de slowcooker.",
+   "Gaar 2½–3 uur op HIGH of 4–5 uur op LOW. Roer elk uur even door, vooral in het begin, zodat de rijst niet aan de bodem plakt.",
+   "De pap is klaar als de rijst zacht is en nog los loopt; afgekoeld dikt hij flink in. Vis schil en kaneelstokje eruit.",
+   "Serveer warm of koud, bestrooid met gemalen kaneel (optioneel)."
+  ]
+ },
+ {
+  "id": 69,
+  "price_basic": "3–4",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "topping"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Schil de peren en laat het steeltje zitten. Snijd de onderkant vlak zodat ze kunnen staan en lepel van onderen het klokhuis weg.",
+   "Zet de peren rechtop in de slowcooker. Giet het druivensap erbij met honing (optioneel), kaneel, kruidnagels, sinaasappelschil (optioneel) en vanille (optioneel).",
+   "Gaar 4–5 uur op LOW of 2–3 uur op HIGH, tot een mesje er makkelijk in glijdt. Draai ze halverwege een keer om in het sap.",
+   "Schep de peren eruit. Kook het sap in een pannetje met de aangelengde maizena 2 minuten tot een glanzende siroop.",
+   "Serveer de peren warm of koud met de siroop en een lepel yoghurt of ijs."
+  ]
+ },
+ {
+  "id": 70,
+  "price_basic": "4–6",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Bekleed de binnenpan met bakpapier dat over de rand steekt; zo til je de brownie er straks in één keer uit.",
+   "Smelt boter en chocolade samen op laag vuur. Klop er van het vuur af suiker, eieren en vanille (optioneel) door tot het glanst.",
+   "Spatel bloem, cacao en zout er kort doorheen, net tot er geen bloem meer te zien is. Strijk het beslag glad in de pan.",
+   "Leg twee lagen keukenpapier over de opening tegen druppende condens en zet het deksel erop. Gaar 2–2½ uur op HIGH of 3–3½ uur op LOW.",
+   "Klaar als de randen stevig zijn en een prikker uit het midden met vochtige kruimels komt. Laat 30 minuten zonder deksel opstijven."
+  ]
+ },
+ {
+  "id": 71,
+  "price_basic": "7–9",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bestuif het vlees met bloem, zout en peper en bak het in porties rondom bruin in olijfolie. Leg het in de slowcooker.",
+   "Fruit ui, paprika en knoflook 5 minuten in dezelfde pan. Blus af met wijn (optioneel) en laat 2 minuten inkoken.",
+   "Roer tomaat, suiker, oregano en laurier erdoor en giet dit over het vlees; vul hooguit driekwart. Gaar 7–8 uur op LOW of 4–5 uur op HIGH.",
+   "Is de saus te dun? Leg het deksel het laatste halfuur op een kier. Vis de laurier eruit en proef op zout en peper.",
+   "Serveer met frietjes of brood. Guindilla of pimentón picante zet je aan tafel neer voor wie pit wil."
+  ]
+ },
+ {
+  "id": 72,
+  "price_basic": "8–10",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bestrooi de kip met zout en peper en bak hem in olijfolie aan beide kanten goudbruin. Leg hem in de slowcooker.",
+   "Bak de ham (optioneel) 2 minuten in dezelfde pan. Voeg ui, paprika en knoflook toe en fruit 6 minuten tot ze zacht worden.",
+   "Roer het paprikapoeder er van het vuur af door, blus af met wijn (optioneel), laat 2 minuten inkoken en voeg de tomaat toe.",
+   "Giet dit over de kip en leg de laurier erbij. Gaar 5–6 uur op LOW of 3–4 uur op HIGH, tot de kip 75 °C haalt.",
+   "Vis de laurier eruit en proef voorzichtig op zout: de ham is al zout. Strooi er peterselie over."
+  ]
+ },
+ {
+  "id": 73,
+  "price_basic": "13–16",
+  "ingredients": [
+   {
+    "role": "basis",
+    "swap": "1 kg varkenswangen in plaats van ossenstaart",
+    "saves": "ca. € 6"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bestuif de ossenstaart met bloem, zout en peper en bak hem in porties rondom donkerbruin in olijfolie; neem de tijd, hier zit de smaak.",
+   "Fruit ui, wortel, prei (optioneel), paprika en knoflook 6 minuten in dezelfde pan. Giet de wijn (optioneel) erbij en laat 4 minuten stevig inkoken.",
+   "Voeg bouillon en kruiden toe en giet alles over het vlees; vul hooguit driekwart. Gaar 9–10 uur op LOW of 6–7 uur op HIGH.",
+   "Het vlees moet van het bot vallen. Schep het eruit en lepel het vet van de jus, of laat de stoof een nacht koel opstijven.",
+   "Vis de kruiden eruit, pureer groenten en jus tot een glanzende saus, pluk het vlees van de botten en doe het terug."
+  ]
+ },
+ {
+  "id": 74,
+  "price_basic": "11–13",
+  "ingredients": [
+   {
+    "role": "basis",
+    "swap": "verse makreel (verdel) in plaats van tonijn",
+    "saves": "ca. € 5"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Fruit ui, paprika's en knoflook 6 minuten in olijfolie. Roer ñora-pasta of paprikapoeder en tomaat erdoor: dit is je sofrito.",
+   "Schil de aardappelen, kerf ze in en breek ze in stukken: het vrijgekomen zetmeel bindt de bouillon. Leg ze onderin de slowcooker.",
+   "Schep sofrito, bouillon en laurier erover. Gaar 6–7 uur op LOW of 3–4 uur op HIGH, tot de aardappel zacht is.",
+   "Zet op HIGH, bestrooi de tonijn met zout en leg hem erop. Deksel dicht en 10–15 minuten garen; langer maakt tonijn droog.",
+   "Vis de laurier eruit, roer heel voorzichtig om en strooi er peterselie over."
+  ]
+ },
+ {
+  "id": 75,
+  "price_basic": "7–9",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bestuif de kip met bloem, zout en peper en bak hem in olijfolie aan beide kanten goudbruin. Leg hem in de slowcooker.",
+   "Fruit ui, knoflook en wortel 4 minuten. Roer het paprikapoeder erdoor en blus af met sap, bouillon, honing (optioneel) en rasp.",
+   "Giet dit over de kip. Gaar 5–6 uur op LOW of 3–4 uur op HIGH, tot de kip 75 °C haalt.",
+   "Meng de maïzena met 2 el koud water en roer het de laatste 30 minuten door de saus; zet op HIGH, deksel dicht.",
+   "Proef: te zoet? Een scheutje citroensap brengt balans. Strooi er peterselie over."
+  ]
+ },
+ {
+  "id": 76,
+  "price_basic": "8–10",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Leg aardappel, wortel, prei en selderij onderin de slowcooker. Leg kip en ham erop en voeg de laurier toe.",
+   "Giet water erbij tot alles net onder staat; vul hooguit driekwart. Gaar 7–8 uur op LOW of 4–5 uur op HIGH, tot de kip 75 °C haalt.",
+   "Roer de kikkererwten er het laatste uur door en schep eventueel vet en schuim van de bouillon.",
+   "Schep 1 liter bouillon in een pan, breng aan de kook en kook de vermicelli 3–4 minuten gaar. Proef op zout.",
+   "Serveer eerst de soep met een blaadje munt (optioneel), daarna kip, groente en kikkererwten met een scheutje olijfolie."
+  ]
+ },
+ {
+  "id": 77,
+  "price_basic": "10–12",
+  "ingredients": [
+   {
+    "role": "basis",
+    "swap": "diepvries pota (inktvis) in plaats van sepia",
+    "saves": "ca. € 3"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Leg de aardappelblokjes onderin de slowcooker. Dep de sepia droog, bak hem 3 minuten in hete olijfolie en schep hem op de aardappel.",
+   "Fruit ui en knoflook 5 minuten in dezelfde pan. Blus af met wijn (optioneel), laat 2 minuten inkoken en voeg tomaat en bouillon toe.",
+   "Giet dit over de sepia en leg de laurier erbij. Gaar 4–5 uur op LOW of 2–3 uur op HIGH, tot een vork er makkelijk in glijdt.",
+   "Roer de erwtjes er het laatste halfuur door; bevroren mag. Sluit het deksel meteen weer.",
+   "Vis de laurier eruit, proef op zout en peper en strooi er peterselie over."
+  ]
+ },
+ {
+  "id": 78,
+  "price_basic": "6–8",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis",
+    "swap": "gewone geraspte kaas in plaats van manchego",
+    "saves": "ca. € 1"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Snijd de kapjes van de paprika's en verwijder de zaadlijsten. Fruit ui, knoflook, courgette en champignons (optioneel) 6 minuten in olijfolie tot het vocht verdampt.",
+   "Meng de groenten met rijst, de helft van de tomaat, oregano, ei, de helft van de kaas, zout en peper. Vul de paprika's.",
+   "Schep de rest van de tomaat met 100 ml water onderin. Zet de paprika's rechtop erin en leg de kapjes erop.",
+   "Gaar 4–5 uur op LOW of 2½–3 uur op HIGH, tot de paprika zacht is.",
+   "Strooi de rest van de kaas er het laatste kwartier over en laat hem met het deksel dicht smelten. Schep op met saus."
+  ]
+ },
+ {
+  "id": 79,
+  "price_basic": "2–3",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [],
+  "steps": [
+   "Vet de binnenkant van de slowcooker in met boter. Doe melk, rijst, kaneelstokje, citroenschil en zout erin en roer goed.",
+   "Gaar 3–4 uur op LOW of 2–2½ uur op HIGH. Roer elk uur kort om, zodat de rijst niet aan de bodem plakt.",
+   "Roer het laatste halfuur de suiker erdoor. De rijst moet zacht zijn en de melk dik en romig.",
+   "Vis kaneelstokje en citroenschil eruit. Laat afkoelen; de pudding dikt flink op. Serveer lauw of koud, bestrooid met kaneel (optioneel)."
+  ]
+ },
+ {
+  "id": 80,
+  "price_basic": "11–13",
+  "ingredients": [
+   {
+    "role": "basis",
+    "swap": "varkensschouder in plaats van rundvlees",
+    "saves": "ca. € 4"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis",
+    "swap": "gewone uien in partjes in plaats van sjalotjes",
+    "saves": "ca. € 1"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "topping"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bestuif het vlees met bloem, zout en peper en bak het in porties rondom bruin in olijfolie. Leg het in de slowcooker.",
+   "Bak de sjalotjes 5 minuten goudbruin, bak knoflook en tomatenpuree 1 minuut mee. Blus af met wijn (optioneel) en laat 3 minuten inkoken.",
+   "Voeg tomaat, azijn, kaneel, kruidnagels en laurier toe en giet dit over het vlees. Gaar 8–9 uur op LOW of 5–6 uur op HIGH.",
+   "Vis kaneel, kruidnagels en laurier eruit. Te dun? Leg het deksel het laatste halfuur op een kier.",
+   "Kook de orzo volgens de verpakking en schep de stifado erop."
+  ]
+ },
+ {
+  "id": 81,
+  "price_basic": "3–5",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Spoel de linzen in een zeef onder de kraan tot het water helder blijft; zo schuimt de dahl minder.",
+   "Doe linzen, ui, knoflook, gember, specerijen, tomaten en bouillon in de slowcooker en roer goed door.",
+   "Sluit het deksel en gaar 5–6 uur op LOW of 3–4 uur op HIGH. Linzen zuigen vocht op: te dik? Roer er een scheut heet water door.",
+   "Optioneel: Roer kokosmelk en spinazie er het laatste kwartier door en laat de spinazie slinken met het deksel erop.",
+   "Breng op smaak met citroensap en zout en serveer met rijst of naan."
+  ]
+ },
+ {
+  "id": 82,
+  "price_basic": "6–8",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Meng gehakt, ei, paneermeel, ui, nootmuskaat, zout en peper en rol met natte handen zo'n 24 balletjes ter grootte van een walnoot.",
+   "Bak de balletjes in twee porties rondom bruin in hete olie; ze hoeven nog niet gaar te zijn. Leg ze in de slowcooker.",
+   "Blus de pan af met bouillon en sojasaus, schraap de aanbaksels los en giet over de balletjes. Gaar 4–5 uur op LOW of 2–3 uur op HIGH.",
+   "Roer de maizena glad door de room en schep dit het laatste kwartier voorzichtig door de saus. Laat op HIGH binden.",
+   "Proef en breng op smaak met peper en zout. Serveer met puree en een lepel bessensaus."
+  ]
+ },
+ {
+  "id": 83,
+  "price_basic": "8–10",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Doe ui, paprika, knoflook, tomaten, bonen, maïs (optioneel), komijn en paprikapoeder in de slowcooker. Leg de kip erop en giet de bouillon erover.",
+   "Vul de pot niet verder dan tweederde. Sluit het deksel en gaar 6–7 uur op LOW of 3–4 uur op HIGH.",
+   "Haal de kip eruit, trek hem met twee vorken in draadjes en roer hem terug door de soep.",
+   "Breng op smaak met limoensap, zout en peper.",
+   "Schep de soep in kommen en laat iedereen zelf tortillachips, avocado, kaas en zure room toevoegen."
+  ]
+ },
+ {
+  "id": 84,
+  "price_basic": "9–10",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Fruit de uien 5 minuten zacht in de olie. Roer knoflook en paprikapoeder maar 30 seconden mee: verbrand paprikapoeder wordt bitter.",
+   "Schep het uienmengsel met paprika, tomaten en bouillon in de slowcooker. Leg de kip erin, bestrooi met zout en peper en schep om.",
+   "Sluit het deksel en gaar 5–6 uur op LOW of 3–4 uur op HIGH, tot de kip zacht is en vanbinnen niet meer roze.",
+   "Roer de bloem glad door de zure room en meng er een paar lepels hete saus door. Roer dit het laatste kwartier door de pot.",
+   "Laat de saus op HIGH iets binden, proef en breng op smaak. Serveer over tagliatelle."
+  ]
+ },
+ {
+  "id": 85,
+  "price_basic": "7–8",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bestrooi de kip met zout en peper en bak hem met de velkant 5–6 minuten goudbruin in de olie; anders blijft het vel slap.",
+   "Leg krieltjes, ui en paprika onderin de slowcooker: aardappel gaart trager dan vlees en hoort dus onderop het warme deel.",
+   "Giet tomaten, bouillon, knoflook en kruiden erover en leg de kip er met de velkant naar boven op.",
+   "Sluit het deksel en gaar 6–7 uur op LOW of 3–4 uur op HIGH, tot de kip loslaat van het bot.",
+   "Roer de olijven (optioneel) er het laatste halfuur door. Rasp de citroen (optioneel) erover, proef en breng op smaak."
+  ]
+ },
+ {
+  "id": 86,
+  "price_basic": "8–10",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bestuif de kip met bloem, zout en peper. Doe hem met prei, wortel, champignons (optioneel) en tijm in de slowcooker.",
+   "Roer de mosterd door de bouillon en giet over de kip. Sluit het deksel en gaar 5–6 uur op LOW of 3–4 uur op HIGH.",
+   "Roer de room er het laatste kwartier door en laat de saus op HIGH iets binden. Verwarm intussen de oven op 200 °C.",
+   "Snijd het bladerdeeg in 4 stukken, bestrijk met ei (optioneel) en bak ze 15–18 minuten goudbruin op een bakplaat met bakpapier.",
+   "Schep de vulling in diepe borden en leg op elk bord een bladerdeegdakje."
+  ]
+ },
+ {
+  "id": 87,
+  "price_basic": "12–14",
+  "ingredients": [
+   {
+    "role": "basis",
+    "swap": "kipdijfilet in plaats van rundvlees",
+    "saves": "ca. € 3"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Bestrooi het vlees met zout en peper en bak het in twee porties rondom bruin in hete olie. Schep het in de slowcooker.",
+   "Fruit de uien 5 minuten in dezelfde pan. Roer knoflook, gember, komijn en kaneel 1 minuut mee.",
+   "Blus af met tomaten en bouillon, schraap de aanbaksels los en giet over het vlees. Gaar 8–9 uur op LOW of 5–6 uur op HIGH.",
+   "Roer de abrikozen er het laatste uur door, zodat ze zacht worden maar niet uit elkaar vallen.",
+   "Rooster de amandelen (optioneel) goudbruin in een droge pan, proef de tajine op zout en strooi de amandelen (optioneel) erover."
+  ]
+ },
+ {
+  "id": 88,
+  "price_basic": "5–7",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Bak de aubergine in twee porties 5–6 minuten bruin in de olie; zo wordt hij zijdezacht in plaats van grijs en sponzig.",
+   "Fruit de uien 4 minuten in dezelfde pan en roer knoflook, komijn en kaneel 1 minuut mee.",
+   "Doe alles met kikkererwten, tomaten, tomatenpuree, suiker en zout in de slowcooker. Voeg geen water toe: aubergine geeft zelf vocht.",
+   "Sluit het deksel en gaar 6–7 uur op LOW of 3–4 uur op HIGH.",
+   "Proef, breng op smaak en serveer met yoghurt, munt en warme pita."
+  ]
+ },
+ {
+  "id": 89,
+  "price_basic": "9–11",
+  "ingredients": [
+   {
+    "role": "basis",
+    "swap": "varkensschouder in dunne reepjes in plaats van rundvlees",
+    "saves": "ca. € 3"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Bak vlees en ui 3–4 minuten in hete olie tot het vlees rondom kleur heeft.",
+   "Leg aardappel en wortel onderin de slowcooker en schep vlees en ui erop.",
+   "Roer bouillon, sojasaus, suiker en mirin (optioneel) door elkaar en giet erover. Gaar 7–8 uur op LOW of 4–5 uur op HIGH.",
+   "Optioneel: Leg de sperziebonen er het laatste halfuur bovenop en gaar ze op HIGH met het deksel erop tot ze beetgaar zijn.",
+   "Schep alles in diepe kommen met een flinke lepel van de zoet-zoute bouillon."
+  ]
+ },
+ {
+  "id": 90,
+  "price_basic": "7–8",
+  "ingredients": [
+   {
+    "role": "basis",
+    "swap": "helft gehakt vervangen door rode linzen",
+    "saves": "ca. € 2"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bak het gehakt rul in een hete pan en giet het vet af. Doe rauw gehakt nooit direct in de slowcooker: het klontert en wordt te traag heet.",
+   "Bak ui en paprika 3 minuten mee en roer de knoflook er kort door.",
+   "Schep alles met wortel, passata, ketchup, worcestersaus (optioneel), suiker, paprikapoeder, zout en peper in de slowcooker. Gaar 4–5 uur op LOW of 2–3 uur op HIGH.",
+   "Is de saus te dun? Laat hem het laatste halfuur zonder deksel op HIGH indikken.",
+   "Rooster de broodjes kort en schep er een flinke lepel gehakt op."
+  ]
+ },
+ {
+  "id": 91,
+  "price_basic": "6–7",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "topping"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bak spekjes (optioneel) en ui 5 minuten in een koekenpan. Spoel de zuurkool kort af als je hem minder zuur wilt.",
+   "Leg de aardappelen onderin de slowcooker. Verdeel zuurkool, appel (optioneel), spek-ui en laurier erover en giet de bouillon erbij.",
+   "Gaar 6–7 uur op LOW of 3–4 uur op HIGH, tot de aardappelen helemaal zacht zijn.",
+   "Leg de worst het laatste halfuur bovenop om op te warmen. Haal hem eruit en vis het laurierblad weg.",
+   "Prak aardappel en zuurkool met boter en warme melk tot een smeuïge stamppot. Breng op smaak en serveer met plakken worst."
+  ]
+ },
+ {
+  "id": 92,
+  "price_basic": "9–11",
+  "ingredients": [
+   {
+    "role": "basis",
+    "swap": "varkensschouder in plaats van klapstuk",
+    "saves": "ca. € 2,50"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Bestrooi het vlees met zout en peper en bak het rondom bruin in hete olie. Blus de pan af met de bouillon.",
+   "Leg aardappel, wortel en ui onderin de slowcooker, waar het het warmst is. Leg vlees en laurier erop en giet de bouillon erover.",
+   "Gaar 8–9 uur op LOW of 5–6 uur op HIGH, tot het vlees uit elkaar valt.",
+   "Haal vlees en laurier eruit. Giet het kookvocht af en bewaar het: dat wordt je jus.",
+   "Stamp de groenten met boter, warme melk, nootmuskaat en een scheut kookvocht. Serveer met het vlees in draadjes en jus."
+  ]
+ },
+ {
+  "id": 93,
+  "price_basic": "7–9",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bak de spekjes (optioneel) uit en schep ze in de slowcooker. Bestrooi de kip met bloem, zout en peper en bak hem in het spekvet goudbruin.",
+   "Fruit sjalotten, wortel en knoflook 4 minuten, roer de tomatenpuree erdoor en schep alles met de kip in de slowcooker.",
+   "Kook de wijn 5 minuten flink in de pan, zodat een groot deel van de alcohol verdampt; mosto tinto alleen opwarmen. Voeg de bouillon toe.",
+   "Giet dit over de kip, leg laurier en tijm erbij en gaar 5–6 uur op LOW of 3–4 uur op HIGH.",
+   "Bak de champignons (optioneel) goudbruin en roer ze het laatste halfuur erdoor. Vis de kruiden eruit en proef op peper en zout."
+  ]
+ },
+ {
+  "id": 94,
+  "price_basic": "7–9",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [],
+  "steps": [
+   "Hussel de kip met bloem, zout en peper. Doe kip, prei, wortel en champignons (optioneel) in de slowcooker.",
+   "Roer bouillon, mosterd en tijm door elkaar en giet erover. Gaar 5–6 uur op LOW of 3 uur op HIGH.",
+   "Verwarm in het laatste halfuur de oven op 200 °C. Snijd het bladerdeeg in 4 rechthoeken, bestrijk met ei (optioneel) en bak 15–18 minuten goudbruin.",
+   "Roer de kookroom door de stoof en laat 10 minuten op HIGH doorwarmen. Te dun? Bind met een theelepel maizena in koud water.",
+   "Schep de stoof in diepe borden en leg op elk bord een bladerdeegdakje. Direct serveren, dan blijft het deeg krokant."
+  ]
+ },
+ {
+  "id": 95,
+  "price_basic": "9–11",
+  "ingredients": [
+   {
+    "role": "basis",
+    "swap": "varkensschouder in plaats van rundvlees",
+    "saves": "ca. € 2,50"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bestrooi het vlees met bloem, zout en peper en bak het bruin in boter. Leg het met de uien in de slowcooker.",
+   "Blus de pan af met bouillon en azijn, schraap de aanbaksels los en giet over het vlees. Voeg laurier en kruidnagels toe.",
+   "Gaar 7–8 uur op LOW of 4–5 uur op HIGH. Leg de appelpartjes er het laatste uur bovenop, dan vallen ze niet uit elkaar.",
+   "Kook intussen de aardappelen gaar en stamp ze met melk, nootmuskaat, zout en peper tot een smeuïge puree.",
+   "Vis laurier en kruidnagels eruit. Schep het vlees in een ovenschaal, bedek met puree en kaas (optioneel) en gratineer 10 minuten onder de grill."
+  ]
+ },
+ {
+  "id": 96,
+  "price_basic": "8–9",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bestrooi de kip met zout en peper en bak hem kort goudbruin in olijfolie. Optioneel, maar het geeft meer smaak.",
+   "Leg ui, paprika en champignons (optioneel) in de slowcooker en leg de kip erop.",
+   "Roer knoflook, tomatenblokjes, tomatenpuree, bouillon en kruiden door elkaar en giet over de kip. Weinig vocht: de groenten geven zelf sap af.",
+   "Gaar 5–6 uur op LOW of 3 uur op HIGH. Roer het laatste halfuur de olijven (optioneel) erdoor.",
+   "Trek de kip eventueel in grove stukken en proef op peper en zout. Serveer met pasta of brood."
+  ]
+ },
+ {
+  "id": 97,
+  "price_basic": "5–7",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Vet de binnenpan royaal in met boter. Doe macaroni, melk, kookroom, water, mosterd en nootmuskaat erin en roer goed.",
+   "Gaar 2–2½ uur op LOW of 1–1½ uur op HIGH. Roer halverwege één keer door, zodat de macaroni niet aan de wand plakt.",
+   "Proef vanaf 1 uur (HIGH) of 2 uur (LOW): de macaroni moet net beetgaar zijn. Slowcookers verschillen, dus let de eerste keer goed op.",
+   "Roer kaas, ham en doperwten (optioneel) erdoor en laat nog 15 minuten met deksel staan tot alles warm en romig is.",
+   "Te dik? Roer er een scheut warme melk door. Breng op smaak met peper; zout is meestal niet nodig door kaas en ham."
+  ]
+ },
+ {
+  "id": 98,
+  "price_basic": "5–7",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   }
+  ],
+  "steps": [
+   "Meng gehakt, paneermeel, nootmuskaat, zout en peper en rol er met natte handen balletjes van zo groot als een knikker.",
+   "Doe prei, wortel, bloemkool (optioneel), selderij en laurier in de slowcooker. Giet de hete bouillon erover, dan komt alles sneller op temperatuur.",
+   "Laat de balletjes voorzichtig in de soep glijden. Gaar 6–7 uur op LOW of 3–4 uur op HIGH.",
+   "Zet op HIGH, breek de vermicelli erboven in stukjes en roer door. Gaar nog 10–15 minuten met deksel.",
+   "Vis het laurierblad eruit, schep eventueel het vet van het oppervlak en roer de peterselie (optioneel) erdoor. Proef op zout."
+  ]
+ },
+ {
+  "id": 99,
+  "price_basic": "8–9",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bak de kip in olie kort goudbruin en leg hem in de slowcooker. Fruit de uien in dezelfde pan 5 minuten zacht.",
+   "Haal de pan van het vuur en roer paprikapoeder en knoflook erdoor; zo verbrandt de paprika niet en wordt hij niet bitter.",
+   "Roer tomatenpuree en bouillon erdoor en giet over de kip. Leg de paprikareepjes erop.",
+   "Gaar 5–6 uur op LOW of 3 uur op HIGH, tot de kip mals is.",
+   "Klop de bloem door de zure room, roer er wat hete saus door en dan alles door de stoof. Nog 15 minuten op HIGH."
+  ]
+ },
+ {
+  "id": 100,
+  "price_basic": "5–6",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   }
+  ],
+  "steps": [
+   "Bak de spekjes 5 minuten uit en fruit de ui 3 minuten mee. Roer tomatenpuree en kerrie erdoor en bak een minuut.",
+   "Doe dit in de slowcooker met prei, wortel, selderij, aardappel, laurier en bouillon. Voeg de bonen met hun vocht toe.",
+   "Gaar 6–7 uur op LOW of 3–4 uur op HIGH.",
+   "Vis het laurierblad eruit. Pureer de helft van de soep met een staafmixer, zodat hij dik wordt maar nog stukjes heeft.",
+   "Proef en breng op smaak met peper en zout. Lekker met een snee volkorenbrood met kaas."
+  ]
+ },
+ {
+  "id": 101,
+  "price_basic": "4–6",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Fruit ui en knoflook 5 minuten in de olie. Roer kerrie en kurkuma erdoor en bak 1 minuut mee, zo komen de specerijen tot leven.",
+   "Leg de aardappel onderin de slowcooker en de bloemkool erop. Schep de uienmix, tomaten, kokosmelk en bouillon erover.",
+   "Sluit het deksel en gaar 5–6 uur op LOW of 3–4 uur op HIGH, tot de aardappel gaar is.",
+   "Roer de bevroren erwtjes (optioneel) erdoor en laat 15 minuten met het deksel erop meewarmen. Breng op smaak met zout."
+  ]
+ },
+ {
+  "id": 102,
+  "price_basic": "3–5",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Fruit ui en knoflook 5 minuten zacht in de olie, zonder dat ze kleuren.",
+   "Doe ze met bonen, tomaat, puree, suiker, azijn, paprikapoeder en bouillon in de slowcooker en roer goed.",
+   "Sluit het deksel en gaar 5–6 uur op LOW of 3 uur op HIGH, tot de saus dik en glanzend is.",
+   "Te dun? Leg het laatste halfuur het deksel op een kier. Breng op smaak met zout, peper en eventueel wat extra suiker of azijn."
+  ]
+ },
+ {
+  "id": 103,
+  "price_basic": "6–8",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis",
+    "swap": "alleen gewone champignons, geen gemengde paddenstoelen",
+    "saves": "ca. € 2"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Bak de champignons in porties in olie en boter tot ze bruin kleuren; zo krijg je veel smaak en geen waterige saus.",
+   "Fruit uien en knoflook 5 minuten in dezelfde pan. Roer paprikapoeder en puree erdoor en blus af met de bouillon.",
+   "Doe alles in de slowcooker. Sluit het deksel en gaar 5–6 uur op LOW of 3 uur op HIGH.",
+   "Zet op HIGH. Roer de maizena los in 2 el koud water, roer erdoor en laat 15 minuten indikken.",
+   "Zet de slowcooker uit en roer de crème fraîche er pas nu door, zodat hij niet schift. Bestrooi met peterselie (optioneel)."
+  ]
+ },
+ {
+  "id": 104,
+  "price_basic": "5–6",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Fruit ui en knoflook 5 minuten in de olie en 1 el boter. Roer de rijst erdoor en bak 1 minuut tot de korrels glazig zijn.",
+   "Doe de rijst in de slowcooker en giet de hete bouillon erbij. Roer één keer goed door.",
+   "Sluit het deksel en gaar 1½–2 uur op HIGH of 2½–3 uur op LOW, tot de rijst bijna gaar en romig is. Roer halverwege door.",
+   "Roer de doperwten en citroenrasp erdoor en laat 10 minuten met het deksel erop meegaren.",
+   "Zet uit en roer kaas, de rest van de boter en een kneepje citroen erdoor. Laat 2 minuten rusten en serveer direct."
+  ]
+ },
+ {
+  "id": 105,
+  "price_basic": "4–5",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Fruit ui en paprika 5 minuten in de olie. Roer knoflook, komijn en paprikapoeder erdoor en bak 1 minuut mee.",
+   "Doe alles met de tomaten en suiker in de slowcooker. Sluit het deksel en gaar 4–5 uur op LOW of 2–3 uur op HIGH.",
+   "Zet op HIGH en breng de saus op smaak. Maak met een lepel zes kuiltjes en schuif in elk kuiltje een ei.",
+   "Sluit het deksel en gaar 20–30 minuten, tot het eiwit helemaal gestold is. Voor jonge kinderen laat je ook de dooier stevig worden.",
+   "Verkruimel de feta (optioneel) erover, bestrooi met peterselie (optioneel) en schep de eieren met saus voorzichtig op."
+  ]
+ },
+ {
+  "id": 106,
+  "price_basic": "10–12",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis",
+    "swap": "diepvries koolvis of heek in plaats van zalm",
+    "saves": "ca. € 3"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "steps": [
+   "Smelt de boter en fruit prei en knoflook 5 minuten zacht. Leg de krieltjes onderin de slowcooker en schep de prei erop.",
+   "Giet de bouillon erover en breng op smaak. Gaar 5–6 uur op LOW of 3 uur op HIGH, tot de krieltjes zacht zijn.",
+   "Zet op HIGH. Roer room en mosterd door de prei. Leg de zalm erop en bestrooi met zout, peper en citroenrasp.",
+   "Sluit het deksel en gaar 30–40 minuten, tot de zalm net lichtroze is en makkelijk uit elkaar valt.",
+   "Bestrooi met dille (optioneel) en knijp er citroen over. Schep zalm, prei en krieltjes samen op."
+  ]
+ },
+ {
+  "id": 107,
+  "price_basic": "8–10",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis",
+    "swap": "diepvries pangasius in plaats van heek of kabeljauw",
+    "saves": "ca. € 2"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Fruit ui, paprika en knoflook 5 minuten in de olie. Roer paprikapoeder en komijn erdoor en doe alles met de tomaten in de slowcooker.",
+   "Gaar 4–5 uur op LOW of 2–3 uur op HIGH, tot de paprika zacht en de saus dik is.",
+   "Zet op HIGH. Leg de vis in grote stukken op de saus, bestrooi met zout en limoenrasp en gaar 20–30 minuten met het deksel erop.",
+   "Trek de vis met twee vorken in grove stukken en schep hem voorzichtig door de saus. Knijp er limoensap over.",
+   "Verwarm de tortilla's kort in een droge pan. Vul ze met vis, saus en een handje koolsla (optioneel)."
+  ]
+ },
+ {
+  "id": 108,
+  "price_basic": "2–3",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   }
+  ],
+  "serve": [
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Vet de binnenpan royaal in met boter, vooral onderin en langs de randen: havermout bakt anders snel aan.",
+   "Doe havermout, melk, water, appel, rozijnen (optioneel), kaneel en zout in de slowcooker en roer goed door.",
+   "Sluit het deksel en gaar 6–7 uur op LOW, bijvoorbeeld 's nachts, of 2–2½ uur op HIGH.",
+   "Roer de pap goed door en zoet naar smaak met honing of suiker (optioneel). Te dik? Roer er een scheut warme melk door."
+  ]
+ },
+ {
+  "id": 109,
+  "price_basic": "3–4",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [
+   {
+    "role": "extra"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "topping"
+   }
+  ],
+  "steps": [
+   "Schil de appels, snijd ze in partjes en meng ze in de ingevette slowcooker met citroensap, 2 el suiker, kaneel en maizena.",
+   "Wrijf bloem, havermout, de rest van de suiker en de koude boter met je vingertoppen tot grove kruimels. Strooi die gelijkmatig over de appels.",
+   "Leg twee lagen keukenpapier over de opening en zet het deksel erop: zo druppelt de condens niet op je crumble.",
+   "Gaar 2–2½ uur op HIGH of 3½–4 uur op LOW, tot de appels zacht zijn en het sap aan de randen borrelt.",
+   "Voor een krokanter dek: leg het laatste halfuur het deksel op een kier. Serveer lauw met vla of ijs."
+  ]
+ },
+ {
+  "id": 110,
+  "price_basic": "2–3",
+  "ingredients": [
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "extra"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   },
+   {
+    "role": "basis"
+   }
+  ],
+  "serve": [],
+  "steps": [
+   "Verdeel de karamel over de potjes en zet ze naast elkaar op de bodem van de slowcooker.",
+   "Verwarm de melk met de citroenschil tot net onder de kook. Klop eieren, suiker en vanille (optioneel) glad, zonder veel schuim.",
+   "Giet de warme melk al roerend bij de eieren. Zeef het mengsel, verdeel over de potjes en dek elk potje af met folie.",
+   "Giet heet water rond de potjes tot halverwege. Leg keukenpapier onder het deksel en gaar 2½–3 uur op LOW of 1½–2 uur op HIGH.",
+   "Klaar als de rand stevig is en het midden nog licht trilt. Laat afkoelen en minstens 4 uur in de koelkast opstijven."
+  ]
+ }
+]

@@ -4,11 +4,11 @@
 const LANGS = ['nl', 'es', 'en', 'de', 'fr'];
 
 const PATHS = {
-  nl: { recipes: 'recepten', market: 'supermarkt', basics: 'slowcooker-basics', list: 'boodschappenlijst' },
-  es: { recipes: 'recetas', market: 'supermercado', basics: 'consejos-olla-lenta', list: 'lista-de-la-compra' },
-  en: { recipes: 'recipes', market: 'supermarket', basics: 'slow-cooker-basics', list: 'shopping-list' },
-  de: { recipes: 'rezepte', market: 'supermarkt', basics: 'slowcooker-grundlagen', list: 'einkaufsliste' },
-  fr: { recipes: 'recettes', market: 'supermarche', basics: 'bases-mijoteuse', list: 'liste-de-courses' },
+  nl: { recipes: 'recepten', market: 'supermarkt', basics: 'slowcooker-basics', list: 'boodschappenlijst', more: 'meer-uit-de-slowcooker' },
+  es: { recipes: 'recetas', market: 'supermercado', basics: 'consejos-olla-lenta', list: 'lista-de-la-compra', more: 'mas-de-la-olla-lenta' },
+  en: { recipes: 'recipes', market: 'supermarket', basics: 'slow-cooker-basics', list: 'shopping-list', more: 'more-from-the-slow-cooker' },
+  de: { recipes: 'rezepte', market: 'supermarkt', basics: 'slowcooker-grundlagen', list: 'einkaufsliste', more: 'mehr-aus-dem-slowcooker' },
+  fr: { recipes: 'recettes', market: 'supermarche', basics: 'bases-mijoteuse', list: 'liste-de-courses', more: 'plus-de-la-mijoteuse' },
 };
 
 const UI = {
@@ -37,6 +37,8 @@ const UI = {
     proteins: { chicken: 'Kip', beef: 'Rundvlees', pork: 'Varken & chorizo', mince: 'Gehakt', fish: 'Vis', prawns: 'Garnalen', sweet: 'Zoet', veg: 'Vegetarisch' },
     sides: { rice: 'Rijst', pasta: 'Pasta', potato: 'Aardappel', bread: 'Brood', tortilla: "Tortilla's", none: 'Zonder bijgerecht', couscous: 'Couscous' },
     list: {"nav": "Lijst", "title": "Mijn boodschappenlijst", "lead": "Kies een paar gerechten, pas het aantal personen aan en je krijgt één lijst, gesorteerd per afdeling. Vink af in de winkel.", "empty": "Je lijst is nog leeg. Tik bij een recept op ‘Op mijn lijst’ om te beginnen.", "add": "Op mijn lijst", "added": "Op je lijst", "remove": "Verwijder", "persons": "personen", "dishes": "Gerechten", "items": "Boodschappen", "hideDone": "Verberg afgevinkt", "addOwn": "Toevoegen", "addOwnPh": "Zelf iets toevoegen, bv. melk…", "own": "Eigen artikelen", "share": "Delen (Google Keep, WhatsApp…)", "copy": "Kopiëren", "keep": "Naar Google Keep", "whatsapp": "WhatsApp", "download": "Download (.txt)", "print": "Printen", "clear": "Lijst leegmaken", "confirmClear": "Weet je zeker dat je de hele lijst wilt leegmaken?", "keepHelp": "Google Keep: de lijst is gekopieerd. Maak in Keep een nieuwe lijst (☑) en plak; elke regel wordt een vinkje. Op je telefoon kan het direct via ‘Delen’ → Keep.", "copied": "Gekopieerd!", "forRecipes": "voor", "browse": "Bekijk recepten", "count": "{n} gerechten · {m} artikelen", "doneOf": "{d} van {m} afgevinkt", "other": "Overig", "checkAll": "Alles afvinken", "uncheckAll": "Alles terugzetten"},
+    budget: {"label": "Budgetversie", "hint": "Alleen de basis, met budgettips", "from": "vanaf", "extra": "extra", "topping": "topping", "tip": "Budgettip", "optional": "optioneel", "listToggle": "budget"},
+    more: {"nav": "Meer", "title": "Meer uit de slowcooker", "lead": "Brood, yoghurt, bouillon, jam en meer. Geen avondeten, wel handige basics en lekkers die de slowcooker voor je maakt."},
     favAdd: 'Bewaar als favoriet', favRemove: 'Favoriet', onlyFavs: 'Mijn favorieten', noFavs: 'Je hebt nog geen favorieten. Tik op het hartje bij een recept om het te bewaren.',
   },
   es: {
@@ -64,6 +66,8 @@ const UI = {
     proteins: { chicken: 'Pollo', beef: 'Ternera', pork: 'Cerdo y chorizo', mince: 'Carne picada', fish: 'Pescado', prawns: 'Gambas', sweet: 'Dulce', veg: 'Vegetariano' },
     sides: { rice: 'Arroz', pasta: 'Pasta', potato: 'Patata', bread: 'Pan', tortilla: 'Tortillas', none: 'Sin acompañamiento', couscous: 'Cuscús' },
     list: {"nav": "Lista", "title": "Mi lista de la compra", "lead": "Elige unos platos, ajusta las personas y obtén una sola lista ordenada por secciones. Márcala en el súper.", "empty": "Tu lista está vacía. Toca ‘A mi lista’ en una receta para empezar.", "add": "A mi lista", "added": "En tu lista", "remove": "Quitar", "persons": "personas", "dishes": "Platos", "items": "La compra", "hideDone": "Ocultar marcados", "addOwn": "Añadir", "addOwnPh": "Añade algo, p. ej. leche…", "own": "Mis artículos", "share": "Compartir (Google Keep, WhatsApp…)", "copy": "Copiar", "keep": "A Google Keep", "whatsapp": "WhatsApp", "download": "Descargar (.txt)", "print": "Imprimir", "clear": "Vaciar lista", "confirmClear": "¿Seguro que quieres vaciar la lista?", "keepHelp": "Google Keep: la lista está copiada. Crea en Keep una lista nueva (☑) y pega; cada línea será una casilla. En el móvil, usa ‘Compartir’ → Keep.", "copied": "¡Copiado!", "forRecipes": "para", "browse": "Ver recetas", "count": "{n} platos · {m} artículos", "doneOf": "{d} de {m} marcados", "other": "Otros", "checkAll": "Marcar todo", "uncheckAll": "Desmarcar todo"},
+    budget: {"label": "Versión económica", "hint": "Solo lo básico, con trucos para ahorrar", "from": "desde", "extra": "extra", "topping": "para decorar", "tip": "Truco para ahorrar", "optional": "opcional", "listToggle": "económico"},
+    more: {"nav": "Más", "title": "Más de la olla lenta", "lead": "Pan, yogur, caldo, mermelada y más. No son cenas, sino básicos y caprichos que la olla lenta prepara por ti."},
     favAdd: 'Guardar en favoritos', favRemove: 'En favoritos', onlyFavs: 'Mis favoritos', noFavs: 'Aún no tienes favoritos. Toca el corazón de una receta para guardarla.',
   },
   en: {
@@ -91,6 +95,8 @@ const UI = {
     proteins: { chicken: 'Chicken', beef: 'Beef', pork: 'Pork & chorizo', mince: 'Mince', fish: 'Fish', prawns: 'Prawns', sweet: 'Sweet', veg: 'Vegetarian' },
     sides: { rice: 'Rice', pasta: 'Pasta', potato: 'Potato', bread: 'Bread', tortilla: 'Tortillas', none: 'No side', couscous: 'Couscous' },
     list: {"nav": "List", "title": "My shopping list", "lead": "Pick a few dishes, set the number of people and get one list sorted by aisle. Tick it off in the shop.", "empty": "Your list is empty. Tap ‘Add to list’ on a recipe to get started.", "add": "Add to list", "added": "On your list", "remove": "Remove", "persons": "people", "dishes": "Dishes", "items": "Shopping", "hideDone": "Hide ticked items", "addOwn": "Add", "addOwnPh": "Add your own item, e.g. milk…", "own": "My items", "share": "Share (Google Keep, WhatsApp…)", "copy": "Copy", "keep": "To Google Keep", "whatsapp": "WhatsApp", "download": "Download (.txt)", "print": "Print", "clear": "Clear list", "confirmClear": "Are you sure you want to clear the whole list?", "keepHelp": "Google Keep: the list has been copied. Create a new list note (☑) in Keep and paste; each line becomes a checkbox. On your phone use ‘Share’ → Keep.", "copied": "Copied!", "forRecipes": "for", "browse": "Browse recipes", "count": "{n} dishes · {m} items", "doneOf": "{d} of {m} ticked", "other": "Other", "checkAll": "Tick all", "uncheckAll": "Untick all"},
+    budget: {"label": "Budget version", "hint": "Just the essentials, with money-saving tips", "from": "from", "extra": "extra", "topping": "topping", "tip": "Budget tip", "optional": "optional", "listToggle": "budget"},
+    more: {"nav": "More", "title": "More from the slow cooker", "lead": "Bread, yoghurt, stock, jam and more. Not dinners, but handy basics and treats the slow cooker makes for you."},
     favAdd: 'Save as favourite', favRemove: 'Saved', onlyFavs: 'My favourites', noFavs: 'No favourites yet. Tap the heart on a recipe to save it.',
   },
   de: {
@@ -118,6 +124,8 @@ const UI = {
     proteins: { chicken: 'Hähnchen', beef: 'Rind', pork: 'Schwein & Chorizo', mince: 'Hackfleisch', fish: 'Fisch', prawns: 'Garnelen', sweet: 'Süß', veg: 'Vegetarisch' },
     sides: { rice: 'Reis', pasta: 'Nudeln', potato: 'Kartoffeln', bread: 'Brot', tortilla: 'Tortillas', none: 'Ohne Beilage', couscous: 'Couscous' },
     list: {"nav": "Liste", "title": "Meine Einkaufsliste", "lead": "Wähle ein paar Gerichte, stelle die Personenzahl ein und bekomme eine Liste, sortiert nach Abteilung. Abhaken im Laden.", "empty": "Deine Liste ist noch leer. Tippe bei einem Rezept auf ‚Auf meine Liste‘.", "add": "Auf meine Liste", "added": "Auf deiner Liste", "remove": "Entfernen", "persons": "Personen", "dishes": "Gerichte", "items": "Einkauf", "hideDone": "Abgehakte ausblenden", "addOwn": "Hinzufügen", "addOwnPh": "Eigenes hinzufügen, z. B. Milch…", "own": "Eigene Artikel", "share": "Teilen (Google Keep, WhatsApp…)", "copy": "Kopieren", "keep": "Zu Google Keep", "whatsapp": "WhatsApp", "download": "Herunterladen (.txt)", "print": "Drucken", "clear": "Liste leeren", "confirmClear": "Möchtest du die ganze Liste wirklich leeren?", "keepHelp": "Google Keep: Die Liste ist kopiert. Erstelle in Keep eine neue Liste (☑) und füge sie ein; jede Zeile wird ein Häkchen. Am Handy über ‚Teilen‘ → Keep.", "copied": "Kopiert!", "forRecipes": "für", "browse": "Rezepte ansehen", "count": "{n} Gerichte · {m} Artikel", "doneOf": "{d} von {m} abgehakt", "other": "Sonstiges", "checkAll": "Alle abhaken", "uncheckAll": "Alle zurücksetzen"},
+    budget: {"label": "Sparversion", "hint": "Nur das Wesentliche, mit Spartipps", "from": "ab", "extra": "extra", "topping": "Topping", "tip": "Spartipp", "optional": "optional", "listToggle": "Spar"},
+    more: {"nav": "Mehr", "title": "Mehr aus dem Slowcooker", "lead": "Brot, Joghurt, Brühe, Marmelade und mehr. Kein Abendessen, sondern praktische Basics und Leckereien aus dem Slowcooker."},
     favAdd: 'Als Favorit speichern', favRemove: 'Favorit', onlyFavs: 'Meine Favoriten', noFavs: 'Noch keine Favoriten. Tippe bei einem Rezept auf das Herz, um es zu speichern.',
   },
   fr: {
@@ -145,6 +153,8 @@ const UI = {
     proteins: { chicken: 'Poulet', beef: 'Bœuf', pork: 'Porc & chorizo', mince: 'Viande hachée', fish: 'Poisson', prawns: 'Crevettes', sweet: 'Sucré', veg: 'Végétarien' },
     sides: { rice: 'Riz', pasta: 'Pâtes', potato: 'Pommes de terre', bread: 'Pain', tortilla: 'Tortillas', none: 'Sans accompagnement', couscous: 'Semoule' },
     list: {"nav": "Liste", "title": "Ma liste de courses", "lead": "Choisis quelques plats, règle le nombre de personnes et obtiens une seule liste triée par rayon. Coche au supermarché.", "empty": "Ta liste est vide. Touche « Ajouter à ma liste » sur une recette pour commencer.", "add": "Ajouter à ma liste", "added": "Dans ta liste", "remove": "Retirer", "persons": "personnes", "dishes": "Plats", "items": "Courses", "hideDone": "Masquer les articles cochés", "addOwn": "Ajouter", "addOwnPh": "Ajoute un article, p. ex. du lait…", "own": "Mes articles", "share": "Partager (Google Keep, WhatsApp…)", "copy": "Copier", "keep": "Vers Google Keep", "whatsapp": "WhatsApp", "download": "Télécharger (.txt)", "print": "Imprimer", "clear": "Vider la liste", "confirmClear": "Veux-tu vraiment vider toute la liste ?", "keepHelp": "Google Keep : la liste est copiée. Crée une nouvelle liste (☑) dans Keep et colle ; chaque ligne devient une case. Sur mobile, utilise « Partager » → Keep.", "copied": "Copié !", "forRecipes": "pour", "browse": "Voir les recettes", "count": "{n} plats · {m} articles", "doneOf": "{d} sur {m} cochés", "other": "Autres", "checkAll": "Tout cocher", "uncheckAll": "Tout décocher"},
+    budget: {"label": "Version économique", "hint": "L'essentiel seulement, avec des astuces pour économiser", "from": "dès", "extra": "extra", "topping": "garniture", "tip": "Astuce budget", "optional": "facultatif", "listToggle": "éco"},
+    more: {"nav": "Plus", "title": "Plus de la mijoteuse", "lead": "Pain, yaourt, bouillon, confiture et plus encore. Pas des dîners, mais des bases et des douceurs que la mijoteuse prépare pour toi."},
     favAdd: 'Ajouter aux favoris', favRemove: 'Favori', onlyFavs: 'Mes favoris', noFavs: 'Pas encore de favoris. Touche le cœur d’une recette pour la garder.',
   },
 };

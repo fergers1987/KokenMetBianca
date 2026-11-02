@@ -1,0 +1,1006 @@
+[
+  {
+    "id": 111,
+    "title": "Boerenbrood uit de slowcooker",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "1–2",
+    "price_basic": "1–2",
+    "spice": 1,
+    "vega": true,
+    "prep": "25 min + 1 uur rijzen",
+    "low": "–",
+    "high": "2–2½ uur",
+    "intro": "Een rond boerenbrood met een zachte kruim, gebakken zonder oven: ideaal op hete zomerdagen. Dit recept is voor 1 brood van ca. 800 g (ongeveer 16 sneetjes).",
+    "ingredients": [
+      {
+        "q": "500 g",
+        "item": "bloem (bij voorkeur sterke broodbloem)",
+        "es": "harina de fuerza",
+        "role": "basis"
+      },
+      {
+        "q": "7 g",
+        "item": "gedroogde gist (1 zakje)",
+        "es": "levadura seca de panadería",
+        "role": "basis"
+      },
+      {
+        "q": "10 g",
+        "item": "zout (2 tl)",
+        "es": "sal",
+        "role": "basis"
+      },
+      {
+        "q": "1 tl",
+        "item": "suiker",
+        "es": "azúcar",
+        "role": "basis"
+      },
+      {
+        "q": "320 ml",
+        "item": "lauwwarm water",
+        "es": "agua",
+        "role": "basis"
+      },
+      {
+        "q": "2 el",
+        "item": "olijfolie",
+        "es": "aceite de oliva virgen extra",
+        "role": "basis"
+      },
+      {
+        "q": "1 el",
+        "item": "zonnebloempitten of sesamzaad",
+        "es": "pipas de girasol peladas",
+        "role": "extra"
+      },
+      {
+        "q": "",
+        "item": "bakpapier en een schone theedoek",
+        "es": "papel de horno",
+        "role": "basis"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Meng bloem, gist, suiker en zout in een grote kom. Voeg water en olie toe en kneed 10 minuten tot een soepel, licht plakkerig deeg (in de keukenmachine 6 minuten).",
+      "Dek af en laat ongeveer 1 uur rijzen op een warme plek, tot het deeg twee keer zo groot is. Aan de Costa gaat dat in de zomer vaak al in 45 minuten.",
+      "Druk het deeg plat en vouw het tot een strakke bol. Leg de bol op een stuk bakpapier, bestrijk met water en bestrooi met de zaden (optioneel). Snijd een kruis in de bovenkant.",
+      "Til de bol aan het bakpapier in de slowcooker. Leg een schone theedoek strak over de pan, sla de punten om naar boven op het deksel (weg van de warme buitenwand) en zet het deksel erop. Bak 2–2½ uur op HIGH.",
+      "Het brood is klaar als de onderkant goudbruin is en hol klinkt als je erop klopt (kerntemperatuur ca. 95 °C). Wil je een bruine bovenkant: 3–5 minuten onder de grill of in de airfryer op 200 °C. Laat afkoelen op een rooster."
+    ],
+    "tip": "Koop 'levadura seca de panadería' en niet 'levadura química': dat is bakpoeder. De theedoek vangt de condens op, anders druppelt die op het brood en wordt de bovenkant klef. Een ovale pan van 4,5–6 liter werkt het best. Elke slowcooker is anders, dus controleer na 1¾ uur.",
+    "kids": "Laat de kinderen meekneden en kleine bolletjes draaien. Die zijn na ongeveer 1½ uur op HIGH al gaar.",
+    "freeze": true,
+    "guid": "649c4611-27e4-43eb-8c07-28e73fd4b587",
+    "cuisine": "european",
+    "protein": "veg",
+    "side": "none"
+  },
+  {
+    "id": 112,
+    "title": "Bananenbrood uit de slowcooker",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "3–4",
+    "price_basic": "2–3",
+    "spice": 1,
+    "vega": true,
+    "prep": "15 min",
+    "low": "3½–4 uur",
+    "high": "2–2½ uur",
+    "intro": "Smeuïg bananenbrood dat zichzelf bakt terwijl jij naar het strand gaat: de beste bestemming voor overrijpe bananen. Dit recept is voor 1 cake van ongeveer 10 plakken.",
+    "ingredients": [
+      {
+        "q": "3",
+        "item": "zeer rijpe bananen (ca. 350 g zonder schil)",
+        "es": "plátanos maduros",
+        "role": "basis"
+      },
+      {
+        "q": "2",
+        "item": "eieren",
+        "es": "huevos",
+        "role": "basis"
+      },
+      {
+        "q": "75 g",
+        "item": "gesmolten boter (of 70 ml zonnebloemolie)",
+        "es": "mantequilla",
+        "role": "basis"
+      },
+      {
+        "q": "100 g",
+        "item": "bruine suiker",
+        "es": "azúcar moreno",
+        "role": "basis"
+      },
+      {
+        "q": "1 tl",
+        "item": "vanille-extract",
+        "es": "aroma de vainilla",
+        "role": "extra"
+      },
+      {
+        "q": "225 g",
+        "item": "bloem",
+        "es": "harina de trigo",
+        "role": "basis"
+      },
+      {
+        "q": "2 tl",
+        "item": "bakpoeder",
+        "es": "levadura química (gasificante)",
+        "role": "basis"
+      },
+      {
+        "q": "1 snuf",
+        "item": "zout",
+        "es": "sal",
+        "role": "basis"
+      },
+      {
+        "q": "1 tl",
+        "item": "kaneel",
+        "es": "canela molida",
+        "role": "extra"
+      },
+      {
+        "q": "50 g",
+        "item": "walnoten of chocoladedruppels",
+        "es": "nueces peladas",
+        "role": "extra"
+      },
+      {
+        "q": "",
+        "item": "cakeblik (ca. 22 x 10 cm), bakpapier, aluminiumfolie en een theedoek",
+        "es": "molde de cake",
+        "role": "basis"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Kijk eerst of het cakeblik in de slowcooker past met het deksel dicht. Vet het in en bekleed het met bakpapier. Geen blik dat past? Bekleed dan de pan zelf met bakpapier en laat flappen omhoog steken.",
+      "Prak de bananen fijn met een vork. Klop er eieren, gesmolten boter, suiker en vanille (optioneel) door.",
+      "Meng bloem, bakpoeder, zout en kaneel (optioneel) en spatel dit kort door het bananenmengsel. Roer niet langer dan nodig. Schep als laatste de walnoten of chocoladedruppels (optioneel) erdoor.",
+      "Giet het beslag in het blik. Zet het blik in de slowcooker op drie balletjes aluminiumfolie, zodat de warmte er rondom bij kan. Leg een theedoek onder het deksel en bak 2–2½ uur op HIGH of 3½–4 uur op LOW.",
+      "Klaar als een prikker in het midden er schoon uitkomt; controleer vanaf 2 uur. Laat 10 minuten in het blik rusten en daarna afkoelen op een rooster."
+    ],
+    "tip": "Hoe bruiner de bananen, hoe zoeter en smeuïger het brood. Heb je nu geen tijd? Vries rijpe bananen zonder schil in en ontdooi ze later. Het brood blijft van boven lichter van kleur dan uit de oven; dat hoort zo.",
+    "kids": "Laat ze de bananen prakken en zelf de chocoladedruppels erover strooien.",
+    "freeze": true,
+    "guid": "c8e3aea7-a2b0-489a-b9e5-b51b66286d3d",
+    "cuisine": "american",
+    "protein": "sweet",
+    "side": "none"
+  },
+  {
+    "id": 113,
+    "title": "Focaccia met rozemarijn en olijfolie",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "2–3",
+    "price_basic": "1–2",
+    "spice": 1,
+    "vega": true,
+    "prep": "20 min + 2 uur rijzen",
+    "low": "–",
+    "high": "1½–2 uur",
+    "intro": "Luchtige focaccia met een knapperige, olijfolierijke bodem, zonder kneden en zonder oven. Dit recept is voor 1 focaccia, genoeg voor 8 stukken bij een salade of de borrel.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "bloem (bij voorkeur sterke broodbloem)",
+        "es": "harina de fuerza",
+        "role": "basis"
+      },
+      {
+        "q": "5 g",
+        "item": "gedroogde gist (¾ zakje)",
+        "es": "levadura seca de panadería",
+        "role": "basis"
+      },
+      {
+        "q": "8 g",
+        "item": "zout",
+        "es": "sal",
+        "role": "basis"
+      },
+      {
+        "q": "300 ml",
+        "item": "lauwwarm water",
+        "es": "agua",
+        "role": "basis"
+      },
+      {
+        "q": "5 el",
+        "item": "olijfolie (verdeeld)",
+        "es": "aceite de oliva virgen extra",
+        "role": "basis"
+      },
+      {
+        "q": "2 takjes",
+        "item": "verse rozemarijn",
+        "es": "romero fresco",
+        "role": "extra"
+      },
+      {
+        "q": "10",
+        "item": "cherrytomaatjes of zwarte olijven",
+        "es": "tomates cherry",
+        "role": "extra"
+      },
+      {
+        "q": "1 tl",
+        "item": "grof zeezout",
+        "es": "sal en escamas",
+        "role": "topping"
+      },
+      {
+        "q": "",
+        "item": "bakpapier en een schone theedoek",
+        "es": "papel de horno",
+        "role": "basis"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Meng bloem, gist en zout in een kom. Roer het water en 2 el olie erdoor tot een plakkerig deeg; kneden is niet nodig. Dek af en laat 1½ uur rijzen, tot het deeg vol bubbels zit.",
+      "Bekleed de slowcooker met een groot vel bakpapier dat tot halverwege de wand komt en giet er 2 el olie op.",
+      "Stort het deeg op het bakpapier en druk het met geoliede vingers uit tot de randen. Laat het met het deksel erop nog 30 minuten rijzen, met de slowcooker uit.",
+      "Druk met je vingertoppen diepe kuiltjes in het deeg. Sprenkel de laatste olie erover en verdeel de rozemarijn en de tomaatjes (optioneel) erover.",
+      "Leg een theedoek onder het deksel en bak 1½–2 uur op HIGH, tot de onderkant goudbruin en knapperig is. Til de focaccia aan het bakpapier eruit, bestrooi met zeezout (optioneel) en kleur de bovenkant eventueel 3–5 minuten onder de grill."
+    ],
+    "tip": "Het deeg is erg nat; dat zorgt juist voor de grote luchtgaten. Zet de slowcooker tijdens het rijzen niet op WARM: die stand is met ruim 70 °C te heet en doodt de gist. Gedroogde rozemarijn (1 tl) werkt ook.",
+    "kids": "Laat ze met hun vingers de kuiltjes drukken en zelf een gezichtje van tomaatjes en olijven leggen.",
+    "freeze": true,
+    "guid": "a4845565-91ca-4661-9bc8-72a73ada6634",
+    "cuisine": "italian",
+    "protein": "veg",
+    "side": "none"
+  },
+  {
+    "id": 114,
+    "title": "Zelfgemaakte yoghurt",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "2–3",
+    "price_basic": "2–3",
+    "spice": 1,
+    "vega": true,
+    "prep": "10 min",
+    "low": "2½–3 uur",
+    "high": "",
+    "intro": "Romige, milde yoghurt voor een fractie van de winkelprijs. Na het verwarmen rust hij een nacht in een handdoek. Dit recept is voor ca. 2 liter.",
+    "ingredients": [
+      {
+        "q": "2 liter",
+        "item": "volle melk",
+        "es": "leche entera",
+        "role": "basis"
+      },
+      {
+        "q": "125 g",
+        "item": "naturel yoghurt met levende culturen (1 bakje)",
+        "es": "yogur natural",
+        "role": "basis"
+      },
+      {
+        "q": "",
+        "item": "keukenthermometer",
+        "es": "termómetro de cocina",
+        "role": "basis"
+      },
+      {
+        "q": "",
+        "item": "dikke badhanddoek of deken",
+        "es": "toalla de baño",
+        "role": "basis"
+      },
+      {
+        "q": "",
+        "item": "zeef met kaasdoek of een schone theedoek (voor Griekse yoghurt)",
+        "es": "gasa de cocina",
+        "role": "extra"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Giet de melk in de slowcooker, zet het deksel erop en verwarm 2½–3 uur op LOW, tot de melk ca. 82 °C is. Door dit verwarmen wordt de yoghurt dikker.",
+      "Zet de slowcooker uit en haal de stekker uit het stopcontact. Laat de melk met het deksel erop 2½–3 uur afkoelen tot ca. 43 °C (40–45 °C). Meet dit echt: boven 46 °C sterven de bacteriën, onder 38 °C worden ze niet actief.",
+      "Schep een kopje lauwe melk in een kom, roer de yoghurt erdoor tot het glad is en roer dit voorzichtig terug door de melk in de pan.",
+      "Zet het deksel erop, wikkel de hele slowcooker in een dikke badhanddoek of deken en laat hem 8–12 uur ongestoord staan op een tochtvrije plek, met de stekker eruit. Hoe langer, hoe dikker en zuurder.",
+      "Zet de yoghurt minstens 4 uur in de koelkast om op te stijven. Wil je Griekse yoghurt, laat hem dan 1–2 uur uitlekken in een zeef met kaasdoek (optioneel)."
+    ],
+    "tip": "Kies een bakje waar 'yogur' op staat: in Spanje moet dat levende culturen bevatten. Een 'postre lácteo' werkt niet. Bewaar 2 el van je eigen yoghurt als starter voor de volgende keer; na 4–5 rondes neem je weer een vers bakje. In de koelkast blijft hij 1–2 weken goed. In de zomer heb je vaak maar een dunne handdoek nodig.",
+    "kids": "Zet een yoghurtbuffet neer met fruit, granola en een beetje honing (honing pas vanaf 1 jaar).",
+    "freeze": false,
+    "guid": "2702ee8b-37e5-40c6-b52a-7d239de71404",
+    "cuisine": "european",
+    "protein": "veg",
+    "side": "none"
+  },
+  {
+    "id": 115,
+    "title": "Heldere kippenbouillon",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "3–5",
+    "price_basic": "2–4",
+    "spice": 1,
+    "vega": false,
+    "prep": "10 min",
+    "low": "10–12 uur",
+    "high": "5–6 uur",
+    "intro": "Goudgele, rijke bouillon van kippenkarkassen die vanzelf trekt terwijl je slaapt: de basis voor soep, risotto en sauzen. Dit recept is voor ca. 2 liter.",
+    "ingredients": [
+      {
+        "q": "1 kg",
+        "item": "kippenkarkassen of kippenvleugels",
+        "es": "carcasas de pollo",
+        "role": "basis"
+      },
+      {
+        "q": "1",
+        "item": "ui, gehalveerd (met schil, voor de kleur)",
+        "es": "cebolla",
+        "role": "basis"
+      },
+      {
+        "q": "2",
+        "item": "wortels, in grove stukken",
+        "es": "zanahorias",
+        "role": "basis"
+      },
+      {
+        "q": "2 stengels",
+        "item": "bleekselderij",
+        "es": "apio",
+        "role": "basis"
+      },
+      {
+        "q": "3 teentjes",
+        "item": "knoflook, gekneusd",
+        "es": "ajo",
+        "role": "basis"
+      },
+      {
+        "q": "2",
+        "item": "laurierblaadjes",
+        "es": "hojas de laurel",
+        "role": "basis"
+      },
+      {
+        "q": "1 tl",
+        "item": "zwarte peperkorrels",
+        "es": "pimienta negra en grano",
+        "role": "basis"
+      },
+      {
+        "q": "1",
+        "item": "prei, alleen het groen",
+        "es": "puerro",
+        "role": "extra"
+      },
+      {
+        "q": "1 handje",
+        "item": "peterseliestelen",
+        "es": "perejil",
+        "role": "extra"
+      },
+      {
+        "q": "1 el",
+        "item": "azijn",
+        "es": "vinagre de vino",
+        "role": "extra"
+      },
+      {
+        "q": "2,5 liter",
+        "item": "koud water",
+        "es": "agua",
+        "role": "basis"
+      },
+      {
+        "q": "",
+        "item": "zout (pas bij gebruik)",
+        "es": "sal",
+        "role": "basis"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Leg de karkassen of vleugels in de slowcooker met ui, wortel, selderij, knoflook, laurier en peperkorrels. Voeg de prei, peterseliestelen en azijn (optioneel) toe.",
+      "Giet koud water erbij tot alles net onder staat, maar blijf 3 cm onder de rand.",
+      "Sluit het deksel en gaar 10–12 uur op LOW of 5–6 uur op HIGH. Niet roeren, dan blijft de bouillon helder. Schep na het eerste uur eventueel het schuim eraf.",
+      "Schep de botten en groenten eruit en zeef de bouillon door een fijne zeef. Voeg nog geen zout toe; dat doe je pas als je de bouillon gebruikt.",
+      "Verdeel de bouillon over ondiepe bakken en zet hem binnen 2 uur in de koelkast. De volgende dag ligt het vet als een stevige laag bovenop: schep het eraf. In de koelkast 4 dagen houdbaar, in de vriezer 3 maanden."
+    ],
+    "tip": "Bij Mercadona liggen kippenkarkassen ('carcasas de pollo') of een soeppakket ('preparado para caldo') vaak voor een paar euro. Koud wordt de bouillon gelatineachtig; dat is een goed teken. Vries hem in porties van 250 ml of in een ijsblokjesvorm in.",
+    "kids": "Kook er sterretjespasta in of gebruik hem voor een klassiek kippensoepje met balletjes.",
+    "freeze": true,
+    "guid": "0d145839-7275-4b50-8604-fcb0b12d2ea6",
+    "cuisine": "european",
+    "protein": "chicken",
+    "side": "none"
+  },
+  {
+    "id": 116,
+    "title": "Groentebouillon van verse groenten",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "3–4",
+    "price_basic": "2–3",
+    "spice": 1,
+    "vega": true,
+    "prep": "15 min",
+    "low": "8–10 uur",
+    "high": "4–5 uur",
+    "intro": "Een geurige, volle groentebouillon zonder pakjes of blokjes, ook lekker met je verzamelde groenteresten. Dit recept is voor ca. 2 liter.",
+    "ingredients": [
+      {
+        "q": "2",
+        "item": "uien, gehalveerd (met schil)",
+        "es": "cebollas",
+        "role": "basis"
+      },
+      {
+        "q": "3",
+        "item": "wortels, in grove stukken",
+        "es": "zanahorias",
+        "role": "basis"
+      },
+      {
+        "q": "3 stengels",
+        "item": "bleekselderij",
+        "es": "apio",
+        "role": "basis"
+      },
+      {
+        "q": "1",
+        "item": "prei, in stukken",
+        "es": "puerro",
+        "role": "basis"
+      },
+      {
+        "q": "4 teentjes",
+        "item": "knoflook, gekneusd",
+        "es": "ajo",
+        "role": "basis"
+      },
+      {
+        "q": "250 g",
+        "item": "champignons, gehalveerd",
+        "es": "champiñones",
+        "role": "extra"
+      },
+      {
+        "q": "1",
+        "item": "tomaat, gehalveerd",
+        "es": "tomate",
+        "role": "extra"
+      },
+      {
+        "q": "2",
+        "item": "laurierblaadjes",
+        "es": "hojas de laurel",
+        "role": "basis"
+      },
+      {
+        "q": "1 tl",
+        "item": "zwarte peperkorrels",
+        "es": "pimienta negra en grano",
+        "role": "basis"
+      },
+      {
+        "q": "1 bosje",
+        "item": "peterselie en een paar takjes tijm",
+        "es": "perejil",
+        "role": "extra"
+      },
+      {
+        "q": "1 el",
+        "item": "sojasaus",
+        "es": "salsa de soja",
+        "role": "extra"
+      },
+      {
+        "q": "2,5 liter",
+        "item": "koud water",
+        "es": "agua",
+        "role": "basis"
+      },
+      {
+        "q": "",
+        "item": "zout (pas bij gebruik)",
+        "es": "sal",
+        "role": "basis"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Doe ui, wortel, selderij, prei en knoflook in de slowcooker. Voeg de champignons, tomaat en kruiden (optioneel) toe, samen met de laurier en peperkorrels.",
+      "Giet het water erbij en roer de sojasaus (optioneel) erdoor. Laat 3 cm ruimte onder de rand.",
+      "Sluit het deksel en gaar 8–10 uur op LOW of 4–5 uur op HIGH.",
+      "Zeef de bouillon en druk de groenten licht aan. Breng pas op smaak met zout als je de bouillon gebruikt.",
+      "Laat de bouillon snel afkoelen in ondiepe bakken en zet hem in de koelkast (5 dagen houdbaar) of in de vriezer (3 maanden)."
+    ],
+    "tip": "Bewaar een week lang schillen en restjes van ui, wortel, prei, selderij en champignons in een zak in de vriezer en maak er dan bouillon van. Gebruik geen kool, broccoli of aardappelschillen: die maken de bouillon bitter of troebel. Wil je een donkere bouillon, bak de uien dan eerst met het snijvlak naar beneden zwart in een droge pan.",
+    "kids": "Gebruik hem als basis voor een milde groentesoep met vermicelli (fideos).",
+    "freeze": true,
+    "guid": "af65bceb-15c2-4098-a412-63308af4fd9c",
+    "cuisine": "european",
+    "protein": "veg",
+    "side": "none"
+  },
+  {
+    "id": 117,
+    "title": "Ouderwetse appelmoes",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "3–5",
+    "price_basic": "3–4",
+    "spice": 1,
+    "vega": true,
+    "prep": "20 min",
+    "low": "5–6 uur",
+    "high": "3 uur",
+    "intro": "Zachte, frisse appelmoes zoals vroeger, zonder dat er iets aanbrandt. Je bepaalt zelf hoeveel suiker erin gaat. Dit recept is voor ca. 1,2 liter, genoeg voor 6 potjes.",
+    "ingredients": [
+      {
+        "q": "2 kg",
+        "item": "appels, het liefst gemengd (bijv. Golden en Reineta)",
+        "es": "manzanas golden y reineta",
+        "role": "basis"
+      },
+      {
+        "q": "100 ml",
+        "item": "water of appelsap",
+        "es": "zumo de manzana",
+        "role": "basis"
+      },
+      {
+        "q": "1 el",
+        "item": "citroensap",
+        "es": "limón",
+        "role": "basis"
+      },
+      {
+        "q": "2–4 el",
+        "item": "suiker",
+        "es": "azúcar",
+        "role": "extra"
+      },
+      {
+        "q": "1",
+        "item": "kaneelstokje",
+        "es": "canela en rama",
+        "role": "extra"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Schil de appels, verwijder het klokhuis en snijd ze in grove stukken.",
+      "Doe de appels in de slowcooker met het water of appelsap en het citroensap. Leg het kaneelstokje (optioneel) erbij.",
+      "Sluit het deksel en gaar 5–6 uur op LOW of 3 uur op HIGH, tot de appels uit elkaar vallen.",
+      "Haal het kaneelstokje eruit. Stamp de appels grof met een pureestamper of pureer ze glad met een staafmixer. Roer er naar smaak suiker (optioneel) door.",
+      "Laat de appelmoes afkoelen en schep hem in schone potten. In de koelkast 1 week houdbaar, in de vriezer 6 maanden."
+    ],
+    "tip": "Reineta-appels vallen mooi luchtig uit elkaar en zijn lekker fris. Golden is zoeter, dus dan heb je vaak geen suiker nodig. Gebruik je een staafmixer, dan hoef je de appels niet te schillen; de schil geeft een roze kleurtje en extra vezels.",
+    "kids": "Zonder suiker is dit een prima hapje vanaf 6 maanden. Vries kleine porties in een ijsblokjesvorm in.",
+    "freeze": true,
+    "guid": "a9200b4f-43b6-48da-b020-8f91ae964ae9",
+    "cuisine": "dutch",
+    "protein": "sweet",
+    "side": "none"
+  },
+  {
+    "id": 118,
+    "title": "Gekarameliseerde uien",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "3–4",
+    "price_basic": "3–4",
+    "spice": 1,
+    "vega": true,
+    "prep": "20 min",
+    "low": "10–12 uur",
+    "high": "",
+    "intro": "Diep goudbruine, zoete uien zonder een uur aan het fornuis te staan, voor tortilla, burgers, uiensoep of een tosta met geitenkaas. Dit recept is voor ca. 500 g, genoeg voor 2 potten.",
+    "ingredients": [
+      {
+        "q": "2 kg",
+        "item": "uien (8–10 grote), in halve ringen van ½ cm",
+        "es": "cebollas",
+        "role": "basis"
+      },
+      {
+        "q": "50 g",
+        "item": "boter, in blokjes",
+        "es": "mantequilla",
+        "role": "basis"
+      },
+      {
+        "q": "2 el",
+        "item": "olijfolie",
+        "es": "aceite de oliva virgen extra",
+        "role": "basis"
+      },
+      {
+        "q": "1 tl",
+        "item": "zout",
+        "es": "sal",
+        "role": "basis"
+      },
+      {
+        "q": "1 tl",
+        "item": "suiker",
+        "es": "azúcar",
+        "role": "extra"
+      },
+      {
+        "q": "2 takjes",
+        "item": "tijm",
+        "es": "tomillo",
+        "role": "extra"
+      },
+      {
+        "q": "1 el",
+        "item": "sherryazijn of balsamico",
+        "es": "vinagre de Jerez",
+        "role": "extra"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Doe de uien in de slowcooker; de pan mag helemaal vol, want ze slinken enorm. Verdeel boter, olie, zout, suiker en tijm (optioneel) erover en schep alles om.",
+      "Sluit het deksel en gaar 10–12 uur op LOW. Schep halverwege één keer om als je in de buurt bent.",
+      "Zijn de uien zacht maar staat er nog veel vocht in de pan? Leg dan een houten lepel tussen pan en deksel en gaar nog 1–2 uur op HIGH, tot het vocht verdampt is en de uien diep goudbruin en jammy zijn. Roer af en toe.",
+      "Optioneel: roer de sherryazijn erdoor voor een frisse, zoetzure afdronk.",
+      "Laat de uien afkoelen en schep ze in schone potten. In de koelkast 1 week houdbaar. Vries de rest in porties in een ijsblokjesvorm in."
+    ],
+    "tip": "Een snijmachine of de foodprocessor scheelt veel tranen. Zet het raam open: het huis ruikt de hele dag naar uien. Een eetlepel uien door de tortilla de patatas maakt hem meteen 'con cebolla caramelizada'.",
+    "kids": "Meng een schepje door gehakt voor hamburgers: lekker zoet en de ui is onzichtbaar.",
+    "freeze": true,
+    "guid": "661251ce-5211-4354-823e-ac800b0928d2",
+    "cuisine": "french",
+    "protein": "veg",
+    "side": "none"
+  },
+  {
+    "id": 119,
+    "title": "Kikkererwten uit droog met romige hummus",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "3–4",
+    "price_basic": "3–4",
+    "spice": 1,
+    "vega": true,
+    "prep": "15 min",
+    "low": "8–10 uur",
+    "high": "4–5 uur",
+    "intro": "Gedroogde kikkererwten worden in de slowcooker boterzacht en veel smaakvoller dan uit blik, perfect voor de gladste hummus. Dit recept geeft ca. 1,2 kg gare kikkererwten: 300 g gaat in een grote kom hummus, de rest bewaar je.",
+    "ingredients": [
+      {
+        "q": "500 g",
+        "item": "gedroogde kikkererwten",
+        "es": "garbanzos secos",
+        "role": "basis"
+      },
+      {
+        "q": "2 liter",
+        "item": "heet water",
+        "es": "agua",
+        "role": "basis"
+      },
+      {
+        "q": "1 tl",
+        "item": "zuiveringszout",
+        "es": "bicarbonato sódico",
+        "role": "extra"
+      },
+      {
+        "q": "1 blad + 2 teentjes",
+        "item": "laurier en knoflook voor het kookwater",
+        "es": "hojas de laurel",
+        "role": "extra"
+      },
+      {
+        "q": "1 tl",
+        "item": "zout",
+        "es": "sal",
+        "role": "basis"
+      },
+      {
+        "q": "3 el",
+        "item": "tahin (sesampasta)",
+        "es": "tahini (crema de sésamo)",
+        "role": "basis"
+      },
+      {
+        "q": "1",
+        "item": "citroen, het sap",
+        "es": "limón",
+        "role": "basis"
+      },
+      {
+        "q": "1 teentje",
+        "item": "knoflook voor de hummus",
+        "es": "ajo",
+        "role": "basis"
+      },
+      {
+        "q": "1 tl",
+        "item": "gemalen komijn",
+        "es": "comino molido",
+        "role": "basis"
+      },
+      {
+        "q": "3 el",
+        "item": "olijfolie",
+        "es": "aceite de oliva virgen extra",
+        "role": "basis"
+      },
+      {
+        "q": "3–4 el",
+        "item": "ijskoud water",
+        "es": "agua",
+        "role": "basis"
+      },
+      {
+        "q": "",
+        "item": "zoete paprikapoeder en een scheut olie erover",
+        "es": "pimentón dulce",
+        "role": "topping"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Spoel de kikkererwten en haal er eventuele steentjes uit. Weken is niet nodig, maar als je ze 8–12 uur weekt, worden ze sneller en gelijkmatiger gaar.",
+      "Doe de kikkererwten in de slowcooker met heet water; het water moet er 5 cm boven staan. Voeg het zuiveringszout, de laurier en de knoflook (optioneel) toe. Doe nog geen citroen of tomaat erbij: zuur houdt ze hard.",
+      "Sluit het deksel en gaar ongeweekt 8–10 uur op LOW of 4–5 uur op HIGH (geweekt 6–8 uur LOW of 3–4 uur HIGH). Ze zijn klaar als je er makkelijk een tussen je vingers fijndrukt. Roer het zout erdoor en laat ze 15 minuten in het kookvocht staan.",
+      "Voor de hummus draai je 300 g warme kikkererwten met tahin, citroensap, knoflook, komijn, olie, een snuf zout en het ijskoude water 3–4 minuten glad in de blender of met de staafmixer. Proef en voeg eventueel meer citroen of water toe.",
+      "Schep de hummus in een kom en maak hem af met paprikapoeder en een scheut olie (optioneel). Laat de rest van de kikkererwten in het kookvocht afkoelen: in de koelkast 4–5 dagen houdbaar, in porties met wat vocht in de vriezer 3 maanden."
+    ],
+    "tip": "Dit werkt alleen met kikkererwten, linzen en andere veilige peulvruchten. Gedroogde rode kidneybonen nooit rauw in de slowcooker doen: die moeten eerst 10 minuten hard koken, anders kunnen ze je flink ziek maken. Het kookvocht (aquafaba) kun je opkloppen als vervanging voor eiwit. Tahin vind je bij de internationale producten of bij Lidl.",
+    "kids": "Hummus met komkommer- en wortelstengels of pitabrood is een geliefde dip; laat de knoflook voor de kleintjes eventueel weg.",
+    "freeze": true,
+    "guid": "6ba3df8f-aa22-4e37-bf76-49d8c35c49b7",
+    "cuisine": "middle_eastern",
+    "protein": "veg",
+    "side": "none"
+  },
+  {
+    "id": 120,
+    "title": "Gepofte aardappelen uit de slowcooker",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "3–5",
+    "price_basic": "2–3",
+    "spice": 1,
+    "vega": true,
+    "prep": "10 min",
+    "low": "7–8 uur",
+    "high": "4–5 uur",
+    "intro": "Luchtige, romige gepofte aardappelen die klaarstaan als je thuiskomt, zonder dat de oven uren aan staat. Dit recept is voor 4 grote aardappelen, voor 4 personen als lunch of bijgerecht.",
+    "ingredients": [
+      {
+        "q": "4",
+        "item": "grote kruimige aardappelen (ca. 300 g per stuk)",
+        "es": "patatas para asar",
+        "role": "basis"
+      },
+      {
+        "q": "1 el",
+        "item": "olijfolie",
+        "es": "aceite de oliva virgen extra",
+        "role": "basis"
+      },
+      {
+        "q": "1 tl",
+        "item": "grof zout",
+        "es": "sal gruesa",
+        "role": "basis"
+      },
+      {
+        "q": "30 g",
+        "item": "boter",
+        "es": "mantequilla",
+        "role": "basis"
+      },
+      {
+        "q": "100 g",
+        "item": "geraspte kaas",
+        "es": "queso rallado",
+        "role": "extra"
+      },
+      {
+        "q": "4 el",
+        "item": "Griekse yoghurt",
+        "es": "yogur griego",
+        "role": "topping"
+      },
+      {
+        "q": "2",
+        "item": "lente-uitjes, in ringetjes",
+        "es": "cebolletas",
+        "role": "topping"
+      },
+      {
+        "q": "",
+        "item": "bakpapier",
+        "es": "papel de horno",
+        "role": "basis"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Schrob de aardappelen schoon, dep ze droog en prik met een vork rondom 6–8 gaatjes in de schil.",
+      "Wrijf ze in met olie en grof zout. Leg een vel bakpapier op de bodem van de slowcooker en leg de aardappelen er naast elkaar op. Voeg geen water toe.",
+      "Sluit het deksel en gaar 7–8 uur op LOW of 4–5 uur op HIGH, tot een satéprikker zonder weerstand door het midden glijdt.",
+      "Wil je een krokante schil, zet de aardappelen dan nog 10 minuten in de airfryer of de oven op 220 °C.",
+      "Snijd een kruis in de bovenkant, druk de aardappel open en doe er een klontje boter in. Maak af met kaas, yoghurt en lente-ui (optioneel)."
+    ],
+    "tip": "Kies een kruimige soort zoals Agria of Kennebec ('patata para asar' of 'para freír'). Wikkel je ze in aluminiumfolie, dan wordt de schil zachter en blijven ze langer warm op de warmhoudstand. Restjes? Prak ze de volgende dag tot gebakken aardappelkoekjes.",
+    "kids": "Zet een vulbar neer met kaas, maïs, ham en yoghurt, zodat iedereen zijn eigen aardappel vult.",
+    "freeze": false,
+    "guid": "c780a66c-df48-4b6a-97b0-018bd2ce8c40",
+    "cuisine": "british",
+    "protein": "veg",
+    "side": "none"
+  },
+  {
+    "id": 121,
+    "title": "Romige warme chocolademelk",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "4–6",
+    "price_basic": "3–4",
+    "spice": 1,
+    "vega": true,
+    "prep": "10 min",
+    "low": "2–2½ uur",
+    "high": "1–1½ uur",
+    "intro": "Fluweelzachte chocolademelk van echte chocolade, die op de warmhoudstand klaarstaat voor een verjaardag, een koude avond of Driekoningen. Dit recept is voor ca. 1,5 liter, ongeveer 6 bekers.",
+    "ingredients": [
+      {
+        "q": "1,2 liter",
+        "item": "volle melk",
+        "es": "leche entera",
+        "role": "basis"
+      },
+      {
+        "q": "200 ml",
+        "item": "slagroom",
+        "es": "nata para montar",
+        "role": "extra"
+      },
+      {
+        "q": "150 g",
+        "item": "pure chocolade (50–70 %), fijngehakt",
+        "es": "chocolate negro para postres",
+        "role": "basis",
+        "swap": "2 el extra cacao en suiker in plaats van chocolade",
+        "saves": "ca. € 1"
+      },
+      {
+        "q": "3 el",
+        "item": "ongezoet cacaopoeder",
+        "es": "cacao puro en polvo",
+        "role": "basis"
+      },
+      {
+        "q": "60 g",
+        "item": "suiker",
+        "es": "azúcar",
+        "role": "basis"
+      },
+      {
+        "q": "1 snuf",
+        "item": "zout",
+        "es": "sal",
+        "role": "basis"
+      },
+      {
+        "q": "1",
+        "item": "kaneelstokje",
+        "es": "canela en rama",
+        "role": "extra"
+      },
+      {
+        "q": "1 tl",
+        "item": "vanille-extract",
+        "es": "aroma de vainilla",
+        "role": "extra"
+      },
+      {
+        "q": "",
+        "item": "slagroom uit de spuitbus en marshmallows",
+        "es": "nubes",
+        "role": "topping"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Klop in de slowcooker het cacaopoeder, de suiker en het zout met een scheutje melk glad, zodat er geen klontjes in zitten.",
+      "Roer de rest van de melk, de room (optioneel) en de chocolade erdoor en leg het kaneelstokje (optioneel) erbij.",
+      "Sluit het deksel en verwarm 2–2½ uur op LOW of 1–1½ uur op HIGH. Klop na 30 minuten en daarna elk half uur goed door, tot alle chocolade gesmolten is. Laat het niet koken.",
+      "Haal het kaneelstokje eruit en roer de vanille (optioneel) erdoor. Op de warmhoudstand blijft de chocolademelk tot 2 uur lekker; roer af en toe.",
+      "Optioneel: schenk in bekers en maak af met slagroom en marshmallows."
+    ],
+    "tip": "Wil je Spaanse 'chocolate a la taza' om churros in te dopen? Roer 2 el maïzena los in een scheutje koude melk en klop dit in het laatste half uur erdoor: dan wordt hij lekker dik. Ook een reep 'chocolate a la taza' van Valor werkt.",
+    "kids": "Zet een toppingbar neer met marshmallows, hagelslag en slagroom; geef de kleintjes een half bekertje met extra melk.",
+    "freeze": false,
+    "guid": "7e75d4f5-61f9-430c-8514-901139ab42f2",
+    "cuisine": "european",
+    "protein": "sweet",
+    "side": "none"
+  },
+  {
+    "id": 122,
+    "title": "Aardbeienjam met citroen",
+    "chapter": "Meer uit de slowcooker",
+    "kind": "extra",
+    "price": "4–6",
+    "price_basic": "4–5",
+    "spice": 1,
+    "vega": true,
+    "prep": "20 min",
+    "low": "–",
+    "high": "4–5 uur",
+    "intro": "Frisse jam van Huelva-aardbeien, die in de slowcooker zonder spatten en zonder aanbranden langzaam indikt. Dit recept is voor ca. 750 ml, genoeg voor 3 potten van 250 ml.",
+    "ingredients": [
+      {
+        "q": "1 kg",
+        "item": "aardbeien, vers of diepvries",
+        "es": "fresas de Huelva",
+        "role": "basis"
+      },
+      {
+        "q": "500 g",
+        "item": "suiker",
+        "es": "azúcar",
+        "role": "basis"
+      },
+      {
+        "q": "1",
+        "item": "citroen, het sap",
+        "es": "limón",
+        "role": "basis"
+      },
+      {
+        "q": "1",
+        "item": "groene appel, geschild en fijn geraspt (natuurlijke pectine)",
+        "es": "manzana verde",
+        "role": "basis"
+      },
+      {
+        "q": "½ tl",
+        "item": "vanille-extract",
+        "es": "aroma de vainilla",
+        "role": "extra"
+      },
+      {
+        "q": "3",
+        "item": "schone glazen potten met deksel",
+        "es": "tarros de cristal",
+        "role": "basis"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Was de aardbeien, haal het kroontje eraf en halveer ze. Doe ze in de slowcooker met de suiker, het citroensap en de geraspte appel. Roer en laat 30 minuten staan, tot er sap uit de aardbeien trekt.",
+      "Sluit het deksel en verwarm 1 uur op HIGH, tot de suiker helemaal is opgelost. Roer goed door.",
+      "Leg een houten lepel tussen pan en deksel, zodat er vocht kan ontsnappen. Gaar nog 3–4 uur op HIGH en roer elk uur. Prak de aardbeien halverwege fijn met een pureestamper als je een gladdere jam wilt.",
+      "Doe de bordjestest: leg een theelepel jam op een bordje uit de vriezer en wacht 1 minuut. Rimpelt de jam als je er met je vinger tegenaan duwt, dan is hij klaar. Nog te dun? Gaar dan 30–60 minuten langer, of kook hem 3–5 minuten flink door in een pan op het fornuis. Roer de vanille (optioneel) erdoor.",
+      "Spoel de potten om met kokend water en vul ze met de hete jam. Draai de deksels er direct op. Bewaar de jam in de koelkast: zo blijft hij 4–6 weken goed. In de vriezer kan hij 1 jaar."
+    ],
+    "tip": "Een slowcooker komt niet boven de 95 °C, dus de jam wordt iets zachter dan jam uit de pan. De geraspte appel en de bordjestest zorgen voor de binding. Wil je hem gegarandeerd stevig, gebruik dan 'azúcar especial para mermeladas' (geleisuiker). Buiten het seizoen (februari–juni) werken diepvriesaardbeien net zo goed.",
+    "kids": "Op een vers sneetje boerenbrood uit de slowcooker (recept 111) is dit pure verwennerij.",
+    "freeze": true,
+    "guid": "293c4a87-fb57-4f88-bb18-6e7f39aec28f",
+    "cuisine": "european",
+    "protein": "sweet",
+    "side": "none"
+  }
+]

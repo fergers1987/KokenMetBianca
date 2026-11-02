@@ -70,6 +70,10 @@
    "Zoet uit de slowcooker": {
     "tagline": "Toetjes en ontbijt die vanzelf gaan",
     "intro": "Rijstpap, gestoofd fruit en warme toetjes: de slowcooker doet het roeren voor je. Ideaal voor het weekend of een verjaardag."
+   },
+   "Meer uit de slowcooker": {
+    "tagline": "Bakken en basics",
+    "intro": "Brood, yoghurt, bouillon, jam en meer: handige dingen die je de slowcooker rustig laat maken terwijl jij iets anders doet."
    }
   },
   "basics_title": "Slowcooker-basics: zo haal je er alles uit",
@@ -467,7 +471,8 @@
   "Vis & Garnalen",
   "Budgetfavorieten",
   "Vegetarisch",
-  "Zoet uit de slowcooker"
+  "Zoet uit de slowcooker",
+  "Meer uit de slowcooker"
  ],
  "spiceWords": [
   "Mild",
