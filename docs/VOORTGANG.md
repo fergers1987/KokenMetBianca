@@ -16,7 +16,7 @@ Zie ook `docs/AFSPRAKEN.md` voor alle afspraken.
 - **PDF-download:** het hele kookboek in het Nederlands (139 pagina's, stijl A), met een link naar de site en een QR-code.
 
 ## Nog te doen
-1. **Bezoekers meten:** Cloudflare Web Analytics aanzetten (gebruiker, via het dashboard).
+1. ~~**Bezoekers meten:**~~ klaar op 2026-11-02. Cloudflare Web Analytics staat aan, en Cloudflare voegt het script automatisch toe. Je ziet bezoeken en paginaweergaven, geen unieke bezoekers (geen cookies, dus geen cookiebanner nodig). Echte unieke bezoekers zonder cookies kan later met GoatCounter of Umami.
 2. **Contactformulier activeren:** gebouwd en verborgen. De gebruiker doet eerst de Cloudflare-stappen (zie `docs/CONTACTFORMULIER.md`), en daarna koppelt Claude het ontvangstadres en de Turnstile-sleutel.
 3. **Aanmelden bij zoekmachines (gebruiker):** de SEO op de site zelf is af (zie AFSPRAKEN). Wat nog moet:
    - Google Search Console: domein slowcookerspain.com toevoegen (verificatie via Cloudflare gaat automatisch) en `https://slowcookerspain.com/sitemap.xml` indienen.
