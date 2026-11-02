@@ -62,6 +62,18 @@
    "Spar-Favoriten": {
     "tagline": "Viel Geschmack für wenig Geld",
     "intro": "Einfache, nahrhafte Gerichte, die zeigen, dass gutes Essen nicht teuer sein muss. Linsensuppe, Hühnereintopf nach alter Art und Hackfleisch-Gemüse-Eintopf, für 6 € bis 10 € pro Mahlzeit."
+   },
+   "Vegetarisch": {
+    "tagline": "Gemüse in der Hauptrolle",
+    "intro": "Hülsenfrüchte, Gemüse und Getreide, die stundenlang sanft garen, bis sie richtig aromatisch sind. Sättigend genug für die ganze Familie und obendrein günstig."
+   },
+   "Süßes aus dem Slowcooker": {
+    "tagline": "Desserts und Frühstück, die sich wie von selbst machen",
+    "intro": "Milchreis, geschmortes Obst und warme Desserts: Der Slow Cooker übernimmt das Rühren für dich. Ideal fürs Wochenende oder einen Geburtstag."
+   },
+   "Mehr aus dem Slowcooker": {
+    "tagline": "Backen und Basics",
+    "intro": "Brot, Joghurt, Brühe, Marmelade und mehr: praktische Dinge, die du in Ruhe vom Slow Cooker zubereiten lässt, während du dich um andere Dinge kümmerst."
    }
   },
   "basics_title": "Slow-Cooker-Basics: So holst du alles heraus",
@@ -457,7 +469,10 @@
   "Spanisch & Mediterran",
   "Küchen der Welt",
   "Fisch & Garnelen",
-  "Spar-Favoriten"
+  "Spar-Favoriten",
+  "Vegetarisch",
+  "Süßes aus dem Slowcooker",
+  "Mehr aus dem Slowcooker"
  ],
  "spiceWords": [
   "Mild",

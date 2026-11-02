@@ -62,6 +62,18 @@
    "Petits budgets": {
     "tagline": "Beaucoup de saveur pour peu d'argent",
     "intro": "Des plats simples et nourrissants qui prouvent que bien manger ne coûte pas forcément cher. Soupe de lentilles, ragoût de poulet à l'ancienne et mijoté de viande hachée aux légumes, pour 6 € à 10 € par repas."
+   },
+   "Végétarien": {
+    "tagline": "Les légumes en vedette",
+    "intro": "Des légumineuses, des légumes et des céréales qui mijotent doucement pendant des heures jusqu'à être pleins de saveur. Assez copieux pour toute la famille, et en plus bon marché."
+   },
+   "Douceurs à la mijoteuse": {
+    "tagline": "Des desserts et des petits-déjeuners qui se font tout seuls",
+    "intro": "Riz au lait, fruits mijotés et desserts chauds : la mijoteuse remue à ta place. Idéal pour le week-end ou un anniversaire."
+   },
+   "Plus de la mijoteuse": {
+    "tagline": "Pâtisserie et préparations de base",
+    "intro": "Pain, yaourt, bouillon, confiture et plus encore : des choses pratiques que tu laisses la mijoteuse préparer tranquillement pendant que tu t'occupes d'autre chose."
    }
   },
   "basics_title": "Les bases de la mijoteuse : comment en tirer le meilleur",
@@ -457,7 +469,10 @@
   "Espagnol & méditerranéen",
   "Cuisines du monde",
   "Poisson & crevettes",
-  "Petits budgets"
+  "Petits budgets",
+  "Végétarien",
+  "Douceurs à la mijoteuse",
+  "Plus de la mijoteuse"
  ],
  "spiceWords": [
   "Doux",

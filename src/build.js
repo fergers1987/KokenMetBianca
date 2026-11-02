@@ -291,7 +291,7 @@ function recipesPage(L) {
       </label>
     </div>
     </details>
-    <div class="f-foot"><p class="count" id="count" data-tpl="${esc(ui.count('#'))}" aria-live="polite">${ui.count(30)}</p><button type="button" class="linkbtn" id="reset">${ui.f.reset}</button></div>
+    <div class="f-foot"><p class="count" id="count" data-tpl="${esc(ui.count('#'))}" aria-live="polite">${ui.count(D[L].list.length)}</p><button type="button" class="linkbtn" id="reset">${ui.f.reset}</button></div>
   </form>
   <ul class="cards" id="cards">${D[L].list.map(r => card(L, r)).join('')}</ul>
   <p class="none" id="none" hidden data-none="${esc(ui.none)}" data-nofavs="${esc(ui.noFavs)}">${ui.none}</p>

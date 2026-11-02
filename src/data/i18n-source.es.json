@@ -62,6 +62,18 @@
    "Favoritos económicos": {
     "tagline": "Mucho sabor por poco dinero",
     "intro": "Platos sencillos y nutritivos que demuestran que comer bien no tiene por qué ser caro. Sopa de lentejas, guiso de pollo de toda la vida y guiso de carne picada con verduras, de 6 a 10 € por comida."
+   },
+   "Vegetariano": {
+    "tagline": "Las verduras, protagonistas",
+    "intro": "Legumbres, verduras y cereales que se cocinan despacio durante horas hasta quedar llenos de sabor. Contundentes para toda la familia y, encima, económicos."
+   },
+   "Dulces de olla lenta": {
+    "tagline": "Postres y desayunos que se hacen solos",
+    "intro": "Arroz con leche, fruta guisada y postres calientes: la olla lenta remueve por ti. Ideal para el fin de semana o un cumpleaños."
+   },
+   "Más de la olla lenta": {
+    "tagline": "Pan y básicos",
+    "intro": "Pan, yogur, caldo, mermelada y mucho más: cosas prácticas que dejas que la olla lenta prepare con calma mientras tú haces otras cosas."
    }
   },
   "basics_title": "Lo básico de la olla lenta: cómo sacarle el máximo partido",
@@ -457,7 +469,10 @@
   "Español y mediterráneo",
   "Cocina del mundo",
   "Pescado y gambas",
-  "Favoritos económicos"
+  "Favoritos económicos",
+  "Vegetariano",
+  "Dulces de olla lenta",
+  "Más de la olla lenta"
  ],
  "spiceWords": [
   "Suave",
