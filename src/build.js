@@ -52,6 +52,7 @@ const u = {
   basics: L => `/${L}/${PATHS[L].basics}/`,
 };
 const dishImg = id => `/img/dish/${id}.svg`;
+const brand = L => UI[L].brand.join(' ');
 
 // ---------- formatting ----------
 function money(L, v) { const s = L === 'en' ? v.replace(',', '.') : v.replace('.', ','); return ['es', 'de', 'fr'].includes(L) ? `${s} €` : L === 'en' ? `€${s}` : `€ ${s}`; }
@@ -100,7 +101,8 @@ ${alts.map(a => `<link rel="alternate" hreflang="${a.L}" href="${SITE}${a.href}"
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:locale" content="${ui.locale}">
-${SITE ? `<meta property="og:image" content="${SITE}${ogImage || '/img/og.png'}">` : ''}
+<meta property="og:site_name" content="${esc(brand(L))}">
+${SITE ? `<meta property="og:image" content="${SITE}${ogImage || `/img/og-${L}.png`}">` : ''}
 <meta name="theme-color" content="${T.vars.bg}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -112,7 +114,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script
 <a class="skip" href="#main">${ui.skip}</a>
 <header class="site-head">
   <div class="wrap head-in">
-    <a class="brand" href="${u.home(L)}"><span class="b1">Smaakvol</span> <span class="b2">Koken</span></a>
+    <a class="brand" href="${u.home(L)}"><span class="b1">${esc(ui.brand[0])}</span> <span class="b2">${esc(ui.brand[1])}</span></a>
     <nav class="main-nav" aria-label="Menu"><a class="nav-favs" href="${u.recipes(L)}?fav=1" aria-label="${esc(ui.onlyFavs)}">${heart()}<span data-fav-count></span></a>${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('basics', ui.nav.basics)}</nav>
     <nav class="langs" aria-label="${ui.langLabel}">${alts.map(a => `<a href="${a.href}" hreflang="${a.L}" lang="${a.L}"${a.L === L ? ' aria-current="true"' : ''}>${a.L.toUpperCase()}</a>`).join('')}</nav>
   </div>
@@ -123,7 +125,7 @@ ${body}
 <footer class="site-foot">
   <div class="wrap">
     <div class="sprig">${sprig()}</div>
-    <p class="f-title">Smaakvol Koken <span>· ${esc(ui.by)}</span></p>
+    <p class="f-title">${esc(brand(L))} <span>· ${esc(ui.by)}</span></p>
     <p class="f-tag">${esc(D[L].text.content.tagline)}</p>
     <nav class="f-nav">${navItem('home', ui.nav.home)}${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('basics', ui.nav.basics)}</nav>
     <p class="f-small">${esc(ui.footer)} · ${alts.map(a => `<a href="${a.href}" lang="${a.L}">${UI[a.L].langName}</a>`).join(' · ')}</p>
@@ -182,7 +184,7 @@ function home(L) {
   <div class="wrap hero-in">
     <div class="hero-text">
       <p class="kicker">${esc(c.cover_kicker)}</p>
-      <h1>Smaakvol<br><span>Koken</span></h1>
+      <h1>${esc(ui.brand[0])}<br><span>${esc(ui.brand[1])}</span></h1>
       <p class="by">${esc(ui.by)}</p>
       <p class="lead">${esc(c.site_intro || c.cover_subtitle)}</p>
       <ul class="badges">${c.cover_badges.map(b => `<li>${esc(b)}</li>`).join('')}</ul>
@@ -218,7 +220,7 @@ function home(L) {
   </div>
   <ul class="chain-chips">${MARKETS.slice(0, 10).map(m => `<li>${esc(m.name)}</li>`).join('')}</ul>
 </section>`;
-  return layout(L, { title: `Smaakvol Koken – ${c.cover_kicker}`, desc: c.site_intro || c.back_cover_blurb, body, key: 'home' });
+  return layout(L, { title: `${brand(L)} – ${c.cover_kicker}`, desc: c.site_intro || c.back_cover_blurb, body, key: 'home' });
 }
 
 function recipesPage(L) {
@@ -271,7 +273,7 @@ function recipesPage(L) {
   <ul class="cards" id="cards">${D[L].list.map(r => card(L, r)).join('')}</ul>
   <p class="none" id="none" hidden data-none="${esc(ui.none)}" data-nofavs="${esc(ui.noFavs)}">${ui.none}</p>
 </section>`;
-  return layout(L, { title: `${ui.nav.recipes} – Smaakvol Koken`, desc: tx.content.back_cover_blurb, body, key: 'recipes' });
+  return layout(L, { title: `${ui.nav.recipes} – ${brand(L)}`, desc: tx.content.back_cover_blurb, body, key: 'recipes' });
 }
 
 function buyChips(L, es) {
@@ -341,7 +343,7 @@ function recipePage(L, r) {
     </nav>
   </div>
 </article>`;
-  return layout(L, { title: `${r.title} – Smaakvol Koken`, desc: r.intro, body, key: 'recipe', id: r.id, jsonld });
+  return layout(L, { title: `${r.title} – ${brand(L)}`, desc: r.intro, body, key: 'recipe', id: r.id, jsonld });
 }
 
 function marketPage(L) {
@@ -379,7 +381,7 @@ function marketPage(L) {
   </div>
   <p class="small-note">${ui.assortment}</p>
 </section>`;
-  return layout(L, { title: `${ui.marketTitle} – Smaakvol Koken`, desc: ui.marketLead, body, key: 'market' });
+  return layout(L, { title: `${ui.marketTitle} – ${brand(L)}`, desc: ui.marketLead, body, key: 'market' });
 }
 
 function basicsPage(L) {
@@ -391,24 +393,24 @@ function basicsPage(L) {
   <ol class="basics">${tx.basics.map((b, i) => `<li><span class="bn">${i + 1}</span><div><h3>${esc(b[0])}</h3><p>${nb(b[1])}</p></div></li>`).join('')}</ol>
   <div class="basics-art"><img src="${dishImg(29)}" alt="" loading="lazy" width="600" height="600"></div>
 </section>`;
-  return layout(L, { title: `${ui.basicsTitle} – Smaakvol Koken`, desc: tx.basics.slice(0, 3).map(b => b[1]).join(' '), body, key: 'basics' });
+  return layout(L, { title: `${ui.basicsTitle} – ${brand(L)}`, desc: tx.basics.slice(0, 3).map(b => b[1]).join(' '), body, key: 'basics' });
 }
 
 function rootPage() {
   return `<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Smaakvol Koken – 30 slowcookerrecepten</title>
+<title>${brand('nl')} · ${LANGS.filter(x => x !== 'nl').map(brand).join(' · ')}</title>
 ${LANGS.map(L => `<link rel="alternate" hreflang="${L}" href="${SITE}/${L}/">`).join('')}<link rel="alternate" hreflang="x-default" href="${SITE}/nl/">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link href="${T.fonts}" rel="stylesheet"><link rel="stylesheet" href="/css/site.css">
 <script>(function(){try{var s=localStorage.getItem('lang');var l=s||((navigator.languages||[navigator.language||'nl'])[0]||'nl').slice(0,2).toLowerCase();if(['nl','es','en','de','fr'].indexOf(l)<0)l=/^(ca|eu|gl)$/.test(l)?'es':'en';location.replace('/'+l+'/');}catch(e){location.replace('/nl/');}})();</script>
 </head><body class="theme-${T.key} page-root"><main class="root-choose wrap">
-<img src="/img/hero.svg" alt="" width="260" height="260"><h1>Smaakvol <span>Koken</span></h1>
+<img src="/img/hero.svg" alt="" width="260" height="260"><h1>${esc(UI.nl.brand[0])} <span>${esc(UI.nl.brand[1])}</span></h1>
 <p>${LANGS.map(L => `<a class="btn ghost" href="/${L}/" lang="${L}">${UI[L].langName}</a>`).join(' ')}</p></main></body></html>`;
 }
 
 function notFound() {
   const L = 'nl';
   const body = `<section class="wrap sec nf"><h1 class="page-title">404</h1>${LANGS.map(x => `<p lang="${x}">${UI[x].notFound} <a href="${u.recipes(x)}">${UI[x].notFoundCta}</a></p>`).join('')}</section>`;
-  return layout(L, { title: '404 – Smaakvol Koken', desc: '', body, key: 'home' }).replace('<html lang="nl">', '<html lang="nl">');
+  return layout(L, { title: `404 – ${brand(L)}`, desc: '', body, key: 'home' }).replace('<html lang="nl">', '<html lang="nl">');
 }
 
 // ---------- assets ----------

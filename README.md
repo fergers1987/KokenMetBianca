@@ -46,11 +46,11 @@ Elke push naar `main` bouwt en publiceert de site automatisch opnieuw.
 | `src/data/i18n-source.{taal}.json` | Teksten: voorwoord, hoofdstukken, basics, uitleg van de labels |
 | `src/data/stores.json` | Per Spaanse ingrediëntnaam: winkels, afdeling en tip in 5 talen |
 | `src/data/supermarkets.json` | De supermarktgids (ketens en markten aan de Costa del Sol) |
-| `src/i18n.js` | Interfaceteksten en URL-namen per taal |
+| `src/i18n.js` | Interfaceteksten, URL-namen en de merknaam per taal (`brand`: Smaakvol Koken, Cocina con Sabor, Flavourful Cooking, Genussvoll Kochen, Cuisine Savoureuse) |
 | `src/themes.js` | De 4 stijlen uit de kookboek-PDF's; `site.config.json` → `"theme": "a"` |
 | `src/art.js`, `src/scenes.js` | Generator van de illustraties en de scène per gerecht |
 | `src/build.js`, `src/site.css`, `src/site.js` | De sitegenerator, de stijl en de interactie |
-| `public/` | Wordt 1-op-1 gekopieerd (o.a. `_headers`, `img/og.png`) |
+| `public/` | Wordt 1-op-1 gekopieerd (o.a. `_headers`, deelafbeeldingen `img/og-<taal>.png`; opnieuw maken met `python tools/og.py`) |
 | `tools/pdf/` | Bouwt de 4 kookboek-PDF's (`python tools/pdf/render.py a --pdf uit.pdf`; vereist Playwright) |
 
 ## Een recept toevoegen of aanpassen
