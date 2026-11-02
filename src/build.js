@@ -14,6 +14,9 @@ const OUT = path.join(ROOT, 'dist');
 const CONFIG = JSON.parse(fs.readFileSync(path.join(ROOT, 'site.config.json'), 'utf8'));
 const T = THEMES[CONFIG.theme || 'a'];
 const SITE = (CONFIG.siteUrl || '').replace(/\/$/, '');
+// contactformulier: de pagina wordt altijd gebouwd, maar staat pas in menu en sitemap als "contact": true
+const CONTACT_LIVE = CONFIG.contact === true;
+const TURNSTILE_KEY = CONFIG.turnstileSiteKey || '1x00000000000000000000AA';  // terugval: testsleutel van Cloudflare
 // Versiecodes voor cache-busting: veranderen zodra de inhoud verandert.
 const V = { css: '', js: '', data: '' };
 const hash = s => require('crypto').createHash('sha1').update(s).digest('hex').slice(0, 10);
@@ -66,6 +69,7 @@ const u = {
   basics: L => `/${L}/${PATHS[L].basics}/`,
   list: L => `/${L}/${PATHS[L].list}/`,
   more: L => `/${L}/${PATHS[L].more}/`,
+  contact: L => `/${L}/${PATHS[L].contact}/`,
 };
 const dishImg = id => `/img/dish/${id}.svg`;
 const brand = L => UI[L].brand.join(' ');
@@ -108,7 +112,7 @@ function tags(L, r, compact = false) {
 function alternates(key, id) {
   return LANGS.map(L => { const href = key === 'recipe' ? u.recipe(L, id) : u[key](L); return { L, href }; });
 }
-function layout(L, { title, desc, body, key, id, jsonld, ogImage }) {
+function layout(L, { title, desc, body, key, id, jsonld, ogImage, noindex, head }) {
   const ui = UI[L];
   const alts = alternates(key, id);
   const canonical = alts.find(a => a.L === L).href;
@@ -120,7 +124,7 @@ function layout(L, { title, desc, body, key, id, jsonld, ogImage }) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
-${SITE ? `<link rel="canonical" href="${SITE}${canonical}">` : ''}
+${noindex ? '<meta name="robots" content="noindex">\n' : ''}${SITE ? `<link rel="canonical" href="${SITE}${canonical}">` : ''}
 ${alts.map(a => `<link rel="alternate" hreflang="${a.L}" href="${SITE}${a.href}">`).join('\n')}
 <link rel="alternate" hreflang="x-default" href="${SITE}${alts.find(a => a.L === 'nl').href}">
 <meta property="og:type" content="${key === 'recipe' ? 'article' : 'website'}">
@@ -134,6 +138,7 @@ ${SITE ? `<meta property="og:image" content="${SITE}${ogImage || `/img/og-${L}.p
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="${T.fonts}" rel="stylesheet">
 <link rel="stylesheet" href="/css/site.css?v=${V.css}">
+${head || ''}
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ''}
 </head>
 <body class="theme-${T.key} page-${key}">
@@ -153,7 +158,7 @@ ${body}
     <div class="sprig">${sprig()}</div>
     <p class="f-title">${esc(brand(L))} <span>· ${esc(ui.by)}</span></p>
     <p class="f-tag">${esc(D[L].text.content.tagline)}</p>
-    <nav class="f-nav">${navItem('home', ui.nav.home)}${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('more', ui.more.title)}${navItem('basics', ui.nav.basics)}${navItem('list', ui.list.title)}${PDF ? `<a href="${PDF.url}" download>${esc(ui.pr.dlBtn)}</a>` : ''}</nav>
+    <nav class="f-nav">${navItem('home', ui.nav.home)}${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('more', ui.more.title)}${navItem('basics', ui.nav.basics)}${navItem('list', ui.list.title)}${CONTACT_LIVE ? navItem('contact', ui.contact.nav) : ''}${PDF ? `<a href="${PDF.url}" download>${esc(ui.pr.dlBtn)}</a>` : ''}</nav>
     <p class="f-small">${esc(ui.footer)} · ${alts.map(a => `<a href="${a.href}" lang="${a.L}">${UI[a.L].langName}</a>`).join(' · ')}</p>
   </div>
 </footer>
@@ -504,6 +509,30 @@ function listPage(L) {
   return layout(L, { title: `${l.title} – ${brand(L)}`, desc: l.lead, body, key: 'list' });
 }
 
+function contactPage(L) {
+  const c = UI[L].contact;
+  const strings = { sending: c.sending, send: c.send, ok: c.ok, bad: c.bad, bot: c.bot, err: c.err };
+  const body = `
+<section class="wrap sec contact">
+  <p class="eyebrow">${esc(brand(L))}</p>
+  <h1 class="page-title">${esc(c.title)}</h1>
+  <p class="lead narrow">${esc(c.lead)}</p>
+  <form class="contact-form" id="contactForm" method="post" action="/api/contact" data-strings="${esc(JSON.stringify(strings))}">
+    <input type="hidden" name="lang" value="${L}">
+    <label class="cf-field"><span>${esc(c.name)}</span><input type="text" name="name" required maxlength="100" autocomplete="name"></label>
+    <label class="cf-field"><span>${esc(c.email)}</span><input type="email" name="email" required maxlength="200" autocomplete="email"></label>
+    <label class="cf-field"><span>${esc(c.message)}</span><textarea name="message" required maxlength="5000" rows="7"></textarea></label>
+    <label class="cf-hp" aria-hidden="true">Website<input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+    <div class="cf-turnstile" data-sitekey="${esc(TURNSTILE_KEY)}" data-language="${L}"></div>
+    <p class="cf-status" id="contactStatus" role="status" aria-live="polite"></p>
+    <button type="submit" class="btn">${esc(c.send)}</button>
+    <p class="cf-privacy">${esc(c.privacy)}</p>
+  </form>
+</section>`;
+  return layout(L, { title: `${c.title} – ${brand(L)}`, desc: c.lead, body, key: 'contact', noindex: !CONTACT_LIVE,
+    head: '<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>' });
+}
+
 function rootPage() {
   return `<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${brand('nl')} · ${LANGS.filter(x => x !== 'nl').map(brand).join(' · ')}</title>
@@ -574,6 +603,7 @@ function build() {
     writeFile(`data/${L}.json`, dataJson(L));
     D[L].all.forEach(r => put(u.recipe(L, r.id), recipePage(L, r)));
     put(u.more(L), morePage(L));
+    if (CONTACT_LIVE) put(u.contact(L), contactPage(L)); else writeFile(path.join(u.contact(L), 'index.html'), contactPage(L));  // verborgen: niet in de sitemap
   }
   if (SITE) {
     writeFile('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(x => `<url><loc>${SITE}${x}</loc></url>`).join('')}</urlset>`);

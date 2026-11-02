@@ -355,4 +355,22 @@
     fetch(shop.getAttribute('data-src')).then(function (r) { return r.json(); }).then(function (d) { DATA = d; render(); })
       .catch(function () { $$('slEmpty').hidden = false; });
   }
+
+  // ---------- contactformulier: versturen zonder de pagina te verlaten ----------
+  var cform = document.getElementById('contactForm');
+  if (cform) {
+    var CS = JSON.parse(cform.getAttribute('data-strings')), cstat = document.getElementById('contactStatus'), cbtn = cform.querySelector('button[type=submit]');
+    var cshow = function (code) { cstat.textContent = CS[code] || CS.err; cstat.className = 'cf-status ' + (code === 'ok' ? 'ok' : 'bad'); };
+    var q = (location.search.match(/[?&]status=(\w+)/) || [])[1];
+    if (q) cshow(q);
+    cform.addEventListener('submit', function (e) {
+      e.preventDefault();
+      cbtn.disabled = true; cbtn.textContent = CS.sending; cstat.textContent = ''; cstat.className = 'cf-status';
+      fetch(cform.action, { method: 'POST', body: new FormData(cform), headers: { 'X-Requested-With': 'fetch' } })
+        .then(function (r) { return r.json(); })
+        .then(function (d) { cshow(d.code); if (d.ok) { cform.reset(); cform.classList.add('sent'); } })
+        .catch(function () { cshow('err'); })
+        .then(function () { cbtn.disabled = false; cbtn.textContent = CS.send; if (window.turnstile) try { window.turnstile.reset(); } catch (x) { /* ignore */ } });
+    });
+  }
 })();

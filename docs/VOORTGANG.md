@@ -17,6 +17,8 @@ Zie ook `docs/AFSPRAKEN.md` voor alle afspraken.
 
 ## Nog te doen
 1. **Bezoekers meten:** Cloudflare Web Analytics aanzetten (gebruiker, via het dashboard).
+2. **Contactformulier activeren:** gebouwd en verborgen. De gebruiker doet eerst de Cloudflare-stappen (zie `docs/CONTACTFORMULIER.md`), en daarna koppelt Claude het ontvangstadres en de Turnstile-sleutel.
+3. **SEO en vindbaarheid via AI:** de bestaande SEO nalopen en aanvullen.
 
 ## Mogelijke vervolgstappen (nog niet afgesproken)
 - De PDF ook in ES, EN, DE en FR.

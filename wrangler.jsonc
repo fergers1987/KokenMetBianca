@@ -1,12 +1,21 @@
-// Cloudflare Workers (static assets). Workers Builds: build command `npm run build`, deploy command `npx wrangler deploy`.
+// Cloudflare Workers (static assets + contactformulier). Workers Builds: build command `npm run build`, deploy command `npx wrangler deploy`.
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "kokenmetbianca",
+  "main": "worker/index.js",
   "compatibility_date": "2026-10-01",
   "build": { "command": "npm run build" },
   "assets": {
     "directory": "./dist",
+    "binding": "ASSETS",
     "html_handling": "auto-trailing-slash",
-    "not_found_handling": "404-page"
+    "not_found_handling": "404-page",
+    "run_worker_first": ["/api/*"]
+  },
+  "vars": {
+    "MAIL_FROM": "formulier@slowcookerspain.com"
   }
+  // Contactformulier activeren (zie docs/CONTACTFORMULIER.md), pas nadat Email Routing aanstaat en het ontvangstadres is bevestigd:
+  // "send_email": [{ "name": "CONTACT_MAIL", "destination_address": "<ontvangstadres>" }],
+  // en bij "vars": "MAIL_TO": "<ontvangstadres>". Het geheim TURNSTILE_SECRET zet je in het dashboard.
 }

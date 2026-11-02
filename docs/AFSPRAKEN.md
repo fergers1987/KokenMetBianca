@@ -51,6 +51,11 @@ Dit bestand legt vast wat we hebben afgesproken. Lees het voordat je verder bouw
   - Uitgangspunt: vervangen bespaart meer dan weglaten. De goedkope smaakmakers blijven basis.
 - **Afgesproken 2026-11-02, "Meer uit de slowcooker":** een aparte sectie met 12 extra's, zoals brood, yoghurt, bouillon, appelmoes en jam (ids 111–122, `kind: "extra"`). Ze staan **niet** in het gewone receptenoverzicht ("wat eten we vanavond?"), maar hebben een eigen menu-item. Ze gebruiken wel dezelfde receptpagina, favorieten en boodschappenlijst.
 
+## Contactformulier (afgesproken 2026-11-02)
+- Een eigen formulier via de Worker, Cloudflare Email Routing en Turnstile, zonder externe dienst. Er wordt niets opgeslagen.
+- Het moet **onzichtbaar blijven** tot de gebruiker anders zegt: `noindex`, niet in de sitemap, geen links (`site.config.json` → `"contact": true` zet het aan).
+- De gebruiker doet de Cloudflare-configuratie later zelf. De mailkoppeling staat pas in `wrangler.jsonc` als het ontvangstadres is bevestigd, anders mislukt de uitrol. Zie `docs/CONTACTFORMULIER.md`.
+
 ## Volgorde van werken (afgesproken)
 1. Eerst indelen in basis, extra en topping (en de extra's schrijven), **dan pas vertalen**, zodat we niet twee keer vertalen.
 2. Werk in batches. Na elke batch: bouwen, controleren (geen dode links, geldige SVG's) en dan **commit + push**.
