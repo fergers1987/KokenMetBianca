@@ -1,0 +1,890 @@
+[
+ {
+  "id": 71,
+  "title": "Magro con tomate: varkensvlees in tomatensaus",
+  "chapter": "Spaans & Mediterraan",
+  "price": "9–11",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "7–8 uur",
+  "high": "4–5 uur",
+  "intro": "Mals varkensvlees in een zoete, dikke tomatensaus: hét Andalusische huisgerecht, dat elke abuela op haar eigen manier maakt.",
+  "ingredients": [
+   {
+    "q": "800 g",
+    "item": "varkensschouder, in blokjes van 3 cm",
+    "es": "magro de cerdo (paleta en tacos)"
+   },
+   {
+    "q": "1 el",
+    "item": "bloem",
+    "es": "harina de trigo"
+   },
+   {
+    "q": "2 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "1",
+    "item": "ui, fijngesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "1",
+    "item": "groene puntpaprika, in blokjes",
+    "es": "pimiento verde italiano"
+   },
+   {
+    "q": "3 tenen",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "800 g",
+    "item": "gezeefde tomaten",
+    "es": "tomate triturado"
+   },
+   {
+    "q": "100 ml",
+    "item": "droge witte wijn (of bouillon)",
+    "es": "vino blanco"
+   },
+   {
+    "q": "1 tl",
+    "item": "suiker",
+    "es": "azúcar"
+   },
+   {
+    "q": "1 tl",
+    "item": "gedroogde oregano",
+    "es": "orégano"
+   },
+   {
+    "q": "2",
+    "item": "laurierblaadjes",
+    "es": "hojas de laurel"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "ovenfrietjes (patatas fritas)",
+   "stokbrood"
+  ],
+  "steps": [
+   "Bestuif het vlees met bloem, zout en peper en bak het in porties rondom bruin in olijfolie. Leg het in de slowcooker.",
+   "Fruit ui, paprika en knoflook 5 minuten in dezelfde pan. Blus af met wijn en laat 2 minuten inkoken.",
+   "Roer tomaat, suiker, oregano en laurier erdoor en giet dit over het vlees; vul hooguit driekwart. Gaar 7–8 uur op LOW of 4–5 uur op HIGH.",
+   "Is de saus te dun? Leg het deksel het laatste halfuur op een kier. Vis de laurier eruit en proef op zout en peper.",
+   "Serveer met frietjes of brood. Guindilla of pimentón picante zet je aan tafel neer voor wie pit wil."
+  ],
+  "tip": "Vraag bij de slager om 'magro' of 'aguja': schoudervlees met wat vet blijft sappig. Haas of lende wordt in de slowcooker juist droog.",
+  "kids": "Frietjes erbij en een zoete tomatensaus om in te dippen: gegarandeerd lege borden.",
+  "freeze": true,
+  "guid": "107712af-6c27-49a2-a53b-66353d22ae2e",
+  "cuisine": "spanish",
+  "protein": "pork",
+  "side": "potato"
+ },
+ {
+  "id": 72,
+  "title": "Kip chilindrón met paprika en serranoham",
+  "chapter": "Spaans & Mediterraan",
+  "price": "9–11",
+  "spice": 1,
+  "vega": false,
+  "prep": "25 min",
+  "low": "5–6 uur",
+  "high": "3–4 uur",
+  "intro": "Kip gestoofd met zoete paprika, tomaat en een vleugje serranoham: een kleurrijke klassieker uit Aragón die vanzelf mild is.",
+  "ingredients": [
+   {
+    "q": "800 g",
+    "item": "kippendijfilet",
+    "es": "contramuslos de pollo deshuesados"
+   },
+   {
+    "q": "2 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "75 g",
+    "item": "serranohamblokjes",
+    "es": "taquitos de jamón serrano"
+   },
+   {
+    "q": "1",
+    "item": "ui, in reepjes",
+    "es": "cebolla"
+   },
+   {
+    "q": "2",
+    "item": "rode paprika's, in reepjes",
+    "es": "pimientos rojos"
+   },
+   {
+    "q": "1",
+    "item": "groene paprika, in reepjes",
+    "es": "pimiento verde"
+   },
+   {
+    "q": "3 tenen",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "400 g",
+    "item": "gezeefde tomaten",
+    "es": "tomate triturado"
+   },
+   {
+    "q": "1 tl",
+    "item": "zoete paprikapoeder",
+    "es": "pimentón dulce"
+   },
+   {
+    "q": "100 ml",
+    "item": "droge witte wijn",
+    "es": "vino blanco"
+   },
+   {
+    "q": "1",
+    "item": "laurierblad",
+    "es": "hoja de laurel"
+   },
+   {
+    "q": "",
+    "item": "verse peterselie, peper en zout",
+    "es": "perejil fresco"
+   }
+  ],
+  "serve": [
+   "witte rijst",
+   "stokbrood"
+  ],
+  "steps": [
+   "Bestrooi de kip met zout en peper en bak hem in olijfolie aan beide kanten goudbruin. Leg hem in de slowcooker.",
+   "Bak de ham 2 minuten in dezelfde pan. Voeg ui, paprika en knoflook toe en fruit 6 minuten tot ze zacht worden.",
+   "Roer het paprikapoeder er van het vuur af door, blus af met wijn, laat 2 minuten inkoken en voeg de tomaat toe.",
+   "Giet dit over de kip en leg de laurier erbij. Gaar 5–6 uur op LOW of 3–4 uur op HIGH, tot de kip 75 °C haalt.",
+   "Vis de laurier eruit en proef voorzichtig op zout: de ham is al zout. Strooi er peterselie over."
+  ],
+  "tip": "Chilindrón draait om zoete paprika. Extra diepe smaak? Roer er 1 el ñora-pasta (carne de pimiento choricero) door; die is rokerig maar niet pittig.",
+  "kids": "Trek de kip in draadjes en meng hem met rijst en de zoete paprikasaus.",
+  "freeze": true,
+  "guid": "59971145-fa3a-4a06-9c3e-8ee7229611a2",
+  "cuisine": "spanish",
+  "protein": "chicken",
+  "side": "rice"
+ },
+ {
+  "id": 73,
+  "title": "Cordobese ossenstaartstoof (rabo de toro)",
+  "chapter": "Spaans & Mediterraan",
+  "price": "15–18",
+  "spice": 1,
+  "vega": false,
+  "prep": "30 min",
+  "low": "9–10 uur",
+  "high": "6–7 uur",
+  "intro": "Ossenstaart die een hele dag in rode wijn stooft tot het vlees van het bot glijdt: het trotse sudderstuk van Córdoba.",
+  "ingredients": [
+   {
+    "q": "1,5 kg",
+    "item": "ossenstaart, in stukken",
+    "es": "rabo de ternera troceado"
+   },
+   {
+    "q": "1 el",
+    "item": "bloem",
+    "es": "harina de trigo"
+   },
+   {
+    "q": "2 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "2",
+    "item": "uien, in stukken",
+    "es": "cebollas"
+   },
+   {
+    "q": "2",
+    "item": "wortels, in stukken",
+    "es": "zanahorias"
+   },
+   {
+    "q": "1",
+    "item": "prei, in ringen",
+    "es": "puerro"
+   },
+   {
+    "q": "1",
+    "item": "rode paprika, in stukken",
+    "es": "pimiento rojo"
+   },
+   {
+    "q": "2 tenen",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "250 ml",
+    "item": "rode wijn",
+    "es": "vino tinto"
+   },
+   {
+    "q": "300 ml",
+    "item": "runderbouillon",
+    "es": "caldo de carne"
+   },
+   {
+    "q": "2 + 1 tl",
+    "item": "laurierblaadjes en gedroogde tijm",
+    "es": "laurel y tomillo"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "ovenfrietjes of aardappelpuree",
+   "stokbrood"
+  ],
+  "steps": [
+   "Bestuif de ossenstaart met bloem, zout en peper en bak hem in porties rondom donkerbruin in olijfolie; neem de tijd, hier zit de smaak.",
+   "Fruit ui, wortel, prei, paprika en knoflook 6 minuten in dezelfde pan. Giet de wijn erbij en laat 4 minuten stevig inkoken.",
+   "Voeg bouillon en kruiden toe en giet alles over het vlees; vul hooguit driekwart. Gaar 9–10 uur op LOW of 6–7 uur op HIGH.",
+   "Het vlees moet van het bot vallen. Schep het eruit en lepel het vet van de jus, of laat de stoof een nacht koel opstijven.",
+   "Vis de kruiden eruit, pureer groenten en jus tot een glanzende saus, pluk het vlees van de botten en doe het terug."
+  ],
+  "tip": "Rabo de toro is op dag twee het lekkerst: zet het een nacht in de koelkast, til het gestolde vet eraf en warm het op het fornuis op.",
+  "kids": "Pluk het vlees van de botjes en geef het met frietjes en een lepel saus.",
+  "freeze": true,
+  "guid": "08840bfd-fb22-40e5-8895-b3a8d8a4e82b",
+  "cuisine": "spanish",
+  "protein": "beef",
+  "side": "potato"
+ },
+ {
+  "id": 74,
+  "title": "Marmitako: Baskische tonijn-aardappelstoof",
+  "chapter": "Vis & Garnalen",
+  "price": "13–16",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "6–7 uur",
+  "high": "3–4 uur",
+  "intro": "De vissersstoof uit Baskenland: aardappel en paprika lang gesudderd, met sappige tonijn die pas op het allerlaatst meegaart.",
+  "ingredients": [
+   {
+    "q": "500 g",
+    "item": "verse tonijn of bonito, in blokjes van 3 cm",
+    "es": "atún fresco o bonito del norte"
+   },
+   {
+    "q": "800 g",
+    "item": "vastkokende aardappelen",
+    "es": "patatas para guisar"
+   },
+   {
+    "q": "1",
+    "item": "ui, fijngesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "1",
+    "item": "groene puntpaprika, in blokjes",
+    "es": "pimiento verde italiano"
+   },
+   {
+    "q": "1",
+    "item": "rode paprika, in blokjes",
+    "es": "pimiento rojo"
+   },
+   {
+    "q": "2 tenen",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "2 el",
+    "item": "ñora-pasta (of 1 tl zoete paprikapoeder)",
+    "es": "carne de pimiento choricero"
+   },
+   {
+    "q": "200 g",
+    "item": "gezeefde tomaten",
+    "es": "tomate triturado"
+   },
+   {
+    "q": "800 ml",
+    "item": "visbouillon",
+    "es": "caldo de pescado"
+   },
+   {
+    "q": "2 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "1",
+    "item": "laurierblad",
+    "es": "hoja de laurel"
+   },
+   {
+    "q": "",
+    "item": "verse peterselie, peper en zout",
+    "es": "perejil fresco"
+   }
+  ],
+  "serve": [
+   "stokbrood"
+  ],
+  "steps": [
+   "Fruit ui, paprika's en knoflook 6 minuten in olijfolie. Roer ñora-pasta of paprikapoeder en tomaat erdoor: dit is je sofrito.",
+   "Schil de aardappelen, kerf ze in en breek ze in stukken: het vrijgekomen zetmeel bindt de bouillon. Leg ze onderin de slowcooker.",
+   "Schep sofrito, bouillon en laurier erover. Gaar 6–7 uur op LOW of 3–4 uur op HIGH, tot de aardappel zacht is.",
+   "Zet op HIGH, bestrooi de tonijn met zout en leg hem erop. Deksel dicht en 10–15 minuten garen; langer maakt tonijn droog.",
+   "Vis de laurier eruit, roer heel voorzichtig om en strooi er peterselie over."
+  ],
+  "tip": "Ontdooi diepvriestonijn in de koelkast. Budgetversie: roer aan tafel twee blikjes tonijn in olijfolie erdoor, net zo lekker en kinderproof.",
+  "kids": "Prak tonijn en aardappel met wat bouillon tot een mild visstoofje.",
+  "freeze": false,
+  "guid": "baf7c608-3b3a-465d-901d-cd019b80ae9a",
+  "cuisine": "spanish",
+  "protein": "fish",
+  "side": "potato"
+ },
+ {
+  "id": 75,
+  "title": "Valenciaanse sinaasappelkip met honing",
+  "chapter": "Spaans & Mediterraan",
+  "price": "8–10",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "5–6 uur",
+  "high": "3–4 uur",
+  "intro": "Kip in een glanzende saus van vers geperste sinaasappel en honing: zonnig, zoetzuur en precies goed voor kinderen.",
+  "ingredients": [
+   {
+    "q": "800 g",
+    "item": "kippendijfilet",
+    "es": "contramuslos de pollo deshuesados"
+   },
+   {
+    "q": "1 el",
+    "item": "bloem",
+    "es": "harina de trigo"
+   },
+   {
+    "q": "2 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "1",
+    "item": "ui, fijngesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "2 tenen",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "2",
+    "item": "wortels, in plakjes",
+    "es": "zanahorias"
+   },
+   {
+    "q": "250 ml",
+    "item": "vers sinaasappelsap (3–4 stuks) plus rasp van 1",
+    "es": "naranjas de zumo"
+   },
+   {
+    "q": "150 ml",
+    "item": "kippenbouillon",
+    "es": "caldo de pollo"
+   },
+   {
+    "q": "1 el",
+    "item": "honing",
+    "es": "miel"
+   },
+   {
+    "q": "1 tl",
+    "item": "zoete paprikapoeder",
+    "es": "pimentón dulce"
+   },
+   {
+    "q": "1 el",
+    "item": "maïzena",
+    "es": "maicena"
+   },
+   {
+    "q": "",
+    "item": "verse peterselie, peper en zout",
+    "es": "perejil fresco"
+   }
+  ],
+  "serve": [
+   "witte rijst",
+   "sperziebonen of broccoli"
+  ],
+  "steps": [
+   "Bestuif de kip met bloem, zout en peper en bak hem in olijfolie aan beide kanten goudbruin. Leg hem in de slowcooker.",
+   "Fruit ui, knoflook en wortel 4 minuten. Roer het paprikapoeder erdoor en blus af met sap, bouillon, honing en rasp.",
+   "Giet dit over de kip. Gaar 5–6 uur op LOW of 3–4 uur op HIGH, tot de kip 75 °C haalt.",
+   "Meng de maïzena met 2 el koud water en roer het de laatste 30 minuten door de saus; zet op HIGH, deksel dicht.",
+   "Proef: te zoet? Een scheutje citroensap brengt balans. Strooi er peterselie over."
+  ],
+  "tip": "Sinaasappels voor sap ('naranjas de zumo') zijn in de winter spotgoedkoop. Rasp alleen het oranje van de schil; het wit maakt de saus bitter.",
+  "kids": "Zoetzuur en glanzend, net als bij de afhaal: met rijst is dit meteen een favoriet.",
+  "freeze": true,
+  "guid": "383b11e9-068c-46e8-9418-a6449f76baa2",
+  "cuisine": "spanish",
+  "protein": "chicken",
+  "side": "rice"
+ },
+ {
+  "id": 76,
+  "title": "Andalusische puchero met kikkererwten",
+  "chapter": "Budgetfavorieten",
+  "price": "9–11",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "7–8 uur",
+  "high": "4–5 uur",
+  "intro": "Heldere bouillon met vermicelli vooraf, daarna kip, groente en kikkererwten: de Andalusische zondagspot die het hele gezin verwarmt.",
+  "ingredients": [
+   {
+    "q": "1 kg",
+    "item": "kippenpoten zonder vel",
+    "es": "muslos de pollo"
+   },
+   {
+    "q": "1 stuk",
+    "item": "hambot of 150 g serranoham aan één stuk",
+    "es": "hueso de jamón o taco de jamón"
+   },
+   {
+    "q": "1 pot",
+    "item": "kikkererwten (570 g), afgespoeld",
+    "es": "garbanzos cocidos (bote)"
+   },
+   {
+    "q": "2",
+    "item": "wortels, in grote stukken",
+    "es": "zanahorias"
+   },
+   {
+    "q": "1",
+    "item": "prei, in stukken",
+    "es": "puerro"
+   },
+   {
+    "q": "2",
+    "item": "stengels bleekselderij",
+    "es": "apio"
+   },
+   {
+    "q": "2",
+    "item": "aardappelen, gehalveerd",
+    "es": "patatas"
+   },
+   {
+    "q": "1,5 l",
+    "item": "water",
+    "es": ""
+   },
+   {
+    "q": "100 g",
+    "item": "fijne vermicelli",
+    "es": "fideos finos"
+   },
+   {
+    "q": "1",
+    "item": "laurierblad",
+    "es": "hoja de laurel"
+   },
+   {
+    "q": "1 takje",
+    "item": "verse munt",
+    "es": "hierbabuena"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "stokbrood"
+  ],
+  "steps": [
+   "Leg aardappel, wortel, prei en selderij onderin de slowcooker. Leg kip en ham erop en voeg de laurier toe.",
+   "Giet water erbij tot alles net onder staat; vul hooguit driekwart. Gaar 7–8 uur op LOW of 4–5 uur op HIGH, tot de kip 75 °C haalt.",
+   "Roer de kikkererwten er het laatste uur door en schep eventueel vet en schuim van de bouillon.",
+   "Schep 1 liter bouillon in een pan, breng aan de kook en kook de vermicelli 3–4 minuten gaar. Proef op zout.",
+   "Serveer eerst de soep met een blaadje munt, daarna kip, groente en kikkererwten met een scheutje olijfolie."
+  ],
+  "tip": "Pluk het vlees van de botten en prak het met wat groente door elkaar: dat is de 'pringá', heerlijk op brood. Overgebleven bouillon is goud voor rijst.",
+  "kids": "Vermicellisoep met zachte kip: de Spaanse kippensoep die ze meteen herkennen.",
+  "freeze": false,
+  "guid": "73b9eace-021e-4c9d-94a7-cb483eb66433",
+  "cuisine": "spanish",
+  "protein": "chicken",
+  "side": "pasta"
+ },
+ {
+  "id": 77,
+  "title": "Sepia met doperwten en aardappel",
+  "chapter": "Vis & Garnalen",
+  "price": "12–14",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "4–5 uur",
+  "high": "2–3 uur",
+  "intro": "Zeekat die langzaam botermals stooft met tomaat, witte wijn en zoete erwtjes: een Andalusische kustklassieker voor de slowcooker.",
+  "ingredients": [
+   {
+    "q": "800 g",
+    "item": "schoongemaakte sepia, in stukken (diepvries, ontdooid)",
+    "es": "sepia limpia troceada"
+   },
+   {
+    "q": "400 g",
+    "item": "vastkokende aardappelen, in blokjes",
+    "es": "patatas para guisar"
+   },
+   {
+    "q": "300 g",
+    "item": "doperwtjes uit de diepvries",
+    "es": "guisantes congelados"
+   },
+   {
+    "q": "1",
+    "item": "ui, fijngesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "2 tenen",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "200 g",
+    "item": "gezeefde tomaten",
+    "es": "tomate triturado"
+   },
+   {
+    "q": "100 ml",
+    "item": "droge witte wijn",
+    "es": "vino blanco"
+   },
+   {
+    "q": "200 ml",
+    "item": "visbouillon",
+    "es": "caldo de pescado"
+   },
+   {
+    "q": "2 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "1",
+    "item": "laurierblad",
+    "es": "hoja de laurel"
+   },
+   {
+    "q": "",
+    "item": "verse peterselie, peper en zout",
+    "es": "perejil fresco"
+   }
+  ],
+  "serve": [
+   "stokbrood"
+  ],
+  "steps": [
+   "Leg de aardappelblokjes onderin de slowcooker. Dep de sepia droog, bak hem 3 minuten in hete olijfolie en schep hem op de aardappel.",
+   "Fruit ui en knoflook 5 minuten in dezelfde pan. Blus af met wijn, laat 2 minuten inkoken en voeg tomaat en bouillon toe.",
+   "Giet dit over de sepia en leg de laurier erbij. Gaar 4–5 uur op LOW of 2–3 uur op HIGH, tot een vork er makkelijk in glijdt.",
+   "Roer de erwtjes er het laatste halfuur door; bevroren mag. Sluit het deksel meteen weer.",
+   "Vis de laurier eruit, proef op zout en peper en strooi er peterselie over."
+  ],
+  "tip": "Sepia wordt eerst taai en na lang stoven juist botermals: ideaal voor de slowcooker. Diepvriessepia uit de supermarkt is al schoongemaakt en klaar voor gebruik.",
+  "kids": "Snijd de sepia klein; met erwtjes en aardappel is het een mild visstoofje.",
+  "freeze": false,
+  "guid": "8ac13f1b-ba1b-4271-b93c-6f4e4fa13390",
+  "cuisine": "spanish",
+  "protein": "fish",
+  "side": "potato"
+ },
+ {
+  "id": 78,
+  "title": "Gevulde paprika's met rijst, groente en kaas",
+  "chapter": "Vegetarisch",
+  "price": "7–9",
+  "spice": 1,
+  "vega": true,
+  "prep": "25 min",
+  "low": "4–5 uur",
+  "high": "2½–3 uur",
+  "intro": "Zoete rode paprika's gevuld met rijst, courgette, champignons en manchego, gestoofd in tomatensaus: kleurrijk, vullend en helemaal vegetarisch.",
+  "ingredients": [
+   {
+    "q": "4",
+    "item": "rode paprika's die rechtop staan",
+    "es": "pimientos rojos"
+   },
+   {
+    "q": "250 g",
+    "item": "voorgekookte rijst (2 bekertjes)",
+    "es": "arroz cocido (vasitos)"
+   },
+   {
+    "q": "1",
+    "item": "courgette, fijngehakt",
+    "es": "calabacín"
+   },
+   {
+    "q": "100 g",
+    "item": "champignons, fijngehakt",
+    "es": "champiñones"
+   },
+   {
+    "q": "1",
+    "item": "ui, fijngesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "2 tenen",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "400 g",
+    "item": "gezeefde tomaten",
+    "es": "tomate triturado"
+   },
+   {
+    "q": "1 tl",
+    "item": "gedroogde oregano",
+    "es": "orégano"
+   },
+   {
+    "q": "100 g",
+    "item": "geraspte manchego",
+    "es": "queso manchego rallado"
+   },
+   {
+    "q": "1",
+    "item": "ei",
+    "es": "huevo"
+   },
+   {
+    "q": "2 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "groene salade",
+   "stokbrood"
+  ],
+  "steps": [
+   "Snijd de kapjes van de paprika's en verwijder de zaadlijsten. Fruit ui, knoflook, courgette en champignons 6 minuten in olijfolie tot het vocht verdampt.",
+   "Meng de groenten met rijst, de helft van de tomaat, oregano, ei, de helft van de kaas, zout en peper. Vul de paprika's.",
+   "Schep de rest van de tomaat met 100 ml water onderin. Zet de paprika's rechtop erin en leg de kapjes erop.",
+   "Gaar 4–5 uur op LOW of 2½–3 uur op HIGH, tot de paprika zacht is.",
+   "Strooi de rest van de kaas er het laatste kwartier over en laat hem met het deksel dicht smelten. Schep op met saus."
+  ],
+  "tip": "Neem voorgekookte rijst: rauwe rijst in een vulling gaart ongelijk. Staat een paprika scheef? Snijd een dun plakje van de onderkant.",
+  "kids": "Laat ze hun eigen paprika vullen en het 'dekseltje' erop zetten; dan eten ze hem ook op.",
+  "freeze": false,
+  "guid": "dd76823f-e7b3-455c-a762-f898a1c6fec1",
+  "cuisine": "mediterranean",
+  "protein": "veg",
+  "side": "rice"
+ },
+ {
+  "id": 79,
+  "title": "Arroz con leche met kaneel en citroen",
+  "chapter": "Zoet uit de slowcooker",
+  "price": "3–4",
+  "spice": 1,
+  "vega": true,
+  "prep": "10 min",
+  "low": "3–4 uur",
+  "high": "2–2½ uur",
+  "intro": "Romige Spaanse rijstpudding met kaneel en citroenschil, zonder aanbranden of eindeloos roeren: de slowcooker doet het werk.",
+  "ingredients": [
+   {
+    "q": "1 l",
+    "item": "volle melk",
+    "es": "leche entera"
+   },
+   {
+    "q": "150 g",
+    "item": "ronde rijst (niet wassen)",
+    "es": "arroz redondo"
+   },
+   {
+    "q": "100 g",
+    "item": "suiker",
+    "es": "azúcar"
+   },
+   {
+    "q": "1",
+    "item": "kaneelstokje",
+    "es": "canela en rama"
+   },
+   {
+    "q": "1",
+    "item": "citroen (alleen de gele schil, in repen)",
+    "es": "limón"
+   },
+   {
+    "q": "15 g",
+    "item": "boter",
+    "es": "mantequilla"
+   },
+   {
+    "q": "",
+    "item": "gemalen kaneel om te bestrooien",
+    "es": "canela molida"
+   },
+   {
+    "q": "1 snuf",
+    "item": "zout",
+    "es": ""
+   }
+  ],
+  "serve": [],
+  "steps": [
+   "Vet de binnenkant van de slowcooker in met boter. Doe melk, rijst, kaneelstokje, citroenschil en zout erin en roer goed.",
+   "Gaar 3–4 uur op LOW of 2–2½ uur op HIGH. Roer elk uur kort om, zodat de rijst niet aan de bodem plakt.",
+   "Roer het laatste halfuur de suiker erdoor. De rijst moet zacht zijn en de melk dik en romig.",
+   "Vis kaneelstokje en citroenschil eruit. Laat afkoelen; de pudding dikt flink op. Serveer lauw of koud, bestrooid met kaneel."
+  ],
+  "tip": "Was de rijst niet: het zetmeel maakt de pudding romig. Te dik geworden in de koelkast? Roer er een scheutje koude melk door. Bewaar maximaal 3 dagen gekoeld.",
+  "kids": "Laat ze zelf een hartje of hun letter van kaneel op hun schaaltje strooien.",
+  "freeze": false,
+  "guid": "434f299e-62f8-4533-83b6-711f420e6556",
+  "cuisine": "spanish",
+  "protein": "sweet",
+  "side": "none"
+ },
+ {
+  "id": 80,
+  "title": "Griekse stifado met sjalotjes en orzo",
+  "chapter": "Spaans & Mediterraan",
+  "price": "13–15",
+  "spice": 1,
+  "vega": false,
+  "prep": "30 min",
+  "low": "8–9 uur",
+  "high": "5–6 uur",
+  "intro": "Rundvlees met zoete sjalotjes in tomaat, rode wijn en een vleugje kaneel: Griekse winterkost die heerlijk past bij orzo.",
+  "ingredients": [
+   {
+    "q": "800 g",
+    "item": "runderstoofvlees (schouder of schenkel), in blokken",
+    "es": "aguja o morcillo de ternera"
+   },
+   {
+    "q": "1 el",
+    "item": "bloem",
+    "es": "harina de trigo"
+   },
+   {
+    "q": "2 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "400 g",
+    "item": "sjalotjes, gepeld en heel",
+    "es": "chalotas"
+   },
+   {
+    "q": "2 tenen",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "2 el",
+    "item": "tomatenpuree",
+    "es": "tomate concentrado"
+   },
+   {
+    "q": "400 g",
+    "item": "gezeefde tomaten",
+    "es": "tomate triturado"
+   },
+   {
+    "q": "150 ml",
+    "item": "rode wijn",
+    "es": "vino tinto"
+   },
+   {
+    "q": "1 + 2",
+    "item": "kaneelstokje en kruidnagels",
+    "es": "canela en rama y clavo"
+   },
+   {
+    "q": "1 el",
+    "item": "rodewijnazijn",
+    "es": "vinagre de vino tinto"
+   },
+   {
+    "q": "300 g",
+    "item": "orzo (rijstvormige pasta)",
+    "es": "pasta piñones"
+   },
+   {
+    "q": "",
+    "item": "2 laurierblaadjes, peper en zout",
+    "es": "hojas de laurel"
+   }
+  ],
+  "serve": [
+   "geraspte of verkruimelde feta",
+   "groene salade"
+  ],
+  "steps": [
+   "Bestuif het vlees met bloem, zout en peper en bak het in porties rondom bruin in olijfolie. Leg het in de slowcooker.",
+   "Bak de sjalotjes 5 minuten goudbruin, bak knoflook en tomatenpuree 1 minuut mee. Blus af met wijn en laat 3 minuten inkoken.",
+   "Voeg tomaat, azijn, kaneel, kruidnagels en laurier toe en giet dit over het vlees. Gaar 8–9 uur op LOW of 5–6 uur op HIGH.",
+   "Vis kaneel, kruidnagels en laurier eruit. Te dun? Leg het deksel het laatste halfuur op een kier.",
+   "Kook de orzo volgens de verpakking en schep de stifado erop."
+  ],
+  "tip": "Sjalotjes pellen gaat snel als je ze 2 minuten in kokend water zet: het velletje glipt er dan zo af. Wat feta erover maakt het helemaal Grieks.",
+  "kids": "De kaneel maakt de saus zacht en een tikje zoet; orzo glijdt erin als rijst.",
+  "freeze": true,
+  "guid": "592f287f-a962-4883-ad0a-69772668c8b6",
+  "cuisine": "greek",
+  "protein": "beef",
+  "side": "pasta"
+ }
+]

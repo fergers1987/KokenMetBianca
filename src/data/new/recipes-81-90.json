@@ -1,0 +1,905 @@
+[
+ {
+  "id": 81,
+  "title": "Milde linzendahl met spinazie en kokos",
+  "chapter": "Wereldgerechten",
+  "price": "5–7",
+  "spice": 1,
+  "vega": true,
+  "prep": "10 min",
+  "low": "5–6 uur",
+  "high": "3–4 uur",
+  "intro": "Fluweelzachte rode linzen met tomaat, komijn en een scheut kokosmelk: Indiaas troostvoer dat bijna niets kost en iedereen vult.",
+  "ingredients": [
+   {
+    "q": "300 g",
+    "item": "rode linzen, gespoeld",
+    "es": "lentejas rojas (lentejas coral)"
+   },
+   {
+    "q": "1",
+    "item": "ui, gesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "3 tenen",
+    "item": "knoflook, geraspt",
+    "es": "ajo"
+   },
+   {
+    "q": "1 el",
+    "item": "verse gember, geraspt",
+    "es": "jengibre fresco"
+   },
+   {
+    "q": "1 tl",
+    "item": "kurkuma",
+    "es": "cúrcuma"
+   },
+   {
+    "q": "2 tl",
+    "item": "gemalen komijn",
+    "es": "comino molido"
+   },
+   {
+    "q": "1 tl",
+    "item": "garam masala",
+    "es": "garam masala (Carrefour of Aziatische winkel)"
+   },
+   {
+    "q": "400 g",
+    "item": "tomatenblokjes",
+    "es": "tomate troceado"
+   },
+   {
+    "q": "700 ml",
+    "item": "groentebouillon",
+    "es": "caldo de verduras"
+   },
+   {
+    "q": "200 ml",
+    "item": "kokosmelk",
+    "es": "leche de coco"
+   },
+   {
+    "q": "100 g",
+    "item": "verse spinazie",
+    "es": "espinacas frescas"
+   },
+   {
+    "q": "",
+    "item": "citroensap en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "basmatirijst",
+   "naan of wraps",
+   "yoghurt"
+  ],
+  "steps": [
+   "Spoel de linzen in een zeef onder de kraan tot het water helder blijft; zo schuimt de dahl minder.",
+   "Doe linzen, ui, knoflook, gember, specerijen, tomaten en bouillon in de slowcooker en roer goed door.",
+   "Sluit het deksel en gaar 5–6 uur op LOW of 3–4 uur op HIGH. Linzen zuigen vocht op: te dik? Roer er een scheut heet water door.",
+   "Roer kokosmelk en spinazie er het laatste kwartier door en laat de spinazie slinken met het deksel erop.",
+   "Breng op smaak met citroensap en zout en serveer met rijst of naan."
+  ],
+  "tip": "Pit voor de volwassenen: verhit 2 el olie met chilivlokken en een paar komijnzaadjes 30 seconden en schenk dit lepeltje voor lepeltje over je eigen bord.",
+  "kids": "Dahl is eigenlijk een hartige puree: lepel het met rijst en een klodder yoghurt.",
+  "freeze": true,
+  "guid": "afde89a8-df89-43d4-bd8e-cb08df2f8d85",
+  "cuisine": "indian",
+  "protein": "veg",
+  "side": "rice"
+ },
+ {
+  "id": 82,
+  "title": "Zweedse gehaktballetjes in roomsaus",
+  "chapter": "Wereldgerechten",
+  "price": "7–9",
+  "spice": 1,
+  "vega": false,
+  "prep": "25 min",
+  "low": "4–5 uur",
+  "high": "2–3 uur",
+  "intro": "Kleine, malse gehaktballetjes in een romige jus met nootmuskaat, met puree en zoete bessensaus: het Zweedse IKEA-gevoel, maar dan zelfgemaakt.",
+  "ingredients": [
+   {
+    "q": "500 g",
+    "item": "gemengd gehakt",
+    "es": "carne picada mixta (cerdo y vacuno)"
+   },
+   {
+    "q": "1",
+    "item": "ei",
+    "es": "huevo"
+   },
+   {
+    "q": "40 g",
+    "item": "paneermeel",
+    "es": "pan rallado"
+   },
+   {
+    "q": "1",
+    "item": "kleine ui, fijn geraspt",
+    "es": "cebolla"
+   },
+   {
+    "q": "¼ tl",
+    "item": "nootmuskaat",
+    "es": "nuez moscada molida"
+   },
+   {
+    "q": "1 el",
+    "item": "olie",
+    "es": "aceite de girasol"
+   },
+   {
+    "q": "400 ml",
+    "item": "runderbouillon",
+    "es": "caldo de carne"
+   },
+   {
+    "q": "1 el",
+    "item": "sojasaus",
+    "es": "salsa de soja"
+   },
+   {
+    "q": "150 ml",
+    "item": "kookroom",
+    "es": "nata para cocinar"
+   },
+   {
+    "q": "2 el",
+    "item": "maizena",
+    "es": "maicena"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "aardappelpuree",
+   "vossenbessen- of cranberrysaus",
+   "komkommersalade"
+  ],
+  "steps": [
+   "Meng gehakt, ei, paneermeel, ui, nootmuskaat, zout en peper en rol met natte handen zo'n 24 balletjes ter grootte van een walnoot.",
+   "Bak de balletjes in twee porties rondom bruin in hete olie; ze hoeven nog niet gaar te zijn. Leg ze in de slowcooker.",
+   "Blus de pan af met bouillon en sojasaus, schraap de aanbaksels los en giet over de balletjes. Gaar 4–5 uur op LOW of 2–3 uur op HIGH.",
+   "Roer de maizena glad door de room en schep dit het laatste kwartier voorzichtig door de saus. Laat op HIGH binden.",
+   "Proef en breng op smaak met peper en zout. Serveer met puree en een lepel bessensaus."
+  ],
+  "tip": "Vossenbessensaus vind je bij IKEA Málaga; cranberrysaus of een lepel bosvruchtenjam werkt net zo goed. Gehakt altijd eerst aanbraden: rauw gehakt wordt in de slowcooker te langzaam heet.",
+  "kids": "Laat ze meehelpen rollen; met puree en zoete bessensaus verdwijnen de balletjes vanzelf.",
+  "freeze": false,
+  "guid": "3c3fc51a-e26b-437c-b10b-4850949938b4",
+  "cuisine": "european",
+  "protein": "mince",
+  "side": "potato"
+ },
+ {
+  "id": 83,
+  "title": "Mexicaanse kip-tortillasoep",
+  "chapter": "Wereldgerechten",
+  "price": "9–11",
+  "spice": 1,
+  "vega": false,
+  "prep": "15 min",
+  "low": "6–7 uur",
+  "high": "3–4 uur",
+  "intro": "Een vullende tomatensoep met getrokken kip, bonen en maïs, met krokante tortillachips en toppings die iedereen zelf kiest.",
+  "ingredients": [
+   {
+    "q": "600 g",
+    "item": "kippendijfilet",
+    "es": "contramuslo de pollo deshuesado"
+   },
+   {
+    "q": "1",
+    "item": "ui, gesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "1",
+    "item": "rode paprika, in blokjes",
+    "es": "pimiento rojo"
+   },
+   {
+    "q": "2 tenen",
+    "item": "knoflook, fijngesneden",
+    "es": "ajo"
+   },
+   {
+    "q": "400 g",
+    "item": "tomatenblokjes",
+    "es": "tomate troceado"
+   },
+   {
+    "q": "1 pot (400 g)",
+    "item": "zwarte bonen, uitgelekt",
+    "es": "frijoles negros cocidos (Carrefour) of alubias rojas"
+   },
+   {
+    "q": "1 blikje (140 g)",
+    "item": "maïs, uitgelekt",
+    "es": "maíz dulce"
+   },
+   {
+    "q": "800 ml",
+    "item": "kippenbouillon",
+    "es": "caldo de pollo"
+   },
+   {
+    "q": "2 tl",
+    "item": "gemalen komijn",
+    "es": "comino molido"
+   },
+   {
+    "q": "1 tl",
+    "item": "gerookte zoete paprikapoeder",
+    "es": "pimentón de la Vera dulce"
+   },
+   {
+    "q": "1",
+    "item": "limoen (sap)",
+    "es": "lima"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "tortillachips",
+   "avocado in blokjes",
+   "geraspte kaas en zure room"
+  ],
+  "steps": [
+   "Doe ui, paprika, knoflook, tomaten, bonen, maïs, komijn en paprikapoeder in de slowcooker. Leg de kip erop en giet de bouillon erover.",
+   "Vul de pot niet verder dan tweederde. Sluit het deksel en gaar 6–7 uur op LOW of 3–4 uur op HIGH.",
+   "Haal de kip eruit, trek hem met twee vorken in draadjes en roer hem terug door de soep.",
+   "Breng op smaak met limoensap, zout en peper.",
+   "Schep de soep in kommen en laat iedereen zelf tortillachips, avocado, kaas en zure room toevoegen."
+  ],
+  "tip": "Doe de chips pas op het allerlaatst in de kom, anders worden ze week. Gesneden jalapeño of hete saus zet je apart op tafel voor wie pit wil.",
+  "kids": "Laat ze chips in hun soep verkruimelen en kaas erover strooien: krokant-zacht feest.",
+  "freeze": true,
+  "guid": "041191f5-6464-480e-9df3-f42ad2e74169",
+  "cuisine": "mexican",
+  "protein": "chicken",
+  "side": "tortilla"
+ },
+ {
+  "id": 84,
+  "title": "Hongaarse kip paprikash met zure room",
+  "chapter": "Wereldgerechten",
+  "price": "9–11",
+  "spice": 1,
+  "vega": false,
+  "prep": "15 min",
+  "low": "5–6 uur",
+  "high": "3–4 uur",
+  "intro": "Malse kip in een fluweelzachte paprikasaus, op het eind romig gemaakt met zure room: de Hongaarse oma-klassieker bij uitstek.",
+  "ingredients": [
+   {
+    "q": "800 g",
+    "item": "kippendijfilet",
+    "es": "contramuslo de pollo deshuesado"
+   },
+   {
+    "q": "1 el",
+    "item": "olie",
+    "es": "aceite de girasol"
+   },
+   {
+    "q": "2",
+    "item": "uien, gesnipperd",
+    "es": "cebollas"
+   },
+   {
+    "q": "2",
+    "item": "rode paprika's, in reepjes",
+    "es": "pimientos rojos"
+   },
+   {
+    "q": "2 tenen",
+    "item": "knoflook, fijngesneden",
+    "es": "ajo"
+   },
+   {
+    "q": "2 el",
+    "item": "zoete paprikapoeder (niet gerookt)",
+    "es": "pimentón dulce"
+   },
+   {
+    "q": "400 g",
+    "item": "tomatenblokjes",
+    "es": "tomate troceado"
+   },
+   {
+    "q": "150 ml",
+    "item": "kippenbouillon",
+    "es": "caldo de pollo"
+   },
+   {
+    "q": "200 g",
+    "item": "zure room",
+    "es": "nata agria (Lidl/Carrefour) of crème fraîche"
+   },
+   {
+    "q": "1 el",
+    "item": "bloem",
+    "es": "harina de trigo"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "tagliatelle of brede eiermie",
+   "komkommersalade",
+   "verse peterselie"
+  ],
+  "steps": [
+   "Fruit de uien 5 minuten zacht in de olie. Roer knoflook en paprikapoeder maar 30 seconden mee: verbrand paprikapoeder wordt bitter.",
+   "Schep het uienmengsel met paprika, tomaten en bouillon in de slowcooker. Leg de kip erin, bestrooi met zout en peper en schep om.",
+   "Sluit het deksel en gaar 5–6 uur op LOW of 3–4 uur op HIGH, tot de kip zacht is en vanbinnen niet meer roze.",
+   "Roer de bloem glad door de zure room en meng er een paar lepels hete saus door. Roer dit het laatste kwartier door de pot.",
+   "Laat de saus op HIGH iets binden, proef en breng op smaak. Serveer over tagliatelle."
+  ],
+  "tip": "De bloem in de zure room voorkomt dat de saus schift. Gebruik gewone zoete pimentón, niet de gerookte variant. Volwassenen strooien aan tafel wat pimentón picante over hun bord.",
+  "kids": "Romige roze saus over pasta: snijd de kip klein en het verdwijnt vanzelf.",
+  "freeze": false,
+  "guid": "be2a0f8e-16ec-4da9-9f1c-b963be265ef6",
+  "cuisine": "hungarian",
+  "protein": "chicken",
+  "side": "pasta"
+ },
+ {
+  "id": 85,
+  "title": "Provençaalse kip met olijven en krieltjes",
+  "chapter": "Wereldgerechten",
+  "price": "8–10",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "6–7 uur",
+  "high": "3–4 uur",
+  "intro": "Kippendijen met bot in tomaat, knoflook en Provençaalse kruiden, met krieltjes uit dezelfde pot: Zuid-Frankrijk in één gerecht.",
+  "ingredients": [
+   {
+    "q": "8 (ca. 1,2 kg)",
+    "item": "kippendijen met vel en bot",
+    "es": "contramuslos de pollo con piel"
+   },
+   {
+    "q": "1 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "600 g",
+    "item": "krieltjes, gehalveerd",
+    "es": "patatas baby (para guarnición)"
+   },
+   {
+    "q": "1",
+    "item": "ui, in partjes",
+    "es": "cebolla"
+   },
+   {
+    "q": "1",
+    "item": "rode paprika, in repen",
+    "es": "pimiento rojo"
+   },
+   {
+    "q": "4 tenen",
+    "item": "knoflook, in plakjes",
+    "es": "ajo"
+   },
+   {
+    "q": "400 g",
+    "item": "tomatenblokjes",
+    "es": "tomate troceado"
+   },
+   {
+    "q": "100 ml",
+    "item": "kippenbouillon",
+    "es": "caldo de pollo"
+   },
+   {
+    "q": "2 tl",
+    "item": "Provençaalse kruiden",
+    "es": "hierbas provenzales"
+   },
+   {
+    "q": "80 g",
+    "item": "zwarte olijven, ontpit",
+    "es": "aceitunas negras sin hueso"
+   },
+   {
+    "q": "1",
+    "item": "citroen (rasp)",
+    "es": "limón"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "stokbrood",
+   "groene salade"
+  ],
+  "steps": [
+   "Bestrooi de kip met zout en peper en bak hem met de velkant 5–6 minuten goudbruin in de olie; anders blijft het vel slap.",
+   "Leg krieltjes, ui en paprika onderin de slowcooker: aardappel gaart trager dan vlees en hoort dus onderop het warme deel.",
+   "Giet tomaten, bouillon, knoflook en kruiden erover en leg de kip er met de velkant naar boven op.",
+   "Sluit het deksel en gaar 6–7 uur op LOW of 3–4 uur op HIGH, tot de kip loslaat van het bot.",
+   "Roer de olijven er het laatste halfuur door. Rasp de citroen erover, proef en breng op smaak."
+  ],
+  "tip": "Kip met bot blijft extra sappig en verdraagt een uurtje langer prima. Wil je knapperig vel? Zet de dijen na afloop 5 minuten onder de hete ovengrill.",
+  "kids": "Vis de olijven eruit voor wie ze niet lust; krieltjes in tomatensaus gaan er altijd in.",
+  "freeze": true,
+  "guid": "643cdb19-3bbc-473b-9994-079695743d25",
+  "cuisine": "french",
+  "protein": "chicken",
+  "side": "potato"
+ },
+ {
+  "id": 86,
+  "title": "Britse kip-preipie met bladerdeegdakje",
+  "chapter": "Wereldgerechten",
+  "price": "9–11",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "5–6 uur",
+  "high": "3–4 uur",
+  "intro": "Romige kip met prei, wortel en champignons onder een knapperig bladerdeegdakje: Britse pub-klassieker, zonder gedoe met een pievorm.",
+  "ingredients": [
+   {
+    "q": "800 g",
+    "item": "kippendijfilet, in blokjes",
+    "es": "contramuslo de pollo deshuesado"
+   },
+   {
+    "q": "2 el",
+    "item": "bloem",
+    "es": "harina de trigo"
+   },
+   {
+    "q": "2",
+    "item": "preien, in ringen",
+    "es": "puerros"
+   },
+   {
+    "q": "2",
+    "item": "wortels, in blokjes",
+    "es": "zanahorias"
+   },
+   {
+    "q": "250 g",
+    "item": "champignons, in vieren",
+    "es": "champiñones"
+   },
+   {
+    "q": "1 tl",
+    "item": "gedroogde tijm",
+    "es": "tomillo seco"
+   },
+   {
+    "q": "300 ml",
+    "item": "kippenbouillon",
+    "es": "caldo de pollo"
+   },
+   {
+    "q": "1 el",
+    "item": "mosterd",
+    "es": "mostaza"
+   },
+   {
+    "q": "150 ml",
+    "item": "kookroom",
+    "es": "nata para cocinar"
+   },
+   {
+    "q": "1 rol",
+    "item": "bladerdeeg (koelvak)",
+    "es": "masa de hojaldre refrigerada"
+   },
+   {
+    "q": "1",
+    "item": "ei, losgeklopt",
+    "es": "huevo"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "doperwten",
+   "aardappelpuree"
+  ],
+  "steps": [
+   "Bestuif de kip met bloem, zout en peper. Doe hem met prei, wortel, champignons en tijm in de slowcooker.",
+   "Roer de mosterd door de bouillon en giet over de kip. Sluit het deksel en gaar 5–6 uur op LOW of 3–4 uur op HIGH.",
+   "Roer de room er het laatste kwartier door en laat de saus op HIGH iets binden. Verwarm intussen de oven op 200 °C.",
+   "Snijd het bladerdeeg in 4 stukken, bestrijk met ei en bak ze 15–18 minuten goudbruin op een bakplaat met bakpapier.",
+   "Schep de vulling in diepe borden en leg op elk bord een bladerdeegdakje."
+  ],
+  "tip": "Een slowcookerdeksel houdt stoom vast, daarom bak je het bladerdeeg apart: zo blijft het knapperig. Restje vulling? Heerlijk over pasta of in een gepofte aardappel.",
+  "kids": "Laat ze hun eigen dakje uitsteken met een koekjesvorm; dat smaakt dubbel zo lekker.",
+  "freeze": true,
+  "guid": "fe2d997c-33d6-4765-a808-a906bfb590dc",
+  "cuisine": "british",
+  "protein": "chicken",
+  "side": "none"
+ },
+ {
+  "id": 87,
+  "title": "Marokkaanse rundvleestajine met abrikozen",
+  "chapter": "Wereldgerechten",
+  "price": "13–15",
+  "spice": 1,
+  "vega": false,
+  "prep": "25 min",
+  "low": "8–9 uur",
+  "high": "5–6 uur",
+  "intro": "Mals rundvlees met komijn, kaneel en zoete abrikozen, bestrooid met geroosterde amandelen: een zacht-zoete tajine voor bij de couscous.",
+  "ingredients": [
+   {
+    "q": "800 g",
+    "item": "runderstoofvlees, in blokken van 4 cm",
+    "es": "carne para guisar de ternera (aguja)"
+   },
+   {
+    "q": "2 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "2",
+    "item": "uien, in halve ringen",
+    "es": "cebollas"
+   },
+   {
+    "q": "3 tenen",
+    "item": "knoflook, geraspt",
+    "es": "ajo"
+   },
+   {
+    "q": "1 el",
+    "item": "verse gember, geraspt",
+    "es": "jengibre fresco"
+   },
+   {
+    "q": "2 tl",
+    "item": "gemalen komijn",
+    "es": "comino molido"
+   },
+   {
+    "q": "1 tl",
+    "item": "kaneel",
+    "es": "canela molida"
+   },
+   {
+    "q": "400 g",
+    "item": "tomatenblokjes",
+    "es": "tomate troceado"
+   },
+   {
+    "q": "300 ml",
+    "item": "runderbouillon",
+    "es": "caldo de carne"
+   },
+   {
+    "q": "150 g",
+    "item": "gedroogde abrikozen",
+    "es": "orejones de albaricoque"
+   },
+   {
+    "q": "40 g",
+    "item": "amandelschaafsel",
+    "es": "almendra laminada"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "couscous",
+   "verse koriander of peterselie",
+   "harissa aan tafel"
+  ],
+  "steps": [
+   "Bestrooi het vlees met zout en peper en bak het in twee porties rondom bruin in hete olie. Schep het in de slowcooker.",
+   "Fruit de uien 5 minuten in dezelfde pan. Roer knoflook, gember, komijn en kaneel 1 minuut mee.",
+   "Blus af met tomaten en bouillon, schraap de aanbaksels los en giet over het vlees. Gaar 8–9 uur op LOW of 5–6 uur op HIGH.",
+   "Roer de abrikozen er het laatste uur door, zodat ze zacht worden maar niet uit elkaar vallen.",
+   "Rooster de amandelen goudbruin in een droge pan, proef de tajine op zout en strooi de amandelen erover."
+  ],
+  "tip": "Couscous in vijf minuten: overgiet met evenveel kokende bouillon, dek af, wacht 5 minuten en maak los met een vork en een klontje boter.",
+  "kids": "Zoete abrikozen en kaneel maken het extra mild; schep het vlees fijn door de couscous.",
+  "freeze": true,
+  "guid": "e279db9d-e29c-4f2a-a14c-2303849daba0",
+  "cuisine": "moroccan",
+  "protein": "beef",
+  "side": "couscous"
+ },
+ {
+  "id": 88,
+  "title": "Libanese aubergine-kikkererwtenstoof",
+  "chapter": "Wereldgerechten",
+  "price": "6–8",
+  "spice": 1,
+  "vega": true,
+  "prep": "20 min",
+  "low": "6–7 uur",
+  "high": "3–4 uur",
+  "intro": "Zijdezachte aubergine en kikkererwten in een dikke tomatensaus met komijn en kaneel: Libanese maghmour, warm of lauw met pita.",
+  "ingredients": [
+   {
+    "q": "2 (ca. 700 g)",
+    "item": "aubergines, in blokken van 3 cm",
+    "es": "berenjenas"
+   },
+   {
+    "q": "3 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "2",
+    "item": "uien, in reepjes",
+    "es": "cebollas"
+   },
+   {
+    "q": "4 tenen",
+    "item": "knoflook, in plakjes",
+    "es": "ajo"
+   },
+   {
+    "q": "2 potten (à 400 g)",
+    "item": "kikkererwten, uitgelekt",
+    "es": "garbanzos cocidos"
+   },
+   {
+    "q": "800 g",
+    "item": "tomatenblokjes",
+    "es": "tomate troceado"
+   },
+   {
+    "q": "2 el",
+    "item": "tomatenpuree",
+    "es": "tomate concentrado"
+   },
+   {
+    "q": "2 tl",
+    "item": "gemalen komijn",
+    "es": "comino molido"
+   },
+   {
+    "q": "½ tl",
+    "item": "kaneel",
+    "es": "canela molida"
+   },
+   {
+    "q": "1 tl",
+    "item": "suiker",
+    "es": "azúcar"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "pitabroodjes",
+   "Griekse yoghurt",
+   "verse munt of peterselie"
+  ],
+  "steps": [
+   "Bak de aubergine in twee porties 5–6 minuten bruin in de olie; zo wordt hij zijdezacht in plaats van grijs en sponzig.",
+   "Fruit de uien 4 minuten in dezelfde pan en roer knoflook, komijn en kaneel 1 minuut mee.",
+   "Doe alles met kikkererwten, tomaten, tomatenpuree, suiker en zout in de slowcooker. Voeg geen water toe: aubergine geeft zelf vocht.",
+   "Sluit het deksel en gaar 6–7 uur op LOW of 3–4 uur op HIGH.",
+   "Proef, breng op smaak en serveer met yoghurt, munt en warme pita."
+  ],
+  "tip": "Maghmour is ook lauw of koud heerlijk als mezze, en smaakt de dag erna nog beter. Harissa of chilivlokken zet je apart op tafel.",
+  "kids": "Prak het tot een smeuïge dip en scheur er warme pita bij om te dippen.",
+  "freeze": true,
+  "guid": "fb162945-c955-4c35-896f-1f973576456a",
+  "cuisine": "middle_eastern",
+  "protein": "veg",
+  "side": "bread"
+ },
+ {
+  "id": 89,
+  "title": "Japanse nikujaga met rund en aardappel",
+  "chapter": "Wereldgerechten",
+  "price": "12–14",
+  "spice": 1,
+  "vega": false,
+  "prep": "15 min",
+  "low": "7–8 uur",
+  "high": "4–5 uur",
+  "intro": "Rundvlees en aardappel in een zoet-hartige sojabouillon: Japans huiskost dat net zo vertrouwd smaakt als een Hollandse stoofpot.",
+  "ingredients": [
+   {
+    "q": "600 g",
+    "item": "runderstoofvlees, in blokjes van 2 cm",
+    "es": "carne para guisar de ternera"
+   },
+   {
+    "q": "1 el",
+    "item": "olie",
+    "es": "aceite de girasol"
+   },
+   {
+    "q": "2",
+    "item": "uien, in partjes",
+    "es": "cebollas"
+   },
+   {
+    "q": "600 g",
+    "item": "vastkokende aardappelen, in grote stukken",
+    "es": "patatas para guisar"
+   },
+   {
+    "q": "2",
+    "item": "wortels, schuin in stukken",
+    "es": "zanahorias"
+   },
+   {
+    "q": "400 ml",
+    "item": "kippenbouillon of dashi",
+    "es": "caldo de pollo"
+   },
+   {
+    "q": "4 el",
+    "item": "zoutarme sojasaus",
+    "es": "salsa de soja baja en sal"
+   },
+   {
+    "q": "2 el",
+    "item": "suiker",
+    "es": "azúcar"
+   },
+   {
+    "q": "2 el",
+    "item": "mirin (of 1 el extra suiker)",
+    "es": "mirin (tienda asiática)"
+   },
+   {
+    "q": "150 g",
+    "item": "sperziebonen, in stukjes",
+    "es": "judías verdes finas"
+   }
+  ],
+  "serve": [
+   "witte rijst",
+   "lente-ui",
+   "shichimi togarashi aan tafel"
+  ],
+  "steps": [
+   "Bak vlees en ui 3–4 minuten in hete olie tot het vlees rondom kleur heeft.",
+   "Leg aardappel en wortel onderin de slowcooker en schep vlees en ui erop.",
+   "Roer bouillon, sojasaus, suiker en mirin door elkaar en giet erover. Gaar 7–8 uur op LOW of 4–5 uur op HIGH.",
+   "Leg de sperziebonen er het laatste halfuur bovenop en gaar ze op HIGH met het deksel erop tot ze beetgaar zijn.",
+   "Schep alles in diepe kommen met een flinke lepel van de zoet-zoute bouillon."
+  ],
+  "tip": "Nikujaga betekent letterlijk 'vlees-aardappel'. Kies vastkokende aardappelen in grote stukken, dan blijven ze heel. Geen mirin in huis? Een extra lepel suiker werkt ook.",
+  "kids": "Vlees, aardappel en een zoet sausje: herkenbaar genoeg voor elke kieskeurige eter.",
+  "freeze": false,
+  "guid": "f3df4ad8-c161-40ca-ba0b-5778de8f39f2",
+  "cuisine": "japanese",
+  "protein": "beef",
+  "side": "potato"
+ },
+ {
+  "id": 90,
+  "title": "Sloppy joes met extra groenten",
+  "chapter": "Wereldgerechten",
+  "price": "7–9",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "4–5 uur",
+  "high": "2–3 uur",
+  "intro": "Zoet-hartig gehakt in tomatensaus met stiekem veel groente, op een geroosterd broodje: Amerikaans kliederfeest waar kinderen dol op zijn.",
+  "ingredients": [
+   {
+    "q": "600 g",
+    "item": "rundergehakt",
+    "es": "carne picada de vacuno"
+   },
+   {
+    "q": "1",
+    "item": "ui, gesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "1",
+    "item": "groene paprika, in kleine blokjes",
+    "es": "pimiento verde italiano"
+   },
+   {
+    "q": "1",
+    "item": "wortel, geraspt",
+    "es": "zanahoria"
+   },
+   {
+    "q": "2 tenen",
+    "item": "knoflook, fijngesneden",
+    "es": "ajo"
+   },
+   {
+    "q": "400 g",
+    "item": "tomatenpassata",
+    "es": "tomate triturado"
+   },
+   {
+    "q": "4 el",
+    "item": "ketchup",
+    "es": "kétchup"
+   },
+   {
+    "q": "1 el",
+    "item": "worcestersaus",
+    "es": "salsa Worcestershire (Perrins)"
+   },
+   {
+    "q": "1 el",
+    "item": "bruine suiker",
+    "es": "azúcar moreno"
+   },
+   {
+    "q": "1 tl",
+    "item": "zoete paprikapoeder",
+    "es": "pimentón dulce"
+   },
+   {
+    "q": "6",
+    "item": "hamburgerbroodjes",
+    "es": "pan de hamburguesa"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   "plakjes cheddar",
+   "augurk en komkommer",
+   "koolsla"
+  ],
+  "steps": [
+   "Bak het gehakt rul in een hete pan en giet het vet af. Doe rauw gehakt nooit direct in de slowcooker: het klontert en wordt te traag heet.",
+   "Bak ui en paprika 3 minuten mee en roer de knoflook er kort door.",
+   "Schep alles met wortel, passata, ketchup, worcestersaus, suiker, paprikapoeder, zout en peper in de slowcooker. Gaar 4–5 uur op LOW of 2–3 uur op HIGH.",
+   "Is de saus te dun? Laat hem het laatste halfuur zonder deksel op HIGH indikken.",
+   "Rooster de broodjes kort en schep er een flinke lepel gehakt op."
+  ],
+  "tip": "Restjes zijn heerlijk over pasta of in een gepofte aardappel. Voor de volwassenen: een paar druppels Tabasco of wat jalapeño op tafel.",
+  "kids": "Lekker kliederen: geef een vork erbij voor alles wat uit het broodje valt.",
+  "freeze": true,
+  "guid": "bf9884da-79c7-49cd-ac16-9c83b24ff5d2",
+  "cuisine": "american",
+  "protein": "mince",
+  "side": "bread"
+ }
+]

@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const art = require('./art.js');
 const SCENES = require('./scenes.js');
+const { autoScene } = require('./autoscene.js');
 const { THEMES } = require('./themes.js');
 const { LANGS, PATHS, UI } = require('./i18n.js');
 
@@ -43,6 +44,8 @@ for (const L of LANGS) {
   if (!recipes) recipes = NL_RECIPES;
   const text = readJson(`i18n-source.${L}.json`, readJson('i18n-source.nl.json'));
   const byId = {};
+  const haveIds = new Set(recipes.map(r => r.id));
+  recipes = recipes.concat(NL_RECIPES.filter(r => !haveIds.has(r.id)));  // nog niet vertaald: Nederlands als terugval
   recipes.forEach(r => { byId[r.id] = { ...r, ...META[r.id], guid: GUID[r.id], slug: r.slug || slugify(r.title), n: NUM[r.id], nn: String(NUM[r.id]).padStart(2, '0'), ci: CHIDX[r.id] }; });
   const nlText = readJson('i18n-source.nl.json');
   text.chapters = nlText.chapters.map((c, i) => text.chapters[i] || c);
@@ -487,8 +490,9 @@ function notFound() {
 // ---------- assets ----------
 function writeFile(rel, content) { const p = path.join(OUT, rel); fs.mkdirSync(path.dirname(p), { recursive: true }); fs.writeFileSync(p, content); }
 
+function sceneFor(id) { return SCENES[id] || autoScene(NL_RECIPES.find(r => r.id === id)); }
 function dishFile(id) {
-  const sc = { ...SCENES[id], id };
+  const sc = { ...sceneFor(id), id };
   const svg = art.renderDish(sc, { ...T.art, bg: null });
   const ci = CHIDX[id];
   const bg = T.bg(id, chColor(ci));
@@ -519,7 +523,7 @@ function build() {
   V.css = hash(css); V.js = hash(js); V.data = hash(LANGS.map(dataJson).join(''));
   writeFile('css/site.css', css);
   writeFile('js/site.js', js);
-  for (const id of Object.keys(SCENES)) writeFile(`img/dish/${id}.svg`, dishFile(+id));
+  for (const r of NL_RECIPES) writeFile(`img/dish/${r.id}.svg`, dishFile(r.id));
   writeFile('img/hero.svg', heroFile());
   writeFile('favicon.svg', favicon());
   // pages
