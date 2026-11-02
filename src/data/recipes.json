@@ -9513,5 +9513,941 @@
   "cuisine": "dutch",
   "protein": "pork",
   "side": "bread"
+ },
+ {
+  "id": 101,
+  "title": "Milde bloemkool-aardappelcurry met kokos",
+  "chapter": "Vegetarisch",
+  "price": "6–8",
+  "spice": 1,
+  "vega": true,
+  "prep": "15 min",
+  "low": "5–6 uur",
+  "high": "3–4 uur",
+  "intro": "Bloemkool en aardappel in een zachtgele kokossaus met erwtjes: een milde, romige curry die kinderen meteen lusten.",
+  "ingredients": [
+   {
+    "q": "1 el",
+    "item": "olie",
+    "es": "aceite de girasol"
+   },
+   {
+    "q": "1",
+    "item": "ui, gesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "2 teentjes",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "2 tl",
+    "item": "milde kerriepoeder",
+    "es": "curry suave en polvo"
+   },
+   {
+    "q": "½ tl",
+    "item": "kurkuma",
+    "es": "cúrcuma molida"
+   },
+   {
+    "q": "500 g",
+    "item": "vastkokende aardappelen, in blokjes van 2 cm",
+    "es": "patatas"
+   },
+   {
+    "q": "1",
+    "item": "bloemkool, in flinke roosjes",
+    "es": "coliflor"
+   },
+   {
+    "q": "400 g",
+    "item": "tomatenblokjes (1 blik)",
+    "es": "tomate troceado"
+   },
+   {
+    "q": "400 ml",
+    "item": "kokosmelk",
+    "es": "leche de coco"
+   },
+   {
+    "q": "200 ml",
+    "item": "groentebouillon",
+    "es": "caldo de verduras"
+   },
+   {
+    "q": "150 g",
+    "item": "diepvrieserwtjes",
+    "es": "guisantes congelados"
+   },
+   {
+    "q": "",
+    "item": "zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   {
+    "q": "",
+    "item": "basmatirijst",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "naanbrood",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "yoghurt",
+    "es": ""
+   }
+  ],
+  "steps": [
+   "Fruit ui en knoflook 5 minuten in de olie. Roer kerrie en kurkuma erdoor en bak 1 minuut mee, zo komen de specerijen tot leven.",
+   "Leg de aardappel onderin de slowcooker en de bloemkool erop. Schep de uienmix, tomaten, kokosmelk en bouillon erover.",
+   "Sluit het deksel en gaar 5–6 uur op LOW of 3–4 uur op HIGH, tot de aardappel gaar is.",
+   "Roer de bevroren erwtjes erdoor en laat 15 minuten met het deksel erop meewarmen. Breng op smaak met zout."
+  ],
+  "tip": "Snijd de bloemkool in flinke roosjes, dan blijven ze heel. Een kneepje limoen en wat verse koriander vlak voor het serveren maken de curry lekker fris.",
+  "kids": "Prak aardappel en bloemkool met de saus door de rijst: mild, romig en zachtgeel.",
+  "freeze": true,
+  "guid": "34fdecbd-2e08-4a5b-ada6-9b54a4cd890d",
+  "cuisine": "indian",
+  "protein": "veg",
+  "side": "rice"
+ },
+ {
+  "id": 102,
+  "title": "Zelfgemaakte baked beans op toast",
+  "chapter": "Vegetarisch",
+  "price": "4–6",
+  "spice": 1,
+  "vega": true,
+  "prep": "10 min",
+  "low": "5–6 uur",
+  "high": "3 uur",
+  "intro": "Witte bonen in een zoete, dikke tomatensaus, veel lekkerder dan uit blik: Engelse comfort food voor ontbijt of avondeten.",
+  "ingredients": [
+   {
+    "q": "1 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "1",
+    "item": "ui, fijngesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "1 teentje",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "2 potten (à 400 g)",
+    "item": "witte bonen, uitgelekt en gespoeld",
+    "es": "alubias blancas cocidas"
+   },
+   {
+    "q": "500 g",
+    "item": "gezeefde tomaten",
+    "es": "tomate triturado"
+   },
+   {
+    "q": "2 el",
+    "item": "tomatenpuree",
+    "es": "tomate concentrado"
+   },
+   {
+    "q": "1 el",
+    "item": "bruine suiker",
+    "es": "azúcar moreno"
+   },
+   {
+    "q": "1 el",
+    "item": "appelazijn",
+    "es": "vinagre de manzana"
+   },
+   {
+    "q": "1 tl",
+    "item": "zoete paprikapoeder",
+    "es": "pimentón dulce"
+   },
+   {
+    "q": "100 ml",
+    "item": "groentebouillon",
+    "es": "caldo de verduras"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   {
+    "q": "",
+    "item": "geroosterd brood",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "gebakken eitje of roerei",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "geraspte cheddar",
+    "es": ""
+   }
+  ],
+  "steps": [
+   "Fruit ui en knoflook 5 minuten zacht in de olie, zonder dat ze kleuren.",
+   "Doe ze met bonen, tomaat, puree, suiker, azijn, paprikapoeder en bouillon in de slowcooker en roer goed.",
+   "Sluit het deksel en gaar 5–6 uur op LOW of 3 uur op HIGH, tot de saus dik en glanzend is.",
+   "Te dun? Leg het laatste halfuur het deksel op een kier. Breng op smaak met zout, peper en eventueel wat extra suiker of azijn."
+  ],
+  "tip": "Bonen uit pot zijn al gaar en veilig; door het lange trekken nemen ze de saus helemaal op. Restjes zijn de volgende ochtend het lekkerst.",
+  "kids": "Schep de bonen op toast met een gebakken eitje: een Engels ontbijt als avondeten.",
+  "freeze": true,
+  "guid": "85fe7096-4a04-4394-83c1-68de5522cd86",
+  "cuisine": "british",
+  "protein": "veg",
+  "side": "bread"
+ },
+ {
+  "id": 103,
+  "title": "Romige paddenstoelenstroganoff",
+  "chapter": "Vegetarisch",
+  "price": "7–9",
+  "spice": 1,
+  "vega": true,
+  "prep": "20 min",
+  "low": "5–6 uur",
+  "high": "3 uur",
+  "intro": "Gebakken champignons in een zachte paprika-roomsaus: net zo stevig en smeuïg als het vleesorigineel, maar dan helemaal vegetarisch.",
+  "ingredients": [
+   {
+    "q": "1 el",
+    "item": "olie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "1 el",
+    "item": "boter",
+    "es": "mantequilla"
+   },
+   {
+    "q": "750 g",
+    "item": "champignons en paddenstoelen, in plakken",
+    "es": "champiñones laminados y setas variadas"
+   },
+   {
+    "q": "2",
+    "item": "uien, in halve ringen",
+    "es": "cebollas"
+   },
+   {
+    "q": "2 teentjes",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "2 tl",
+    "item": "zoete paprikapoeder",
+    "es": "pimentón dulce"
+   },
+   {
+    "q": "1 el",
+    "item": "tomatenpuree",
+    "es": "tomate concentrado"
+   },
+   {
+    "q": "250 ml",
+    "item": "groentebouillon",
+    "es": "caldo de verduras"
+   },
+   {
+    "q": "1 el",
+    "item": "maizena",
+    "es": "maicena"
+   },
+   {
+    "q": "200 ml",
+    "item": "crème fraîche",
+    "es": "crème fraîche (o nata para cocinar)"
+   },
+   {
+    "q": "1 handje",
+    "item": "verse peterselie",
+    "es": "perejil fresco"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   {
+    "q": "",
+    "item": "rijst",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "tagliatelle",
+    "es": ""
+   }
+  ],
+  "steps": [
+   "Bak de champignons in porties in olie en boter tot ze bruin kleuren; zo krijg je veel smaak en geen waterige saus.",
+   "Fruit uien en knoflook 5 minuten in dezelfde pan. Roer paprikapoeder en puree erdoor en blus af met de bouillon.",
+   "Doe alles in de slowcooker. Sluit het deksel en gaar 5–6 uur op LOW of 3 uur op HIGH.",
+   "Zet op HIGH. Roer de maizena los in 2 el koud water, roer erdoor en laat 15 minuten indikken.",
+   "Zet de slowcooker uit en roer de crème fraîche er pas nu door, zodat hij niet schift. Bestrooi met peterselie."
+  ],
+  "tip": "Champignons geven veel vocht af, dus voeg geen extra bouillon toe. Mix gewone champignons met een bakje setas voor een diepere, bijna vlezige smaak.",
+  "kids": "Lekker over rijst of tagliatelle; snijd de champignons voor kleine eters wat fijner.",
+  "freeze": false,
+  "guid": "da562323-d987-46c0-91bf-c36c45886c35",
+  "cuisine": "european",
+  "protein": "veg",
+  "side": "rice"
+ },
+ {
+  "id": 104,
+  "title": "Romige risotto met doperwten en citroen",
+  "chapter": "Vegetarisch",
+  "price": "6–8",
+  "spice": 1,
+  "vega": true,
+  "prep": "15 min",
+  "low": "2½–3 uur",
+  "high": "1½–2 uur",
+  "intro": "Romige risotto zonder eindeloos roeren: de slowcooker doet het werk, jij roert er alleen erwtjes, citroen en kaas door.",
+  "ingredients": [
+   {
+    "q": "1 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "2 el",
+    "item": "boter (verdeeld)",
+    "es": "mantequilla"
+   },
+   {
+    "q": "1",
+    "item": "ui, fijngesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "1 teentje",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "300 g",
+    "item": "risottorijst",
+    "es": "arroz arborio (o arroz redondo)"
+   },
+   {
+    "q": "1 l",
+    "item": "hete groentebouillon",
+    "es": "caldo de verduras"
+   },
+   {
+    "q": "200 g",
+    "item": "diepvriesdoperwten",
+    "es": "guisantes congelados"
+   },
+   {
+    "q": "1",
+    "item": "citroen",
+    "es": "limón"
+   },
+   {
+    "q": "50 g",
+    "item": "Parmezaanse kaas (of vegetarische harde kaas), geraspt",
+    "es": "queso parmesano rallado"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   {
+    "q": "",
+    "item": "groene salade",
+    "es": ""
+   }
+  ],
+  "steps": [
+   "Fruit ui en knoflook 5 minuten in de olie en 1 el boter. Roer de rijst erdoor en bak 1 minuut tot de korrels glazig zijn.",
+   "Doe de rijst in de slowcooker en giet de hete bouillon erbij. Roer één keer goed door.",
+   "Sluit het deksel en gaar 1½–2 uur op HIGH of 2½–3 uur op LOW, tot de rijst bijna gaar en romig is. Roer halverwege door.",
+   "Roer de doperwten en citroenrasp erdoor en laat 10 minuten met het deksel erop meegaren.",
+   "Zet uit en roer kaas, de rest van de boter en een kneepje citroen erdoor. Laat 2 minuten rusten en serveer direct."
+  ],
+  "tip": "Risotto is in de slowcooker snel klaar en wordt papperig als hij te lang doorgaart: dit is geen gerecht voor de hele dag. Te dik? Roer er wat hete bouillon door.",
+  "kids": "Mild, romig en met zoete erwtjes; strooi er voor kleine eters extra kaas over.",
+  "freeze": false,
+  "guid": "317e00c2-b780-400e-b0d7-03c40895fb64",
+  "cuisine": "italian",
+  "protein": "veg",
+  "side": "rice"
+ },
+ {
+  "id": 105,
+  "title": "Shakshuka met feta",
+  "chapter": "Vegetarisch",
+  "price": "5–7",
+  "spice": 1,
+  "vega": true,
+  "prep": "15 min",
+  "low": "4–5 uur + 30 min HIGH",
+  "high": "2–3 uur + 30 min HIGH",
+  "intro": "Eieren gegaard in een zachte, geurige tomaat-paprikasaus: een feestelijk ontbijt-als-avondeten met brood om te dippen.",
+  "ingredients": [
+   {
+    "q": "2 el",
+    "item": "olijfolie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "1",
+    "item": "ui, gesnipperd",
+    "es": "cebolla"
+   },
+   {
+    "q": "2",
+    "item": "rode paprika's, in reepjes",
+    "es": "pimientos rojos"
+   },
+   {
+    "q": "2 teentjes",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "1 tl",
+    "item": "gemalen komijn",
+    "es": "comino molido"
+   },
+   {
+    "q": "1 tl",
+    "item": "zoete paprikapoeder",
+    "es": "pimentón dulce"
+   },
+   {
+    "q": "800 g",
+    "item": "tomatenblokjes (2 blikken)",
+    "es": "tomate troceado"
+   },
+   {
+    "q": "1 tl",
+    "item": "suiker",
+    "es": "azúcar"
+   },
+   {
+    "q": "6",
+    "item": "eieren",
+    "es": "huevos"
+   },
+   {
+    "q": "75 g",
+    "item": "feta",
+    "es": "queso feta"
+   },
+   {
+    "q": "1 handje",
+    "item": "verse peterselie of koriander",
+    "es": "perejil fresco"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   {
+    "q": "",
+    "item": "stokbrood of pitabroodjes",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "yoghurt",
+    "es": ""
+   }
+  ],
+  "steps": [
+   "Fruit ui en paprika 5 minuten in de olie. Roer knoflook, komijn en paprikapoeder erdoor en bak 1 minuut mee.",
+   "Doe alles met de tomaten en suiker in de slowcooker. Sluit het deksel en gaar 4–5 uur op LOW of 2–3 uur op HIGH.",
+   "Zet op HIGH en breng de saus op smaak. Maak met een lepel zes kuiltjes en schuif in elk kuiltje een ei.",
+   "Sluit het deksel en gaar 20–30 minuten, tot het eiwit helemaal gestold is. Voor jonge kinderen laat je ook de dooier stevig worden.",
+   "Verkruimel de feta erover, bestrooi met peterselie en schep de eieren met saus voorzichtig op."
+  ],
+  "tip": "Breek elk ei eerst in een kopje, dan schuift het heel in de saus. Maak gerust dubbel saus: zonder eieren kun je hem prima invriezen.",
+  "kids": "Geef ze stokbrood om in de tomatensaus te dippen, met een stevig gegaard eitje erbij.",
+  "freeze": false,
+  "guid": "8a0aabe0-76d8-48b6-b1b6-0cfa1100efef",
+  "cuisine": "middle_eastern",
+  "protein": "veg",
+  "side": "bread"
+ },
+ {
+  "id": 106,
+  "title": "Zalm met romige prei en krieltjes",
+  "chapter": "Vis & Garnalen",
+  "price": "13–16",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "5–6 uur + 40 min HIGH",
+  "high": "3 uur + 40 min HIGH",
+  "intro": "Krieltjes en zachte prei garen urenlang; de zalm stoomt het laatste halfuur mee op een romig bedje met citroen en dille.",
+  "ingredients": [
+   {
+    "q": "1 el",
+    "item": "boter",
+    "es": "mantequilla"
+   },
+   {
+    "q": "2",
+    "item": "preien, in ringen",
+    "es": "puerros"
+   },
+   {
+    "q": "1 teentje",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "600 g",
+    "item": "krieltjes, gehalveerd",
+    "es": "patatas baby"
+   },
+   {
+    "q": "200 ml",
+    "item": "groentebouillon",
+    "es": "caldo de verduras"
+   },
+   {
+    "q": "100 ml",
+    "item": "kookroom",
+    "es": "nata para cocinar"
+   },
+   {
+    "q": "1 tl",
+    "item": "milde mosterd",
+    "es": "mostaza suave"
+   },
+   {
+    "q": "4 (ca. 500 g)",
+    "item": "zalmfilets zonder vel, ontdooid",
+    "es": "lomos de salmón"
+   },
+   {
+    "q": "1",
+    "item": "citroen",
+    "es": "limón"
+   },
+   {
+    "q": "1 handje",
+    "item": "verse dille of peterselie",
+    "es": "eneldo fresco"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   {
+    "q": "",
+    "item": "groene salade",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "doperwten",
+    "es": ""
+   }
+  ],
+  "steps": [
+   "Smelt de boter en fruit prei en knoflook 5 minuten zacht. Leg de krieltjes onderin de slowcooker en schep de prei erop.",
+   "Giet de bouillon erover en breng op smaak. Gaar 5–6 uur op LOW of 3 uur op HIGH, tot de krieltjes zacht zijn.",
+   "Zet op HIGH. Roer room en mosterd door de prei. Leg de zalm erop en bestrooi met zout, peper en citroenrasp.",
+   "Sluit het deksel en gaar 30–40 minuten, tot de zalm net lichtroze is en makkelijk uit elkaar valt.",
+   "Bestrooi met dille en knijp er citroen over. Schep zalm, prei en krieltjes samen op."
+  ],
+  "tip": "Ontdooi diepvrieszalm een nacht in de koelkast. Kookroom kan beter tegen warmte dan gewone room en schift daardoor niet in dat laatste halfuur.",
+  "kids": "Prak zalm, krieltjes en romige prei door elkaar; check wel even op graatjes.",
+  "freeze": false,
+  "guid": "823e3c68-168d-4744-9fec-115622c8d123",
+  "cuisine": "european",
+  "protein": "fish",
+  "side": "potato"
+ },
+ {
+  "id": 107,
+  "title": "Milde vistaco's met paprika-tomatensaus",
+  "chapter": "Vis & Garnalen",
+  "price": "10–12",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "4–5 uur + 30 min HIGH",
+  "high": "2–3 uur + 30 min HIGH",
+  "intro": "Witte vis die op het eind in een zachte paprika-tomatensaus gaart, in warme tortilla's met frisse koolsla: vrijdagavondfeest.",
+  "ingredients": [
+   {
+    "q": "1 el",
+    "item": "olie",
+    "es": "aceite de oliva"
+   },
+   {
+    "q": "1",
+    "item": "ui, in reepjes",
+    "es": "cebolla"
+   },
+   {
+    "q": "2",
+    "item": "paprika's, in reepjes",
+    "es": "pimientos"
+   },
+   {
+    "q": "1 teentje",
+    "item": "knoflook",
+    "es": "ajo"
+   },
+   {
+    "q": "400 g",
+    "item": "tomatenblokjes (1 blik)",
+    "es": "tomate troceado"
+   },
+   {
+    "q": "1 tl",
+    "item": "zoete paprikapoeder",
+    "es": "pimentón dulce"
+   },
+   {
+    "q": "½ tl",
+    "item": "gemalen komijn",
+    "es": "comino molido"
+   },
+   {
+    "q": "600 g",
+    "item": "witvisfilet (heek of kabeljauw), ontdooid",
+    "es": "filetes de merluza o bacalao fresco"
+   },
+   {
+    "q": "1",
+    "item": "limoen",
+    "es": "lima"
+   },
+   {
+    "q": "8",
+    "item": "kleine tortilla's",
+    "es": "tortillas de trigo"
+   },
+   {
+    "q": "200 g",
+    "item": "koolsla (zakje)",
+    "es": "ensalada de col"
+   },
+   {
+    "q": "",
+    "item": "zout",
+    "es": ""
+   }
+  ],
+  "serve": [
+   {
+    "q": "",
+    "item": "zure room",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "avocado",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "geraspte kaas",
+    "es": ""
+   }
+  ],
+  "steps": [
+   "Fruit ui, paprika en knoflook 5 minuten in de olie. Roer paprikapoeder en komijn erdoor en doe alles met de tomaten in de slowcooker.",
+   "Gaar 4–5 uur op LOW of 2–3 uur op HIGH, tot de paprika zacht en de saus dik is.",
+   "Zet op HIGH. Leg de vis in grote stukken op de saus, bestrooi met zout en limoenrasp en gaar 20–30 minuten met het deksel erop.",
+   "Trek de vis met twee vorken in grove stukken en schep hem voorzichtig door de saus. Knijp er limoensap over.",
+   "Verwarm de tortilla's kort in een droge pan. Vul ze met vis, saus en een handje koolsla."
+  ],
+  "tip": "Vis is gaar zodra hij ondoorzichtig wit is en makkelijk uit elkaar valt; langer garen maakt hem droog. Diepvriesfilets eerst een nacht in de koelkast ontdooien.",
+  "kids": "Laat ze hun eigen taco bouwen met vis, sla, kaas en een lepel zure room.",
+  "freeze": false,
+  "guid": "58f73e2f-ab7e-401e-9290-8f4ed1ee023c",
+  "cuisine": "mexican",
+  "protein": "fish",
+  "side": "tortilla"
+ },
+ {
+  "id": 108,
+  "title": "Appel-kaneelhavermout voor het ontbijt",
+  "chapter": "Zoet uit de slowcooker",
+  "price": "3–4",
+  "spice": 1,
+  "vega": true,
+  "prep": "10 min",
+  "low": "6–7 uur",
+  "high": "2–2½ uur",
+  "intro": "Zet hem 's avonds aan en word wakker met warme, romige havermout met appel en kaneel: ontbijt zonder ochtendstress.",
+  "ingredients": [
+   {
+    "q": "1 el",
+    "item": "boter",
+    "es": "mantequilla"
+   },
+   {
+    "q": "160 g",
+    "item": "grove havermout",
+    "es": "copos de avena (gruesos)"
+   },
+   {
+    "q": "600 ml",
+    "item": "melk",
+    "es": "leche semidesnatada"
+   },
+   {
+    "q": "600 ml",
+    "item": "water",
+    "es": ""
+   },
+   {
+    "q": "2",
+    "item": "appels, in blokjes",
+    "es": "manzanas"
+   },
+   {
+    "q": "30 g",
+    "item": "rozijnen",
+    "es": "pasas"
+   },
+   {
+    "q": "1 tl",
+    "item": "kaneel",
+    "es": "canela molida"
+   },
+   {
+    "q": "1 snufje",
+    "item": "zout",
+    "es": ""
+   },
+   {
+    "q": "2 el",
+    "item": "honing of bruine suiker",
+    "es": "miel o azúcar moreno"
+   }
+  ],
+  "serve": [
+   {
+    "q": "",
+    "item": "yoghurt",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "plakjes banaan",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "pindakaas",
+    "es": ""
+   }
+  ],
+  "steps": [
+   "Vet de binnenpan royaal in met boter, vooral onderin en langs de randen: havermout bakt anders snel aan.",
+   "Doe havermout, melk, water, appel, rozijnen, kaneel en zout in de slowcooker en roer goed door.",
+   "Sluit het deksel en gaar 6–7 uur op LOW, bijvoorbeeld 's nachts, of 2–2½ uur op HIGH.",
+   "Roer de pap goed door en zoet naar smaak met honing of suiker. Te dik? Roer er een scheut warme melk door."
+  ],
+  "tip": "Grove havermout houdt bij lang garen beter structuur dan fijne vlokken. Wordt je slowcooker erg heet, zet hem dan na 5 uur op WARM. Geen honing voor baby's onder 1 jaar.",
+  "kids": "Laat ze zelf hun toppings kiezen: banaan, yoghurt of een extra snufje kaneel.",
+  "freeze": false,
+  "guid": "c4006d9f-0e1d-4f99-9d7b-ec63cf6c9a07",
+  "cuisine": "european",
+  "protein": "sweet",
+  "side": "none"
+ },
+ {
+  "id": 109,
+  "title": "Appelcrumble met kaneel uit de slowcooker",
+  "chapter": "Zoet uit de slowcooker",
+  "price": "4–6",
+  "spice": 1,
+  "vega": true,
+  "prep": "20 min",
+  "low": "3½–4 uur",
+  "high": "2–2½ uur",
+  "intro": "Zachte kaneelappels onder een boterige kruimellaag, warm uit de slowcooker: het makkelijkste toetje voor een zondagmiddag.",
+  "ingredients": [
+   {
+    "q": "6",
+    "item": "zoetzure appels",
+    "es": "manzanas Golden o Fuji"
+   },
+   {
+    "q": "1 el",
+    "item": "citroensap",
+    "es": "limón"
+   },
+   {
+    "q": "100 g",
+    "item": "bruine suiker (verdeeld)",
+    "es": "azúcar moreno"
+   },
+   {
+    "q": "1 tl",
+    "item": "kaneel",
+    "es": "canela molida"
+   },
+   {
+    "q": "1 el",
+    "item": "maizena",
+    "es": "maicena"
+   },
+   {
+    "q": "125 g",
+    "item": "bloem",
+    "es": "harina de trigo"
+   },
+   {
+    "q": "75 g",
+    "item": "havermout",
+    "es": "copos de avena"
+   },
+   {
+    "q": "100 g",
+    "item": "koude boter, in blokjes",
+    "es": "mantequilla"
+   },
+   {
+    "q": "",
+    "item": "boter om in te vetten en keukenpapier",
+    "es": "papel de cocina"
+   }
+  ],
+  "serve": [
+   {
+    "q": "",
+    "item": "vanillevla",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "vanille-ijs",
+    "es": ""
+   },
+   {
+    "q": "",
+    "item": "Griekse yoghurt",
+    "es": ""
+   }
+  ],
+  "steps": [
+   "Schil de appels, snijd ze in partjes en meng ze in de ingevette slowcooker met citroensap, 2 el suiker, kaneel en maizena.",
+   "Wrijf bloem, havermout, de rest van de suiker en de koude boter met je vingertoppen tot grove kruimels. Strooi die gelijkmatig over de appels.",
+   "Leg twee lagen keukenpapier over de opening en zet het deksel erop: zo druppelt de condens niet op je crumble.",
+   "Gaar 2–2½ uur op HIGH of 3½–4 uur op LOW, tot de appels zacht zijn en het sap aan de randen borrelt.",
+   "Voor een krokanter dek: leg het laatste halfuur het deksel op een kier. Serveer lauw met vla of ijs."
+  ],
+  "tip": "Uit de slowcooker wordt crumble minder krokant dan uit de oven. Rooster daarom een extra handje kruimels 5 minuten in een droge pan en strooi die bij het serveren erover.",
+  "kids": "Laat ze de kruimels maken: boter en bloem tussen de vingers wrijven is echt kinderwerk.",
+  "freeze": false,
+  "guid": "96614da2-4b9c-44c0-adb3-6f16473033ed",
+  "cuisine": "british",
+  "protein": "sweet",
+  "side": "none"
+ },
+ {
+  "id": 110,
+  "title": "Flan met karamel uit de slowcooker",
+  "chapter": "Zoet uit de slowcooker",
+  "price": "3–4",
+  "spice": 1,
+  "vega": true,
+  "prep": "20 min",
+  "low": "2½–3 uur",
+  "high": "1½–2 uur",
+  "intro": "Zijdezachte Spaanse karamelpudding, au bain-marie gegaard in de slowcooker: geen oven nodig en gegarandeerd zonder gaatjes.",
+  "ingredients": [
+   {
+    "q": "4 el",
+    "item": "vloeibare karamel",
+    "es": "caramelo líquido"
+   },
+   {
+    "q": "4",
+    "item": "eieren",
+    "es": "huevos"
+   },
+   {
+    "q": "500 ml",
+    "item": "volle melk",
+    "es": "leche entera"
+   },
+   {
+    "q": "80 g",
+    "item": "suiker",
+    "es": "azúcar"
+   },
+   {
+    "q": "1 tl",
+    "item": "vanille-extract",
+    "es": "aroma de vainilla"
+   },
+   {
+    "q": "1 reepje",
+    "item": "citroenschil",
+    "es": "limón"
+   },
+   {
+    "q": "6",
+    "item": "hittebestendige potjes of vormpjes",
+    "es": "flaneras"
+   },
+   {
+    "q": "",
+    "item": "aluminiumfolie, keukenpapier en heet water",
+    "es": "papel de aluminio"
+   }
+  ],
+  "serve": [],
+  "steps": [
+   "Verdeel de karamel over de potjes en zet ze naast elkaar op de bodem van de slowcooker.",
+   "Verwarm de melk met de citroenschil tot net onder de kook. Klop eieren, suiker en vanille glad, zonder veel schuim.",
+   "Giet de warme melk al roerend bij de eieren. Zeef het mengsel, verdeel over de potjes en dek elk potje af met folie.",
+   "Giet heet water rond de potjes tot halverwege. Leg keukenpapier onder het deksel en gaar 2½–3 uur op LOW of 1½–2 uur op HIGH.",
+   "Klaar als de rand stevig is en het midden nog licht trilt. Laat afkoelen en minstens 4 uur in de koelkast opstijven."
+  ],
+  "tip": "Te veel hitte geeft gaatjes, dus kies liever LOW. Omkeren? Ga met een mesje langs de rand, leg een bordje erop en keer in één vlotte beweging om.",
+  "kids": "Laat ze zelf omkeren: karamel die over de flan loopt is altijd een wow-moment.",
+  "freeze": false,
+  "guid": "601d941f-ff9b-47a9-a83c-3a664ffef175",
+  "cuisine": "spanish",
+  "protein": "sweet",
+  "side": "none"
  }
 ]

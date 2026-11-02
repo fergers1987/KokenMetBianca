@@ -81,7 +81,7 @@
     "tip": "Zuurkool heet in Spanje chucrut: in pot bij Lidl en Carrefour, soms bij Mercadona. Proef eerst; is hij erg zuur, spoel hem dan in een vergiet onder koud water.",
     "kids": "Meer aardappel, minder zuurkool en een extra plakje worst: zo valt het zure mee voor jonge proevers.",
     "freeze": false,
-    "guid": "06586fce-ce88-47bd-b5f6-41f64b3684bf",
+    "guid": "b9157681-47ec-434b-8537-8e748b1b5972",
     "cuisine": "dutch",
     "protein": "pork",
     "side": "potato"
@@ -168,7 +168,7 @@
     "tip": "Klapstuk kent de Spaanse slager niet: vraag om falda of aguja para guisar, met een randje vet. Veel kookvocht over? Kook het in een steelpan in tot jus.",
     "kids": "Hutspot is oranje, zacht en zoet: maak een kuiltje voor de jus en het bord is zo leeg.",
     "freeze": true,
-    "guid": "ba36d93c-de16-4c95-b4e5-96c6601ffb3e",
+    "guid": "30095d1c-5619-4df6-b2b1-0c84cb63cbcf",
     "cuisine": "dutch",
     "protein": "beef",
     "side": "potato"
@@ -260,14 +260,14 @@
     "tip": "Kippendijen met bot geven de rijkste saus en blijven sappig. Haal het vel eraf: in de vochtige slowcooker wordt het nooit krokant, alleen slap.",
     "kids": "Trek de kip van het bot over de tagliatelle. Kook je voor kinderen, kies dan mosto tinto.",
     "freeze": true,
-    "guid": "c9cee845-6e15-4445-9c87-8d83cc838984",
+    "guid": "7b58571c-2812-4404-a369-e95fd15fd3be",
     "cuisine": "french",
     "protein": "chicken",
     "side": "pasta"
   },
   {
     "id": 94,
-    "title": "Britse kip-preistoof met bladerdeegdakje",
+    "title": "Normandische kip met appel en room",
     "chapter": "Hollands & Europees",
     "price": "8–10",
     "spice": 1,
@@ -275,42 +275,47 @@
     "prep": "20 min",
     "low": "5–6 uur",
     "high": "3 uur",
-    "intro": "Britse chicken & leek pie, maar makkelijk: romige kip-preistoof uit de slowcooker met een krokant bladerdeegdakje uit de oven.",
+    "intro": "Poulet à la normande: kippendijen met appel, ui en champignons in een romige saus. Met appelsap in plaats van cider, dus kindproof.",
     "ingredients": [
       {
-        "q": "700 g",
-        "item": "kippendijfilet, in blokjes",
+        "q": "8",
+        "item": "kippendijfilets (ca. 800 g)",
         "es": "contramuslos de pollo deshuesados"
       },
       {
-        "q": "2 el",
+        "q": "1 el",
         "item": "bloem",
         "es": "harina de trigo"
       },
       {
-        "q": "2",
-        "item": "preien, in ringen",
-        "es": "puerros"
+        "q": "1 el",
+        "item": "boter",
+        "es": "mantequilla"
       },
       {
-        "q": "2",
-        "item": "wortels, in blokjes",
-        "es": "zanahorias"
+        "q": "1",
+        "item": "ui, gesnipperd",
+        "es": "cebolla"
       },
       {
         "q": "200 g",
-        "item": "champignons, in kwarten",
-        "es": "champiñones"
+        "item": "champignons, in plakjes",
+        "es": "champiñones laminados"
       },
       {
-        "q": "300 ml",
+        "q": "250 ml",
+        "item": "troebel appelsap",
+        "es": "zumo de manzana"
+      },
+      {
+        "q": "100 ml",
         "item": "kippenbouillon",
         "es": "caldo de pollo"
       },
       {
         "q": "1 tl",
-        "item": "mosterd",
-        "es": "mostaza"
+        "item": "Dijon-mosterd",
+        "es": "mostaza de Dijon"
       },
       {
         "q": "1 tl",
@@ -318,19 +323,14 @@
         "es": "tomillo"
       },
       {
-        "q": "100 ml",
+        "q": "2",
+        "item": "handappels (Golden), in partjes",
+        "es": "manzanas Golden"
+      },
+      {
+        "q": "150 ml",
         "item": "kookroom",
         "es": "nata para cocinar"
-      },
-      {
-        "q": "1 rol",
-        "item": "bladerdeeg uit het koelvak",
-        "es": "masa de hojaldre refrigerada"
-      },
-      {
-        "q": "1",
-        "item": "ei, losgeklopt",
-        "es": "huevo"
       },
       {
         "q": "",
@@ -338,21 +338,24 @@
         "es": ""
       }
     ],
-    "serve": [],
-    "steps": [
-      "Hussel de kip met bloem, zout en peper. Doe kip, prei, wortel en champignons in de slowcooker.",
-      "Roer bouillon, mosterd en tijm door elkaar en giet erover. Gaar 5–6 uur op LOW of 3 uur op HIGH.",
-      "Verwarm in het laatste halfuur de oven op 200 °C. Snijd het bladerdeeg in 4 rechthoeken, bestrijk met ei en bak 15–18 minuten goudbruin.",
-      "Roer de kookroom door de stoof en laat 10 minuten op HIGH doorwarmen. Te dun? Bind met een theelepel maizena in koud water.",
-      "Schep de stoof in diepe borden en leg op elk bord een bladerdeegdakje. Direct serveren, dan blijft het deeg krokant."
+    "serve": [
+      "aardappelpuree of gebakken krieltjes",
+      "sperziebonen"
     ],
-    "tip": "Bladerdeeg wordt in de slowcooker klef, daarom bak je het apart. Geen oven? De airfryer op 190 °C doet het in 10–12 minuten. Hojaldre ligt in elk Spaans koelvak.",
-    "kids": "Laat de kinderen hun eigen dakje uitsteken met een koekvormpje: ster, hart of dinosaurus.",
+    "steps": [
+      "Bestrooi de kip met bloem, zout en peper en bak hem in boter goudbruin. Leg hem in de slowcooker.",
+      "Bak ui en champignons 3 minuten in dezelfde pan. Blus af met appelsap en bouillon, roer mosterd en tijm erdoor en giet over de kip.",
+      "Gaar 5–6 uur op LOW of 3 uur op HIGH. Leg de appelpartjes er het laatste uur bovenop, zo blijven ze heel.",
+      "Roer de kookroom erdoor en laat nog een halfuur op HIGH zonder deksel indikken.",
+      "Proef en breng op smaak met peper en zout; een scheutje appelazijn of citroensap maakt de saus frisser."
+    ],
+    "tip": "In Normandië gaat er cider of calvados in, maar alcohol kookt in een gesloten slowcooker slecht weg. Troebel appelsap met een snuf mosterd geeft dezelfde fruitige diepte.",
+    "kids": "Zoete appel en romige saus over puree: snijd de kip in reepjes en ze eten het zelf.",
     "freeze": false,
-    "guid": "aa1df023-0a79-4a57-b0a9-35d11e10ba86",
-    "cuisine": "british",
+    "guid": "7bcb687e-fff1-4b88-8b43-9b32b44182d8",
+    "cuisine": "french",
     "protein": "chicken",
-    "side": "none"
+    "side": "potato"
   },
   {
     "id": 95,
@@ -441,102 +444,97 @@
     "tip": "Geen oven aan? Verdeel de puree in de slowcooker over het vlees, strooi de kaas erop en laat nog 20 minuten op HIGH staan. Minder krokant, net zo lekker.",
     "kids": "Zoete appel, zachte puree en gesmolten kaas: laat ze zelf hun 'bergje met verrassing' scheppen.",
     "freeze": true,
-    "guid": "75384381-533a-40bb-babd-330ce922c0c9",
+    "guid": "3c96c5a6-f3e0-4e40-ac42-fce34cb7685c",
     "cuisine": "dutch",
     "protein": "beef",
     "side": "potato"
   },
   {
     "id": 96,
-    "title": "Kip cacciatore met paprika en olijven",
+    "title": "Gehaktbrood met krieltjes en jus",
     "chapter": "Hollands & Europees",
-    "price": "8–10",
+    "price": "7–9",
     "spice": 1,
     "vega": false,
     "prep": "20 min",
-    "low": "5–6 uur",
-    "high": "3 uur",
-    "intro": "Italiaanse jagerskip: kippendijen in een milde tomatensaus met paprika, champignons en olijven. Lekker bij pasta of een stuk brood.",
+    "low": "6–7 uur",
+    "high": "3–4 uur",
+    "intro": "Hollands gehaktbrood zoals vroeger, maar extra sappig uit de slowcooker, bovenop krieltjes en wortel die in de jus meegaren.",
     "ingredients": [
       {
-        "q": "8",
-        "item": "kippendijfilets (ca. 800 g)",
-        "es": "contramuslos de pollo deshuesados"
-      },
-      {
-        "q": "1 el",
-        "item": "olijfolie",
-        "es": "aceite de oliva"
+        "q": "600 g",
+        "item": "half-om-half gehakt",
+        "es": "carne picada mixta (cerdo y ternera)"
       },
       {
         "q": "1",
-        "item": "ui, in parten",
-        "es": "cebolla"
-      },
-      {
-        "q": "2",
-        "item": "paprika's (rood en geel), in repen",
-        "es": "pimientos rojos y amarillos"
-      },
-      {
-        "q": "200 g",
-        "item": "champignons",
-        "es": "champiñones"
-      },
-      {
-        "q": "2",
-        "item": "teentjes knoflook",
-        "es": "ajo"
-      },
-      {
-        "q": "400 g",
-        "item": "tomatenblokjes",
-        "es": "tomate troceado"
-      },
-      {
-        "q": "1 el",
-        "item": "tomatenpuree",
-        "es": "tomate concentrado"
-      },
-      {
-        "q": "100 ml",
-        "item": "kippenbouillon",
-        "es": "caldo de pollo"
-      },
-      {
-        "q": "1 tl",
-        "item": "gedroogde oregano en rozemarijn",
-        "es": "orégano y romero"
+        "item": "ei",
+        "es": "huevo"
       },
       {
         "q": "50 g",
-        "item": "zwarte olijven zonder pit",
-        "es": "aceitunas negras sin hueso"
+        "item": "paneermeel",
+        "es": "pan rallado"
+      },
+      {
+        "q": "1",
+        "item": "ui, fijngesnipperd",
+        "es": "cebolla"
+      },
+      {
+        "q": "1 tl",
+        "item": "zoete paprikapoeder",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "500 g",
+        "item": "krieltjes, gehalveerd",
+        "es": "patatas pequeñas (baby)"
+      },
+      {
+        "q": "3",
+        "item": "wortels, in stukken",
+        "es": "zanahorias"
+      },
+      {
+        "q": "200 ml",
+        "item": "runderbouillon",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "2 el",
+        "item": "ketchup",
+        "es": "kétchup"
+      },
+      {
+        "q": "1 el",
+        "item": "maizena",
+        "es": "maicena"
       },
       {
         "q": "",
-        "item": "peper en zout",
-        "es": ""
+        "item": "peper, zout en nootmuskaat",
+        "es": "nuez moscada"
       }
     ],
     "serve": [
-      "spaghetti of penne",
-      "stokbrood"
+      "appelmoes",
+      "sperziebonen of sla"
     ],
     "steps": [
-      "Bestrooi de kip met zout en peper en bak hem kort goudbruin in olijfolie. Optioneel, maar het geeft meer smaak.",
-      "Leg ui, paprika en champignons in de slowcooker en leg de kip erop.",
-      "Roer knoflook, tomatenblokjes, tomatenpuree, bouillon en kruiden door elkaar en giet over de kip. Weinig vocht: de groenten geven zelf sap af.",
-      "Gaar 5–6 uur op LOW of 3 uur op HIGH. Roer het laatste halfuur de olijven erdoor.",
-      "Trek de kip eventueel in grove stukken en proef op peper en zout. Serveer met pasta of brood."
+      "Leg krieltjes en wortel onderin de slowcooker en giet de bouillon erover. Zo ligt het gehaktbrood straks droog en wordt het niet papperig.",
+      "Meng gehakt, ei, paneermeel, ui, paprikapoeder, nootmuskaat, zout en peper. Kneed kort en vorm een ovaal brood dat in je slowcooker past.",
+      "Leg het brood op de groenten en bestrijk de bovenkant met ketchup.",
+      "Gaar 6–7 uur op LOW of 3–4 uur op HIGH. Het gehaktbrood is gaar bij 75 °C in de kern, of als het vleesvocht helder is.",
+      "Til het brood eruit en laat 5 minuten rusten. Bind de jus met maizena in koud water, laat 10 minuten op HIGH koken en snijd plakken."
     ],
-    "tip": "Klassiek gaat er een scheut wijn in, maar die kookt in de slowcooker nauwelijks in. Wil je toch die diepte, roer dan aan het eind een theelepel balsamico door de saus.",
-    "kids": "Halveer de olijven of laat ze weg; zoete paprika in tomatensaus vinden de meeste kinderen prima.",
+    "tip": "Vouw een lange strook bakpapier dubbel en leg die als hangmat onder het brood: zo til je het er heel uit. Restjes zijn koud heerlijk op brood.",
+    "kids": "Een plak gehaktbrood met ketchup en krieltjes: snijd hun plak in soldaatjes om te dippen.",
     "freeze": true,
-    "guid": "8f6f86a4-4607-43f8-9bb6-1fa2d8128718",
-    "cuisine": "italian",
-    "protein": "chicken",
-    "side": "pasta"
+    "guid": "789437d6-a0a3-48ef-89b4-8eb4f2acc509",
+    "cuisine": "dutch",
+    "protein": "mince",
+    "side": "potato"
   },
   {
     "id": 97,
@@ -619,7 +617,7 @@
     "tip": "Dit is geen recept om de hele dag te laten staan: pasta wordt snel papperig. Ideaal voor een middag thuis. Goudse kaas vind je als queso gouda bij Lidl en Mercadona.",
     "kids": "Kinderkost pur sang. Laat ze extra kaas strooien en noem de erwtjes 'groene parels'.",
     "freeze": false,
-    "guid": "fb246f1a-db56-4d37-a7fa-215f35a3589c",
+    "guid": "f5bf389e-0f7f-4cbb-b8ab-80163bf8f6db",
     "cuisine": "dutch",
     "protein": "pork",
     "side": "pasta"
@@ -705,42 +703,42 @@
     "tip": "Wil je een heldere soep? Kook de balletjes eerst 3 minuten in water en giet dat schuimwater weg. Invriezen kan prima, maar dan zonder vermicelli.",
     "kids": "Tel samen de balletjes in elke kom: iedereen evenveel, dan is er geen ruzie aan tafel.",
     "freeze": true,
-    "guid": "718713a6-1264-4203-ac3a-a1c9697f8ab7",
+    "guid": "b7fbcbf1-db31-490e-9aa3-92e9bb91d8cb",
     "cuisine": "dutch",
     "protein": "mince",
     "side": "bread"
   },
   {
     "id": 99,
-    "title": "Kip paprikash met zure room",
-    "chapter": "Hollands & Europees",
+    "title": "Lasagne bolognese uit de slowcooker",
+    "chapter": "Budgetfavorieten",
     "price": "8–10",
     "spice": 1,
     "vega": false,
-    "prep": "20 min",
-    "low": "5–6 uur",
-    "high": "3 uur",
-    "intro": "Hongaarse paprikakip, zacht gehouden: kippendijen in een fluweelzachte saus van zoete paprika, ui en zure room. Heerlijk bij brede noedels.",
+    "prep": "25 min",
+    "low": "4–5 uur",
+    "high": "2½–3 uur",
+    "intro": "Lasagne zonder oven: laagjes milde gehaktsaus, lasagnebladen en romige bechamel garen rustig in de slowcooker. Snijden, scheppen, smullen.",
     "ingredients": [
-      {
-        "q": "8",
-        "item": "kippendijfilets (ca. 800 g)",
-        "es": "contramuslos de pollo deshuesados"
-      },
       {
         "q": "1 el",
         "item": "olie",
-        "es": "aceite de girasol"
+        "es": "aceite de oliva"
       },
       {
-        "q": "2",
-        "item": "uien, gesnipperd",
-        "es": "cebollas"
+        "q": "500 g",
+        "item": "rundergehakt",
+        "es": "carne picada de ternera"
       },
       {
         "q": "1",
-        "item": "rode paprika, in reepjes",
-        "es": "pimiento rojo"
+        "item": "ui, fijngesnipperd",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "wortels, geraspt",
+        "es": "zanahorias"
       },
       {
         "q": "2",
@@ -748,29 +746,34 @@
         "es": "ajo"
       },
       {
-        "q": "2 el",
-        "item": "zoete paprikapoeder (niet gerookt)",
-        "es": "pimentón dulce (no ahumado)"
+        "q": "500 ml",
+        "item": "tomatenpassata",
+        "es": "tomate triturado"
       },
       {
-        "q": "1 el",
+        "q": "2 el",
         "item": "tomatenpuree",
         "es": "tomate concentrado"
       },
       {
-        "q": "200 ml",
-        "item": "kippenbouillon",
-        "es": "caldo de pollo"
+        "q": "1 tl",
+        "item": "gedroogde Italiaanse kruiden",
+        "es": "orégano o hierbas italianas"
       },
       {
-        "q": "1 el",
-        "item": "bloem",
-        "es": "harina de trigo"
+        "q": "10",
+        "item": "lasagnebladen (zonder voorkoken)",
+        "es": "placas de lasaña sin precocción"
       },
       {
-        "q": "150 ml",
-        "item": "zure room of volle Griekse yoghurt",
-        "es": "nata agria o yogur griego natural"
+        "q": "500 ml",
+        "item": "bechamelsaus uit pak",
+        "es": "salsa bechamel (brik)"
+      },
+      {
+        "q": "150 g",
+        "item": "geraspte mozzarella",
+        "es": "mozzarella rallada"
       },
       {
         "q": "",
@@ -779,23 +782,22 @@
       }
     ],
     "serve": [
-      "brede eiernoedels of tagliatelle",
-      "komkommersalade"
+      "groene salade"
     ],
     "steps": [
-      "Bak de kip in olie kort goudbruin en leg hem in de slowcooker. Fruit de uien in dezelfde pan 5 minuten zacht.",
-      "Haal de pan van het vuur en roer paprikapoeder en knoflook erdoor; zo verbrandt de paprika niet en wordt hij niet bitter.",
-      "Roer tomatenpuree en bouillon erdoor en giet over de kip. Leg de paprikareepjes erop.",
-      "Gaar 5–6 uur op LOW of 3 uur op HIGH, tot de kip mals is.",
-      "Klop de bloem door de zure room, roer er wat hete saus door en dan alles door de stoof. Nog 15 minuten op HIGH."
+      "Bak het gehakt rul in olie met ui, wortel en knoflook. Roer passata, tomatenpuree, kruiden, zout en peper erdoor. Niet inkoken: de bladen hebben vocht nodig.",
+      "Vet de binnenpan in. Schep een dun laagje saus op de bodem en leg daarop lasagnebladen, gebroken zodat ze passen.",
+      "Bouw laagjes: saus, bechamel, een handje kaas, bladen. Herhaal en eindig met saus, bechamel en de rest van de kaas.",
+      "Gaar 4–5 uur op LOW of 2½–3 uur op HIGH, tot een mes zonder weerstand door de bladen glijdt.",
+      "Zet de slowcooker uit en laat de lasagne 15 minuten zonder deksel opstijven. Dan snijd je nette punten."
     ],
-    "tip": "Kies pimentón dulce, niet picante of ahumado: de zoete versie is mild en geeft de echte paprikash-kleur. Zuivel pas aan het eind toevoegen, anders schift het.",
-    "kids": "Rode saus, zachte kip en brede noedels om op te slurpen: snijd de kip klein voor de jongsten.",
-    "freeze": false,
-    "guid": "0993dc61-5a44-4964-838a-b6f743f90479",
-    "cuisine": "hungarian",
-    "protein": "chicken",
-    "side": "pasta"
+    "tip": "Leg een vel keukenpapier onder het deksel tegen druipend condens, dan blijft de kaaslaag mooi. Langer dan 5 uur op LOW maakt de randen droog.",
+    "kids": "Verstopte groente: de geraspte wortel smelt in de saus. Laat ze zelf de laatste laag kaas strooien.",
+    "freeze": true,
+    "guid": "ff01a930-78b9-4153-a552-3bb443f90a38",
+    "cuisine": "italian",
+    "protein": "mince",
+    "side": "none"
   },
   {
     "id": 100,
@@ -883,7 +885,7 @@
     "tip": "Bonen uit pot zijn al gekookt en dus veilig. Gebruik je gedroogde bonen, kook ze dan eerst minstens 10 minuten flink door: de slowcooker wordt daarvoor niet heet genoeg.",
     "kids": "Pureer hun portie helemaal glad en laat ze er croutons of geraspte kaas op strooien.",
     "freeze": true,
-    "guid": "b874cfa7-d841-493a-a9b5-a14e6f30a3f4",
+    "guid": "07c02e0f-301d-43d1-ab79-3866b5cd085d",
     "cuisine": "dutch",
     "protein": "pork",
     "side": "bread"

@@ -81,7 +81,7 @@
     "tip": "Ontbijtkoek vind je zelden in Spanje; Lotus-koekjes binden en kruiden de jus net zo goed. Te dun? Laat de hachee een halfuur zonder deksel op HIGH indikken.",
     "kids": "Draadjesvlees met puree en een kuiltje jus: zacht en zoetig. Vis de uienringen eruit voor kieskeurige eters.",
     "freeze": true,
-    "guid": "2ec3d861-381d-473a-ba64-a6b6c3ecc62f",
+    "guid": "17352670-6087-466b-95c0-173d938c1cfe",
     "cuisine": "dutch",
     "protein": "beef",
     "side": "potato"
@@ -172,7 +172,7 @@
     "tip": "Spliterwten zijn soms lastig: kijk bij Carrefour, Lidl-themaweken of een internationale winkel. Snert wordt na een nacht in de koelkast nóg dikker; verdun bij opwarmen met water.",
     "kids": "Schep een kommetje soep met plakjes worst en geef er een geroosterd broodje bij om te dippen.",
     "freeze": true,
-    "guid": "701b482d-f7e6-4aa1-b029-7877f282d1ae",
+    "guid": "73774aa0-644b-4064-a71b-17bf86094ba4",
     "cuisine": "dutch",
     "protein": "pork",
     "side": "bread"
@@ -264,7 +264,7 @@
     "tip": "Zonder alcohol: neem mosto tinto (rood druivensap, in elke Spaanse supermarkt) met een eetlepel azijn tegen de zoetheid. Geen sjalotten? Halveer gewone kleine uien.",
     "kids": "Kook je met wijn, dan blijft er altijd wat alcohol over; mosto tinto is de veilige kindversie.",
     "freeze": true,
-    "guid": "c578b699-1582-4191-8041-17258b699485",
+    "guid": "825e22d0-8a36-4a5e-9f4d-9534d4f5eadf",
     "cuisine": "french",
     "protein": "beef",
     "side": "potato"
@@ -356,7 +356,7 @@
     "tip": "Kippendijen blijven sappig in de slowcooker, filet wordt sneller droog. Gebruik altijd ontdooide kip: bevroren vlees blijft te lang lauw, en dan kunnen bacteriën groeien.",
     "kids": "Mosterd wordt mild en zoetig door het garen. Snijd de kip in reepjes, met saus over rijst.",
     "freeze": false,
-    "guid": "1b10c4d0-fdf4-4aec-9991-4c508baefa8a",
+    "guid": "9b48c964-7418-448c-9cac-ad5d9d9e8c24",
     "cuisine": "french",
     "protein": "chicken",
     "side": "rice"
@@ -449,7 +449,7 @@
     "tip": "Luikse siroop vind je hier zelden. Honing met appelmoes komt verrassend dichtbij; heb je appelstroop uit Nederland, gebruik die. Draai de ballen met natte handen, dan plakt niets.",
     "kids": "Halveer een balletje, doop de frietjes in de zoete saus en klaar: Belgisch frituurgevoel zonder frituur.",
     "freeze": true,
-    "guid": "a8236255-ace8-4898-8abc-80c6f4053491",
+    "guid": "79fc3b78-c36f-45b4-8c8a-bf2a7274424a",
     "cuisine": "european",
     "protein": "mince",
     "side": "potato"
@@ -541,7 +541,7 @@
     "tip": "Gebruik bonen uit pot of blik. Gedroogde rode kidneybonen moeten eerst 10 minuten hard koken: de slowcooker wordt niet heet genoeg om hun gifstof af te breken.",
     "kids": "Snijd de worstjes in muntjes en serveer met puree: een zelfgemaakte, minder zoete versie van baked beans.",
     "freeze": true,
-    "guid": "ad80d3aa-a231-4759-b0b6-88510a34906c",
+    "guid": "7eedeef9-6b39-487f-a095-b2419d447870",
     "cuisine": "british",
     "protein": "pork",
     "side": "potato"
@@ -633,77 +633,77 @@
     "tip": "Invriezen? Doe dat zonder pasta: die zuigt de soep op en wordt slap. Kook bij het opwarmen gewoon een handje verse pasta mee.",
     "kids": "Kies sterretjes- of lettertjespasta en laat ze zelf kaas strooien: dan verdwijnt de groente vanzelf.",
     "freeze": true,
-    "guid": "14b5e862-ecd5-453b-b67e-731db14da8d9",
+    "guid": "09d26882-bb3c-4c64-8a63-f31d8a76d5a2",
     "cuisine": "italian",
     "protein": "veg",
     "side": "bread"
   },
   {
     "id": 58,
-    "title": "Gevulde paprika's met gehakt en rijst",
+    "title": "Britse varkensstoof met prei en tijm",
     "chapter": "Budgetfavorieten",
     "price": "7–9",
     "spice": 1,
     "vega": false,
     "prep": "20 min",
-    "low": "5–6 uur",
-    "high": "3 uur",
-    "intro": "Hongaarse töltött paprika, mild gehouden: paprika's gevuld met gehakt en rijst, langzaam gegaard in tomatensaus. Een compleet bordje in één.",
+    "low": "7–8 uur",
+    "high": "5–6 uur",
+    "intro": "Britse pork casserole: varkensschouder, prei en wortel in een milde jus met mosterd en een vleugje honing. Goedkoop vlees, rijk resultaat.",
     "ingredients": [
       {
-        "q": "4",
-        "item": "grote paprika's (rood of geel)",
-        "es": "pimientos rojos o amarillos"
+        "q": "750 g",
+        "item": "varkensschouder of -nek, in grote blokken",
+        "es": "paleta o aguja de cerdo"
       },
       {
-        "q": "400 g",
-        "item": "rundergehakt of half-om-half",
-        "es": "carne picada"
+        "q": "1 el",
+        "item": "bloem",
+        "es": "harina de trigo"
       },
       {
-        "q": "150 g",
-        "item": "gekookte rijst (restje of kant-en-klaar)",
-        "es": "arroz cocido (vasitos)"
+        "q": "1 el",
+        "item": "olie",
+        "es": "aceite de girasol"
       },
       {
         "q": "1",
-        "item": "kleine ui, fijngesnipperd",
+        "item": "ui, gesnipperd",
         "es": "cebolla"
       },
       {
-        "q": "1",
-        "item": "ei",
-        "es": "huevo"
+        "q": "2",
+        "item": "preien, in ringen",
+        "es": "puerros"
+      },
+      {
+        "q": "2",
+        "item": "wortels, in stukken",
+        "es": "zanahorias"
+      },
+      {
+        "q": "400 ml",
+        "item": "kippenbouillon",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "2 tl",
+        "item": "Dijon-mosterd",
+        "es": "mostaza de Dijon"
+      },
+      {
+        "q": "1 el",
+        "item": "appelazijn",
+        "es": "vinagre de manzana"
+      },
+      {
+        "q": "1 el",
+        "item": "honing",
+        "es": "miel"
       },
       {
         "q": "1 tl",
-        "item": "zoete paprikapoeder",
-        "es": "pimentón dulce"
-      },
-      {
-        "q": "500 ml",
-        "item": "tomatenpassata",
-        "es": "tomate triturado"
-      },
-      {
-        "q": "100 ml",
-        "item": "water",
-        "es": ""
-      },
-      {
-        "q": "1 tl",
-        "item": "suiker",
-        "es": "azúcar"
-      },
-      {
-        "q": "1 tl",
-        "item": "gedroogde oregano",
-        "es": "orégano"
-      },
-      {
-        "q": "75 g",
-        "item": "geraspte kaas",
-        "es": "queso rallado (mozzarella o emmental)"
+        "item": "gedroogde tijm en 2 laurierblaadjes",
+        "es": "tomillo y laurel"
       },
       {
         "q": "",
@@ -712,22 +712,23 @@
       }
     ],
     "serve": [
-      "stokbrood voor de saus"
+      "aardappelpuree",
+      "doperwten"
     ],
     "steps": [
-      "Snijd de kapjes van de paprika's en verwijder de zaadlijsten. Snijd ze zo nodig onderaan recht, zodat ze stabiel staan.",
-      "Meng gehakt, rijst, ui, ei, paprikapoeder, zout en peper en vul de paprika's losjes.",
-      "Roer passata, water, suiker en oregano door elkaar in de slowcooker. Zet de paprika's rechtop in de saus en leg de kapjes erop.",
-      "Gaar 5–6 uur op LOW of 3 uur op HIGH. De vulling is gaar als die vanbinnen niet meer roze is (75 °C).",
-      "Strooi de kaas erover en laat met deksel nog 10–15 minuten smelten. Schep bij het serveren saus over de paprika's."
+      "Snijd overtollig vet van het vlees: in de slowcooker smelt dat niet weg. Bestrooi met bloem, zout en peper en bak in porties bruin.",
+      "Leg wortel, ui en prei onderin de slowcooker en schep het vlees erop.",
+      "Blus de pan af met bouillon, mosterd, azijn en honing en schraap de aanbaksels los. Giet over het vlees en voeg tijm en laurier toe.",
+      "Gaar 7–8 uur op LOW of 5–6 uur op HIGH, tot het vlees met een vork uit elkaar valt.",
+      "Vis de laurier eruit en proef. Te dun? Bind met een theelepel maizena in koud water en laat 15 minuten op HIGH doorkoken."
     ],
-    "tip": "Gebruik voorgekookte rijst: rauwe rijst in een stevige gehaktvulling blijft hard. Een restje van gisteren of een vasito arroz cocido uit de supermarkt is perfect.",
-    "kids": "Vinden ze paprika spannend? Geef dan eerst alleen de vulling met saus; de paprika proeven ze later.",
-    "freeze": false,
-    "guid": "17a0aeaf-4c47-4fdf-a3b1-0a18b27f4b76",
-    "cuisine": "hungarian",
-    "protein": "mince",
-    "side": "bread"
+    "tip": "Varkensschouder (paleta) is in Spanje goedkoop en wordt boterzacht. Het vocht hoeft het vlees niet te bedekken: het deksel houdt alles vast, dus minder is meer.",
+    "kids": "Trek het vlees in draadjes door de puree en maak er een kuiltje met jus in.",
+    "freeze": true,
+    "guid": "09ad2c7b-db6c-4fb1-9e05-988f1353e387",
+    "cuisine": "british",
+    "protein": "pork",
+    "side": "potato"
   },
   {
     "id": 59,
@@ -815,7 +816,7 @@
     "tip": "Kalkoendij (muslo de pavo) blijft sappiger dan filet en is vaak goedkoper; bij filet de kortste tijd aanhouden. Diepvrieserwtjes mogen bevroren erbij, de stoof is dan al heet.",
     "kids": "Rijst met witte saus, erwtjes en zachte stukjes kalkoen: het milde bordje dat bijna elk kind lust.",
     "freeze": false,
-    "guid": "2afce712-abf6-4255-94fb-4ea6fdb05f5c",
+    "guid": "d22e8d01-3fe5-4e28-9ebc-47f1f700cd5c",
     "cuisine": "dutch",
     "protein": "chicken",
     "side": "rice"
@@ -904,7 +905,7 @@
     "tip": "Pasta wordt in de slowcooker snel te zacht: zet vanaf 25 minuten een wekker en proef. Volkorenpasta heeft iets langer nodig en blijft steviger.",
     "kids": "Laat de kinderen zelf de kaas strooien; de broccoliboompjes tussen de pasta vallen dan nauwelijks op.",
     "freeze": false,
-    "guid": "1025acdb-c2d1-4b13-bc06-bb6bf5682ad2",
+    "guid": "0768e71f-f55a-430b-8557-dbe37951f527",
     "cuisine": "italian",
     "protein": "chicken",
     "side": "pasta"
