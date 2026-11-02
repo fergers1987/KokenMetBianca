@@ -1,7 +1,7 @@
 {
  "content": {
-  "cover_kicker": "The slow cooker book for families in Spain",
-  "cover_subtitle": "30 affordable family recipes, mild enough for kids",
+  "cover_kicker": "Slow cooker recipes for families on the Costa del Sol",
+  "cover_subtitle": "Affordable family recipes, mild enough for kids",
   "cover_badges": [
    "Serves 4",
    "From €1.50 per person",
@@ -62,15 +62,27 @@
    "Budget Favourites": {
     "tagline": "Lots of flavour for little money",
     "intro": "Simple, nourishing dishes that prove good food does not have to be expensive. Lentil soup, old-fashioned chicken stew and mince and vegetable stew, for €6 to €10 per meal."
+   },
+   "Vegetarian": {
+    "tagline": "Vegetables in the starring role",
+    "intro": "Pulses, vegetables and grains that cook gently for hours until they are full of flavour. Hearty enough for the whole family, and easy on the wallet too."
+   },
+   "Sweet slow cooker treats": {
+    "tagline": "Puddings and breakfasts that look after themselves",
+    "intro": "Rice pudding, stewed fruit and warm puddings: the slow cooker does the stirring for you. Perfect for the weekend or a birthday."
+   },
+   "More from the slow cooker": {
+    "tagline": "Baking and basics",
+    "intro": "Bread, yoghurt, stock, jam and more: handy things you can leave the slow cooker to make quietly while you get on with something else."
    }
   },
   "basics_title": "Slow cooker basics: how to get the most out of it",
   "glossary_title": "Your shopping list in Spanish",
   "glossary_intro": "This list helps you quickly find what you need in the Spanish supermarket. For example, boneless chicken thighs are 'contramuslo de pollo' and cooking cream is 'nata para cocinar'.",
   "back_cover_headline": "Delicious family meals without hours in the kitchen",
-  "back_cover_blurb": "A warm meal on the table without spending the whole afternoon in the kitchen? With this book you chop a little, brown briefly and let the slow cooker do the rest. Thirty affordable recipes for four people, mildly spiced so the kids can eat along. From Dutch beef stew to mild curry, with ingredients from the Spanish supermarket.",
+  "back_cover_blurb": "A warm meal on the table without spending the whole afternoon in the kitchen? With this book you chop a little, brown briefly and let the slow cooker do the rest. Affordable recipes for four people, mildly spiced so the kids can eat along. From Dutch beef stew to mild curry, with ingredients from the Spanish supermarket.",
   "back_cover_bullets": [
-   "30 recipes serving 4 (2 adults + 2 children)",
+   "Recipes serving 4 (2 adults + 2 children)",
    "Guide price €6–12 per meal",
    "Mildly spiced, kids eat along",
    "Ingredients from the Spanish supermarket",
@@ -79,9 +91,9 @@
   "toc_title": "What's for dinner today?",
   "closing_line": "Switch on the slow cooker, set the table and enjoy it together. Enjoy your meal!",
   "note_s": "Prices are guide prices (2026 price level) for the whole meal. Every slow cooker is different: treat the times as a guideline.",
-  "in_book": "What you will find in this book: 30 recipes · 5 chapters · slow cooker basics · shopping list in Spanish.",
+  "in_book": "What you will find in this book: recipes by chapter · slow cooker basics · shopping list in Spanish.",
   "signature": "Love, Bianca",
-  "site_intro": "This site brings together all 30 slow cooker recipes from the book, with every ingredient listed under its Spanish supermarket name. You will also find a supermarket guide for the Costa del Sol, so shopping in Spain is quick and easy."
+  "site_intro": "This site brings together all the slow cooker recipes, with every ingredient listed under its Spanish supermarket name. You will also find a supermarket guide for the Costa del Sol, so shopping in Spain is quick and easy."
  },
  "basics": [
   [
@@ -457,7 +469,10 @@
   "Spanish & Mediterranean",
   "World Dishes",
   "Fish & Prawns",
-  "Budget Favourites"
+  "Budget Favourites",
+  "Vegetarian",
+  "Sweet slow cooker treats",
+  "More from the slow cooker"
  ],
  "spiceWords": [
   "Mild",

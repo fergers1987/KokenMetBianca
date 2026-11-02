@@ -217,11 +217,31 @@
     }
     var NUMRE = /(\d+(?:[.,]\d+)?[½¼¾]?|[½¼¾⅓⅔])/g;
     function scaleText(q, f) { return f === 1 ? q : q.replace(NUMRE, function (t) { var v = num(t); return isNaN(v) ? t : fmt(v * f, q.slice(q.indexOf(t) + t.length).trim()); }); }
+    // eenheden gelijktrekken: enkelvoud/meervoud/afkortingen tellen als één eenheid
+    // [sleutel, enkelvoud, meervoud, tel-eenheid?]
+    var UNITS = [
+      [/^(teen|tenen|teentje|teentjes)$/, 'teen', 'teen', 'tenen', 1], [/^(diente|dientes)$/, 'diente', 'diente', 'dientes', 1],
+      [/^(clove|cloves)$/, 'clove', 'clove', 'cloves', 1], [/^(zehe|zehen)$/, 'zehe', 'Zehe', 'Zehen', 1], [/^(gousse|gousses)$/, 'gousse', 'gousse', 'gousses', 1],
+      [/^(stuk|stuks|stuk\(s\)|pieza|piezas|piece|pieces|stück|pièce|pièces)$/, 'stuk', null, null, 1],
+      [/^(el|eetlepel|eetlepels)$/, 'el', 'el', 'el'], [/^(tl|theelepel|theelepels)$/, 'tl', 'tl', 'tl'],
+      [/^(cda|cdas|cucharada|cucharadas)$/, 'cda', 'cda', 'cdas'], [/^(cdta|cdtas|cucharadita|cucharaditas)$/, 'cdta', 'cdta', 'cdtas'],
+      [/^(tbsp|tablespoons?)$/, 'tbsp', 'tbsp', 'tbsp'], [/^(tsp|teaspoons?)$/, 'tsp', 'tsp', 'tsp'],
+      [/^(el\.?|essl(öffel)?)$/, 'el', 'EL', 'EL'], [/^(tl\.?|teel(öffel)?)$/, 'tl', 'TL', 'TL'],
+      [/^(c\. à s\.|cuillère à soupe|cuillères à soupe)$/, 'cas', 'c. à s.', 'c. à s.'], [/^(c\. à c\.|cuillère à café|cuillères à café)$/, 'cac', 'c. à c.', 'c. à c.'],
+      [/^(blik|blikken|blikje|blikjes)$/, 'blik', 'blik', 'blikken'], [/^(lata|latas)$/, 'lata', 'lata', 'latas'], [/^(tins?|cans?)$/, 'tin', 'tin', 'tins'],
+      [/^(dose|dosen)$/, 'dose', 'Dose', 'Dosen'], [/^(boîte|boîtes)$/, 'boite', 'boîte', 'boîtes'],
+      [/^(gr|gram|grams|gramm|g)$/, 'g', 'g', 'g'], [/^(ml|milliliter|millilitre)$/, 'ml', 'ml', 'ml'], [/^(kg|kilo)$/, 'kg', 'kg', 'kg'], [/^(l|liter|litre|litro|litros|liters|litres)$/, 'l', 'liter', 'liter']
+    ];
+    function unitInfo(u) {
+      var t = u.toLowerCase().replace(/\s+/g, ' ').trim();
+      for (var i = 0; i < UNITS.length; i++) if (UNITS[i][0].test(t)) return { key: UNITS[i][1], one: UNITS[i][2] || u, many: UNITS[i][3] || u, count: !!UNITS[i][4] };
+      return { key: t, one: u, many: u, count: false };
+    }
     function parseQ(q) { // simple "500 g" / "2" / "1 el" -> {v, unit}
       var m = String(q).trim().match(/^(\d+(?:[.,]\d+)?[½¼¾]?|[½¼¾⅓⅔])\s*([^\d+()–-]*)$/);
       return m ? { v: num(m[1]), unit: m[2].trim() } : null;
     }
-    function cleanName(s) { return s.replace(/\s*\(.*?\)/g, '').split(',')[0].trim(); }
+    function cleanName(s) { return s.replace(/\s*\(.*?\)/g, '').split(',')[0].trim().replace(/^(tenen|teentjes?|teen|cloves?|dientes?|zehen?|gousses?)\s+(de\s+|d'|of\s+)?/i, ''); }
     var checks = function () { return readJson(CKEY, {}); };
     function setCheck(k, on) { var c = checks(); if (on) c[k] = 1; else delete c[k]; store.set(CKEY, JSON.stringify(c)); }
     function own() { var a = readJson(OKEY, []); return Array.isArray(a) ? a : []; }
@@ -238,13 +258,16 @@
           if (row.recipes.indexOf(r.t) < 0) row.recipes.push(r.t);
           if (!q) return;
           var pq = parseQ(q);
-          if (pq && !isNaN(pq.v)) { var uk = pq.unit.toLowerCase(); row.sums[uk] = (row.sums[uk] || { v: 0, unit: pq.unit }); row.sums[uk].v += pq.v * f; }
+          if (pq && !isNaN(pq.v)) { var ui = unitInfo(pq.unit), uk = ui.key; row.sums[uk] = (row.sums[uk] || { v: 0, info: ui }); row.sums[uk].v += pq.v * f; }
           else row.parts.push(scaleText(q, f));
         });
       });
       Object.keys(rows).forEach(function (k) {
         var row = rows[k];
-        var qs = Object.keys(row.sums).map(function (u) { var s = row.sums[u]; return (fmt(s.v, s.unit) + ' ' + s.unit).trim(); });
+        // kale aantallen ("1") horen bij een tel-eenheid als die er is ("2 tenen" -> "3 tenen")
+        var countKey = Object.keys(row.sums).filter(function (u) { return u && row.sums[u].info.count; })[0];
+        if (countKey && row.sums['']) { row.sums[countKey].v += row.sums[''].v; delete row.sums['']; }
+        var qs = Object.keys(row.sums).map(function (u) { var s = row.sums[u], name = s.v > 1 ? s.info.many : s.info.one; return (fmt(s.v, name) + ' ' + name).trim(); });
         row.qty = qs.concat(row.parts).join(' + ');
       });
       return { dishes: dishes.sort(function (a, b) { return a.r.n - b.r.n; }), rows: Object.keys(rows).map(function (k) { return rows[k]; }) };
