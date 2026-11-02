@@ -4,7 +4,7 @@ from playwright.sync_api import sync_playwright
 root = pathlib.Path(__file__).resolve().parent.parent
 hero = (root / 'dist' / 'img' / 'hero.svg').read_text(encoding='utf-8').replace('<svg ', '<svg class="art" ', 1)
 import json, subprocess
-brands = json.loads(subprocess.run(['node', '-e', "const {UI,LANGS}=require('./src/i18n.js');console.log(JSON.stringify(LANGS.map(L=>[L,UI[L].brand,UI[L].brandSub,UI[L].by])))"], cwd=root, capture_output=True, text=True, check=True).stdout)
+brands = json.loads(subprocess.run(['node', '-e', "const {UI,LANGS}=require('./src/i18n.js');console.log(JSON.stringify(LANGS.map(L=>[L,UI[L].brand,UI[L].brandSub,UI[L].by])))"], cwd=root, capture_output=True, text=True, encoding='utf-8', check=True).stdout)
 with sync_playwright() as p:
     b = p.chromium.launch(); pg = b.new_page(viewport={'width': 1200, 'height': 630})
     for L, (b1, b2), sub, by in brands:
