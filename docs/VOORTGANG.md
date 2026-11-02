@@ -18,7 +18,11 @@ Zie ook `docs/AFSPRAKEN.md` voor alle afspraken.
 ## Nog te doen
 1. **Bezoekers meten:** Cloudflare Web Analytics aanzetten (gebruiker, via het dashboard).
 2. **Contactformulier activeren:** gebouwd en verborgen. De gebruiker doet eerst de Cloudflare-stappen (zie `docs/CONTACTFORMULIER.md`), en daarna koppelt Claude het ontvangstadres en de Turnstile-sleutel.
-3. **SEO en vindbaarheid via AI:** de bestaande SEO nalopen en aanvullen.
+3. **Aanmelden bij zoekmachines (gebruiker):** de SEO op de site zelf is af (zie AFSPRAKEN). Wat nog moet:
+   - Google Search Console: domein slowcookerspain.com toevoegen (verificatie via Cloudflare gaat automatisch) en `https://slowcookerspain.com/sitemap.xml` indienen.
+   - Bing Webmaster Tools: importeren vanuit Google Search Console. Belangrijk voor ChatGPT en Copilot, die zoeken via Bing.
+   - Cloudflare → Caching → Configuration → Crawler Hints aanzetten. Dat meldt wijzigingen automatisch aan Bing en anderen (IndexNow).
+   - In Cloudflare "Block AI bots" en AI Crawl Control **niet** aanzetten, anders verdwijnt de site uit AI-antwoorden.
 
 ## Mogelijke vervolgstappen (nog niet afgesproken)
 - De PDF ook in ES, EN, DE en FR.

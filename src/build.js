@@ -72,6 +72,7 @@ const u = {
   contact: L => `/${L}/${PATHS[L].contact}/`,
 };
 const dishImg = id => `/img/dish/${id}.svg`;
+const dishJpg = id => fs.existsSync(path.join(ROOT, 'public', 'img', 'dish', `${id}.jpg`)) ? `/img/dish/${id}.jpg` : null;  // gemaakt met tools/dishjpg.py
 const brand = L => UI[L].brand.join(' ');
 const PDF = (() => { const f = path.join(ROOT, 'public', 'downloads', 'smaakvol-koken.pdf'); if (!fs.existsSync(f)) return null;
   const buf = fs.readFileSync(f); const m = buf.toString('latin1').match(/\/Type\s*\/Pages[^>]*\/Count\s+(\d+)/); return { url: '/downloads/smaakvol-koken.pdf', mb: (buf.length / 1048576).toFixed(0), pages: m ? m[1] : '' }; })();
@@ -112,7 +113,7 @@ function tags(L, r, compact = false) {
 function alternates(key, id) {
   return LANGS.map(L => { const href = key === 'recipe' ? u.recipe(L, id) : u[key](L); return { L, href }; });
 }
-function layout(L, { title, desc, body, key, id, jsonld, ogImage, noindex, head }) {
+function layout(L, { title, desc, body, key, id, jsonld, ogImage, ogSize, noindex, head }) {
   const ui = UI[L];
   const alts = alternates(key, id);
   const canonical = alts.find(a => a.L === L).href;
@@ -133,6 +134,9 @@ ${alts.map(a => `<link rel="alternate" hreflang="${a.L}" href="${SITE}${a.href}"
 <meta property="og:locale" content="${ui.locale}">
 <meta property="og:site_name" content="${esc(brand(L))}">
 ${SITE ? `<meta property="og:image" content="${SITE}${ogImage || `/img/og-${L}.png`}">` : ''}
+<meta property="og:image:width" content="${(ogSize || [1200, 630])[0]}"><meta property="og:image:height" content="${(ogSize || [1200, 630])[1]}">
+${SITE ? `<meta property="og:url" content="${SITE}${canonical}">` : ''}
+<meta name="twitter:card" content="${ogSize ? 'summary' : 'summary_large_image'}">
 <meta name="theme-color" content="${T.vars.bg}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -260,7 +264,9 @@ ${dlBlock(L)}
   </div>
   <ul class="chain-chips">${MARKETS.slice(0, 10).map(m => `<li>${esc(m.name)}</li>`).join('')}</ul>
 </section>`;
-  return layout(L, { title: `${brand(L)} – ${c.cover_kicker}`, desc: c.site_intro || c.back_cover_blurb, body, key: 'home' });
+  const jsonld = { '@context': 'https://schema.org', '@type': 'WebSite', name: brand(L), alternateName: LANGS.filter(x => x !== L).map(brand), url: `${SITE}${u.home(L)}`, inLanguage: L,
+    description: c.site_intro || c.back_cover_blurb, author: { '@type': 'Person', name: 'Bianca Manuela Seegers' } };
+  return layout(L, { title: `${brand(L)} – ${c.cover_kicker}`, desc: c.site_intro || c.back_cover_blurb, body, key: 'home', jsonld });
 }
 
 function recipesPage(L) {
@@ -313,7 +319,7 @@ function recipesPage(L) {
   <ul class="cards" id="cards">${D[L].list.map(r => card(L, r)).join('')}</ul>
   <p class="none" id="none" hidden data-none="${esc(ui.none)}" data-nofavs="${esc(ui.noFavs)}">${ui.none}</p>
 </section>`;
-  return layout(L, { title: `${ui.nav.recipes} – ${brand(L)}`, desc: tx.content.back_cover_blurb, body, key: 'recipes' });
+  return layout(L, { title: `${ui.seo.recipes} – ${brand(L)}`, desc: tx.content.back_cover_blurb, body, key: 'recipes', jsonld: itemList(L, D[L].list) });
 }
 
 function buyChips(L, es) {
@@ -335,17 +341,22 @@ function recipePage(L, r) {
   const grp = r.kind === 'extra' ? D[L].extras : D[L].list;
   const idx = grp.indexOf(r), prev = grp[idx - 1], next = grp[idx + 1];
   const shop = r.ingredients.concat(r.serve).map(i => `${i.q ? i.q + ' ' : ''}${i.item}${L !== 'es' && i.es ? ` (${i.es})` : ''}`).join('\n');
-  const lowH = hours(r.low), prepM = parseInt(r.prep, 10) || 15;
-  const jsonld = {
-    '@context': 'https://schema.org', '@type': 'Recipe', name: r.title, alternateName: r.name_es || undefined, description: r.intro, inLanguage: L,
+  const lowH = hours(r.low), prepM = parseInt(r.prep, 10) || 15, cookM = lowH ? Math.round(lowH * 60) : 0;
+  const jpg = dishJpg(r.id), seo = ui.seo;
+  const crumbs = r.kind === 'extra' ? [[ui.more.title, u.more(L)]] : [[ui.nav.recipes, u.recipes(L)]];
+  const recipe = {
+    '@type': 'Recipe', '@id': `${SITE}${u.recipe(L, r.id)}#recipe`, url: `${SITE}${u.recipe(L, r.id)}`, name: r.title, alternateName: r.name_es || undefined, description: r.intro, inLanguage: L,
     author: { '@type': 'Person', name: 'Bianca Manuela Seegers' }, recipeYield: '4', recipeCategory: tx.chapters[r.ci],
-    prepTime: `PT${prepM}M`, cookTime: lowH ? `PT${Math.round(lowH * 60)}M` : undefined,
+    prepTime: `PT${prepM}M`, cookTime: cookM ? `PT${cookM}M` : undefined, totalTime: `PT${prepM + cookM}M`,
+    recipeCuisine: ui.cuisines[r.cuisine] || undefined,
     recipeIngredient: r.ingredients.concat(r.serve).map(i => `${i.q} ${i.item}`.trim()),
     recipeInstructions: r.steps.map(s => ({ '@type': 'HowToStep', text: s })),
     suitableForDiet: r.vega ? 'https://schema.org/VegetarianDiet' : undefined,
-    keywords: ['slowcooker', 'slow cooker', 'olla lenta', tx.chapters[r.ci]].join(', '),
-    image: SITE ? [`${SITE}${dishImg(r.id)}`] : undefined,
+    keywords: [...new Set([...seo.words, tx.chapters[r.ci], ui.cuisines[r.cuisine], ui.proteins[r.protein], r.name_es, 'Costa del Sol'].filter(Boolean))].join(', '),
+    image: SITE ? [`${SITE}${jpg || dishImg(r.id)}`] : undefined,
   };
+  const jsonld = { '@context': 'https://schema.org', '@graph': [recipe, { '@type': 'BreadcrumbList', itemListElement: [[brand(L), u.home(L)], ...crumbs, [r.title, u.recipe(L, r.id)]].map(([name, href], i) => ({ '@type': 'ListItem', position: i + 1, name, item: `${SITE}${href}` })) }] };
+  const hasWord = /slow ?cooker|olla lenta|mijoteuse|schongarer/i.test(r.title);
   const body = `
 <article class="recipe" style="--ch:${chColor(r.ci)}" data-guid="${r.guid}">
   <div class="wrap">
@@ -390,7 +401,8 @@ function recipePage(L, r) {
     </nav>
   </div>
 </article>`;
-  return layout(L, { title: `${r.title} – ${brand(L)}`, desc: r.intro, body, key: 'recipe', id: r.id, jsonld });
+  return layout(L, { title: hasWord ? `${r.title} – ${brand(L)}` : `${r.title} – ${seo.recipe} | ${brand(L)}`, desc: r.intro, body, key: 'recipe', id: r.id, jsonld,
+    ogImage: jpg || undefined, ogSize: jpg ? [1200, 1200] : undefined });
 }
 
 function marketPage(L) {
@@ -458,6 +470,7 @@ function dataJson(L) {
   Object.entries(STORES).forEach(([es, s]) => { aisles[es] = [s.aisle_es || '', aisleRank(s.aisle_es), (s.stores || []).filter(n => n !== 'Overal')]; });
   return JSON.stringify({ recipes, aisles });
 }
+const itemList = (L, list) => ({ '@context': 'https://schema.org', '@type': 'ItemList', itemListElement: list.map((r, i) => ({ '@type': 'ListItem', position: i + 1, url: `${SITE}${u.recipe(L, r.id)}`, name: r.title })) });
 function morePage(L) {
   const ui = UI[L], m = ui.more;
   const body = `
@@ -467,7 +480,7 @@ function morePage(L) {
   <p class="lead narrow">${esc(m.lead)}</p>
   <ul class="cards" id="moreCards">${D[L].extras.map(r => card(L, r)).join('')}</ul>
 </section>`;
-  return layout(L, { title: `${m.title} – ${brand(L)}`, desc: m.lead, body, key: 'more' });
+  return layout(L, { title: `${m.title} – ${brand(L)}`, desc: m.lead, body, key: 'more', jsonld: itemList(L, D[L].extras) });
 }
 function listPage(L) {
   const ui = UI[L], l = ui.list;
@@ -506,7 +519,7 @@ function listPage(L) {
     </div>
   </div>
 </section>`;
-  return layout(L, { title: `${l.title} – ${brand(L)}`, desc: l.lead, body, key: 'list' });
+  return layout(L, { title: `${l.title} – ${brand(L)}`, desc: l.lead, body, key: 'list', noindex: true });
 }
 
 function contactPage(L) {
@@ -533,6 +546,28 @@ function contactPage(L) {
     head: '<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>' });
 }
 
+// llms.txt: korte, platte samenvatting van de site voor AI-assistenten (https://llmstxt.org)
+function llmsTxt() {
+  const en = D.en, line = r => `- [${r.title}](${SITE}${u.recipe('en', r.id)})${r.name_es ? ` (Spanish: ${r.name_es})` : ''}: ${r.intro}`;
+  return `# ${LANGS.map(brand).join(' / ')}
+
+> Affordable, mild slow cooker family recipes (4 servings: 2 adults, 2 children) by Bianca Manuela Seegers, for families and expats on the Costa del Sol, Spain. Every ingredient lists its Spanish supermarket name, aisle and the chains where you find it, with realistic 2026 Spanish prices and a budget version.
+
+The site is available in Dutch (source), Spanish, English, German and French; every recipe exists in all five languages.
+
+## Main pages
+${LANGS.map(L => `- [${brand(L)} (${UI[L].langName})](${SITE}${u.home(L)}): ${UI[L].seo.recipes}`).join('\n')}
+- [Supermarket guide, Costa del Sol](${SITE}${u.market('en')}): where to find each ingredient in Spanish supermarkets
+- [Slow cooker basics](${SITE}${u.basics('en')})
+${PDF ? `- [Cookbook PDF (Dutch)](${SITE}${PDF.url})\n` : ''}
+## Recipes
+${en.list.map(line).join('\n')}
+
+## More from the slow cooker
+${en.extras.map(line).join('\n')}
+`;
+}
+
 function rootPage() {
   return `<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${brand('nl')} · ${LANGS.filter(x => x !== 'nl').map(brand).join(' · ')}</title>
@@ -547,7 +582,7 @@ ${LANGS.map(L => `<link rel="alternate" hreflang="${L}" href="${SITE}/${L}/">`).
 function notFound() {
   const L = 'nl';
   const body = `<section class="wrap sec nf"><h1 class="page-title">404</h1>${LANGS.map(x => `<p lang="${x}">${UI[x].notFound} <a href="${u.recipes(x)}">${UI[x].notFoundCta}</a></p>`).join('')}</section>`;
-  return layout(L, { title: `404 – ${brand(L)}`, desc: '', body, key: 'home' }).replace('<html lang="nl">', '<html lang="nl">');
+  return layout(L, { title: `404 – ${brand(L)}`, desc: '', body, key: 'home', noindex: true }).replace('<html lang="nl">', '<html lang="nl">');
 }
 
 // ---------- assets ----------
@@ -599,7 +634,7 @@ function build() {
     put(u.recipes(L), recipesPage(L));
     put(u.market(L), marketPage(L));
     put(u.basics(L), basicsPage(L));
-    put(u.list(L), listPage(L));
+    writeFile(path.join(u.list(L), 'index.html'), listPage(L));  // persoonlijke lijst: niet in de sitemap
     writeFile(`data/${L}.json`, dataJson(L));
     D[L].all.forEach(r => put(u.recipe(L, r.id), recipePage(L, r)));
     put(u.more(L), morePage(L));
@@ -608,6 +643,7 @@ function build() {
   if (SITE) {
     writeFile('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(x => `<url><loc>${SITE}${x}</loc></url>`).join('')}</urlset>`);
     writeFile('robots.txt', `User-agent: *\nAllow: /\nSitemap: ${SITE}/sitemap.xml\n`);
+    writeFile('llms.txt', llmsTxt());
   } else writeFile('robots.txt', 'User-agent: *\nAllow: /\n');
   console.log(`Built ${urls.length} pages (${LANGS.join(', ')}) with theme ${T.key} → dist/`);
 }

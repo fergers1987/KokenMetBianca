@@ -56,6 +56,17 @@ Dit bestand legt vast wat we hebben afgesproken. Lees het voordat je verder bouw
 - Het moet **onzichtbaar blijven** tot de gebruiker anders zegt: `noindex`, niet in de sitemap, geen links (`site.config.json` → `"contact": true` zet het aan).
 - De gebruiker doet de Cloudflare-configuratie later zelf. De mailkoppeling staat pas in `wrangler.jsonc` als het ontvangstadres is bevestigd, anders mislukt de uitrol. Zie `docs/CONTACTFORMULIER.md`.
 
+## SEO en vindbaarheid via AI (afgesproken 2026-11-02)
+- **Recepttitels:** elke recepttitel krijgt het zoekwoord in de eigen taal ("Aardappel-preisoep – slowcookerrecept | Smaakvol Koken"). De woorden staan in `src/i18n.js` → `seo`.
+- **Gestructureerde gegevens (schema.org):**
+  - per recept: Recipe met totale tijd, keuken, zoekwoorden en een JPG-afbeelding, plus een kruimelpad (BreadcrumbList)
+  - home: WebSite
+  - receptenoverzicht en "Meer uit de slowcooker": ItemList
+- **Afbeeldingen:** per recept een JPG van 1200×1200 in `public/img/dish/<id>.jpg`. Die worden ook gebruikt als deelafbeelding. Opnieuw maken met `python tools/dishjpg.py` (na `npm run build`, daarna nog een keer bouwen). Doe dat ook na nieuwe of gewijzigde illustraties.
+- **Niet indexeren:** de boodschappenlijst (persoonlijk), de 404-pagina en het verborgen contactformulier.
+- **AI-tools:** `llms.txt` (in het Engels, met alle recepten) wordt bij elke build gemaakt. `robots.txt` laat alle crawlers toe, ook AI-crawlers. Op 2026-11-02 getest: GPTBot, ClaudeBot, PerplexityBot en OAI-SearchBot krijgen geen blokkade van Cloudflare.
+- **Geen nepbeoordelingen** (aggregateRating) of verzonnen data in de gestructureerde gegevens.
+
 ## Volgorde van werken (afgesproken)
 1. Eerst indelen in basis, extra en topping (en de extra's schrijven), **dan pas vertalen**, zodat we niet twee keer vertalen.
 2. Werk in batches. Na elke batch: bouwen, controleren (geen dode links, geldige SVG's) en dan **commit + push**.
