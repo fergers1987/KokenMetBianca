@@ -187,7 +187,8 @@
   "price_basic": "7–9",
   "cuisine": "spanish",
   "protein": "pork",
-  "side": "bread"
+  "side": "bread",
+  "name_es": "Lentejas con chorizo"
  },
  {
   "id": 3,
@@ -2326,7 +2327,8 @@
   "price_basic": "9–11",
   "cuisine": "spanish",
   "protein": "fish",
-  "side": "bread"
+  "side": "bread",
+  "name_es": "Bacalao guisado con patatas"
  },
  {
   "id": 26,
@@ -2500,7 +2502,8 @@
   "price_basic": "7–9",
   "cuisine": "spanish",
   "protein": "pork",
-  "side": "bread"
+  "side": "bread",
+  "name_es": "Patatas a la riojana"
  },
  {
   "id": 28,
@@ -2850,7 +2853,8 @@
   "price_basic": "6–8",
   "cuisine": "spanish",
   "protein": "mince",
-  "side": "rice"
+  "side": "rice",
+  "name_es": "Albóndigas en salsa"
  },
  {
   "id": 32,
@@ -2955,7 +2959,8 @@
   "price_basic": "10–12",
   "cuisine": "spanish",
   "protein": "pork",
-  "side": "potato"
+  "side": "potato",
+  "name_es": "Carrilleras al vino tinto"
  },
  {
   "id": 33,
@@ -3059,7 +3064,8 @@
   "price_basic": "6–8",
   "cuisine": "spanish",
   "protein": "chicken",
-  "side": "potato"
+  "side": "potato",
+  "name_es": "Pollo al ajillo"
  },
  {
   "id": 34,
@@ -3161,7 +3167,8 @@
   "price_basic": "5–7",
   "cuisine": "spanish",
   "protein": "pork",
-  "side": "bread"
+  "side": "bread",
+  "name_es": "Fabada asturiana"
  },
  {
   "id": 35,
@@ -3263,7 +3270,8 @@
   "price_basic": "4–6",
   "cuisine": "spanish",
   "protein": "veg",
-  "side": "bread"
+  "side": "bread",
+  "name_es": "Espinacas con garbanzos"
  },
  {
   "id": 36,
@@ -3461,7 +3469,8 @@
   "price_basic": "6–8",
   "cuisine": "spanish",
   "protein": "veg",
-  "side": "bread"
+  "side": "bread",
+  "name_es": "Pisto manchego"
  },
  {
   "id": 38,
@@ -3565,7 +3574,8 @@
   "price_basic": "8–10",
   "cuisine": "spanish",
   "protein": "chicken",
-  "side": "rice"
+  "side": "rice",
+  "name_es": "Pollo en pepitoria"
  },
  {
   "id": 39,
@@ -3669,7 +3679,8 @@
   "price_basic": "12–14",
   "cuisine": "spanish",
   "protein": "prawns",
-  "side": "rice"
+  "side": "rice",
+  "name_es": "Arroz caldoso"
  },
  {
   "id": 40,
@@ -3766,7 +3777,8 @@
   "price_basic": "7–9",
   "cuisine": "spanish",
   "protein": "mince",
-  "side": "bread"
+  "side": "bread",
+  "name_es": "Berenjenas rellenas"
  },
  {
   "id": 41,
@@ -6617,7 +6629,8 @@
   "price_basic": "2–3",
   "cuisine": "spanish",
   "protein": "sweet",
-  "side": "none"
+  "side": "none",
+  "name_es": "Arroz con leche"
  },
  {
   "id": 69,
@@ -6898,7 +6911,8 @@
   "price_basic": "7–9",
   "cuisine": "spanish",
   "protein": "pork",
-  "side": "potato"
+  "side": "potato",
+  "name_es": "Magro con tomate"
  },
  {
   "id": 72,
@@ -7000,7 +7014,8 @@
   "price_basic": "8–10",
   "cuisine": "spanish",
   "protein": "chicken",
-  "side": "rice"
+  "side": "rice",
+  "name_es": "Pollo al chilindrón"
  },
  {
   "id": 73,
@@ -7104,7 +7119,8 @@
   "price_basic": "13–16",
   "cuisine": "spanish",
   "protein": "beef",
-  "side": "potato"
+  "side": "potato",
+  "name_es": "Rabo de toro"
  },
  {
   "id": 74,
@@ -7203,7 +7219,8 @@
   "price_basic": "11–13",
   "cuisine": "spanish",
   "protein": "fish",
-  "side": "potato"
+  "side": "potato",
+  "name_es": "Marmitako"
  },
  {
   "id": 75,
@@ -7402,7 +7419,8 @@
   "price_basic": "8–10",
   "cuisine": "spanish",
   "protein": "chicken",
-  "side": "pasta"
+  "side": "pasta",
+  "name_es": "Puchero andaluz"
  },
  {
   "id": 77,
@@ -7496,7 +7514,8 @@
   "price_basic": "10–12",
   "cuisine": "spanish",
   "protein": "fish",
-  "side": "potato"
+  "side": "potato",
+  "name_es": "Sepia con guisantes"
  },
  {
   "id": 78,
@@ -7604,73 +7623,105 @@
  },
  {
   "id": 79,
-  "title": "Arroz con leche con canela y limón",
-  "slug": "arroz-con-leche-con-canela-y-limon",
+  "title": "Pudin de pan con naranja y pasas",
+  "slug": "pudin-de-pan-con-naranja-y-pasas",
   "chapter": "Dulces de olla lenta",
-  "price": "3–4",
+  "price": "4–5",
   "spice": 1,
   "vega": true,
-  "prep": "10 min",
-  "low": "3–4 h",
-  "high": "2–2½ h",
-  "intro": "El cremoso arroz con leche de siempre, con canela y piel de limón, sin que se pegue ni tener que remover sin parar: la olla lenta hace el trabajo.",
+  "prep": "15 min",
+  "low": "3–3½ h",
+  "high": "1½–2 h",
+  "intro": "El pan de ayer se convierte en un pudin dorado y cremoso con naranja, canela y pasas: un postre británico reconfortante y la forma más rica de no tirar nada.",
   "ingredients": [
    {
-    "q": "1 l",
+    "q": "300 g",
+    "item": "pan del día anterior (barra o pan de molde), en rebanadas",
+    "es": "pan del día anterior"
+   },
+   {
+    "q": "40 g",
+    "item": "mantequilla blanda (y un poco más para engrasar)",
+    "es": "mantequilla"
+   },
+   {
+    "q": "75 g",
+    "item": "pasas",
+    "es": "pasas"
+   },
+   {
+    "q": "1",
+    "item": "naranja, solo la piel rallada",
+    "es": "naranja"
+   },
+   {
+    "q": "3",
+    "item": "huevos",
+    "es": "huevos"
+   },
+   {
+    "q": "500 ml",
     "item": "leche entera",
     "es": "leche entera"
    },
    {
-    "q": "150 g",
-    "item": "arroz redondo (sin lavar)",
-    "es": "arroz redondo"
+    "q": "150 ml",
+    "item": "nata para montar (o más leche)",
+    "es": "nata para montar"
    },
    {
-    "q": "100 g",
+    "q": "75 g",
     "item": "azúcar",
     "es": "azúcar"
    },
    {
-    "q": "1",
-    "item": "rama de canela",
-    "es": "canela en rama"
+    "q": "1 cdta",
+    "item": "aroma de vainilla",
+    "es": "aroma de vainilla"
    },
    {
-    "q": "1",
-    "item": "limón (solo la piel amarilla, en tiras)",
-    "es": "limón"
-   },
-   {
-    "q": "15 g",
-    "item": "mantequilla",
-    "es": "mantequilla"
-   },
-   {
-    "q": "",
-    "item": "canela molida para espolvorear",
+    "q": "1 cdta",
+    "item": "canela molida",
     "es": "canela molida"
    },
    {
     "q": "1 pizca",
     "item": "de sal",
     "es": ""
+   },
+   {
+    "q": "2 cda",
+    "item": "azúcar moreno para espolvorear",
+    "es": "azúcar moreno"
+   },
+   {
+    "q": "",
+    "item": "papel de cocina",
+    "es": "papel de cocina"
    }
   ],
-  "serve": [],
-  "steps": [
-   "Unta el interior de la olla lenta con mantequilla. Añade la leche, el arroz, la rama de canela, la piel de limón y la sal, y remueve bien.",
-   "Cocina 3–4 h en LOW o 2–2½ h en HIGH. Remueve un momento cada hora para que el arroz no se pegue al fondo.",
-   "En la última media hora, incorpora el azúcar. El arroz debe quedar tierno y la leche espesa y cremosa.",
-   "Retira la rama de canela y la piel de limón. Deja enfriar; el arroz con leche espesa bastante. Sírvelo templado o frío, espolvoreado con canela (opcional)."
+  "serve": [
+   {
+    "q": "",
+    "item": "natillas de vainilla",
+    "es": ""
+   }
   ],
-  "tip": "No laves el arroz: el almidón es lo que lo hace cremoso. ¿Ha espesado demasiado en la nevera? Añade un chorrito de leche fría. Se conserva hasta 3 días en la nevera.",
-  "kids": "Deja que dibujen un corazón o su inicial con canela en su cuenco.",
+  "steps": [
+   "Engrasa bien el interior de la olla lenta con mantequilla. Unta las rebanadas de pan con una capa fina de mantequilla blanda y córtalas por la mitad.",
+   "Coloca el pan en la olla lenta como si fueran tejas y reparte las pasas (opcional) y la ralladura de naranja entre las capas.",
+   "Bate los huevos con la leche, la nata (opcional), el azúcar, la vainilla, la canela y la sal. Viértelo sobre el pan, húndelo con una cuchara y deja que se empape 15 minutos.",
+   "Pon dos capas de papel de cocina sobre la abertura y coloca la tapa encima. Cocina 3–3½ h en LOW o 1½–2 h en HIGH, hasta que el pudin esté cuajado en el centro: un cuchillo saldrá limpio.",
+   "Quita la tapa y deja que el pudin repose 10 minutos para que se asiente. Espolvorea con azúcar moreno (opcional) y sírvelo caliente o templado, con natillas si quieres."
+  ],
+  "tip": "Cuanto más seco esté el pan, mejor absorbe la mezcla de huevo y leche sin quedar pastoso: ideal para la barra que sobró ayer. Guarda las sobras tapadas en la nevera y cómelas en 2 días; un golpe de microondas las deja otra vez jugosas.",
+  "kids": "Deja que unten ellos el pan y repartan las pasas. Al que no le gusten las pasas, le toca una esquina sin ellas.",
   "freeze": false,
-  "guid": "434f299e-62f8-4533-83b6-711f420e6556",
-  "price_basic": "2–3",
-  "cuisine": "spanish",
+  "guid": "d3974f97-2901-4cfe-849d-23e3dfaf6af1",
+  "cuisine": "british",
   "protein": "sweet",
-  "side": "none"
+  "side": "none",
+  "price_basic": "3–4"
  },
  {
   "id": 80,
@@ -7780,29 +7831,44 @@
  },
  {
   "id": 81,
-  "title": "Dal suave de lentejas con espinacas y coco",
-  "slug": "dal-suave-de-lentejas-con-espinacas-y-coco",
+  "title": "Tofu agridulce con pimiento y piña",
+  "slug": "tofu-agridulce-con-pimiento-y-pina",
   "chapter": "Cocina del mundo",
-  "price": "5–7",
+  "price": "7–9",
   "spice": 1,
   "vega": true,
-  "prep": "10 min",
-  "low": "5–6 h",
-  "high": "3–4 h",
-  "intro": "Lentejas rojas aterciopeladas con tomate, comino y un chorrito de leche de coco: comida reconfortante india que casi no cuesta nada y llena a todos.",
+  "prep": "20 min",
+  "low": "3–4 h",
+  "high": "1½–2 h",
+  "intro": "Tofu crujiente, pimiento y piña en una salsa agridulce brillante, como en el restaurante chino: totalmente vegetal, suave y listo con una olla de arroz.",
   "ingredients": [
    {
-    "q": "300 g",
-    "item": "lentejas rojas, enjuagadas",
-    "es": "lentejas rojas (lentejas coral)"
+    "q": "1 lata (560 g)",
+    "item": "piña en trozos en su jugo, escurrida (guarda el jugo)",
+    "es": "piña en su jugo"
    },
    {
-    "q": "1",
-    "item": "cebolla, picada",
-    "es": "cebolla"
+    "q": "4 cda",
+    "item": "kétchup",
+    "es": "kétchup"
    },
    {
-    "q": "3 dientes",
+    "q": "3 cda",
+    "item": "vinagre de manzana",
+    "es": "vinagre de manzana"
+   },
+   {
+    "q": "2 cda",
+    "item": "azúcar moreno",
+    "es": "azúcar moreno"
+   },
+   {
+    "q": "3 cda",
+    "item": "salsa de soja baja en sal",
+    "es": "salsa de soja baja en sal"
+   },
+   {
+    "q": "2 dientes",
     "item": "de ajo, rallados",
     "es": "ajo"
    },
@@ -7812,78 +7878,68 @@
     "es": "jengibre fresco"
    },
    {
-    "q": "1 cdta",
-    "item": "cúrcuma",
-    "es": "cúrcuma"
+    "q": "1",
+    "item": "cebolla, en trozos grandes",
+    "es": "cebolla"
    },
    {
-    "q": "2 cdta",
-    "item": "comino molido",
-    "es": "comino molido"
+    "q": "2",
+    "item": "pimientos (rojo y amarillo), en trozos de 3 cm",
+    "es": "pimientos rojos y amarillos"
    },
    {
-    "q": "1 cdta",
-    "item": "garam masala",
-    "es": "garam masala (Carrefour of Aziatische winkel)"
+    "q": "2",
+    "item": "zanahorias, en rodajas finas",
+    "es": "zanahorias"
    },
    {
     "q": "400 g",
-    "item": "tomate troceado",
-    "es": "tomate troceado"
+    "item": "tofu firme",
+    "es": "tofu firme"
    },
    {
-    "q": "700 ml",
-    "item": "caldo de verduras",
-    "es": "caldo de verduras"
+    "q": "3 cda",
+    "item": "maicena (en dos veces)",
+    "es": "maicena"
    },
    {
-    "q": "200 ml",
-    "item": "leche de coco",
-    "es": "leche de coco"
+    "q": "2 cda",
+    "item": "aceite de girasol",
+    "es": "aceite de girasol"
    },
    {
-    "q": "100 g",
-    "item": "espinacas frescas (brotes)",
-    "es": "espinacas frescas"
+    "q": "2",
+    "item": "cebolletas, en aros finos",
+    "es": "cebolletas"
    },
    {
-    "q": "",
-    "item": "zumo de limón y sal",
-    "es": ""
+    "q": "1 cda",
+    "item": "sésamo tostado",
+    "es": "sésamo tostado"
    }
   ],
   "serve": [
    {
-    "q": "",
-    "item": "arroz basmati",
-    "es": ""
-   },
-   {
-    "q": "",
-    "item": "pan naan o tortillas de trigo",
-    "es": ""
-   },
-   {
-    "q": "",
-    "item": "yogur",
-    "es": ""
+    "q": "300 g",
+    "item": "arroz blanco o arroz jazmín",
+    "es": "arroz jazmín"
    }
   ],
   "steps": [
-   "Enjuaga las lentejas en un colador bajo el grifo hasta que el agua salga limpia; así el dal hace menos espuma.",
-   "Pon las lentejas, la cebolla, el ajo, el jengibre, las especias, el tomate y el caldo en la olla lenta y remueve bien.",
-   "Cierra la tapa y cocina 5–6 h en LOW o 3–4 h en HIGH. Las lentejas absorben líquido: ¿demasiado espeso? Añade un chorrito de agua caliente.",
-   "Opcional: En el último cuarto de hora, incorpora la leche de coco y las espinacas y deja que las espinacas se reduzcan con la tapa puesta.",
-   "Ajusta con zumo de limón y sal, y sirve con arroz o naan."
+   "Mezcla en la olla lenta el jugo de la piña, el kétchup, el vinagre, el azúcar, la salsa de soja, el ajo y el jengibre. Guarda los trozos de piña tapados en la nevera.",
+   "Añade la cebolla, el pimiento y la zanahoria (opcional) y remueve. No añadas agua: las verduras sueltan su propio líquido. Cocina 3–4 h en LOW o 1½–2 h en HIGH, hasta que las verduras estén tiernas.",
+   "Escurre el tofu, sécalo bien con papel de cocina y córtalo en dados de 2 cm. Rebózalos en 2 cda de maicena y dóralos en el aceite 8–10 minutos por todos los lados. Mientras tanto, cuece el arroz.",
+   "Pon la olla lenta en HIGH. Disuelve el resto de la maicena en 2 cda de agua fría y añádela a la salsa junto con los trozos de piña. Deja cocer 15–20 minutos más, hasta que la salsa brille y espese.",
+   "Incorpora el tofu justo antes de servir, para que la costra siga crujiente. Espolvorea con cebolleta (opcional) y sésamo (opcional) y sirve con el arroz."
   ],
-  "tip": "Un toque picante para los mayores: calienta 2 cda de aceite con guindilla en copos y unas semillas de comino 30 segundos y échalo, cucharadita a cucharadita, en tu propio plato.",
-  "kids": "En el fondo, el dal es un puré salado: sírvelo con arroz y una cucharada de yogur.",
-  "freeze": true,
-  "guid": "afde89a8-df89-43d4-bd8e-cb08df2f8d85",
-  "price_basic": "3–5",
-  "cuisine": "indian",
+  "tip": "Compra tofu firme (en la zona refrigerada, junto a los productos vegetales). Si tienes tiempo, préngalo 15 minutos bajo una sartén pesada: cuanto más seco, más crujiente. Prueba la salsa al final y hazla más dulce con una cucharadita de azúcar o más fresca con un chorrito de vinagre.",
+  "kids": "Dados crujientes en una salsa rosa agridulce con piña: no les digas que es tofu y deja que adivinen qué están comiendo.",
+  "freeze": false,
+  "guid": "ac37de94-5d8a-492f-9765-f7577c74fac5",
+  "cuisine": "chinese",
   "protein": "veg",
-  "side": "rice"
+  "side": "rice",
+  "price_basic": "6–8"
  },
  {
   "id": 82,
@@ -9119,56 +9175,81 @@
  },
  {
   "id": 94,
-  "title": "Guiso británico de pollo y puerro con tapa de hojaldre",
-  "slug": "guiso-britanico-de-pollo-y-puerro-con-tapa-de-hojaldre",
+  "title": "Guiso de pavo con manzana, arándanos rojos y patatitas",
+  "slug": "guiso-de-pavo-con-manzana-arandanos-rojos-y-patatitas",
   "chapter": "Holandés y europeo",
-  "price": "8–10",
+  "price": "10–12",
   "spice": 1,
   "vega": false,
   "prep": "20 min",
   "low": "5–6 h",
-  "high": "3 h",
-  "intro": "El chicken & leek pie británico, pero fácil: un guiso cremoso de pollo y puerro hecho en la olla lenta, con una tapa crujiente de hojaldre al horno.",
+  "high": "3–3½ h",
+  "intro": "Pavo tierno con patatitas, manzana y un toque de arándano rojo en una salsa suave de mostaza: un guiso otoñal y festivo que también se hace fácil entre semana.",
   "ingredients": [
    {
-    "q": "700 g",
-    "item": "contramuslos de pollo deshuesados, en dados",
-    "es": "contramuslos de pollo deshuesados"
+    "q": "800 g",
+    "item": "contramuslo de pavo deshuesado, en tacos de 4 cm",
+    "es": "contramuslo de pavo deshuesado"
    },
    {
-    "q": "2 cda",
+    "q": "1 cda",
     "item": "harina de trigo",
     "es": "harina de trigo"
    },
    {
-    "q": "2",
-    "item": "puerros, en aros",
-    "es": "puerros"
+    "q": "1 cda",
+    "item": "aceite",
+    "es": "aceite de girasol"
    },
    {
-    "q": "2",
-    "item": "zanahorias, en dados",
+    "q": "600 g",
+    "item": "patatas baby, partidas por la mitad",
+    "es": "patatas baby"
+   },
+   {
+    "q": "3",
+    "item": "zanahorias, en trozos",
     "es": "zanahorias"
    },
    {
-    "q": "200 g",
-    "item": "champiñones, en cuartos",
-    "es": "champiñones"
+    "q": "2",
+    "item": "cebollas, en gajos",
+    "es": "cebollas"
    },
    {
-    "q": "300 ml",
+    "q": "2",
+    "item": "manzanas ácidas-dulces, en gajos grandes",
+    "es": "manzanas Golden"
+   },
+   {
+    "q": "400 ml",
     "item": "caldo de pollo",
     "es": "caldo de pollo"
    },
    {
-    "q": "1 cdta",
+    "q": "1 cda",
     "item": "mostaza",
     "es": "mostaza"
    },
    {
-    "q": "1 cdta",
-    "item": "tomillo seco",
+    "q": "3 ramitas",
+    "item": "de tomillo (o 1 cdta seco)",
     "es": "tomillo"
+   },
+   {
+    "q": "1",
+    "item": "hoja de laurel",
+    "es": "hoja de laurel"
+   },
+   {
+    "q": "60 g",
+    "item": "arándanos rojos deshidratados",
+    "es": "arándanos rojos deshidratados"
+   },
+   {
+    "q": "1 cda",
+    "item": "maicena",
+    "es": "maicena"
    },
    {
     "q": "100 ml",
@@ -9176,37 +9257,33 @@
     "es": "nata para cocinar"
    },
    {
-    "q": "1 rollo",
-    "item": "de hojaldre refrigerado",
-    "es": "masa de hojaldre refrigerada"
-   },
-   {
-    "q": "1",
-    "item": "huevo, batido",
-    "es": "huevo"
-   },
-   {
     "q": "",
     "item": "sal y pimienta",
     "es": ""
    }
   ],
-  "serve": [],
-  "steps": [
-   "Mezcla el pollo con la harina, sal y pimienta. Pon el pollo, el puerro, la zanahoria y los champiñones (opcional) en la olla lenta.",
-   "Mezcla el caldo, la mostaza y el tomillo y viértelo por encima. Cocina 5–6 h en LOW o 3 h en HIGH.",
-   "En la última media hora, precalienta el horno a 200 °C. Corta el hojaldre en 4 rectángulos, píntalos con huevo (opcional) y hornéalos 15–18 minutos hasta que estén dorados.",
-   "Incorpora la nata al guiso y deja que se caliente 10 minutos en HIGH. ¿Muy líquido? Liga con una cucharadita de maicena disuelta en agua fría.",
-   "Sirve el guiso en platos hondos y pon una tapa de hojaldre en cada plato. Sirve enseguida, así el hojaldre sigue crujiente."
+  "serve": [
+   {
+    "q": "",
+    "item": "judías verdes cocidas o lombarda",
+    "es": ""
+   }
   ],
-  "tip": "El hojaldre en la olla lenta queda gomoso, por eso se hornea aparte. ¿Sin horno? En la freidora de aire a 190 °C está en 10–12 minutos. El hojaldre lo encuentras en la zona de refrigerados de cualquier supermercado.",
-  "kids": "Deja que los niños corten su propia tapa con un cortapastas: estrella, corazón o dinosaurio.",
+  "steps": [
+   "Espolvorea el pavo con harina, sal y pimienta y dóralo brevemente por todos los lados en aceite caliente, en dos tandas; así ganas sabor y una salsa ligada.",
+   "Pon las patatitas y la zanahoria (opcional) en el fondo de la olla lenta, donde más calienta. Coloca el pavo encima y reparte la cebolla y la manzana por arriba.",
+   "Desglasa la sartén con el caldo, añade la mostaza y rasca bien los restos del fondo. Viértelo en la olla lenta y añade el tomillo, el laurel y los arándanos rojos (opcional).",
+   "Tapa y cocina 5–6 h en LOW o 3–3½ h en HIGH, hasta que las patatitas estén tiernas y el pavo alcance al menos 75 °C en el centro.",
+   "Retira el tomillo y el laurel y pon la olla en HIGH. Disuelve la maicena en la nata (opcional) o en 3 cda de agua fría, añádela al guiso y deja cocer 15–20 minutos más, hasta que la salsa espese. Ajusta de sal y pimienta."
+  ],
+  "tip": "Elige contramuslo de pavo y no pechuga: el contramuslo se mantiene jugoso durante la cocción larga, mientras que la pechuga queda seca y fibrosa. ¿No tienes arándanos rojos? Una cucharada de mermelada de grosella o de arándanos en la salsa da el mismo toque agridulce.",
+  "kids": "Patatitas tiernas, manzana dulce y una salsa suave: cháfalo todo junto y tendrás un puré festivo para los más pequeños.",
   "freeze": false,
-  "guid": "aa1df023-0a79-4a57-b0a9-35d11e10ba86",
-  "price_basic": "7–9",
+  "guid": "b8519894-2e51-4268-9096-0a055b59ecfa",
   "cuisine": "british",
   "protein": "chicken",
-  "side": "none"
+  "side": "potato",
+  "price_basic": "8–10"
  },
  {
   "id": 95,
@@ -10752,7 +10829,8 @@
   "price_basic": "2–3",
   "cuisine": "spanish",
   "protein": "sweet",
-  "side": "none"
+  "side": "none",
+  "name_es": "Flan de huevo"
  },
  {
   "id": 111,

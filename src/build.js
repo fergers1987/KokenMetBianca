@@ -34,7 +34,7 @@ const STORES = readJson('stores.json', {});
 const MARKETS = readJson('supermarkets.json', []);
 const order = NL_RECIPES.slice().sort((a, b) => NL_CHAPTERS.indexOf(a.chapter) - NL_CHAPTERS.indexOf(b.chapter) || a.id - b.id);
 const NUM = {}; order.forEach((r, i) => { NUM[r.id] = i + 1; });
-const CHIDX = {}, GUID = {}, META = {}; NL_RECIPES.forEach(r => { CHIDX[r.id] = NL_CHAPTERS.indexOf(r.chapter); GUID[r.id] = r.guid; META[r.id] = { kind: r.kind || 'dish', cuisine: r.cuisine, protein: r.protein, side: r.side, price: r.price, spice: r.spice, vega: r.vega, freeze: r.freeze, hrs: hours(r.low) }; });
+const CHIDX = {}, GUID = {}, META = {}; NL_RECIPES.forEach(r => { CHIDX[r.id] = NL_CHAPTERS.indexOf(r.chapter); GUID[r.id] = r.guid; META[r.id] = { name_es: r.name_es || '', kind: r.kind || 'dish', cuisine: r.cuisine, protein: r.protein, side: r.side, price: r.price, spice: r.spice, vega: r.vega, freeze: r.freeze, hrs: hours(r.low) }; });
 if (new Set(Object.values(GUID)).size !== NL_RECIPES.length || Object.values(GUID).some(g => !g)) throw new Error('Elk recept heeft een unieke guid nodig in recipes.json');
 
 const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'];
@@ -179,12 +179,13 @@ function sprig(col = 'currentColor') {
 
 function card(L, r) {
   const ingText = r.ingredients.concat(r.serve).map(i => `${i.item} ${i.es}`).join(' ');
-  return `<li class="card" style="--ch:${chColor(r.ci)}" data-guid="${r.guid}" data-n="${r.n}" data-ch="${r.ci}" data-vega="${r.vega ? 1 : 0}" data-spice="${r.spice}" data-pp="${(parseInt(r.price, 10) / 4).toFixed(2)}" data-hrs="${r.hrs}" data-cuisine="${r.cuisine}" data-protein="${r.protein}" data-side="${r.side}" data-freeze="${r.freeze ? 1 : 0}" data-search="${esc((r.title + ' ' + ingText).toLowerCase())}">
+  return `<li class="card" style="--ch:${chColor(r.ci)}" data-guid="${r.guid}" data-n="${r.n}" data-ch="${r.ci}" data-vega="${r.vega ? 1 : 0}" data-spice="${r.spice}" data-pp="${(parseInt(r.price, 10) / 4).toFixed(2)}" data-hrs="${r.hrs}" data-cuisine="${r.cuisine}" data-protein="${r.protein}" data-side="${r.side}" data-freeze="${r.freeze ? 1 : 0}" data-search="${esc((r.title + ' ' + (r.name_es || '') + ' ' + ingText).toLowerCase())}">
   <a href="${u.recipe(L, r.id)}">
     <div class="card-art"><img src="${dishImg(r.id)}" alt="" width="600" height="600" loading="lazy"></div>
     <div class="card-body">
       <span class="card-no">Nº ${r.nn} · ${esc(UI[L].cuisines[r.cuisine])} · ${esc(UI[L].proteins[r.protein])}</span>
       <h3>${esc(r.title)}</h3>
+      ${r.name_es && L !== 'es' ? `<p class="card-es" lang="es">${esc(r.name_es)}</p>` : ''}
       ${tags(L, r, true)}
     </div>
   </a>
@@ -331,7 +332,7 @@ function recipePage(L, r) {
   const shop = r.ingredients.concat(r.serve).map(i => `${i.q ? i.q + ' ' : ''}${i.item}${L !== 'es' && i.es ? ` (${i.es})` : ''}`).join('\n');
   const lowH = hours(r.low), prepM = parseInt(r.prep, 10) || 15;
   const jsonld = {
-    '@context': 'https://schema.org', '@type': 'Recipe', name: r.title, description: r.intro, inLanguage: L,
+    '@context': 'https://schema.org', '@type': 'Recipe', name: r.title, alternateName: r.name_es || undefined, description: r.intro, inLanguage: L,
     author: { '@type': 'Person', name: 'Bianca Manuela Seegers' }, recipeYield: '4', recipeCategory: tx.chapters[r.ci],
     prepTime: `PT${prepM}M`, cookTime: lowH ? `PT${Math.round(lowH * 60)}M` : undefined,
     recipeIngredient: r.ingredients.concat(r.serve).map(i => `${i.q} ${i.item}`.trim()),
@@ -348,6 +349,7 @@ function recipePage(L, r) {
       <div class="r-text">
         <p class="r-no">${r.kind === 'extra' ? esc(ui.more.title) : `Nº ${r.nn} · ${esc(tx.chapters[r.ci])} · ${ui.persons}`}</p>
         <h1 class="r-title">${esc(r.title)}</h1>
+        ${r.name_es && L !== 'es' ? `<p class="r-es">${esc(ui.inSpain)}: <i lang="es">${esc(r.name_es)}</i></p>` : ''}
         <div class="r-actions">${favBtn(L, r, true)}
           <button type="button" class="btn print-btn" data-print title="${esc(ui.pr.printHint)}">${printIco()} ${esc(ui.pr.print)}</button>
           <div class="add-wrap">${addBtn(L, r, true)}<label class="persons"><select data-persons="${r.guid}" aria-label="${esc(ui.list.persons)}">${[2, 3, 4, 5, 6, 8, 10].map(n => `<option value="${n}"${n === 4 ? ' selected' : ''}>${n} ${esc(ui.list.persons)}</option>`).join('')}</select></label></div>

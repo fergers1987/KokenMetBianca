@@ -1,0 +1,290 @@
+{
+  "2": {
+    "name_es": "Lentejas con chorizo",
+    "nl": {
+      "title": "Spaanse linzen met chorizo"
+    },
+    "en": {
+      "title": "Spanish Lentils with Chorizo",
+      "slug": "spanish-lentils-with-chorizo"
+    },
+    "de": {
+      "title": "Spanische Linsen mit Chorizo",
+      "slug": "spanische-linsen-mit-chorizo"
+    },
+    "fr": {
+      "title": "Lentilles à l'espagnole au chorizo",
+      "slug": "lentilles-a-l-espagnole-au-chorizo"
+    }
+  },
+  "25": {
+    "name_es": "Bacalao guisado con patatas",
+    "nl": {
+      "title": "Spaanse kabeljauwstoof met aardappel"
+    },
+    "en": {
+      "title": "Spanish Cod and Potato Stew",
+      "slug": "spanish-cod-and-potato-stew"
+    },
+    "de": {
+      "title": "Spanischer Kabeljau-Kartoffel-Eintopf",
+      "slug": "spanischer-kabeljau-kartoffel-eintopf"
+    },
+    "fr": {
+      "title": "Ragoût espagnol de cabillaud aux pommes de terre",
+      "slug": "ragout-espagnol-de-cabillaud-aux-pommes-de-terre"
+    }
+  },
+  "27": {
+    "name_es": "Patatas a la riojana"
+  },
+  "31": {
+    "name_es": "Albóndigas en salsa",
+    "nl": {
+      "title": "Spaanse gehaktballetjes met wortel en erwtjes"
+    },
+    "en": {
+      "title": "Spanish Meatballs with Carrots and Peas",
+      "slug": "spanish-meatballs-with-carrots-and-peas"
+    },
+    "de": {
+      "title": "Spanische Hackbällchen mit Möhren und Erbsen",
+      "slug": "spanische-hackbaellchen-mit-moehren-und-erbsen"
+    },
+    "fr": {
+      "title": "Boulettes à l'espagnole aux carottes et petits pois",
+      "slug": "boulettes-a-l-espagnole-aux-carottes-et-petits-pois"
+    }
+  },
+  "32": {
+    "name_es": "Carrilleras al vino tinto"
+  },
+  "33": {
+    "name_es": "Pollo al ajillo",
+    "nl": {
+      "title": "Milde knoflookkip met krieltjes"
+    },
+    "en": {
+      "title": "Mild Garlic Chicken with Baby Potatoes",
+      "slug": "mild-garlic-chicken-with-baby-potatoes"
+    },
+    "de": {
+      "title": "Mildes Knoblauchhähnchen mit Drillingen",
+      "slug": "mildes-knoblauchhaehnchen-mit-drillingen"
+    },
+    "fr": {
+      "title": "Poulet doux à l'ail et pommes grenailles",
+      "slug": "poulet-doux-a-l-ail-et-pommes-grenailles"
+    }
+  },
+  "34": {
+    "name_es": "Fabada asturiana",
+    "nl": {
+      "title": "Lichte Asturische bonenstoof met milde chorizo"
+    },
+    "en": {
+      "title": "Light Asturian Bean Stew with Mild Chorizo",
+      "slug": "light-asturian-bean-stew-with-mild-chorizo"
+    },
+    "de": {
+      "title": "Leichter asturischer Bohneneintopf mit milder Chorizo",
+      "slug": "leichter-asturischer-bohneneintopf-mit-milder-chorizo"
+    },
+    "fr": {
+      "title": "Haricots blancs mijotés à l'asturienne et chorizo doux",
+      "slug": "haricots-blancs-mijotes-a-l-asturienne-et-chorizo-doux"
+    }
+  },
+  "35": {
+    "name_es": "Espinacas con garbanzos"
+  },
+  "37": {
+    "name_es": "Pisto manchego",
+    "nl": {
+      "title": "Spaanse groentestoof met gebakken eitje"
+    },
+    "en": {
+      "title": "Spanish Vegetable Stew with Fried Egg",
+      "slug": "spanish-vegetable-stew-with-fried-egg"
+    },
+    "de": {
+      "title": "Spanisches Schmorgemüse mit Spiegelei",
+      "slug": "spanisches-schmorgemuese-mit-spiegelei"
+    },
+    "fr": {
+      "title": "Légumes mijotés à l'espagnole et œuf au plat",
+      "slug": "legumes-mijotes-a-l-espagnole-et-oeuf-au-plat"
+    }
+  },
+  "38": {
+    "name_es": "Pollo en pepitoria",
+    "nl": {
+      "title": "Lichte kip in saffraan-amandelsaus"
+    },
+    "en": {
+      "title": "Light Chicken in Saffron and Almond Sauce",
+      "slug": "light-chicken-in-saffron-and-almond-sauce"
+    },
+    "de": {
+      "title": "Leichtes Hähnchen in Safran-Mandel-Soße",
+      "slug": "leichtes-haehnchen-in-safran-mandel-sosse"
+    },
+    "fr": {
+      "title": "Poulet léger, sauce safran et amandes",
+      "slug": "poulet-leger-sauce-safran-et-amandes"
+    }
+  },
+  "39": {
+    "name_es": "Arroz caldoso",
+    "nl": {
+      "title": "Smeuïge Spaanse rijst met inktvis en garnalen"
+    },
+    "en": {
+      "title": "Brothy Spanish Rice with Squid and Prawns",
+      "slug": "brothy-spanish-rice-with-squid-and-prawns"
+    },
+    "de": {
+      "title": "Saftiger Reistopf mit Tintenfisch und Garnelen",
+      "slug": "saftiger-reistopf-mit-tintenfisch-und-garnelen"
+    },
+    "fr": {
+      "title": "Riz en bouillon aux calamars et crevettes",
+      "slug": "riz-en-bouillon-aux-calamars-et-crevettes"
+    }
+  },
+  "40": {
+    "name_es": "Berenjenas rellenas"
+  },
+  "68": {
+    "name_es": "Arroz con leche",
+    "nl": {
+      "title": "Rijstpap met citroen en kaneel"
+    },
+    "en": {
+      "title": "Rice Pudding with Lemon and Cinnamon",
+      "slug": "rice-pudding-with-lemon-and-cinnamon"
+    },
+    "de": {
+      "title": "Milchreis mit Zitrone und Zimt",
+      "slug": "milchreis-mit-zitrone-und-zimt"
+    },
+    "fr": {
+      "title": "Riz au lait au citron et à la cannelle",
+      "slug": "riz-au-lait-au-citron-et-a-la-cannelle"
+    }
+  },
+  "71": {
+    "name_es": "Magro con tomate",
+    "nl": {
+      "title": "Varkensvlees in tomatensaus"
+    },
+    "en": {
+      "title": "Pork in Tomato Sauce",
+      "slug": "pork-in-tomato-sauce"
+    },
+    "de": {
+      "title": "Schweinefleisch in Tomatensoße",
+      "slug": "schweinefleisch-in-tomatensosse"
+    },
+    "fr": {
+      "title": "Porc à la sauce tomate",
+      "slug": "porc-a-la-sauce-tomate"
+    }
+  },
+  "72": {
+    "name_es": "Pollo al chilindrón",
+    "nl": {
+      "title": "Aragonese paprikakip met serranoham"
+    },
+    "en": {
+      "title": "Aragonese Chicken with Peppers and Serrano Ham",
+      "slug": "aragonese-chicken-with-peppers-and-serrano-ham"
+    },
+    "de": {
+      "title": "Aragonesisches Paprikahähnchen mit Serranoschinken",
+      "slug": "aragonesisches-paprikahaehnchen-mit-serranoschinken"
+    },
+    "fr": {
+      "title": "Poulet aux poivrons à l'aragonaise et jambon serrano",
+      "slug": "poulet-aux-poivrons-a-l-aragonaise-et-jambon-serrano"
+    }
+  },
+  "73": {
+    "name_es": "Rabo de toro",
+    "nl": {
+      "title": "Cordobese ossenstaartstoof"
+    },
+    "en": {
+      "title": "Córdoba-Style Oxtail Stew",
+      "slug": "cordoba-style-oxtail-stew"
+    },
+    "de": {
+      "title": "Ochsenschwanzeintopf nach Córdoba-Art",
+      "slug": "ochsenschwanzeintopf-nach-cordoba-art"
+    },
+    "fr": {
+      "title": "Queue de bœuf mijotée à la cordouane",
+      "slug": "queue-de-boeuf-mijotee-a-la-cordouane"
+    }
+  },
+  "74": {
+    "name_es": "Marmitako",
+    "nl": {
+      "title": "Baskische tonijn-aardappelstoof"
+    },
+    "en": {
+      "title": "Basque Tuna and Potato Stew",
+      "slug": "basque-tuna-and-potato-stew"
+    },
+    "de": {
+      "title": "Baskischer Thunfisch-Kartoffel-Eintopf",
+      "slug": "baskischer-thunfisch-kartoffel-eintopf"
+    },
+    "fr": {
+      "title": "Mijoté basque de thon et pommes de terre",
+      "slug": "mijote-basque-de-thon-et-pommes-de-terre"
+    }
+  },
+  "76": {
+    "name_es": "Puchero andaluz",
+    "nl": {
+      "title": "Andalusische kikkererwtenpot met kip"
+    },
+    "en": {
+      "title": "Andalusian Chickpea Pot with Chicken",
+      "slug": "andalusian-chickpea-pot-with-chicken"
+    },
+    "de": {
+      "title": "Andalusischer Kichererbsentopf mit Hähnchen",
+      "slug": "andalusischer-kichererbsentopf-mit-haehnchen"
+    },
+    "fr": {
+      "title": "Pot-au-feu andalou aux pois chiches",
+      "slug": "pot-au-feu-andalou-aux-pois-chiches"
+    }
+  },
+  "77": {
+    "name_es": "Sepia con guisantes",
+    "nl": {
+      "title": "Zeekat met doperwten en aardappel"
+    },
+    "de": {
+      "title": "Tintenfisch mit Erbsen und Kartoffeln",
+      "slug": "tintenfisch-mit-erbsen-und-kartoffeln"
+    }
+  },
+  "110": {
+    "name_es": "Flan de huevo",
+    "nl": {
+      "title": "Karamelpudding uit de slowcooker"
+    },
+    "en": {
+      "title": "Slow Cooker Crème Caramel",
+      "slug": "slow-cooker-creme-caramel"
+    },
+    "de": {
+      "title": "Karamellpudding aus dem Slowcooker",
+      "slug": "karamellpudding-aus-dem-slowcooker"
+    }
+  }
+}

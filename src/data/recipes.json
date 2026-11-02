@@ -105,7 +105,7 @@
  },
  {
   "id": 2,
-  "title": "Spaanse lentejas met chorizo",
+  "title": "Spaanse linzen met chorizo",
   "chapter": "Spaans & Mediterraan",
   "price": "7–9",
   "spice": 1,
@@ -210,7 +210,8 @@
   "cuisine": "spanish",
   "protein": "pork",
   "side": "bread",
-  "price_basic": "7–9"
+  "price_basic": "7–9",
+  "name_es": "Lentejas con chorizo"
  },
  {
   "id": 3,
@@ -2508,7 +2509,7 @@
  },
  {
   "id": 25,
-  "title": "Spaanse bacalao-stoof",
+  "title": "Spaanse kabeljauwstoof met aardappel",
   "chapter": "Vis & Garnalen",
   "price": "10–12",
   "spice": 1,
@@ -2603,7 +2604,8 @@
   "cuisine": "spanish",
   "protein": "fish",
   "side": "bread",
-  "price_basic": "9–11"
+  "price_basic": "9–11",
+  "name_es": "Bacalao guisado con patatas"
  },
  {
   "id": 26,
@@ -2797,7 +2799,8 @@
   "cuisine": "spanish",
   "protein": "pork",
   "side": "bread",
-  "price_basic": "7–9"
+  "price_basic": "7–9",
+  "name_es": "Patatas a la riojana"
  },
  {
   "id": 28,
@@ -3076,7 +3079,7 @@
  },
  {
   "id": 31,
-  "title": "Albóndigas en salsa met wortel en erwtjes",
+  "title": "Spaanse gehaktballetjes met wortel en erwtjes",
   "chapter": "Spaans & Mediterraan",
   "price": "7–9",
   "spice": 1,
@@ -3187,7 +3190,8 @@
   "cuisine": "spanish",
   "protein": "mince",
   "side": "rice",
-  "price_basic": "6–8"
+  "price_basic": "6–8",
+  "name_es": "Albóndigas en salsa"
  },
  {
   "id": 32,
@@ -3305,11 +3309,12 @@
   "cuisine": "spanish",
   "protein": "pork",
   "side": "potato",
-  "price_basic": "10–12"
+  "price_basic": "10–12",
+  "name_es": "Carrilleras al vino tinto"
  },
  {
   "id": 33,
-  "title": "Milde pollo al ajillo met krieltjes",
+  "title": "Milde knoflookkip met krieltjes",
   "chapter": "Spaans & Mediterraan",
   "price": "8–10",
   "spice": 1,
@@ -3422,11 +3427,12 @@
   "cuisine": "spanish",
   "protein": "chicken",
   "side": "potato",
-  "price_basic": "6–8"
+  "price_basic": "6–8",
+  "name_es": "Pollo al ajillo"
  },
  {
   "id": 34,
-  "title": "Fabada-light met witte bonen en milde chorizo",
+  "title": "Lichte Asturische bonenstoof met milde chorizo",
   "chapter": "Budgetfavorieten",
   "price": "7–9",
   "spice": 1,
@@ -3537,7 +3543,8 @@
   "cuisine": "spanish",
   "protein": "pork",
   "side": "bread",
-  "price_basic": "5–7"
+  "price_basic": "5–7",
+  "name_es": "Fabada asturiana"
  },
  {
   "id": 35,
@@ -3652,7 +3659,8 @@
   "cuisine": "spanish",
   "protein": "veg",
   "side": "bread",
-  "price_basic": "4–6"
+  "price_basic": "4–6",
+  "name_es": "Espinacas con garbanzos"
  },
  {
   "id": 36,
@@ -3769,7 +3777,7 @@
  },
  {
   "id": 37,
-  "title": "Pisto manchego met gebakken eitje",
+  "title": "Spaanse groentestoof met gebakken eitje",
   "chapter": "Vegetarisch",
   "price": "7–9",
   "spice": 1,
@@ -3874,11 +3882,12 @@
   "cuisine": "spanish",
   "protein": "veg",
   "side": "bread",
-  "price_basic": "6–8"
+  "price_basic": "6–8",
+  "name_es": "Pisto manchego"
  },
  {
   "id": 38,
-  "title": "Pollo en pepitoria-light met saffraan en amandel",
+  "title": "Lichte kip in saffraan-amandelsaus",
   "chapter": "Spaans & Mediterraan",
   "price": "9–11",
   "spice": 1,
@@ -3991,11 +4000,12 @@
   "cuisine": "spanish",
   "protein": "chicken",
   "side": "rice",
-  "price_basic": "8–10"
+  "price_basic": "8–10",
+  "name_es": "Pollo en pepitoria"
  },
  {
   "id": 39,
-  "title": "Arroz caldoso met inktvis en garnalen",
+  "title": "Smeuïge Spaanse rijst met inktvis en garnalen",
   "chapter": "Vis & Garnalen",
   "price": "13–16",
   "spice": 1,
@@ -4108,7 +4118,8 @@
   "cuisine": "spanish",
   "protein": "prawns",
   "side": "rice",
-  "price_basic": "12–14"
+  "price_basic": "12–14",
+  "name_es": "Arroz caldoso"
  },
  {
   "id": 40,
@@ -4217,7 +4228,8 @@
   "cuisine": "spanish",
   "protein": "mince",
   "side": "bread",
-  "price_basic": "7–9"
+  "price_basic": "7–9",
+  "name_es": "Berenjenas rellenas"
  },
  {
   "id": 41,
@@ -7354,7 +7366,7 @@
  },
  {
   "id": 68,
-  "title": "Arroz con leche met citroen en kaneel",
+  "title": "Rijstpap met citroen en kaneel",
   "chapter": "Zoet uit de slowcooker",
   "price": "3–4",
   "spice": 1,
@@ -7428,7 +7440,8 @@
   "cuisine": "spanish",
   "protein": "sweet",
   "side": "none",
-  "price_basic": "2–3"
+  "price_basic": "2–3",
+  "name_es": "Arroz con leche"
  },
  {
   "id": 69,
@@ -7632,7 +7645,7 @@
  },
  {
   "id": 71,
-  "title": "Magro con tomate: varkensvlees in tomatensaus",
+  "title": "Varkensvlees in tomatensaus",
   "chapter": "Spaans & Mediterraan",
   "price": "9–11",
   "spice": 1,
@@ -7743,11 +7756,12 @@
   "cuisine": "spanish",
   "protein": "pork",
   "side": "potato",
-  "price_basic": "7–9"
+  "price_basic": "7–9",
+  "name_es": "Magro con tomate"
  },
  {
   "id": 72,
-  "title": "Kip chilindrón met paprika en serranoham",
+  "title": "Aragonese paprikakip met serranoham",
   "chapter": "Spaans & Mediterraan",
   "price": "9–11",
   "spice": 1,
@@ -7858,11 +7872,12 @@
   "cuisine": "spanish",
   "protein": "chicken",
   "side": "rice",
-  "price_basic": "8–10"
+  "price_basic": "8–10",
+  "name_es": "Pollo al chilindrón"
  },
  {
   "id": 73,
-  "title": "Cordobese ossenstaartstoof (rabo de toro)",
+  "title": "Cordobese ossenstaartstoof",
   "chapter": "Spaans & Mediterraan",
   "price": "15–18",
   "spice": 1,
@@ -7975,11 +7990,12 @@
   "cuisine": "spanish",
   "protein": "beef",
   "side": "potato",
-  "price_basic": "13–16"
+  "price_basic": "13–16",
+  "name_es": "Rabo de toro"
  },
  {
   "id": 74,
-  "title": "Marmitako: Baskische tonijn-aardappelstoof",
+  "title": "Baskische tonijn-aardappelstoof",
   "chapter": "Vis & Garnalen",
   "price": "13–16",
   "spice": 1,
@@ -8086,7 +8102,8 @@
   "cuisine": "spanish",
   "protein": "fish",
   "side": "potato",
-  "price_basic": "11–13"
+  "price_basic": "11–13",
+  "name_es": "Marmitako"
  },
  {
   "id": 75,
@@ -8205,7 +8222,7 @@
  },
  {
   "id": 76,
-  "title": "Andalusische puchero met kikkererwten",
+  "title": "Andalusische kikkererwtenpot met kip",
   "chapter": "Budgetfavorieten",
   "price": "9–11",
   "spice": 1,
@@ -8310,11 +8327,12 @@
   "cuisine": "spanish",
   "protein": "chicken",
   "side": "pasta",
-  "price_basic": "8–10"
+  "price_basic": "8–10",
+  "name_es": "Puchero andaluz"
  },
  {
   "id": 77,
-  "title": "Sepia met doperwten en aardappel",
+  "title": "Zeekat met doperwten en aardappel",
   "chapter": "Vis & Garnalen",
   "price": "12–14",
   "spice": 1,
@@ -8415,7 +8433,8 @@
   "cuisine": "spanish",
   "protein": "fish",
   "side": "potato",
-  "price_basic": "10–12"
+  "price_basic": "10–12",
+  "name_es": "Sepia con guisantes"
  },
  {
   "id": 78,
@@ -8536,80 +8555,118 @@
  },
  {
   "id": 79,
-  "title": "Arroz con leche met kaneel en citroen",
+  "title": "Broodpudding met sinaasappel en rozijnen",
   "chapter": "Zoet uit de slowcooker",
-  "price": "3–4",
+  "price": "4–5",
   "spice": 1,
   "vega": true,
-  "prep": "10 min",
-  "low": "3–4 uur",
-  "high": "2–2½ uur",
-  "intro": "Romige Spaanse rijstpudding met kaneel en citroenschil, zonder aanbranden of eindeloos roeren: de slowcooker doet het werk.",
+  "prep": "15 min",
+  "low": "3–3½ uur",
+  "high": "1½–2 uur",
+  "intro": "Brood van gisteren wordt een goudgele, romige pudding met sinaasappel, kaneel en rozijnen: een Brits troosttoetje en de lekkerste manier om niets weg te gooien.",
   "ingredients": [
    {
-    "q": "1 l",
+    "q": "300 g",
+    "item": "brood van gisteren (stokbrood of wit brood), in plakken",
+    "es": "pan del día anterior",
+    "role": "basis"
+   },
+   {
+    "q": "40 g",
+    "item": "zachte boter (plus extra om in te vetten)",
+    "es": "mantequilla",
+    "role": "basis"
+   },
+   {
+    "q": "75 g",
+    "item": "rozijnen",
+    "es": "pasas",
+    "role": "extra"
+   },
+   {
+    "q": "1",
+    "item": "sinaasappel, alleen de geraspte schil",
+    "es": "naranja",
+    "role": "basis"
+   },
+   {
+    "q": "3",
+    "item": "eieren",
+    "es": "huevos",
+    "role": "basis"
+   },
+   {
+    "q": "500 ml",
     "item": "volle melk",
     "es": "leche entera",
     "role": "basis"
    },
    {
-    "q": "150 g",
-    "item": "ronde rijst (niet wassen)",
-    "es": "arroz redondo",
-    "role": "basis"
+    "q": "150 ml",
+    "item": "slagroom (of extra melk)",
+    "es": "nata para montar",
+    "role": "extra"
    },
    {
-    "q": "100 g",
+    "q": "75 g",
     "item": "suiker",
     "es": "azúcar",
     "role": "basis"
    },
    {
-    "q": "1",
-    "item": "kaneelstokje",
-    "es": "canela en rama",
+    "q": "1 tl",
+    "item": "vanillearoma",
+    "es": "aroma de vainilla",
     "role": "basis"
    },
    {
-    "q": "1",
-    "item": "citroen (alleen de gele schil, in repen)",
-    "es": "limón",
-    "role": "basis"
-   },
-   {
-    "q": "15 g",
-    "item": "boter",
-    "es": "mantequilla",
-    "role": "basis"
-   },
-   {
-    "q": "",
-    "item": "gemalen kaneel om te bestrooien",
+    "q": "1 tl",
+    "item": "kaneel",
     "es": "canela molida",
-    "role": "topping"
+    "role": "basis"
    },
    {
     "q": "1 snuf",
     "item": "zout",
     "es": "",
     "role": "basis"
+   },
+   {
+    "q": "2 el",
+    "item": "bruine suiker om te bestrooien",
+    "es": "azúcar moreno",
+    "role": "topping"
+   },
+   {
+    "q": "",
+    "item": "keukenpapier",
+    "es": "papel de cocina",
+    "role": "basis"
    }
   ],
-  "serve": [],
-  "steps": [
-   "Vet de binnenkant van de slowcooker in met boter. Doe melk, rijst, kaneelstokje, citroenschil en zout erin en roer goed.",
-   "Gaar 3–4 uur op LOW of 2–2½ uur op HIGH. Roer elk uur kort om, zodat de rijst niet aan de bodem plakt.",
-   "Roer het laatste halfuur de suiker erdoor. De rijst moet zacht zijn en de melk dik en romig.",
-   "Vis kaneelstokje en citroenschil eruit. Laat afkoelen; de pudding dikt flink op. Serveer lauw of koud, bestrooid met kaneel (optioneel)."
+  "serve": [
+   {
+    "q": "",
+    "item": "vanillevla",
+    "es": "",
+    "role": "extra"
+   }
   ],
-  "tip": "Was de rijst niet: het zetmeel maakt de pudding romig. Te dik geworden in de koelkast? Roer er een scheutje koude melk door. Bewaar maximaal 3 dagen gekoeld.",
-  "kids": "Laat ze zelf een hartje of hun letter van kaneel op hun schaaltje strooien.",
+  "steps": [
+   "Vet de binnenkant van de slowcooker royaal in met boter. Besmeer de plakken brood dun met de zachte boter en snijd ze doormidden.",
+   "Leg het brood dakpansgewijs in de slowcooker en strooi de rozijnen (optioneel) en de sinaasappelrasp tussen de lagen.",
+   "Klop eieren, melk, slagroom (optioneel), suiker, vanille, kaneel en zout los. Giet dit over het brood, druk het met een lepel onder en laat 15 minuten intrekken.",
+   "Leg twee lagen keukenpapier over de opening en zet het deksel erop. Gaar 3–3½ uur op LOW of 1½–2 uur op HIGH, tot de pudding in het midden gestold is: een mes komt er dan schoon uit.",
+   "Haal het deksel eraf en laat de pudding 10 minuten opstijven. Bestrooi met bruine suiker (optioneel) en serveer warm of lauw, eventueel met vanillevla."
+  ],
+  "tip": "Hoe droger het brood, hoe beter het de eiermelk opzuigt zonder papperig te worden: perfect voor de restjes barra van gisteren. Bewaar restjes afgedekt in de koelkast en eet ze binnen 2 dagen op; even opwarmen in de magnetron maakt ze weer smeuïg.",
+  "kids": "Laat ze het brood besmeren en de rozijnen strooien. Wie geen rozijnen lust, krijgt gewoon een hoekje zonder.",
   "freeze": false,
-  "guid": "434f299e-62f8-4533-83b6-711f420e6556",
-  "cuisine": "spanish",
+  "guid": "d3974f97-2901-4cfe-849d-23e3dfaf6af1",
+  "cuisine": "british",
   "protein": "sweet",
   "side": "none",
-  "price_basic": "2–3"
+  "price_basic": "3–4"
  },
  {
   "id": 80,
@@ -8732,30 +8789,48 @@
  },
  {
   "id": 81,
-  "title": "Milde linzendahl met spinazie en kokos",
+  "title": "Zoetzure tofu met paprika en ananas",
   "chapter": "Wereldgerechten",
-  "price": "5–7",
+  "price": "7–9",
   "spice": 1,
   "vega": true,
-  "prep": "10 min",
-  "low": "5–6 uur",
-  "high": "3–4 uur",
-  "intro": "Fluweelzachte rode linzen met tomaat, komijn en een scheut kokosmelk: Indiaas troostvoer dat bijna niets kost en iedereen vult.",
+  "prep": "20 min",
+  "low": "3–4 uur",
+  "high": "1½–2 uur",
+  "intro": "Knapperige tofu, paprika en ananas in een glanzende zoetzure saus, zoals bij de afhaalchinees: helemaal plantaardig, mild en klaar met een pan rijst.",
   "ingredients": [
    {
-    "q": "300 g",
-    "item": "rode linzen, gespoeld",
-    "es": "lentejas rojas (lentejas coral)",
+    "q": "1 blik (560 g)",
+    "item": "ananasstukjes op sap, uitgelekt (sap bewaren)",
+    "es": "piña en su jugo",
     "role": "basis"
    },
    {
-    "q": "1",
-    "item": "ui, gesnipperd",
-    "es": "cebolla",
+    "q": "4 el",
+    "item": "ketchup",
+    "es": "kétchup",
     "role": "basis"
    },
    {
-    "q": "3 tenen",
+    "q": "3 el",
+    "item": "appelazijn",
+    "es": "vinagre de manzana",
+    "role": "basis"
+   },
+   {
+    "q": "2 el",
+    "item": "bruine suiker",
+    "es": "azúcar moreno",
+    "role": "basis"
+   },
+   {
+    "q": "3 el",
+    "item": "zoutarme sojasaus",
+    "es": "salsa de soja baja en sal",
+    "role": "basis"
+   },
+   {
+    "q": "2 tenen",
     "item": "knoflook, geraspt",
     "es": "ajo",
     "role": "basis"
@@ -8767,89 +8842,77 @@
     "role": "basis"
    },
    {
-    "q": "1 tl",
-    "item": "kurkuma",
-    "es": "cúrcuma",
+    "q": "1",
+    "item": "ui, in grote stukken",
+    "es": "cebolla",
     "role": "basis"
    },
    {
-    "q": "2 tl",
-    "item": "gemalen komijn",
-    "es": "comino molido",
+    "q": "2",
+    "item": "paprika's (rood en geel), in stukken van 3 cm",
+    "es": "pimientos rojos y amarillos",
     "role": "basis"
    },
    {
-    "q": "1 tl",
-    "item": "garam masala",
-    "es": "garam masala (Carrefour of Aziatische winkel)",
-    "role": "basis"
+    "q": "2",
+    "item": "wortels, in dunne plakjes",
+    "es": "zanahorias",
+    "role": "extra"
    },
    {
     "q": "400 g",
-    "item": "tomatenblokjes",
-    "es": "tomate troceado",
+    "item": "stevige tofu",
+    "es": "tofu firme",
     "role": "basis"
    },
    {
-    "q": "700 ml",
-    "item": "groentebouillon",
-    "es": "caldo de verduras",
+    "q": "3 el",
+    "item": "maizena (verdeeld)",
+    "es": "maicena",
     "role": "basis"
    },
    {
-    "q": "200 ml",
-    "item": "kokosmelk",
-    "es": "leche de coco",
-    "role": "extra"
-   },
-   {
-    "q": "100 g",
-    "item": "verse spinazie",
-    "es": "espinacas frescas",
-    "role": "extra"
-   },
-   {
-    "q": "",
-    "item": "citroensap en zout",
-    "es": "",
+    "q": "2 el",
+    "item": "zonnebloemolie",
+    "es": "aceite de girasol",
     "role": "basis"
+   },
+   {
+    "q": "2",
+    "item": "lente-uitjes, in ringetjes",
+    "es": "cebolletas",
+    "role": "topping"
+   },
+   {
+    "q": "1 el",
+    "item": "geroosterd sesamzaad",
+    "es": "sésamo tostado",
+    "role": "topping"
    }
   ],
   "serve": [
    {
-    "q": "",
-    "item": "basmatirijst",
-    "es": "",
+    "q": "300 g",
+    "item": "witte rijst of jasmijnrijst",
+    "es": "arroz jazmín",
     "role": "basis"
-   },
-   {
-    "q": "",
-    "item": "naan of wraps",
-    "es": "",
-    "role": "extra"
-   },
-   {
-    "q": "",
-    "item": "yoghurt",
-    "es": "",
-    "role": "topping"
    }
   ],
   "steps": [
-   "Spoel de linzen in een zeef onder de kraan tot het water helder blijft; zo schuimt de dahl minder.",
-   "Doe linzen, ui, knoflook, gember, specerijen, tomaten en bouillon in de slowcooker en roer goed door.",
-   "Sluit het deksel en gaar 5–6 uur op LOW of 3–4 uur op HIGH. Linzen zuigen vocht op: te dik? Roer er een scheut heet water door.",
-   "Optioneel: Roer kokosmelk en spinazie er het laatste kwartier door en laat de spinazie slinken met het deksel erop.",
-   "Breng op smaak met citroensap en zout en serveer met rijst of naan."
+   "Roer in de slowcooker het ananassap, ketchup, azijn, suiker, sojasaus, knoflook en gember door elkaar. Bewaar de ananasstukjes afgedekt in de koelkast.",
+   "Voeg ui, paprika en wortel (optioneel) toe en schep om. Voeg geen water toe: de groenten geven zelf vocht af. Gaar 3–4 uur op LOW of 1½–2 uur op HIGH, tot de groenten zacht zijn.",
+   "Laat de tofu uitlekken, dep hem stevig droog met keukenpapier en snijd hem in blokjes van 2 cm. Wentel de blokjes door 2 el maizena en bak ze in de olie in 8–10 minuten rondom goudbruin. Kook intussen de rijst.",
+   "Zet de slowcooker op HIGH. Roer de rest van de maizena los met 2 el koud water en roer dit samen met de ananasstukjes door de saus. Laat 15–20 minuten doorgaren tot de saus glanst en bindt.",
+   "Schep de tofu er pas vlak voor het opdienen door, zodat het korstje knapperig blijft. Bestrooi met lente-ui (optioneel) en sesamzaad (optioneel) en serveer met de rijst."
   ],
-  "tip": "Pit voor de volwassenen: verhit 2 el olie met chilivlokken en een paar komijnzaadjes 30 seconden en schenk dit lepeltje voor lepeltje over je eigen bord.",
-  "kids": "Dahl is eigenlijk een hartige puree: lepel het met rijst en een klodder yoghurt.",
-  "freeze": true,
-  "guid": "afde89a8-df89-43d4-bd8e-cb08df2f8d85",
-  "cuisine": "indian",
+  "tip": "Koop stevige tofu (tofu firme, in het koelvak bij de vegaproducten). Heb je tijd, pers hem dan 15 minuten onder een zware pan: hoe droger, hoe knapperiger. Proef de saus aan het eind en maak hem zoeter met een theelepel suiker of frisser met een scheutje azijn.",
+  "kids": "Knapperige blokjes in een roze, zoetzure saus met ananas: zeg er niet bij dat het tofu is en laat ze raden wat ze eten.",
+  "freeze": false,
+  "guid": "ac37de94-5d8a-492f-9765-f7577c74fac5",
+  "cuisine": "chinese",
   "protein": "veg",
   "side": "rice",
-  "price_basic": "3–5"
+  "price_basic": "6–8"
  },
  {
   "id": 82,
@@ -10241,80 +10304,98 @@
  },
  {
   "id": 94,
-  "title": "Britse kip-preistoof met bladerdeegdakje",
+  "title": "Kalkoenstoof met appel, cranberry's en krieltjes",
   "chapter": "Hollands & Europees",
-  "price": "8–10",
+  "price": "10–12",
   "spice": 1,
   "vega": false,
   "prep": "20 min",
   "low": "5–6 uur",
-  "high": "3 uur",
-  "intro": "Britse chicken & leek pie, maar makkelijk: romige kip-preistoof uit de slowcooker met een krokant bladerdeegdakje uit de oven.",
+  "high": "3–3½ uur",
+  "intro": "Malse kalkoen met krieltjes, appel en een vleugje cranberry in een milde mosterdjus: een feestelijke najaarsstoof die ook doordeweeks makkelijk kan.",
   "ingredients": [
    {
-    "q": "700 g",
-    "item": "kippendijfilet, in blokjes",
-    "es": "contramuslos de pollo deshuesados",
+    "q": "800 g",
+    "item": "kalkoendijfilet, in blokken van 4 cm",
+    "es": "contramuslo de pavo deshuesado",
     "role": "basis"
    },
    {
-    "q": "2 el",
+    "q": "1 el",
     "item": "bloem",
     "es": "harina de trigo",
     "role": "basis"
    },
    {
-    "q": "2",
-    "item": "preien, in ringen",
-    "es": "puerros",
+    "q": "1 el",
+    "item": "olie",
+    "es": "aceite de girasol",
     "role": "basis"
    },
    {
-    "q": "2",
-    "item": "wortels, in blokjes",
+    "q": "600 g",
+    "item": "krieltjes, gehalveerd",
+    "es": "patatas baby",
+    "role": "basis"
+   },
+   {
+    "q": "3",
+    "item": "wortels, in stukken",
     "es": "zanahorias",
-    "role": "basis"
-   },
-   {
-    "q": "200 g",
-    "item": "champignons, in kwarten",
-    "es": "champiñones",
     "role": "extra"
    },
    {
-    "q": "300 ml",
+    "q": "2",
+    "item": "uien, in partjes",
+    "es": "cebollas",
+    "role": "basis"
+   },
+   {
+    "q": "2",
+    "item": "zoetzure appels, in grote partjes",
+    "es": "manzanas Golden",
+    "role": "basis"
+   },
+   {
+    "q": "400 ml",
     "item": "kippenbouillon",
     "es": "caldo de pollo",
     "role": "basis"
    },
    {
-    "q": "1 tl",
+    "q": "1 el",
     "item": "mosterd",
     "es": "mostaza",
     "role": "basis"
    },
    {
-    "q": "1 tl",
-    "item": "gedroogde tijm",
+    "q": "3 takjes",
+    "item": "tijm (of 1 tl gedroogd)",
     "es": "tomillo",
+    "role": "basis"
+   },
+   {
+    "q": "1",
+    "item": "laurierblad",
+    "es": "hoja de laurel",
+    "role": "basis"
+   },
+   {
+    "q": "60 g",
+    "item": "gedroogde cranberry's",
+    "es": "arándanos rojos deshidratados",
+    "role": "extra"
+   },
+   {
+    "q": "1 el",
+    "item": "maizena",
+    "es": "maicena",
     "role": "basis"
    },
    {
     "q": "100 ml",
     "item": "kookroom",
     "es": "nata para cocinar",
-    "role": "basis"
-   },
-   {
-    "q": "1 rol",
-    "item": "bladerdeeg uit het koelvak",
-    "es": "masa de hojaldre refrigerada",
-    "role": "basis"
-   },
-   {
-    "q": "1",
-    "item": "ei, losgeklopt",
-    "es": "huevo",
     "role": "extra"
    },
    {
@@ -10324,22 +10405,29 @@
     "role": "basis"
    }
   ],
-  "serve": [],
-  "steps": [
-   "Hussel de kip met bloem, zout en peper. Doe kip, prei, wortel en champignons (optioneel) in de slowcooker.",
-   "Roer bouillon, mosterd en tijm door elkaar en giet erover. Gaar 5–6 uur op LOW of 3 uur op HIGH.",
-   "Verwarm in het laatste halfuur de oven op 200 °C. Snijd het bladerdeeg in 4 rechthoeken, bestrijk met ei (optioneel) en bak 15–18 minuten goudbruin.",
-   "Roer de kookroom door de stoof en laat 10 minuten op HIGH doorwarmen. Te dun? Bind met een theelepel maizena in koud water.",
-   "Schep de stoof in diepe borden en leg op elk bord een bladerdeegdakje. Direct serveren, dan blijft het deeg krokant."
+  "serve": [
+   {
+    "q": "",
+    "item": "gekookte sperziebonen of rode kool",
+    "es": "",
+    "role": "extra"
+   }
   ],
-  "tip": "Bladerdeeg wordt in de slowcooker klef, daarom bak je het apart. Geen oven? De airfryer op 190 °C doet het in 10–12 minuten. Hojaldre ligt in elk Spaans koelvak.",
-  "kids": "Laat de kinderen hun eigen dakje uitsteken met een koekvormpje: ster, hart of dinosaurus.",
+  "steps": [
+   "Bestrooi de kalkoen met bloem, zout en peper en bak hem in twee porties kort rondom bruin in hete olie; zo krijg je smaak én een gebonden saus.",
+   "Leg krieltjes en wortel (optioneel) onderin de slowcooker, waar het het warmst is. Leg de kalkoen erop en verdeel ui en appel erover.",
+   "Blus de pan af met de bouillon, roer de mosterd erdoor en schraap de aanbaksels los. Giet dit in de slowcooker en voeg tijm, laurier en cranberry's (optioneel) toe.",
+   "Sluit het deksel en gaar 5–6 uur op LOW of 3–3½ uur op HIGH, tot de krieltjes zacht zijn en de kalkoen in het midden minstens 75 °C is.",
+   "Vis tijm en laurier eruit en zet op HIGH. Roer de maizena glad met de kookroom (optioneel) of 3 el koud water, roer dit door de stoof en laat 15–20 minuten doorgaren tot de saus bindt. Breng op smaak met zout en peper."
+  ],
+  "tip": "Kies kalkoendij (contramuslo de pavo) en geen filet: dij blijft sappig tijdens het lange garen, filet wordt droog en draderig. Geen cranberry's in huis? Een eetlepel rodebessen- of bosbessenjam in de saus geeft hetzelfde zoetzure accent.",
+  "kids": "Zachte aardappeltjes, zoete appel en milde jus: prak alles samen fijn tot een feestelijk stamppotje voor kleine eters.",
   "freeze": false,
-  "guid": "aa1df023-0a79-4a57-b0a9-35d11e10ba86",
+  "guid": "b8519894-2e51-4268-9096-0a055b59ecfa",
   "cuisine": "british",
   "protein": "chicken",
-  "side": "none",
-  "price_basic": "7–9"
+  "side": "potato",
+  "price_basic": "8–10"
  },
  {
   "id": 95,
@@ -12001,7 +12089,7 @@
  },
  {
   "id": 110,
-  "title": "Flan met karamel uit de slowcooker",
+  "title": "Karamelpudding uit de slowcooker",
   "chapter": "Zoet uit de slowcooker",
   "price": "3–4",
   "spice": 1,
@@ -12075,7 +12163,8 @@
   "cuisine": "spanish",
   "protein": "sweet",
   "side": "none",
-  "price_basic": "2–3"
+  "price_basic": "2–3",
+  "name_es": "Flan de huevo"
  },
  {
   "id": 111,

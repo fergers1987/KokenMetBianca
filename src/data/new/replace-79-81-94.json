@@ -1,0 +1,1726 @@
+{
+ "nl": [
+  {
+   "id": 79,
+   "title": "Broodpudding met sinaasappel en rozijnen",
+   "chapter": "Zoet uit de slowcooker",
+   "price": "4–5",
+   "spice": 1,
+   "vega": true,
+   "prep": "15 min",
+   "low": "3–3½ uur",
+   "high": "1½–2 uur",
+   "intro": "Brood van gisteren wordt een goudgele, romige pudding met sinaasappel, kaneel en rozijnen: een Brits troosttoetje en de lekkerste manier om niets weg te gooien.",
+   "ingredients": [
+    {
+     "q": "300 g",
+     "item": "brood van gisteren (stokbrood of wit brood), in plakken",
+     "es": "pan del día anterior",
+     "role": "basis"
+    },
+    {
+     "q": "40 g",
+     "item": "zachte boter (plus extra om in te vetten)",
+     "es": "mantequilla",
+     "role": "basis"
+    },
+    {
+     "q": "75 g",
+     "item": "rozijnen",
+     "es": "pasas",
+     "role": "extra"
+    },
+    {
+     "q": "1",
+     "item": "sinaasappel, alleen de geraspte schil",
+     "es": "naranja",
+     "role": "basis"
+    },
+    {
+     "q": "3",
+     "item": "eieren",
+     "es": "huevos",
+     "role": "basis"
+    },
+    {
+     "q": "500 ml",
+     "item": "volle melk",
+     "es": "leche entera",
+     "role": "basis"
+    },
+    {
+     "q": "150 ml",
+     "item": "slagroom (of extra melk)",
+     "es": "nata para montar",
+     "role": "extra"
+    },
+    {
+     "q": "75 g",
+     "item": "suiker",
+     "es": "azúcar",
+     "role": "basis"
+    },
+    {
+     "q": "1 tl",
+     "item": "vanillearoma",
+     "es": "aroma de vainilla",
+     "role": "basis"
+    },
+    {
+     "q": "1 tl",
+     "item": "kaneel",
+     "es": "canela molida",
+     "role": "basis"
+    },
+    {
+     "q": "1 snuf",
+     "item": "zout",
+     "es": "",
+     "role": "basis"
+    },
+    {
+     "q": "2 el",
+     "item": "bruine suiker om te bestrooien",
+     "es": "azúcar moreno",
+     "role": "topping"
+    },
+    {
+     "q": "",
+     "item": "keukenpapier",
+     "es": "papel de cocina",
+     "role": "basis"
+    }
+   ],
+   "serve": [
+    {
+     "q": "",
+     "item": "vanillevla",
+     "es": "",
+     "role": "extra"
+    }
+   ],
+   "steps": [
+    "Vet de binnenkant van de slowcooker royaal in met boter. Besmeer de plakken brood dun met de zachte boter en snijd ze doormidden.",
+    "Leg het brood dakpansgewijs in de slowcooker en strooi de rozijnen (optioneel) en de sinaasappelrasp tussen de lagen.",
+    "Klop eieren, melk, slagroom (optioneel), suiker, vanille, kaneel en zout los. Giet dit over het brood, druk het met een lepel onder en laat 15 minuten intrekken.",
+    "Leg twee lagen keukenpapier over de opening en zet het deksel erop. Gaar 3–3½ uur op LOW of 1½–2 uur op HIGH, tot de pudding in het midden gestold is: een mes komt er dan schoon uit.",
+    "Haal het deksel eraf en laat de pudding 10 minuten opstijven. Bestrooi met bruine suiker (optioneel) en serveer warm of lauw, eventueel met vanillevla."
+   ],
+   "tip": "Hoe droger het brood, hoe beter het de eiermelk opzuigt zonder papperig te worden: perfect voor de restjes barra van gisteren. Bewaar restjes afgedekt in de koelkast en eet ze binnen 2 dagen op; even opwarmen in de magnetron maakt ze weer smeuïg.",
+   "kids": "Laat ze het brood besmeren en de rozijnen strooien. Wie geen rozijnen lust, krijgt gewoon een hoekje zonder.",
+   "freeze": false,
+   "guid": "d3974f97-2901-4cfe-849d-23e3dfaf6af1",
+   "cuisine": "british",
+   "protein": "sweet",
+   "side": "none",
+   "price_basic": "3–4"
+  },
+  {
+   "id": 81,
+   "title": "Zoetzure tofu met paprika en ananas",
+   "chapter": "Wereldgerechten",
+   "price": "7–9",
+   "spice": 1,
+   "vega": true,
+   "prep": "20 min",
+   "low": "3–4 uur",
+   "high": "1½–2 uur",
+   "intro": "Knapperige tofu, paprika en ananas in een glanzende zoetzure saus, zoals bij de afhaalchinees: helemaal plantaardig, mild en klaar met een pan rijst.",
+   "ingredients": [
+    {
+     "q": "1 blik (560 g)",
+     "item": "ananasstukjes op sap, uitgelekt (sap bewaren)",
+     "es": "piña en su jugo",
+     "role": "basis"
+    },
+    {
+     "q": "4 el",
+     "item": "ketchup",
+     "es": "kétchup",
+     "role": "basis"
+    },
+    {
+     "q": "3 el",
+     "item": "appelazijn",
+     "es": "vinagre de manzana",
+     "role": "basis"
+    },
+    {
+     "q": "2 el",
+     "item": "bruine suiker",
+     "es": "azúcar moreno",
+     "role": "basis"
+    },
+    {
+     "q": "3 el",
+     "item": "zoutarme sojasaus",
+     "es": "salsa de soja baja en sal",
+     "role": "basis"
+    },
+    {
+     "q": "2 tenen",
+     "item": "knoflook, geraspt",
+     "es": "ajo",
+     "role": "basis"
+    },
+    {
+     "q": "1 el",
+     "item": "verse gember, geraspt",
+     "es": "jengibre fresco",
+     "role": "basis"
+    },
+    {
+     "q": "1",
+     "item": "ui, in grote stukken",
+     "es": "cebolla",
+     "role": "basis"
+    },
+    {
+     "q": "2",
+     "item": "paprika's (rood en geel), in stukken van 3 cm",
+     "es": "pimientos rojos y amarillos",
+     "role": "basis"
+    },
+    {
+     "q": "2",
+     "item": "wortels, in dunne plakjes",
+     "es": "zanahorias",
+     "role": "extra"
+    },
+    {
+     "q": "400 g",
+     "item": "stevige tofu",
+     "es": "tofu firme",
+     "role": "basis"
+    },
+    {
+     "q": "3 el",
+     "item": "maizena (verdeeld)",
+     "es": "maicena",
+     "role": "basis"
+    },
+    {
+     "q": "2 el",
+     "item": "zonnebloemolie",
+     "es": "aceite de girasol",
+     "role": "basis"
+    },
+    {
+     "q": "2",
+     "item": "lente-uitjes, in ringetjes",
+     "es": "cebolletas",
+     "role": "topping"
+    },
+    {
+     "q": "1 el",
+     "item": "geroosterd sesamzaad",
+     "es": "sésamo tostado",
+     "role": "topping"
+    }
+   ],
+   "serve": [
+    {
+     "q": "300 g",
+     "item": "witte rijst of jasmijnrijst",
+     "es": "arroz jazmín",
+     "role": "basis"
+    }
+   ],
+   "steps": [
+    "Roer in de slowcooker het ananassap, ketchup, azijn, suiker, sojasaus, knoflook en gember door elkaar. Bewaar de ananasstukjes afgedekt in de koelkast.",
+    "Voeg ui, paprika en wortel (optioneel) toe en schep om. Voeg geen water toe: de groenten geven zelf vocht af. Gaar 3–4 uur op LOW of 1½–2 uur op HIGH, tot de groenten zacht zijn.",
+    "Laat de tofu uitlekken, dep hem stevig droog met keukenpapier en snijd hem in blokjes van 2 cm. Wentel de blokjes door 2 el maizena en bak ze in de olie in 8–10 minuten rondom goudbruin. Kook intussen de rijst.",
+    "Zet de slowcooker op HIGH. Roer de rest van de maizena los met 2 el koud water en roer dit samen met de ananasstukjes door de saus. Laat 15–20 minuten doorgaren tot de saus glanst en bindt.",
+    "Schep de tofu er pas vlak voor het opdienen door, zodat het korstje knapperig blijft. Bestrooi met lente-ui (optioneel) en sesamzaad (optioneel) en serveer met de rijst."
+   ],
+   "tip": "Koop stevige tofu (tofu firme, in het koelvak bij de vegaproducten). Heb je tijd, pers hem dan 15 minuten onder een zware pan: hoe droger, hoe knapperiger. Proef de saus aan het eind en maak hem zoeter met een theelepel suiker of frisser met een scheutje azijn.",
+   "kids": "Knapperige blokjes in een roze, zoetzure saus met ananas: zeg er niet bij dat het tofu is en laat ze raden wat ze eten.",
+   "freeze": false,
+   "guid": "ac37de94-5d8a-492f-9765-f7577c74fac5",
+   "cuisine": "chinese",
+   "protein": "veg",
+   "side": "rice",
+   "price_basic": "6–8"
+  },
+  {
+   "id": 94,
+   "title": "Kalkoenstoof met appel, cranberry's en krieltjes",
+   "chapter": "Hollands & Europees",
+   "price": "10–12",
+   "spice": 1,
+   "vega": false,
+   "prep": "20 min",
+   "low": "5–6 uur",
+   "high": "3–3½ uur",
+   "intro": "Malse kalkoen met krieltjes, appel en een vleugje cranberry in een milde mosterdjus: een feestelijke najaarsstoof die ook doordeweeks makkelijk kan.",
+   "ingredients": [
+    {
+     "q": "800 g",
+     "item": "kalkoendijfilet, in blokken van 4 cm",
+     "es": "contramuslo de pavo deshuesado",
+     "role": "basis"
+    },
+    {
+     "q": "1 el",
+     "item": "bloem",
+     "es": "harina de trigo",
+     "role": "basis"
+    },
+    {
+     "q": "1 el",
+     "item": "olie",
+     "es": "aceite de girasol",
+     "role": "basis"
+    },
+    {
+     "q": "600 g",
+     "item": "krieltjes, gehalveerd",
+     "es": "patatas baby",
+     "role": "basis"
+    },
+    {
+     "q": "3",
+     "item": "wortels, in stukken",
+     "es": "zanahorias",
+     "role": "extra"
+    },
+    {
+     "q": "2",
+     "item": "uien, in partjes",
+     "es": "cebollas",
+     "role": "basis"
+    },
+    {
+     "q": "2",
+     "item": "zoetzure appels, in grote partjes",
+     "es": "manzanas Golden",
+     "role": "basis"
+    },
+    {
+     "q": "400 ml",
+     "item": "kippenbouillon",
+     "es": "caldo de pollo",
+     "role": "basis"
+    },
+    {
+     "q": "1 el",
+     "item": "mosterd",
+     "es": "mostaza",
+     "role": "basis"
+    },
+    {
+     "q": "3 takjes",
+     "item": "tijm (of 1 tl gedroogd)",
+     "es": "tomillo",
+     "role": "basis"
+    },
+    {
+     "q": "1",
+     "item": "laurierblad",
+     "es": "hoja de laurel",
+     "role": "basis"
+    },
+    {
+     "q": "60 g",
+     "item": "gedroogde cranberry's",
+     "es": "arándanos rojos deshidratados",
+     "role": "extra"
+    },
+    {
+     "q": "1 el",
+     "item": "maizena",
+     "es": "maicena",
+     "role": "basis"
+    },
+    {
+     "q": "100 ml",
+     "item": "kookroom",
+     "es": "nata para cocinar",
+     "role": "extra"
+    },
+    {
+     "q": "",
+     "item": "peper en zout",
+     "es": "",
+     "role": "basis"
+    }
+   ],
+   "serve": [
+    {
+     "q": "",
+     "item": "gekookte sperziebonen of rode kool",
+     "es": "",
+     "role": "extra"
+    }
+   ],
+   "steps": [
+    "Bestrooi de kalkoen met bloem, zout en peper en bak hem in twee porties kort rondom bruin in hete olie; zo krijg je smaak én een gebonden saus.",
+    "Leg krieltjes en wortel (optioneel) onderin de slowcooker, waar het het warmst is. Leg de kalkoen erop en verdeel ui en appel erover.",
+    "Blus de pan af met de bouillon, roer de mosterd erdoor en schraap de aanbaksels los. Giet dit in de slowcooker en voeg tijm, laurier en cranberry's (optioneel) toe.",
+    "Sluit het deksel en gaar 5–6 uur op LOW of 3–3½ uur op HIGH, tot de krieltjes zacht zijn en de kalkoen in het midden minstens 75 °C is.",
+    "Vis tijm en laurier eruit en zet op HIGH. Roer de maizena glad met de kookroom (optioneel) of 3 el koud water, roer dit door de stoof en laat 15–20 minuten doorgaren tot de saus bindt. Breng op smaak met zout en peper."
+   ],
+   "tip": "Kies kalkoendij (contramuslo de pavo) en geen filet: dij blijft sappig tijdens het lange garen, filet wordt droog en draderig. Geen cranberry's in huis? Een eetlepel rodebessen- of bosbessenjam in de saus geeft hetzelfde zoetzure accent.",
+   "kids": "Zachte aardappeltjes, zoete appel en milde jus: prak alles samen fijn tot een feestelijk stamppotje voor kleine eters.",
+   "freeze": false,
+   "guid": "b8519894-2e51-4268-9096-0a055b59ecfa",
+   "cuisine": "british",
+   "protein": "chicken",
+   "side": "potato",
+   "price_basic": "8–10"
+  }
+ ],
+ "es": [
+  {
+   "id": 79,
+   "title": "Pudin de pan con naranja y pasas",
+   "slug": "pudin-de-pan-con-naranja-y-pasas",
+   "chapter": "Dulces de olla lenta",
+   "price": "4–5",
+   "spice": 1,
+   "vega": true,
+   "prep": "15 min",
+   "low": "3–3½ h",
+   "high": "1½–2 h",
+   "intro": "El pan de ayer se convierte en un pudin dorado y cremoso con naranja, canela y pasas: un postre británico reconfortante y la forma más rica de no tirar nada.",
+   "ingredients": [
+    {
+     "q": "300 g",
+     "item": "pan del día anterior (barra o pan de molde), en rebanadas",
+     "es": "pan del día anterior"
+    },
+    {
+     "q": "40 g",
+     "item": "mantequilla blanda (y un poco más para engrasar)",
+     "es": "mantequilla"
+    },
+    {
+     "q": "75 g",
+     "item": "pasas",
+     "es": "pasas"
+    },
+    {
+     "q": "1",
+     "item": "naranja, solo la piel rallada",
+     "es": "naranja"
+    },
+    {
+     "q": "3",
+     "item": "huevos",
+     "es": "huevos"
+    },
+    {
+     "q": "500 ml",
+     "item": "leche entera",
+     "es": "leche entera"
+    },
+    {
+     "q": "150 ml",
+     "item": "nata para montar (o más leche)",
+     "es": "nata para montar"
+    },
+    {
+     "q": "75 g",
+     "item": "azúcar",
+     "es": "azúcar"
+    },
+    {
+     "q": "1 cdta",
+     "item": "aroma de vainilla",
+     "es": "aroma de vainilla"
+    },
+    {
+     "q": "1 cdta",
+     "item": "canela molida",
+     "es": "canela molida"
+    },
+    {
+     "q": "1 pizca",
+     "item": "de sal",
+     "es": ""
+    },
+    {
+     "q": "2 cda",
+     "item": "azúcar moreno para espolvorear",
+     "es": "azúcar moreno"
+    },
+    {
+     "q": "",
+     "item": "papel de cocina",
+     "es": "papel de cocina"
+    }
+   ],
+   "serve": [
+    {
+     "q": "",
+     "item": "natillas de vainilla",
+     "es": ""
+    }
+   ],
+   "steps": [
+    "Engrasa bien el interior de la olla lenta con mantequilla. Unta las rebanadas de pan con una capa fina de mantequilla blanda y córtalas por la mitad.",
+    "Coloca el pan en la olla lenta como si fueran tejas y reparte las pasas (opcional) y la ralladura de naranja entre las capas.",
+    "Bate los huevos con la leche, la nata (opcional), el azúcar, la vainilla, la canela y la sal. Viértelo sobre el pan, húndelo con una cuchara y deja que se empape 15 minutos.",
+    "Pon dos capas de papel de cocina sobre la abertura y coloca la tapa encima. Cocina 3–3½ h en LOW o 1½–2 h en HIGH, hasta que el pudin esté cuajado en el centro: un cuchillo saldrá limpio.",
+    "Quita la tapa y deja que el pudin repose 10 minutos para que se asiente. Espolvorea con azúcar moreno (opcional) y sírvelo caliente o templado, con natillas si quieres."
+   ],
+   "tip": "Cuanto más seco esté el pan, mejor absorbe la mezcla de huevo y leche sin quedar pastoso: ideal para la barra que sobró ayer. Guarda las sobras tapadas en la nevera y cómelas en 2 días; un golpe de microondas las deja otra vez jugosas.",
+   "kids": "Deja que unten ellos el pan y repartan las pasas. Al que no le gusten las pasas, le toca una esquina sin ellas.",
+   "freeze": false,
+   "guid": "d3974f97-2901-4cfe-849d-23e3dfaf6af1",
+   "cuisine": "british",
+   "protein": "sweet",
+   "side": "none",
+   "price_basic": "3–4"
+  },
+  {
+   "id": 81,
+   "title": "Tofu agridulce con pimiento y piña",
+   "slug": "tofu-agridulce-con-pimiento-y-pina",
+   "chapter": "Cocina del mundo",
+   "price": "7–9",
+   "spice": 1,
+   "vega": true,
+   "prep": "20 min",
+   "low": "3–4 h",
+   "high": "1½–2 h",
+   "intro": "Tofu crujiente, pimiento y piña en una salsa agridulce brillante, como en el restaurante chino: totalmente vegetal, suave y listo con una olla de arroz.",
+   "ingredients": [
+    {
+     "q": "1 lata (560 g)",
+     "item": "piña en trozos en su jugo, escurrida (guarda el jugo)",
+     "es": "piña en su jugo"
+    },
+    {
+     "q": "4 cda",
+     "item": "kétchup",
+     "es": "kétchup"
+    },
+    {
+     "q": "3 cda",
+     "item": "vinagre de manzana",
+     "es": "vinagre de manzana"
+    },
+    {
+     "q": "2 cda",
+     "item": "azúcar moreno",
+     "es": "azúcar moreno"
+    },
+    {
+     "q": "3 cda",
+     "item": "salsa de soja baja en sal",
+     "es": "salsa de soja baja en sal"
+    },
+    {
+     "q": "2 dientes",
+     "item": "de ajo, rallados",
+     "es": "ajo"
+    },
+    {
+     "q": "1 cda",
+     "item": "jengibre fresco, rallado",
+     "es": "jengibre fresco"
+    },
+    {
+     "q": "1",
+     "item": "cebolla, en trozos grandes",
+     "es": "cebolla"
+    },
+    {
+     "q": "2",
+     "item": "pimientos (rojo y amarillo), en trozos de 3 cm",
+     "es": "pimientos rojos y amarillos"
+    },
+    {
+     "q": "2",
+     "item": "zanahorias, en rodajas finas",
+     "es": "zanahorias"
+    },
+    {
+     "q": "400 g",
+     "item": "tofu firme",
+     "es": "tofu firme"
+    },
+    {
+     "q": "3 cda",
+     "item": "maicena (en dos veces)",
+     "es": "maicena"
+    },
+    {
+     "q": "2 cda",
+     "item": "aceite de girasol",
+     "es": "aceite de girasol"
+    },
+    {
+     "q": "2",
+     "item": "cebolletas, en aros finos",
+     "es": "cebolletas"
+    },
+    {
+     "q": "1 cda",
+     "item": "sésamo tostado",
+     "es": "sésamo tostado"
+    }
+   ],
+   "serve": [
+    {
+     "q": "300 g",
+     "item": "arroz blanco o arroz jazmín",
+     "es": "arroz jazmín"
+    }
+   ],
+   "steps": [
+    "Mezcla en la olla lenta el jugo de la piña, el kétchup, el vinagre, el azúcar, la salsa de soja, el ajo y el jengibre. Guarda los trozos de piña tapados en la nevera.",
+    "Añade la cebolla, el pimiento y la zanahoria (opcional) y remueve. No añadas agua: las verduras sueltan su propio líquido. Cocina 3–4 h en LOW o 1½–2 h en HIGH, hasta que las verduras estén tiernas.",
+    "Escurre el tofu, sécalo bien con papel de cocina y córtalo en dados de 2 cm. Rebózalos en 2 cda de maicena y dóralos en el aceite 8–10 minutos por todos los lados. Mientras tanto, cuece el arroz.",
+    "Pon la olla lenta en HIGH. Disuelve el resto de la maicena en 2 cda de agua fría y añádela a la salsa junto con los trozos de piña. Deja cocer 15–20 minutos más, hasta que la salsa brille y espese.",
+    "Incorpora el tofu justo antes de servir, para que la costra siga crujiente. Espolvorea con cebolleta (opcional) y sésamo (opcional) y sirve con el arroz."
+   ],
+   "tip": "Compra tofu firme (en la zona refrigerada, junto a los productos vegetales). Si tienes tiempo, préngalo 15 minutos bajo una sartén pesada: cuanto más seco, más crujiente. Prueba la salsa al final y hazla más dulce con una cucharadita de azúcar o más fresca con un chorrito de vinagre.",
+   "kids": "Dados crujientes en una salsa rosa agridulce con piña: no les digas que es tofu y deja que adivinen qué están comiendo.",
+   "freeze": false,
+   "guid": "ac37de94-5d8a-492f-9765-f7577c74fac5",
+   "cuisine": "chinese",
+   "protein": "veg",
+   "side": "rice",
+   "price_basic": "6–8"
+  },
+  {
+   "id": 94,
+   "title": "Guiso de pavo con manzana, arándanos rojos y patatitas",
+   "slug": "guiso-de-pavo-con-manzana-arandanos-rojos-y-patatitas",
+   "chapter": "Holandés y europeo",
+   "price": "10–12",
+   "spice": 1,
+   "vega": false,
+   "prep": "20 min",
+   "low": "5–6 h",
+   "high": "3–3½ h",
+   "intro": "Pavo tierno con patatitas, manzana y un toque de arándano rojo en una salsa suave de mostaza: un guiso otoñal y festivo que también se hace fácil entre semana.",
+   "ingredients": [
+    {
+     "q": "800 g",
+     "item": "contramuslo de pavo deshuesado, en tacos de 4 cm",
+     "es": "contramuslo de pavo deshuesado"
+    },
+    {
+     "q": "1 cda",
+     "item": "harina de trigo",
+     "es": "harina de trigo"
+    },
+    {
+     "q": "1 cda",
+     "item": "aceite",
+     "es": "aceite de girasol"
+    },
+    {
+     "q": "600 g",
+     "item": "patatas baby, partidas por la mitad",
+     "es": "patatas baby"
+    },
+    {
+     "q": "3",
+     "item": "zanahorias, en trozos",
+     "es": "zanahorias"
+    },
+    {
+     "q": "2",
+     "item": "cebollas, en gajos",
+     "es": "cebollas"
+    },
+    {
+     "q": "2",
+     "item": "manzanas ácidas-dulces, en gajos grandes",
+     "es": "manzanas Golden"
+    },
+    {
+     "q": "400 ml",
+     "item": "caldo de pollo",
+     "es": "caldo de pollo"
+    },
+    {
+     "q": "1 cda",
+     "item": "mostaza",
+     "es": "mostaza"
+    },
+    {
+     "q": "3 ramitas",
+     "item": "de tomillo (o 1 cdta seco)",
+     "es": "tomillo"
+    },
+    {
+     "q": "1",
+     "item": "hoja de laurel",
+     "es": "hoja de laurel"
+    },
+    {
+     "q": "60 g",
+     "item": "arándanos rojos deshidratados",
+     "es": "arándanos rojos deshidratados"
+    },
+    {
+     "q": "1 cda",
+     "item": "maicena",
+     "es": "maicena"
+    },
+    {
+     "q": "100 ml",
+     "item": "nata para cocinar",
+     "es": "nata para cocinar"
+    },
+    {
+     "q": "",
+     "item": "sal y pimienta",
+     "es": ""
+    }
+   ],
+   "serve": [
+    {
+     "q": "",
+     "item": "judías verdes cocidas o lombarda",
+     "es": ""
+    }
+   ],
+   "steps": [
+    "Espolvorea el pavo con harina, sal y pimienta y dóralo brevemente por todos los lados en aceite caliente, en dos tandas; así ganas sabor y una salsa ligada.",
+    "Pon las patatitas y la zanahoria (opcional) en el fondo de la olla lenta, donde más calienta. Coloca el pavo encima y reparte la cebolla y la manzana por arriba.",
+    "Desglasa la sartén con el caldo, añade la mostaza y rasca bien los restos del fondo. Viértelo en la olla lenta y añade el tomillo, el laurel y los arándanos rojos (opcional).",
+    "Tapa y cocina 5–6 h en LOW o 3–3½ h en HIGH, hasta que las patatitas estén tiernas y el pavo alcance al menos 75 °C en el centro.",
+    "Retira el tomillo y el laurel y pon la olla en HIGH. Disuelve la maicena en la nata (opcional) o en 3 cda de agua fría, añádela al guiso y deja cocer 15–20 minutos más, hasta que la salsa espese. Ajusta de sal y pimienta."
+   ],
+   "tip": "Elige contramuslo de pavo y no pechuga: el contramuslo se mantiene jugoso durante la cocción larga, mientras que la pechuga queda seca y fibrosa. ¿No tienes arándanos rojos? Una cucharada de mermelada de grosella o de arándanos en la salsa da el mismo toque agridulce.",
+   "kids": "Patatitas tiernas, manzana dulce y una salsa suave: cháfalo todo junto y tendrás un puré festivo para los más pequeños.",
+   "freeze": false,
+   "guid": "b8519894-2e51-4268-9096-0a055b59ecfa",
+   "cuisine": "british",
+   "protein": "chicken",
+   "side": "potato",
+   "price_basic": "8–10"
+  }
+ ],
+ "en": [
+  {
+   "id": 79,
+   "title": "Bread Pudding with Orange and Raisins",
+   "slug": "bread-pudding-with-orange-and-raisins",
+   "chapter": "Sweet slow cooker treats",
+   "price": "4–5",
+   "spice": 1,
+   "vega": true,
+   "prep": "15 min",
+   "low": "3–3½ hrs",
+   "high": "1½–2 hrs",
+   "intro": "Yesterday's bread becomes a golden, creamy pudding with orange, cinnamon and raisins: a comforting British pud and the tastiest way to waste nothing.",
+   "ingredients": [
+    {
+     "q": "300 g",
+     "item": "day-old bread (baguette or white bread), sliced",
+     "es": "pan del día anterior"
+    },
+    {
+     "q": "40 g",
+     "item": "soft butter (plus extra for greasing)",
+     "es": "mantequilla"
+    },
+    {
+     "q": "75 g",
+     "item": "raisins",
+     "es": "pasas"
+    },
+    {
+     "q": "1",
+     "item": "orange, grated zest only",
+     "es": "naranja"
+    },
+    {
+     "q": "3",
+     "item": "eggs",
+     "es": "huevos"
+    },
+    {
+     "q": "500 ml",
+     "item": "whole milk",
+     "es": "leche entera"
+    },
+    {
+     "q": "150 ml",
+     "item": "whipping cream (or extra milk)",
+     "es": "nata para montar"
+    },
+    {
+     "q": "75 g",
+     "item": "sugar",
+     "es": "azúcar"
+    },
+    {
+     "q": "1 tsp",
+     "item": "vanilla extract",
+     "es": "aroma de vainilla"
+    },
+    {
+     "q": "1 tsp",
+     "item": "cinnamon",
+     "es": "canela molida"
+    },
+    {
+     "q": "1 pinch",
+     "item": "salt",
+     "es": ""
+    },
+    {
+     "q": "2 tbsp",
+     "item": "brown sugar for sprinkling",
+     "es": "azúcar moreno"
+    },
+    {
+     "q": "",
+     "item": "kitchen paper",
+     "es": "papel de cocina"
+    }
+   ],
+   "serve": [
+    {
+     "q": "",
+     "item": "vanilla custard",
+     "es": ""
+    }
+   ],
+   "steps": [
+    "Grease the inside of the slow cooker generously with butter. Spread the bread slices thinly with the soft butter and cut them in half.",
+    "Layer the bread in the slow cooker, overlapping like roof tiles, and scatter the raisins (optional) and orange zest between the layers.",
+    "Whisk together the eggs, milk, cream (optional), sugar, vanilla, cinnamon and salt. Pour this over the bread, press it down with a spoon and leave to soak for 15 minutes.",
+    "Lay two layers of kitchen paper over the opening and put the lid on. Cook for 3–3½ hours on LOW or 1½–2 hours on HIGH, until the pudding has set in the middle: a knife will then come out clean.",
+    "Remove the lid and let the pudding firm up for 10 minutes. Sprinkle with brown sugar (optional) and serve warm or lukewarm, with custard if you like."
+   ],
+   "tip": "The drier the bread, the better it soaks up the egg and milk without turning soggy: perfect for yesterday's leftover barra. Keep leftovers covered in the fridge and eat them within 2 days; a quick blast in the microwave makes them soft and creamy again.",
+   "kids": "Let them butter the bread and scatter the raisins. Anyone who doesn't like raisins simply gets a corner without.",
+   "freeze": false,
+   "guid": "d3974f97-2901-4cfe-849d-23e3dfaf6af1",
+   "cuisine": "british",
+   "protein": "sweet",
+   "side": "none",
+   "price_basic": "3–4"
+  },
+  {
+   "id": 81,
+   "title": "Sweet and Sour Tofu with Peppers and Pineapple",
+   "slug": "sweet-and-sour-tofu-with-peppers-and-pineapple",
+   "chapter": "World Dishes",
+   "price": "7–9",
+   "spice": 1,
+   "vega": true,
+   "prep": "20 min",
+   "low": "3–4 hrs",
+   "high": "1½–2 hrs",
+   "intro": "Crispy tofu, peppers and pineapple in a glossy sweet and sour sauce, just like from the Chinese takeaway: completely plant-based, mild and ready with a pan of rice.",
+   "ingredients": [
+    {
+     "q": "1 tin (560 g)",
+     "item": "pineapple chunks in juice, drained (keep the juice)",
+     "es": "piña en su jugo"
+    },
+    {
+     "q": "4 tbsp",
+     "item": "ketchup",
+     "es": "kétchup"
+    },
+    {
+     "q": "3 tbsp",
+     "item": "cider vinegar",
+     "es": "vinagre de manzana"
+    },
+    {
+     "q": "2 tbsp",
+     "item": "brown sugar",
+     "es": "azúcar moreno"
+    },
+    {
+     "q": "3 tbsp",
+     "item": "low-salt soy sauce",
+     "es": "salsa de soja baja en sal"
+    },
+    {
+     "q": "2 cloves",
+     "item": "garlic, grated",
+     "es": "ajo"
+    },
+    {
+     "q": "1 tbsp",
+     "item": "fresh ginger, grated",
+     "es": "jengibre fresco"
+    },
+    {
+     "q": "1",
+     "item": "onion, in large chunks",
+     "es": "cebolla"
+    },
+    {
+     "q": "2",
+     "item": "peppers (red and yellow), in 3 cm pieces",
+     "es": "pimientos rojos y amarillos"
+    },
+    {
+     "q": "2",
+     "item": "carrots, thinly sliced",
+     "es": "zanahorias"
+    },
+    {
+     "q": "400 g",
+     "item": "firm tofu",
+     "es": "tofu firme"
+    },
+    {
+     "q": "3 tbsp",
+     "item": "cornflour (divided)",
+     "es": "maicena"
+    },
+    {
+     "q": "2 tbsp",
+     "item": "sunflower oil",
+     "es": "aceite de girasol"
+    },
+    {
+     "q": "2",
+     "item": "spring onions, sliced into rings",
+     "es": "cebolletas"
+    },
+    {
+     "q": "1 tbsp",
+     "item": "toasted sesame seeds",
+     "es": "sésamo tostado"
+    }
+   ],
+   "serve": [
+    {
+     "q": "300 g",
+     "item": "white rice or jasmine rice",
+     "es": "arroz jazmín"
+    }
+   ],
+   "steps": [
+    "Stir the pineapple juice, ketchup, vinegar, sugar, soy sauce, garlic and ginger together in the slow cooker. Keep the pineapple chunks covered in the fridge.",
+    "Add the onion, pepper and carrot (optional) and toss. Don't add any water: the vegetables release their own liquid. Cook for 3–4 hours on LOW or 1½–2 hours on HIGH, until the vegetables are soft.",
+    "Drain the tofu, pat it very dry with kitchen paper and cut it into 2 cm cubes. Toss the cubes in 2 tbsp cornflour and fry them in the oil for 8–10 minutes until golden all over. Meanwhile, cook the rice.",
+    "Turn the slow cooker to HIGH. Mix the rest of the cornflour with 2 tbsp cold water and stir it into the sauce along with the pineapple chunks. Cook for another 15–20 minutes until the sauce is glossy and thickened.",
+    "Only fold the tofu through just before serving, so the coating stays crispy. Sprinkle with spring onion (optional) and sesame seeds (optional) and serve with the rice."
+   ],
+   "tip": "Buy firm tofu (tofu firme, in the chilled section with the vegetarian products). If you have time, press it under a heavy pan for 15 minutes: the drier it is, the crispier it gets. Taste the sauce at the end and make it sweeter with a teaspoon of sugar or fresher with a splash of vinegar.",
+   "kids": "Crispy cubes in a pink sweet and sour sauce with pineapple: don't tell them it's tofu and let them guess what they're eating.",
+   "freeze": false,
+   "guid": "ac37de94-5d8a-492f-9765-f7577c74fac5",
+   "cuisine": "chinese",
+   "protein": "veg",
+   "side": "rice",
+   "price_basic": "6–8"
+  },
+  {
+   "id": 94,
+   "title": "Turkey Casserole with Apple, Cranberries and New Potatoes",
+   "slug": "turkey-casserole-with-apple-cranberries-and-new-potatoes",
+   "chapter": "Dutch & European",
+   "price": "10–12",
+   "spice": 1,
+   "vega": false,
+   "prep": "20 min",
+   "low": "5–6 hrs",
+   "high": "3–3½ hrs",
+   "intro": "Tender turkey with new potatoes, apple and a hint of cranberry in a mild mustard gravy: a festive autumn casserole that's easy enough for a weeknight too.",
+   "ingredients": [
+    {
+     "q": "800 g",
+     "item": "boneless turkey thigh, in 4 cm chunks",
+     "es": "contramuslo de pavo deshuesado"
+    },
+    {
+     "q": "1 tbsp",
+     "item": "flour",
+     "es": "harina de trigo"
+    },
+    {
+     "q": "1 tbsp",
+     "item": "oil",
+     "es": "aceite de girasol"
+    },
+    {
+     "q": "600 g",
+     "item": "new potatoes, halved",
+     "es": "patatas baby"
+    },
+    {
+     "q": "3",
+     "item": "carrots, in chunks",
+     "es": "zanahorias"
+    },
+    {
+     "q": "2",
+     "item": "onions, cut into wedges",
+     "es": "cebollas"
+    },
+    {
+     "q": "2",
+     "item": "sweet-sharp apples, in large wedges",
+     "es": "manzanas Golden"
+    },
+    {
+     "q": "400 ml",
+     "item": "chicken stock",
+     "es": "caldo de pollo"
+    },
+    {
+     "q": "1 tbsp",
+     "item": "mustard",
+     "es": "mostaza"
+    },
+    {
+     "q": "3 sprigs",
+     "item": "thyme (or 1 tsp dried)",
+     "es": "tomillo"
+    },
+    {
+     "q": "1",
+     "item": "bay leaf",
+     "es": "hoja de laurel"
+    },
+    {
+     "q": "60 g",
+     "item": "dried cranberries",
+     "es": "arándanos rojos deshidratados"
+    },
+    {
+     "q": "1 tbsp",
+     "item": "cornflour",
+     "es": "maicena"
+    },
+    {
+     "q": "100 ml",
+     "item": "cooking cream",
+     "es": "nata para cocinar"
+    },
+    {
+     "q": "",
+     "item": "salt and pepper",
+     "es": ""
+    }
+   ],
+   "serve": [
+    {
+     "q": "",
+     "item": "boiled green beans or red cabbage",
+     "es": ""
+    }
+   ],
+   "steps": [
+    "Dust the turkey with flour, salt and pepper and brown it briefly all over in hot oil in two batches; that gives you flavour and a thickened sauce.",
+    "Put the potatoes and carrots (optional) in the bottom of the slow cooker, where it's hottest. Lay the turkey on top and scatter the onion and apple over it.",
+    "Deglaze the pan with the stock, stir in the mustard and scrape up the browned bits. Pour this into the slow cooker and add the thyme, bay leaf and cranberries (optional).",
+    "Put the lid on and cook for 5–6 hours on LOW or 3–3½ hours on HIGH, until the potatoes are soft and the turkey reaches at least 75 °C in the centre.",
+    "Fish out the thyme and bay leaf and turn to HIGH. Mix the cornflour smooth with the cooking cream (optional) or 3 tbsp cold water, stir it into the casserole and cook for another 15–20 minutes until the sauce thickens. Season with salt and pepper."
+   ],
+   "tip": "Choose turkey thigh (contramuslo de pavo), not breast: thigh stays juicy during long cooking, while breast turns dry and stringy. No cranberries in the house? A tablespoon of redcurrant or blueberry jam in the sauce gives the same sweet-sharp touch.",
+   "kids": "Soft little potatoes, sweet apple and mild gravy: mash it all together into a festive mash for little eaters.",
+   "freeze": false,
+   "guid": "b8519894-2e51-4268-9096-0a055b59ecfa",
+   "cuisine": "british",
+   "protein": "chicken",
+   "side": "potato",
+   "price_basic": "8–10"
+  }
+ ],
+ "de": [
+  {
+   "id": 79,
+   "title": "Brotpudding mit Orange und Rosinen",
+   "slug": "brotpudding-mit-orange-und-rosinen",
+   "chapter": "Süßes aus dem Slowcooker",
+   "price": "4–5",
+   "spice": 1,
+   "vega": true,
+   "prep": "15 Min.",
+   "low": "3–3½ Std.",
+   "high": "1½–2 Std.",
+   "intro": "Aus Brot vom Vortag wird ein goldgelber, cremiger Pudding mit Orange, Zimt und Rosinen: ein britisches Wohlfühldessert und die leckerste Art, nichts wegzuwerfen.",
+   "ingredients": [
+    {
+     "q": "300 g",
+     "item": "Brot vom Vortag (Baguette oder Weißbrot), in Scheiben",
+     "es": "pan del día anterior"
+    },
+    {
+     "q": "40 g",
+     "item": "weiche Butter (plus etwas zum Einfetten)",
+     "es": "mantequilla"
+    },
+    {
+     "q": "75 g",
+     "item": "Rosinen",
+     "es": "pasas"
+    },
+    {
+     "q": "1",
+     "item": "Orange, nur die abgeriebene Schale",
+     "es": "naranja"
+    },
+    {
+     "q": "3",
+     "item": "Eier",
+     "es": "huevos"
+    },
+    {
+     "q": "500 ml",
+     "item": "Vollmilch",
+     "es": "leche entera"
+    },
+    {
+     "q": "150 ml",
+     "item": "Schlagsahne (oder mehr Milch)",
+     "es": "nata para montar"
+    },
+    {
+     "q": "75 g",
+     "item": "Zucker",
+     "es": "azúcar"
+    },
+    {
+     "q": "1 TL",
+     "item": "Vanillearoma",
+     "es": "aroma de vainilla"
+    },
+    {
+     "q": "1 TL",
+     "item": "Zimt",
+     "es": "canela molida"
+    },
+    {
+     "q": "1 Prise",
+     "item": "Salz",
+     "es": ""
+    },
+    {
+     "q": "2 EL",
+     "item": "brauner Zucker zum Bestreuen",
+     "es": "azúcar moreno"
+    },
+    {
+     "q": "",
+     "item": "Küchenpapier",
+     "es": "papel de cocina"
+    }
+   ],
+   "serve": [
+    {
+     "q": "",
+     "item": "Vanillesoße",
+     "es": ""
+    }
+   ],
+   "steps": [
+    "Fette den Slowcooker innen großzügig mit Butter ein. Bestreiche die Brotscheiben dünn mit der weichen Butter und halbiere sie.",
+    "Schichte das Brot dachziegelartig in den Slowcooker und streue die Rosinen (optional) und den Orangenabrieb zwischen die Lagen.",
+    "Verquirle Eier, Milch, Sahne (optional), Zucker, Vanille, Zimt und Salz. Gieß die Mischung über das Brot, drück es mit einem Löffel unter und lass es 15 Minuten einweichen.",
+    "Lege zwei Lagen Küchenpapier über die Öffnung und setz den Deckel darauf. Gare alles 3–3½ Stunden auf LOW oder 1½–2 Stunden auf HIGH, bis der Pudding in der Mitte gestockt ist: Ein Messer kommt dann sauber heraus.",
+    "Nimm den Deckel ab und lass den Pudding 10 Minuten fest werden. Bestreue ihn mit braunem Zucker (optional) und serviere ihn warm oder lauwarm, nach Belieben mit Vanillesoße."
+   ],
+   "tip": "Je trockener das Brot, desto besser saugt es die Eiermilch auf, ohne matschig zu werden: perfekt für die übrig gebliebene Barra von gestern. Reste abgedeckt im Kühlschrank aufbewahren und innerhalb von 2 Tagen essen; kurz in der Mikrowelle erwärmt werden sie wieder saftig.",
+   "kids": "Lass sie das Brot bestreichen und die Rosinen verteilen. Wer keine Rosinen mag, bekommt einfach eine Ecke ohne.",
+   "freeze": false,
+   "guid": "d3974f97-2901-4cfe-849d-23e3dfaf6af1",
+   "cuisine": "british",
+   "protein": "sweet",
+   "side": "none",
+   "price_basic": "3–4"
+  },
+  {
+   "id": 81,
+   "title": "Süßsaurer Tofu mit Paprika und Ananas",
+   "slug": "suesssaurer-tofu-mit-paprika-und-ananas",
+   "chapter": "Küchen der Welt",
+   "price": "7–9",
+   "spice": 1,
+   "vega": true,
+   "prep": "20 Min.",
+   "low": "3–4 Std.",
+   "high": "1½–2 Std.",
+   "intro": "Knuspriger Tofu, Paprika und Ananas in einer glänzenden süßsauren Soße, wie vom Chinesen um die Ecke: komplett pflanzlich, mild und mit einem Topf Reis fertig.",
+   "ingredients": [
+    {
+     "q": "1 Dose (560 g)",
+     "item": "Ananasstücke im eigenen Saft, abgetropft (Saft aufbewahren)",
+     "es": "piña en su jugo"
+    },
+    {
+     "q": "4 EL",
+     "item": "Ketchup",
+     "es": "kétchup"
+    },
+    {
+     "q": "3 EL",
+     "item": "Apfelessig",
+     "es": "vinagre de manzana"
+    },
+    {
+     "q": "2 EL",
+     "item": "brauner Zucker",
+     "es": "azúcar moreno"
+    },
+    {
+     "q": "3 EL",
+     "item": "salzarme Sojasoße",
+     "es": "salsa de soja baja en sal"
+    },
+    {
+     "q": "2 Zehen",
+     "item": "Knoblauch, gerieben",
+     "es": "ajo"
+    },
+    {
+     "q": "1 EL",
+     "item": "frischer Ingwer, gerieben",
+     "es": "jengibre fresco"
+    },
+    {
+     "q": "1",
+     "item": "Zwiebel, in großen Stücken",
+     "es": "cebolla"
+    },
+    {
+     "q": "2",
+     "item": "Paprikaschoten (rot und gelb), in 3-cm-Stücken",
+     "es": "pimientos rojos y amarillos"
+    },
+    {
+     "q": "2",
+     "item": "Möhren, in dünnen Scheiben",
+     "es": "zanahorias"
+    },
+    {
+     "q": "400 g",
+     "item": "fester Tofu",
+     "es": "tofu firme"
+    },
+    {
+     "q": "3 EL",
+     "item": "Speisestärke (aufgeteilt)",
+     "es": "maicena"
+    },
+    {
+     "q": "2 EL",
+     "item": "Sonnenblumenöl",
+     "es": "aceite de girasol"
+    },
+    {
+     "q": "2",
+     "item": "Frühlingszwiebeln, in Ringen",
+     "es": "cebolletas"
+    },
+    {
+     "q": "1 EL",
+     "item": "gerösteter Sesam",
+     "es": "sésamo tostado"
+    }
+   ],
+   "serve": [
+    {
+     "q": "300 g",
+     "item": "weißer Reis oder Jasminreis",
+     "es": "arroz jazmín"
+    }
+   ],
+   "steps": [
+    "Verrühre im Slowcooker Ananassaft, Ketchup, Essig, Zucker, Sojasoße, Knoblauch und Ingwer. Bewahre die Ananasstücke abgedeckt im Kühlschrank auf.",
+    "Gib Zwiebel, Paprika und Möhren (optional) dazu und misch alles durch. Gib kein Wasser dazu: Das Gemüse gibt selbst Flüssigkeit ab. Gare alles 3–4 Stunden auf LOW oder 1½–2 Stunden auf HIGH, bis das Gemüse weich ist.",
+    "Lass den Tofu abtropfen, tupf ihn mit Küchenpapier gut trocken und schneide ihn in 2-cm-Würfel. Wende die Würfel in 2 EL Speisestärke und brate sie im Öl in 8–10 Minuten rundherum goldbraun. Koche inzwischen den Reis.",
+    "Stell den Slowcooker auf HIGH. Rühre die restliche Speisestärke mit 2 EL kaltem Wasser glatt und rühre sie zusammen mit den Ananasstücken unter die Soße. Lass alles 15–20 Minuten weitergaren, bis die Soße glänzt und bindet.",
+    "Heb den Tofu erst kurz vor dem Servieren unter, damit die Kruste knusprig bleibt. Bestreue alles mit Frühlingszwiebeln (optional) und Sesam (optional) und serviere es mit dem Reis."
+   ],
+   "tip": "Kauf festen Tofu (tofu firme, im Kühlregal bei den vegetarischen Produkten). Wenn du Zeit hast, presse ihn 15 Minuten unter einer schweren Pfanne: Je trockener, desto knuspriger. Schmecke die Soße am Ende ab und mach sie mit einem Teelöffel Zucker süßer oder mit einem Schuss Essig frischer.",
+   "kids": "Knusprige Würfel in rosa süßsaurer Soße mit Ananas: Verrate nicht, dass es Tofu ist, und lass sie raten, was sie da essen.",
+   "freeze": false,
+   "guid": "ac37de94-5d8a-492f-9765-f7577c74fac5",
+   "cuisine": "chinese",
+   "protein": "veg",
+   "side": "rice",
+   "price_basic": "6–8"
+  },
+  {
+   "id": 94,
+   "title": "Puteneintopf mit Apfel, Cranberrys und Drillingen",
+   "slug": "puteneintopf-mit-apfel-cranberrys-und-drillingen",
+   "chapter": "Niederländisch & Europäisch",
+   "price": "10–12",
+   "spice": 1,
+   "vega": false,
+   "prep": "20 Min.",
+   "low": "5–6 Std.",
+   "high": "3–3½ Std.",
+   "intro": "Zarte Pute mit Drillingen, Apfel und einem Hauch Cranberry in einer milden Senfsoße: ein festlicher Herbsteintopf, der auch unter der Woche ganz leicht gelingt.",
+   "ingredients": [
+    {
+     "q": "800 g",
+     "item": "Putenoberkeule ohne Knochen, in 4-cm-Würfeln",
+     "es": "contramuslo de pavo deshuesado"
+    },
+    {
+     "q": "1 EL",
+     "item": "Mehl",
+     "es": "harina de trigo"
+    },
+    {
+     "q": "1 EL",
+     "item": "Öl",
+     "es": "aceite de girasol"
+    },
+    {
+     "q": "600 g",
+     "item": "Drillinge, halbiert",
+     "es": "patatas baby"
+    },
+    {
+     "q": "3",
+     "item": "Möhren, in Stücken",
+     "es": "zanahorias"
+    },
+    {
+     "q": "2",
+     "item": "Zwiebeln, in Spalten",
+     "es": "cebollas"
+    },
+    {
+     "q": "2",
+     "item": "säuerliche Äpfel, in großen Spalten",
+     "es": "manzanas Golden"
+    },
+    {
+     "q": "400 ml",
+     "item": "Hühnerbrühe",
+     "es": "caldo de pollo"
+    },
+    {
+     "q": "1 EL",
+     "item": "Senf",
+     "es": "mostaza"
+    },
+    {
+     "q": "3 Zweige",
+     "item": "Thymian (oder 1 TL getrocknet)",
+     "es": "tomillo"
+    },
+    {
+     "q": "1",
+     "item": "Lorbeerblatt",
+     "es": "hoja de laurel"
+    },
+    {
+     "q": "60 g",
+     "item": "getrocknete Cranberrys",
+     "es": "arándanos rojos deshidratados"
+    },
+    {
+     "q": "1 EL",
+     "item": "Speisestärke",
+     "es": "maicena"
+    },
+    {
+     "q": "100 ml",
+     "item": "Kochsahne",
+     "es": "nata para cocinar"
+    },
+    {
+     "q": "",
+     "item": "Salz und Pfeffer",
+     "es": ""
+    }
+   ],
+   "serve": [
+    {
+     "q": "",
+     "item": "gekochte grüne Bohnen oder Rotkohl",
+     "es": ""
+    }
+   ],
+   "steps": [
+    "Bestreue die Pute mit Mehl, Salz und Pfeffer und brate sie in zwei Portionen in heißem Öl kurz rundherum an; so bekommst du Geschmack und eine gebundene Soße.",
+    "Lege Drillinge und Möhren (optional) unten in den Slowcooker, wo es am heißesten ist. Leg die Pute darauf und verteile Zwiebeln und Äpfel darüber.",
+    "Lösche die Pfanne mit der Brühe ab, rühre den Senf ein und kratze den Bratensatz los. Gieß alles in den Slowcooker und gib Thymian, Lorbeer und Cranberrys (optional) dazu.",
+    "Schließ den Deckel und gare alles 5–6 Stunden auf LOW oder 3–3½ Stunden auf HIGH, bis die Drillinge weich sind und die Pute im Kern mindestens 75 °C erreicht.",
+    "Fisch Thymian und Lorbeer heraus und stell auf HIGH. Rühre die Speisestärke mit der Kochsahne (optional) oder 3 EL kaltem Wasser glatt, rühre sie unter den Eintopf und lass alles 15–20 Minuten weitergaren, bis die Soße bindet. Schmecke mit Salz und Pfeffer ab."
+   ],
+   "tip": "Nimm Putenoberkeule (contramuslo de pavo) statt Brustfilet: Die Keule bleibt beim langen Garen saftig, Brustfilet wird trocken und faserig. Keine Cranberrys im Haus? Ein Esslöffel Johannisbeer- oder Heidelbeerkonfitüre in der Soße sorgt für die gleiche süßsaure Note.",
+   "kids": "Weiche Kartöffelchen, süßer Apfel und milde Soße: Zerdrück alles zusammen zu einem festlichen Stampf für kleine Esser.",
+   "freeze": false,
+   "guid": "b8519894-2e51-4268-9096-0a055b59ecfa",
+   "cuisine": "british",
+   "protein": "chicken",
+   "side": "potato",
+   "price_basic": "8–10"
+  }
+ ],
+ "fr": [
+  {
+   "id": 79,
+   "title": "Pudding au pain à l'orange et aux raisins secs",
+   "slug": "pudding-au-pain-a-l-orange-et-aux-raisins-secs",
+   "chapter": "Douceurs à la mijoteuse",
+   "price": "4–5",
+   "spice": 1,
+   "vega": true,
+   "prep": "15 min",
+   "low": "3–3½ h",
+   "high": "1½–2 h",
+   "intro": "Le pain de la veille devient un pudding doré et crémeux à l'orange, à la cannelle et aux raisins secs : un dessert réconfortant à l'anglaise et la façon la plus gourmande de ne rien gaspiller.",
+   "ingredients": [
+    {
+     "q": "300 g",
+     "item": "pain de la veille (baguette ou pain de mie), en tranches",
+     "es": "pan del día anterior"
+    },
+    {
+     "q": "40 g",
+     "item": "beurre mou (plus un peu pour graisser)",
+     "es": "mantequilla"
+    },
+    {
+     "q": "75 g",
+     "item": "raisins secs",
+     "es": "pasas"
+    },
+    {
+     "q": "1",
+     "item": "orange, le zeste râpé uniquement",
+     "es": "naranja"
+    },
+    {
+     "q": "3",
+     "item": "œufs",
+     "es": "huevos"
+    },
+    {
+     "q": "500 ml",
+     "item": "lait entier",
+     "es": "leche entera"
+    },
+    {
+     "q": "150 ml",
+     "item": "crème liquide entière (ou plus de lait)",
+     "es": "nata para montar"
+    },
+    {
+     "q": "75 g",
+     "item": "sucre",
+     "es": "azúcar"
+    },
+    {
+     "q": "1 c. à c.",
+     "item": "arôme de vanille",
+     "es": "aroma de vainilla"
+    },
+    {
+     "q": "1 c. à c.",
+     "item": "cannelle",
+     "es": "canela molida"
+    },
+    {
+     "q": "1 pincée",
+     "item": "sel",
+     "es": ""
+    },
+    {
+     "q": "2 c. à s.",
+     "item": "sucre brun pour saupoudrer",
+     "es": "azúcar moreno"
+    },
+    {
+     "q": "",
+     "item": "essuie-tout",
+     "es": "papel de cocina"
+    }
+   ],
+   "serve": [
+    {
+     "q": "",
+     "item": "crème à la vanille",
+     "es": ""
+    }
+   ],
+   "steps": [
+    "Beurre généreusement l'intérieur de la mijoteuse. Tartine les tranches de pain d'une fine couche de beurre mou et coupe-les en deux.",
+    "Dispose le pain dans la mijoteuse en le faisant se chevaucher comme des tuiles et parsème les raisins secs (facultatif) et le zeste d'orange entre les couches.",
+    "Fouette les œufs, le lait, la crème (facultatif), le sucre, la vanille, la cannelle et le sel. Verse ce mélange sur le pain, enfonce-le avec une cuillère et laisse imbiber 15 minutes.",
+    "Pose deux couches d'essuie-tout sur l'ouverture et mets le couvercle. Fais cuire 3–3½ h en LOW ou 1½–2 h en HIGH, jusqu'à ce que le pudding soit pris au centre : un couteau en ressort alors propre.",
+    "Retire le couvercle et laisse le pudding se raffermir 10 minutes. Saupoudre de sucre brun (facultatif) et sers chaud ou tiède, avec de la crème à la vanille si tu veux."
+   ],
+   "tip": "Plus le pain est sec, mieux il absorbe le mélange œufs-lait sans devenir pâteux : parfait pour la barra restée de la veille. Garde les restes couverts au réfrigérateur et mange-les sous 2 jours ; un petit passage au micro-ondes les rend à nouveau moelleux.",
+   "kids": "Laisse-les beurrer le pain et parsemer les raisins secs. Ceux qui n'aiment pas les raisins ont tout simplement un coin sans.",
+   "freeze": false,
+   "guid": "d3974f97-2901-4cfe-849d-23e3dfaf6af1",
+   "cuisine": "british",
+   "protein": "sweet",
+   "side": "none",
+   "price_basic": "3–4"
+  },
+  {
+   "id": 81,
+   "title": "Tofu aigre-doux aux poivrons et à l'ananas",
+   "slug": "tofu-aigre-doux-aux-poivrons-et-a-l-ananas",
+   "chapter": "Cuisines du monde",
+   "price": "7–9",
+   "spice": 1,
+   "vega": true,
+   "prep": "20 min",
+   "low": "3–4 h",
+   "high": "1½–2 h",
+   "intro": "Du tofu croustillant, des poivrons et de l'ananas dans une sauce aigre-douce brillante, comme chez le traiteur chinois : entièrement végétal, doux et prêt avec une casserole de riz.",
+   "ingredients": [
+    {
+     "q": "1 boîte (560 g)",
+     "item": "ananas en morceaux au jus, égoutté (garde le jus)",
+     "es": "piña en su jugo"
+    },
+    {
+     "q": "4 c. à s.",
+     "item": "ketchup",
+     "es": "kétchup"
+    },
+    {
+     "q": "3 c. à s.",
+     "item": "vinaigre de cidre",
+     "es": "vinagre de manzana"
+    },
+    {
+     "q": "2 c. à s.",
+     "item": "sucre brun",
+     "es": "azúcar moreno"
+    },
+    {
+     "q": "3 c. à s.",
+     "item": "sauce soja pauvre en sel",
+     "es": "salsa de soja baja en sal"
+    },
+    {
+     "q": "2 gousses",
+     "item": "ail, râpé",
+     "es": "ajo"
+    },
+    {
+     "q": "1 c. à s.",
+     "item": "gingembre frais, râpé",
+     "es": "jengibre fresco"
+    },
+    {
+     "q": "1",
+     "item": "oignon, en gros morceaux",
+     "es": "cebolla"
+    },
+    {
+     "q": "2",
+     "item": "poivrons (rouge et jaune), en morceaux de 3 cm",
+     "es": "pimientos rojos y amarillos"
+    },
+    {
+     "q": "2",
+     "item": "carottes, en fines rondelles",
+     "es": "zanahorias"
+    },
+    {
+     "q": "400 g",
+     "item": "tofu ferme",
+     "es": "tofu firme"
+    },
+    {
+     "q": "3 c. à s.",
+     "item": "maïzena (en deux fois)",
+     "es": "maicena"
+    },
+    {
+     "q": "2 c. à s.",
+     "item": "huile de tournesol",
+     "es": "aceite de girasol"
+    },
+    {
+     "q": "2",
+     "item": "oignons nouveaux, en rondelles",
+     "es": "cebolletas"
+    },
+    {
+     "q": "1 c. à s.",
+     "item": "graines de sésame grillées",
+     "es": "sésamo tostado"
+    }
+   ],
+   "serve": [
+    {
+     "q": "300 g",
+     "item": "riz blanc ou riz jasmin",
+     "es": "arroz jazmín"
+    }
+   ],
+   "steps": [
+    "Mélange dans la mijoteuse le jus d'ananas, le ketchup, le vinaigre, le sucre, la sauce soja, l'ail et le gingembre. Garde les morceaux d'ananas couverts au réfrigérateur.",
+    "Ajoute l'oignon, le poivron et la carotte (facultatif) et mélange. N'ajoute pas d'eau : les légumes rendent leur propre jus. Fais cuire 3–4 h en LOW ou 1½–2 h en HIGH, jusqu'à ce que les légumes soient tendres.",
+    "Égoutte le tofu, sèche-le bien avec de l'essuie-tout et coupe-le en dés de 2 cm. Roule les dés dans 2 c. à s. de maïzena et fais-les dorer dans l'huile 8–10 minutes sur toutes les faces. Pendant ce temps, fais cuire le riz.",
+    "Passe la mijoteuse en HIGH. Délaie le reste de la maïzena dans 2 c. à s. d'eau froide et incorpore-la à la sauce avec les morceaux d'ananas. Laisse cuire encore 15–20 minutes, jusqu'à ce que la sauce soit brillante et nappante.",
+    "N'ajoute le tofu qu'au moment de servir, pour que la croûte reste croustillante. Parsème d'oignon nouveau (facultatif) et de sésame (facultatif) et sers avec le riz."
+   ],
+   "tip": "Achète du tofu ferme (tofu firme, au rayon frais avec les produits végétariens). Si tu as le temps, presse-le 15 minutes sous une poêle lourde : plus il est sec, plus il sera croustillant. Goûte la sauce à la fin et rends-la plus sucrée avec une cuillère à café de sucre ou plus fraîche avec un trait de vinaigre.",
+   "kids": "Des dés croustillants dans une sauce rose aigre-douce à l'ananas : ne leur dis pas que c'est du tofu et laisse-les deviner ce qu'ils mangent.",
+   "freeze": false,
+   "guid": "ac37de94-5d8a-492f-9765-f7577c74fac5",
+   "cuisine": "chinese",
+   "protein": "veg",
+   "side": "rice",
+   "price_basic": "6–8"
+  },
+  {
+   "id": 94,
+   "title": "Ragoût de dinde aux pommes, aux cranberries et aux grenailles",
+   "slug": "ragout-de-dinde-aux-pommes-aux-cranberries-et-aux-grenailles",
+   "chapter": "Néerlandais & européen",
+   "price": "10–12",
+   "spice": 1,
+   "vega": false,
+   "prep": "20 min",
+   "low": "5–6 h",
+   "high": "3–3½ h",
+   "intro": "De la dinde fondante avec des pommes de terre grenailles, des pommes et une touche de cranberry dans une sauce douce à la moutarde : un ragoût d'automne festif, facile à faire aussi en semaine.",
+   "ingredients": [
+    {
+     "q": "800 g",
+     "item": "haut de cuisse de dinde désossé, en cubes de 4 cm",
+     "es": "contramuslo de pavo deshuesado"
+    },
+    {
+     "q": "1 c. à s.",
+     "item": "farine",
+     "es": "harina de trigo"
+    },
+    {
+     "q": "1 c. à s.",
+     "item": "huile",
+     "es": "aceite de girasol"
+    },
+    {
+     "q": "600 g",
+     "item": "pommes de terre grenailles, coupées en deux",
+     "es": "patatas baby"
+    },
+    {
+     "q": "3",
+     "item": "carottes, en morceaux",
+     "es": "zanahorias"
+    },
+    {
+     "q": "2",
+     "item": "oignons, en quartiers",
+     "es": "cebollas"
+    },
+    {
+     "q": "2",
+     "item": "pommes acidulées, en gros quartiers",
+     "es": "manzanas Golden"
+    },
+    {
+     "q": "400 ml",
+     "item": "bouillon de volaille",
+     "es": "caldo de pollo"
+    },
+    {
+     "q": "1 c. à s.",
+     "item": "moutarde",
+     "es": "mostaza"
+    },
+    {
+     "q": "3 brins",
+     "item": "thym (ou 1 c. à c. séché)",
+     "es": "tomillo"
+    },
+    {
+     "q": "1",
+     "item": "feuille de laurier",
+     "es": "hoja de laurel"
+    },
+    {
+     "q": "60 g",
+     "item": "cranberries séchées",
+     "es": "arándanos rojos deshidratados"
+    },
+    {
+     "q": "1 c. à s.",
+     "item": "maïzena",
+     "es": "maicena"
+    },
+    {
+     "q": "100 ml",
+     "item": "crème liquide",
+     "es": "nata para cocinar"
+    },
+    {
+     "q": "",
+     "item": "sel et poivre",
+     "es": ""
+    }
+   ],
+   "serve": [
+    {
+     "q": "",
+     "item": "haricots verts cuits ou chou rouge",
+     "es": ""
+    }
+   ],
+   "steps": [
+    "Saupoudre la dinde de farine, de sel et de poivre et fais-la dorer rapidement sur toutes les faces dans l'huile chaude, en deux fois ; tu obtiens ainsi du goût et une sauce liée.",
+    "Mets les grenailles et les carottes (facultatif) au fond de la mijoteuse, là où il fait le plus chaud. Pose la dinde dessus et répartis l'oignon et les pommes par-dessus.",
+    "Déglace la poêle avec le bouillon, ajoute la moutarde et gratte bien les sucs. Verse le tout dans la mijoteuse et ajoute le thym, le laurier et les cranberries (facultatif).",
+    "Ferme le couvercle et fais cuire 5–6 h en LOW ou 3–3½ h en HIGH, jusqu'à ce que les grenailles soient tendres et que la dinde atteigne au moins 75 °C à cœur.",
+    "Retire le thym et le laurier et passe en HIGH. Délaie la maïzena dans la crème (facultatif) ou dans 3 c. à s. d'eau froide, incorpore-la au ragoût et laisse cuire encore 15–20 minutes, jusqu'à ce que la sauce épaississe. Rectifie l'assaisonnement en sel et en poivre."
+   ],
+   "tip": "Choisis du haut de cuisse de dinde (contramuslo de pavo) plutôt que du filet : la cuisse reste juteuse pendant la longue cuisson, alors que le filet devient sec et filandreux. Pas de cranberries à la maison ? Une cuillère à soupe de confiture de groseilles ou de myrtilles dans la sauce apporte la même note aigre-douce.",
+   "kids": "Petites pommes de terre fondantes, pomme sucrée et sauce douce : écrase le tout ensemble pour une purée festive pour les petits mangeurs.",
+   "freeze": false,
+   "guid": "b8519894-2e51-4268-9096-0a055b59ecfa",
+   "cuisine": "british",
+   "protein": "chicken",
+   "side": "potato",
+   "price_basic": "8–10"
+  }
+ ],
+ "stores": {
+  "tofu firme": {
+   "stores": [
+    "Mercadona",
+    "Lidl",
+    "Carrefour"
+   ],
+   "aisle_es": "lácteos / refrigerados",
+   "tip_nl": "In het koelvak bij de vegetarische producten, naast seitan en hummus; Mercadona verkoopt het als Hacendado tofu firme.",
+   "tip_en": "In the chilled section with the vegetarian products, next to seitan and hummus; Mercadona sells it as Hacendado tofu firme.",
+   "tip_es": "En la zona refrigerada de productos vegetales, junto al seitán y el hummus; en Mercadona, el tofu firme Hacendado.",
+   "tip_de": "Im Kühlregal bei den vegetarischen Produkten, neben Seitan und Hummus; Mercadona verkauft ihn als Hacendado tofu firme.",
+   "tip_fr": "Au rayon frais avec les produits végétariens, à côté du seitan et du houmous ; Mercadona le vend sous le nom Hacendado tofu firme."
+  },
+  "contramuslo de pavo deshuesado": {
+   "stores": [
+    "Mercadona",
+    "Carrefour",
+    "Carnicería"
+   ],
+   "aisle_es": "carnicería / aves",
+   "tip_nl": "Mercadona heeft ontbeende kalkoendij in schaaltjes bij het gevogelte; anders vraag je het bij de pollería.",
+   "tip_en": "Mercadona sells boneless turkey thigh in trays with the poultry; otherwise ask at the poultry shop.",
+   "tip_es": "Mercadona lo tiene en bandeja en la sección de aves; si no, pídelo en la pollería.",
+   "tip_de": "Mercadona hat entbeinte Putenoberkeule in Schalen beim Geflügel; sonst frag in der Geflügelmetzgerei.",
+   "tip_fr": "Mercadona vend le haut de cuisse de dinde désossé en barquette au rayon volaille ; sinon, demande à la volaillerie."
+  },
+  "arándanos rojos deshidratados": {
+   "stores": [
+    "Mercadona",
+    "Lidl",
+    "Carrefour"
+   ],
+   "aisle_es": "frutos secos",
+   "tip_nl": "Bij de noten en het gedroogde fruit, vaak naast de rozijnen; let op 'arándanos rojos', niet de blauwe bosbessen.",
+   "tip_en": "With the nuts and dried fruit, often next to the raisins; look for 'arándanos rojos', not blueberries.",
+   "tip_es": "En frutos secos, a menudo junto a las pasas; fíjate en que sean rojos, no arándanos azules.",
+   "tip_de": "Bei den Nüssen und Trockenfrüchten, oft neben den Rosinen; achte auf „arándanos rojos“, nicht auf Heidelbeeren.",
+   "tip_fr": "Au rayon fruits secs, souvent à côté des raisins secs ; cherche « arándanos rojos », pas les myrtilles."
+  }
+ }
+}

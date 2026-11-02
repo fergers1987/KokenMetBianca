@@ -40,6 +40,7 @@ const UI = {
     budget: {"label": "Budgetversie", "hint": "Alleen de basis, met budgettips", "from": "vanaf", "extra": "extra", "topping": "topping", "tip": "Budgettip", "optional": "optioneel", "listToggle": "budget"},
     more: {"nav": "Meer", "title": "Meer uit de slowcooker", "lead": "Brood, yoghurt, bouillon, jam en meer. Geen avondeten, wel handige basics en lekkers die de slowcooker voor je maakt."},
     pr: {"print": "Recept printen", "printHint": "Grote letters, zonder menu’s", "dlTitle": "Het kookboek om te printen", "dlText": "Alle recepten in één mooie PDF, met inhoudsopgave, slowcooker-basics en de Spaanse boodschappenlijst. Handig voor in de keuken of om cadeau te doen.", "dlBtn": "Download het kookboek (PDF)", "dlLang": "", "dlMeta": "{p} pagina’s · {mb} MB"},
+    inSpain: "In Spanje",
     favAdd: 'Bewaar als favoriet', favRemove: 'Favoriet', onlyFavs: 'Mijn favorieten', noFavs: 'Je hebt nog geen favorieten. Tik op het hartje bij een recept om het te bewaren.',
   },
   es: {
@@ -70,6 +71,7 @@ const UI = {
     budget: {"label": "Versión económica", "hint": "Solo lo básico, con trucos para ahorrar", "from": "desde", "extra": "extra", "topping": "para decorar", "tip": "Truco para ahorrar", "optional": "opcional", "listToggle": "económico"},
     more: {"nav": "Más", "title": "Más de la olla lenta", "lead": "Pan, yogur, caldo, mermelada y más. No son cenas, sino básicos y caprichos que la olla lenta prepara por ti."},
     pr: {"print": "Imprimir receta", "printHint": "Letra grande, sin menús", "dlTitle": "El libro de recetas para imprimir", "dlText": "Todas las recetas en un PDF, con índice, consejos para la olla lenta y la lista de la compra. Ideal para la cocina o para regalar.", "dlBtn": "Descargar el libro (PDF)", "dlLang": "en neerlandés", "dlMeta": "{p} páginas · {mb} MB"},
+    inSpain: "En España",
     favAdd: 'Guardar en favoritos', favRemove: 'En favoritos', onlyFavs: 'Mis favoritos', noFavs: 'Aún no tienes favoritos. Toca el corazón de una receta para guardarla.',
   },
   en: {
@@ -100,6 +102,7 @@ const UI = {
     budget: {"label": "Budget version", "hint": "Just the essentials, with money-saving tips", "from": "from", "extra": "extra", "topping": "topping", "tip": "Budget tip", "optional": "optional", "listToggle": "budget"},
     more: {"nav": "More", "title": "More from the slow cooker", "lead": "Bread, yoghurt, stock, jam and more. Not dinners, but handy basics and treats the slow cooker makes for you."},
     pr: {"print": "Print recipe", "printHint": "Large print, no menus", "dlTitle": "The printable cookbook", "dlText": "All recipes in one beautiful PDF, with contents, slow cooker basics and the Spanish shopping list. Handy in the kitchen or as a gift.", "dlBtn": "Download the cookbook (PDF)", "dlLang": "in Dutch", "dlMeta": "{p} pages · {mb} MB"},
+    inSpain: "In Spain",
     favAdd: 'Save as favourite', favRemove: 'Saved', onlyFavs: 'My favourites', noFavs: 'No favourites yet. Tap the heart on a recipe to save it.',
   },
   de: {
@@ -130,6 +133,7 @@ const UI = {
     budget: {"label": "Sparversion", "hint": "Nur das Wesentliche, mit Spartipps", "from": "ab", "extra": "extra", "topping": "Topping", "tip": "Spartipp", "optional": "optional", "listToggle": "Spar"},
     more: {"nav": "Mehr", "title": "Mehr aus dem Slowcooker", "lead": "Brot, Joghurt, Brühe, Marmelade und mehr. Kein Abendessen, sondern praktische Basics und Leckereien aus dem Slowcooker."},
     pr: {"print": "Rezept drucken", "printHint": "Große Schrift, ohne Menüs", "dlTitle": "Das Kochbuch zum Ausdrucken", "dlText": "Alle Rezepte in einem schönen PDF, mit Inhaltsverzeichnis, Slowcooker-Grundlagen und spanischer Einkaufsliste. Praktisch für die Küche oder als Geschenk.", "dlBtn": "Kochbuch herunterladen (PDF)", "dlLang": "auf Niederländisch", "dlMeta": "{p} Seiten · {mb} MB"},
+    inSpain: "In Spanien",
     favAdd: 'Als Favorit speichern', favRemove: 'Favorit', onlyFavs: 'Meine Favoriten', noFavs: 'Noch keine Favoriten. Tippe bei einem Rezept auf das Herz, um es zu speichern.',
   },
   fr: {
@@ -160,6 +164,7 @@ const UI = {
     budget: {"label": "Version économique", "hint": "L'essentiel seulement, avec des astuces pour économiser", "from": "dès", "extra": "extra", "topping": "garniture", "tip": "Astuce budget", "optional": "facultatif", "listToggle": "éco"},
     more: {"nav": "Plus", "title": "Plus de la mijoteuse", "lead": "Pain, yaourt, bouillon, confiture et plus encore. Pas des dîners, mais des bases et des douceurs que la mijoteuse prépare pour toi."},
     pr: {"print": "Imprimer la recette", "printHint": "Gros caractères, sans menus", "dlTitle": "Le livre de recettes à imprimer", "dlText": "Toutes les recettes dans un beau PDF, avec sommaire, bases de la mijoteuse et liste de courses en espagnol. Pratique en cuisine ou à offrir.", "dlBtn": "Télécharger le livre (PDF)", "dlLang": "en néerlandais", "dlMeta": "{p} pages · {mb} Mo"},
+    inSpain: "En Espagne",
     favAdd: 'Ajouter aux favoris', favRemove: 'Favori', onlyFavs: 'Mes favoris', noFavs: 'Pas encore de favoris. Touche le cœur d’une recette pour la garder.',
   },
 };
