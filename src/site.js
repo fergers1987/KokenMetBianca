@@ -152,8 +152,7 @@
       if (navigator.clipboard) navigator.clipboard.writeText(text).then(done, function () {});
     });
   }
-  var pr = document.querySelector('[data-print]');
-  if (pr) pr.addEventListener('click', function () { window.print(); });
+  document.querySelectorAll('[data-print]').forEach(function (b) { b.addEventListener('click', function () { window.print(); }); });
 
   // ---------- boodschappenlijst: welke gerechten, voor hoeveel personen ----------
   var LKEY = 'sk-list', CKEY = 'sk-list-checks', OKEY = 'sk-list-own';

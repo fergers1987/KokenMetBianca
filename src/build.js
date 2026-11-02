@@ -69,6 +69,16 @@ const u = {
 };
 const dishImg = id => `/img/dish/${id}.svg`;
 const brand = L => UI[L].brand.join(' ');
+const PDF = (() => { const f = path.join(ROOT, 'public', 'downloads', 'smaakvol-koken.pdf'); if (!fs.existsSync(f)) return null;
+  const buf = fs.readFileSync(f); const m = buf.toString('latin1').match(/\/Type\s*\/Pages[^>]*\/Count\s+(\d+)/); return { url: '/downloads/smaakvol-koken.pdf', mb: (buf.length / 1048576).toFixed(0), pages: m ? m[1] : '' }; })();
+const printIco = () => `<svg viewBox="0 0 24 24" class="ico" aria-hidden="true"><path d="M7 9V3.5h10V9M7 17.5H4.5a1.5 1.5 0 0 1-1.5-1.5v-5.5A1.5 1.5 0 0 1 4.5 9h15a1.5 1.5 0 0 1 1.5 1.5V16a1.5 1.5 0 0 1-1.5 1.5H17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M7 14h10v7H7z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>`;
+function dlBlock(L) {
+  if (!PDF) return '';
+  const x = UI[L].pr;
+  return `<section class="wrap sec dl"><div class="dl-in"><div><p class="eyebrow">PDF</p><h2 class="sec-title">${esc(x.dlTitle)}</h2><p>${esc(x.dlText)}</p>
+  <p><a class="btn" href="${PDF.url}" download>${printIco()} ${esc(x.dlBtn)}</a> <span class="dl-meta">${esc(x.dlMeta.replace('{p}', PDF.pages).replace('{mb}', PDF.mb))}${x.dlLang ? ` · ${esc(x.dlLang)}` : ''}</span></p></div>
+  <div class="dl-art"><img src="/img/hero.svg" alt="" width="600" height="600" loading="lazy"></div></div></section>`;
+}
 
 // ---------- formatting ----------
 function money(L, v) { const s = L === 'en' ? v.replace(',', '.') : v.replace('.', ','); return ['es', 'de', 'fr'].includes(L) ? `${s} €` : L === 'en' ? `€${s}` : `€ ${s}`; }
@@ -143,7 +153,7 @@ ${body}
     <div class="sprig">${sprig()}</div>
     <p class="f-title">${esc(brand(L))} <span>· ${esc(ui.by)}</span></p>
     <p class="f-tag">${esc(D[L].text.content.tagline)}</p>
-    <nav class="f-nav">${navItem('home', ui.nav.home)}${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('more', ui.more.title)}${navItem('basics', ui.nav.basics)}${navItem('list', ui.list.title)}</nav>
+    <nav class="f-nav">${navItem('home', ui.nav.home)}${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('more', ui.more.title)}${navItem('basics', ui.nav.basics)}${navItem('list', ui.list.title)}${PDF ? `<a href="${PDF.url}" download>${esc(ui.pr.dlBtn)}</a>` : ''}</nav>
     <p class="f-small">${esc(ui.footer)} · ${alts.map(a => `<a href="${a.href}" lang="${a.L}">${UI[a.L].langName}</a>`).join(' · ')}</p>
   </div>
 </footer>
@@ -234,6 +244,7 @@ function home(L) {
   <div class="how-grid">${how}</div>
   <p class="small-note">${esc(c.note_s || '')}</p>
 </section>
+${dlBlock(L)}
 <section class="wrap sec market-teaser">
   <div>
     <p class="eyebrow">${ui.nav.market}</p>
@@ -338,6 +349,7 @@ function recipePage(L, r) {
         <p class="r-no">${r.kind === 'extra' ? esc(ui.more.title) : `Nº ${r.nn} · ${esc(tx.chapters[r.ci])} · ${ui.persons}`}</p>
         <h1 class="r-title">${esc(r.title)}</h1>
         <div class="r-actions">${favBtn(L, r, true)}
+          <button type="button" class="btn print-btn" data-print title="${esc(ui.pr.printHint)}">${printIco()} ${esc(ui.pr.print)}</button>
           <div class="add-wrap">${addBtn(L, r, true)}<label class="persons"><select data-persons="${r.guid}" aria-label="${esc(ui.list.persons)}">${[2, 3, 4, 5, 6, 8, 10].map(n => `<option value="${n}"${n === 4 ? ' selected' : ''}>${n} ${esc(ui.list.persons)}</option>`).join('')}</select></label></div>
         </div>
         <p class="intro">${esc(r.intro)}</p>
@@ -355,7 +367,6 @@ function recipePage(L, r) {
         ${r.serve.length ? `<h3>${ui.serve}</h3><ul class="ing">${ingList(L, r.serve, r.id, 100)}</ul>` : ''}
         <div class="list-actions">
           <button type="button" class="btn small" data-share="${esc(shop)}" data-title="${esc(r.title)}" data-done="${esc(ui.copied)}" data-label-share="${esc(ui.shareList)}">${ui.copyList}</button>
-          <button type="button" class="btn small ghost" data-print>${ui.print}</button>
         </div>
       </section>
       <section class="steps" aria-labelledby="h-steps">
@@ -364,6 +375,7 @@ function recipePage(L, r) {
         <aside class="note"><h4>${ui.kids}</h4><p>${nb(r.kids)}</p></aside>
       </section>
     </div>
+    <p class="print-only print-src">${esc(brand(L))} · ${SITE ? SITE.replace('https://', '') : ''}${u.recipe(L, r.id)}</p>
     <nav class="pager">
       ${prev ? `<a class="prev" href="${u.recipe(L, prev.id)}"><small>← ${ui.prev}</small>${esc(prev.title)}</a>` : '<span></span>'}
       <a class="all" href="${u.recipes(L)}">${ui.back}</a>
