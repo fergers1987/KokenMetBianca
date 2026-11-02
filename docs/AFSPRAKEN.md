@@ -13,6 +13,7 @@ Dit bestand legt vast wat we hebben afgesproken. Lees het voordat je verder bouw
 ## Website
 - **Stijl:** A "Linnen & Inkt", voorlopig de enige (`site.config.json` → `"theme": "a"`). De stijlen B–D bestaan in `src/themes.js` en `tools/pdf/`.
 - **Talen:** NL (bron), ES, EN, DE, FR. Elke recept-URL heeft een eigen slug per taal.
+- **Titels (2026-11-02):** de receptnaam staat volledig in de eigen taal, met de Spaanse gerechtnaam als ondertitel.
 - **Merknaam per taal:** Smaakvol Koken, Cocina con Sabor, Flavourful Cooking, Genussvoll Kochen, Cuisine Savoureuse (`src/i18n.js` → `brand`).
 - **Per ingrediënt:** de Spaanse supermarktnaam (`es`), en via `src/data/stores.json` de winkel, afdeling en tip. Daarnaast is er een supermarktgids met ketens aan de Costa del Sol.
 - **Filters:**
@@ -30,7 +31,7 @@ Dit bestand legt vast wat we hebben afgesproken. Lees het voordat je verder bouw
 - **Illustraties:** gegenereerd. Een handgemaakte scène in `src/scenes.js` heeft voorrang, anders maakt `src/autoscene.js` er automatisch een.
 
 ## Recepten
-- **Aantal:** 110 gerechten (ids 1–110). De oorspronkelijke 30 komen uit het kookboek, 80 nieuwe zijn op 2026-11-02 door 4 koks-agents geschreven (20 per kok), met bronnen in `docs/bronnen-*.md`.
+- **Aantal:** 110 gerechten (ids 1–110). De oorspronkelijke 30 komen uit het kookboek, 80 nieuwe zijn op 2026-11-02 door 4 koks-agents geschreven (20 per kok), met bronnen in `docs/bronnen-*.md`. Drie dubbele recepten (79, 81 en 94) zijn vervangen door nieuwe gerechten, met dezelfde ids.
 - **Hoofdstukken:** Hollands & Europees, Spaans & Mediterraan, Wereldgerechten, Vis & Garnalen, Budgetfavorieten, Vegetarisch, Zoet uit de slowcooker.
 - **Kwaliteitsregels:**
   - mild, met pit pas aan tafel
@@ -59,7 +60,8 @@ Dit bestand legt vast wat we hebben afgesproken. Lees het voordat je verder bouw
 ## Kookboek-PDF's
 - **Opties:** 4 opties (A–D) in `F:\Koken\pdf`. Die staan niet in git, omdat ze te groot zijn. Opnieuw maken kan met `tools/pdf/render.py`.
 - **Fonts:** worden als statische TrueType ingesloten (geen Type3), anders geeft Adobe Reader fouten.
-- **Inhoud:** de PDF's bevatten alleen de oorspronkelijke 30 recepten.
+- **Inhoud (bijgewerkt 2026-11-02):** de PDF bevat alle 122 recepten in het Nederlands, per hoofdstuk (inclusief "Meer uit de slowcooker"). Stijl A staat als download op de site (`public/downloads/smaakvol-koken.pdf`), met een link naar de site op de cover en op elke receptpagina, en een QR-code op de achterkant.
+- **Lengte:** elk recept past op 1 pagina. Lange recepten krijgen automatisch een compactere opmaak.
 
 ## Werkwijze met de gebruiker
 - Het tegoed van de gebruiker kan beperkt zijn. Zeg vooraf wat veel kost (vertalingen en grote agent-rondes), en commit tussendoor zodat er niets verloren gaat.
