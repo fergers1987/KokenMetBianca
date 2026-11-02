@@ -13,6 +13,9 @@ const OUT = path.join(ROOT, 'dist');
 const CONFIG = JSON.parse(fs.readFileSync(path.join(ROOT, 'site.config.json'), 'utf8'));
 const T = THEMES[CONFIG.theme || 'a'];
 const SITE = (CONFIG.siteUrl || '').replace(/\/$/, '');
+// Versiecodes voor cache-busting: veranderen zodra de inhoud verandert.
+const V = { css: '', js: '', data: '' };
+const hash = s => require('crypto').createHash('sha1').update(s).digest('hex').slice(0, 10);
 
 const readJson = (f, fallback) => { const p = path.join(DATA, f); return fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : fallback; };
 const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -111,7 +114,7 @@ ${SITE ? `<meta property="og:image" content="${SITE}${ogImage || `/img/og-${L}.p
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="${T.fonts}" rel="stylesheet">
-<link rel="stylesheet" href="/css/site.css">
+<link rel="stylesheet" href="/css/site.css?v=${V.css}">
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ''}
 </head>
 <body class="theme-${T.key} page-${key}">
@@ -135,7 +138,7 @@ ${body}
     <p class="f-small">${esc(ui.footer)} · ${alts.map(a => `<a href="${a.href}" lang="${a.L}">${UI[a.L].langName}</a>`).join(' · ')}</p>
   </div>
 </footer>
-<script src="/js/site.js" defer></script>
+<script src="/js/site.js?v=${V.js}" defer></script>
 </body>
 </html>`;
 }
@@ -428,7 +431,7 @@ function listPage(L) {
   const ui = UI[L], l = ui.list;
   const strings = { ...l, everywhere: ui.everywhere, lang: L };
   const body = `
-<section class="wrap sec shoplist" data-strings="${esc(JSON.stringify(strings))}" data-src="/data/${L}.json">
+<section class="wrap sec shoplist" data-strings="${esc(JSON.stringify(strings))}" data-src="/data/${L}.json?v=${V.data}">
   <p class="eyebrow">${ui.nav.recipes} · ${esc(l.nav)}</p>
   <h1 class="page-title">${esc(l.title)}</h1>
   <p class="lead narrow">${esc(l.lead)}</p>
@@ -468,7 +471,7 @@ function rootPage() {
   return `<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${brand('nl')} · ${LANGS.filter(x => x !== 'nl').map(brand).join(' · ')}</title>
 ${LANGS.map(L => `<link rel="alternate" hreflang="${L}" href="${SITE}/${L}/">`).join('')}<link rel="alternate" hreflang="x-default" href="${SITE}/nl/">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link href="${T.fonts}" rel="stylesheet"><link rel="stylesheet" href="/css/site.css">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link href="${T.fonts}" rel="stylesheet"><link rel="stylesheet" href="/css/site.css?v=${V.css}">
 <script>(function(){try{var s=localStorage.getItem('lang');var l=s||((navigator.languages||[navigator.language||'nl'])[0]||'nl').slice(0,2).toLowerCase();if(['nl','es','en','de','fr'].indexOf(l)<0)l=/^(ca|eu|gl)$/.test(l)?'es':'en';location.replace('/'+l+'/');}catch(e){location.replace('/nl/');}})();</script>
 </head><body class="theme-${T.key} page-root"><main class="root-choose wrap">
 <img src="/img/hero.svg" alt="" width="260" height="260"><h1>${esc(UI.nl.brand[0])} <span>${esc(UI.nl.brand[1])}</span></h1>
@@ -512,8 +515,10 @@ function build() {
   const css = fs.readFileSync(path.join(__dirname, 'site.css'), 'utf8')
     .replace(/\/\*VARS\*\//, Object.entries(T.vars).map(([k, v]) => `--${k}:${v};`).join(''))
     + '\n' + T.css;
+  const js = fs.readFileSync(path.join(__dirname, 'site.js'), 'utf8');
+  V.css = hash(css); V.js = hash(js); V.data = hash(LANGS.map(dataJson).join(''));
   writeFile('css/site.css', css);
-  writeFile('js/site.js', fs.readFileSync(path.join(__dirname, 'site.js'), 'utf8'));
+  writeFile('js/site.js', js);
   for (const id of Object.keys(SCENES)) writeFile(`img/dish/${id}.svg`, dishFile(+id));
   writeFile('img/hero.svg', heroFile());
   writeFile('favicon.svg', favicon());
