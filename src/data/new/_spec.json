@@ -1,0 +1,172 @@
+{
+ "schema_example": {
+  "id": 1,
+  "title": "Hollandse stoofpot met rundvlees",
+  "chapter": "Hollands & Europees",
+  "price": "10–12",
+  "spice": 1,
+  "vega": false,
+  "prep": "20 min",
+  "low": "8–9 uur",
+  "high": "5–6 uur",
+  "intro": "Boterzacht rundvlees, zoete wortels en aardappelen in een zacht-zure jus: Hollandse winterkost waar het hele huis heerlijk van gaat ruiken.",
+  "ingredients": [
+   {
+    "q": "1 el",
+    "item": "bloem",
+    "es": "harina de trigo"
+   },
+   {
+    "q": "1 el",
+    "item": "olie",
+    "es": "aceite de girasol"
+   },
+   {
+    "q": "500 g",
+    "item": "runderstoofvlees (riblappen), in blokken van 4 cm",
+    "es": "carne para guisar (morcillo o aguja de ternera)"
+   },
+   {
+    "q": "600 g",
+    "item": "vastkokende aardappelen (3 grote)",
+    "es": "patatas para guisar"
+   },
+   {
+    "q": "3",
+    "item": "wortels",
+    "es": "zanahorias"
+   },
+   {
+    "q": "2",
+    "item": "uien, in halve ringen",
+    "es": "cebollas"
+   },
+   {
+    "q": "250 ml",
+    "item": "runderbouillon",
+    "es": "caldo de carne"
+   },
+   {
+    "q": "1 el",
+    "item": "mosterd",
+    "es": "mostaza"
+   },
+   {
+    "q": "1 el",
+    "item": "azijn",
+    "es": "vinagre de vino"
+   },
+   {
+    "q": "1 tl",
+    "item": "bruine suiker",
+    "es": "azúcar moreno"
+   },
+   {
+    "q": "2",
+    "item": "laurierblaadjes",
+    "es": "hojas de laurel"
+   },
+   {
+    "q": "",
+    "item": "peper en zout",
+    "es": ""
+   }
+  ],
+  "serve": [],
+  "steps": [
+   "Bestrooi het vlees met bloem, zout en peper. Bak het in twee porties rondom bruin in hete olie; zo krijg je smaak én een gebonden jus.",
+   "Snijd aardappelen en wortels in grove stukken en leg ze onderin de slowcooker, waar het het warmst is. Leg het vlees erop.",
+   "Fruit de uien 3 minuten in dezelfde pan. Blus af met bouillon, mosterd, azijn en suiker en schraap de aanbaksels los.",
+   "Giet dit over het vlees, leg de laurier erbij en sluit het deksel. Gaar 8–9 uur op LOW of 5–6 uur op HIGH.",
+   "Vis de laurier eruit en proef: breng op smaak met zout, peper en eventueel een scheutje azijn. Het vlees moet uit elkaar vallen."
+  ],
+  "tip": "Kies vastkokende aardappelen in grote stukken, dan blijven ze heel. Is de jus te dun? Prak een paar aardappelstukjes fijn en roer ze erdoor: gratis binding.",
+  "kids": "Prak vlees, aardappel en wortel samen met wat jus fijn: een vertrouwd stamppotje voor kleine eters.",
+  "freeze": false,
+  "guid": "de4db3ca-b57f-4e0a-9d68-825e1bc83bc9",
+  "cuisine": "dutch",
+  "protein": "beef",
+  "side": "potato"
+ },
+ "existing_titles": [
+  "Hollandse stoofpot met rundvlees",
+  "Spaanse lentejas met chorizo",
+  "Romige kip met paprika en rijst",
+  "Gehaktballetjes in Italiaanse tomatensaus",
+  "Pulled chicken wraps",
+  "Bolognesesaus met extra groenten",
+  "Milde chili con carne",
+  "Spaanse kipstoof met kikkererwten",
+  "Aardappel-preisoep",
+  "Milde kipkerrie met kokosmelk",
+  "Marokkaanse kipstoof met ras el hanout",
+  "Stoofvlees met aardappelpuree",
+  "Pulled pork taco's",
+  "Romige milde kip tikka masala",
+  "Kip in romige champignonsaus",
+  "Varkensvlees in honing-mosterdsaus",
+  "Cottage pie met gehakt en groenten",
+  "Toscaanse kip",
+  "Mexicaanse pulled beef",
+  "Teriyaki kip",
+  "Thaise kokos-kip met pindasaus",
+  "Griekse citroenkip met aardappelen",
+  "Romige tomaten-visstoof",
+  "Romige knoflookgarnalen met pasta",
+  "Spaanse bacalao-stoof",
+  "Milde kokos-garnalencurry",
+  "Spaanse worst- en aardappelstoof",
+  "Romige tomaten-linzensoep",
+  "Ouderwetse kip-groentestoof",
+  "Italiaanse gehakt-groentestoof"
+ ],
+ "chapters": [
+  "Hollands & Europees",
+  "Spaans & Mediterraan",
+  "Wereldgerechten",
+  "Vis & Garnalen",
+  "Budgetfavorieten",
+  "Vegetarisch",
+  "Zoet uit de slowcooker"
+ ],
+ "cuisine_keys": [
+  "dutch",
+  "spanish",
+  "italian",
+  "mexican",
+  "indian",
+  "moroccan",
+  "thai",
+  "japanese",
+  "greek",
+  "british",
+  "mediterranean",
+  "european",
+  "french",
+  "hungarian",
+  "korean",
+  "american",
+  "caribbean",
+  "middle_eastern",
+  "chinese"
+ ],
+ "protein_keys": [
+  "chicken",
+  "beef",
+  "pork",
+  "mince",
+  "fish",
+  "prawns",
+  "veg",
+  "sweet"
+ ],
+ "side_keys": [
+  "rice",
+  "pasta",
+  "potato",
+  "bread",
+  "tortilla",
+  "couscous",
+  "none"
+ ]
+}

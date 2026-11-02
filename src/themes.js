@@ -27,7 +27,7 @@ const THEMES = {
     fonts: 'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@400;500;600&display=swap',
     vars: { bg: '#F6F1E7', ink: '#2B2622', muted: '#7A6F64', accent: '#B4462E', accent2: '#6B7A4B', card: '#FFFCF6', soft: '#E8DFCF', line: 'rgba(43,38,34,.16)',
       display: "'Cormorant Garamond', serif", body: "'EB Garamond', serif", label: "'Jost', sans-serif", dispWeight: 600, radius: '4px', pepOn: '#B4462E', pepOff: '#C9BDAE', leaf: '#6B7A4B' },
-    chapters: ['#3D5A78', '#B4462E', '#C4933A', '#4C7C84', '#6B7A4B'],
+    chapters: ['#3D5A78', '#B4462E', '#C4933A', '#4C7C84', '#6B7A4B', '#5E8C4E', '#B5577A'],
     art: { style: 'line', ink: '#2B2622', paper: '#F6F1E7', vessel: '#B4462E', napkin: ['#E8DFCF', '#B4462E'], spoon: '#C9925A', sideBowl: '#F4EEE3' },
     bg: (id) => linen(id),
     css: `.hero h1{font-style:italic;font-weight:500}.card-art,.r-art{border-radius:50%}.r-art{box-shadow:0 0 0 1px var(--line),0 0 0 8px var(--bg),0 0 0 9px var(--line)}h1,h2{font-weight:500}.sec-title{font-style:italic}`,

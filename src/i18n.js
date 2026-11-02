@@ -4,11 +4,11 @@
 const LANGS = ['nl', 'es', 'en', 'de', 'fr'];
 
 const PATHS = {
-  nl: { recipes: 'recepten', market: 'supermarkt', basics: 'slowcooker-basics' },
-  es: { recipes: 'recetas', market: 'supermercado', basics: 'consejos-olla-lenta' },
-  en: { recipes: 'recipes', market: 'supermarket', basics: 'slow-cooker-basics' },
-  de: { recipes: 'rezepte', market: 'supermarkt', basics: 'slowcooker-grundlagen' },
-  fr: { recipes: 'recettes', market: 'supermarche', basics: 'bases-mijoteuse' },
+  nl: { recipes: 'recepten', market: 'supermarkt', basics: 'slowcooker-basics', list: 'boodschappenlijst' },
+  es: { recipes: 'recetas', market: 'supermercado', basics: 'consejos-olla-lenta', list: 'lista-de-la-compra' },
+  en: { recipes: 'recipes', market: 'supermarket', basics: 'slow-cooker-basics', list: 'shopping-list' },
+  de: { recipes: 'rezepte', market: 'supermarkt', basics: 'slowcooker-grundlagen', list: 'einkaufsliste' },
+  fr: { recipes: 'recettes', market: 'supermarche', basics: 'bases-mijoteuse', list: 'liste-de-courses' },
 };
 
 const UI = {
@@ -33,9 +33,10 @@ const UI = {
     notFound: 'Deze pagina bestaat niet (meer).', notFoundCta: 'Terug naar de recepten', usedIn: 'Gebruikt in',
     f: { cuisine: 'Keuken', protein: 'Hoofdingrediënt', side: 'Erbij', price: 'Max. prijs p.p.', hours: 'Max. tijd in de slowcooker', spice: 'Pittigheid', more: 'Meer filters', reset: 'Wis filters', sort: 'Sorteer', freezeOnly: 'Invriesbaar', any: 'Alle', hoursUnit: 'uur', noLimit: 'geen limiet',
       sorts: { n: 'Volgorde boek', price: 'Goedkoopst', time: 'Snelst klaar', spice: 'Mildst' } },
-    cuisines: { dutch: 'Hollands', spanish: 'Spaans', italian: 'Italiaans', mexican: 'Mexicaans', indian: 'Indiaas', moroccan: 'Marokkaans', thai: 'Thais', japanese: 'Japans', greek: 'Grieks', british: 'Brits', mediterranean: 'Mediterraan', european: 'Europees' },
-    proteins: { chicken: 'Kip', beef: 'Rundvlees', pork: 'Varken & chorizo', mince: 'Gehakt', fish: 'Vis', prawns: 'Garnalen', veg: 'Vegetarisch' },
-    sides: { rice: 'Rijst', pasta: 'Pasta', potato: 'Aardappel', bread: 'Brood', tortilla: "Tortilla's", couscous: 'Couscous' },
+    cuisines: { dutch: 'Hollands', spanish: 'Spaans', italian: 'Italiaans', mexican: 'Mexicaans', indian: 'Indiaas', moroccan: 'Marokkaans', thai: 'Thais', japanese: 'Japans', greek: 'Grieks', british: 'Brits', mediterranean: 'Mediterraan', french: 'Frans', hungarian: 'Hongaars', korean: 'Koreaans', american: 'Amerikaans', caribbean: 'Caribisch', middle_eastern: 'Midden-Oosters', chinese: 'Chinees', european: 'Europees' },
+    proteins: { chicken: 'Kip', beef: 'Rundvlees', pork: 'Varken & chorizo', mince: 'Gehakt', fish: 'Vis', prawns: 'Garnalen', sweet: 'Zoet', veg: 'Vegetarisch' },
+    sides: { rice: 'Rijst', pasta: 'Pasta', potato: 'Aardappel', bread: 'Brood', tortilla: "Tortilla's", none: 'Zonder bijgerecht', couscous: 'Couscous' },
+    list: {"nav": "Lijst", "title": "Mijn boodschappenlijst", "lead": "Kies een paar gerechten, pas het aantal personen aan en je krijgt één lijst, gesorteerd per afdeling. Vink af in de winkel.", "empty": "Je lijst is nog leeg. Tik bij een recept op ‘Op mijn lijst’ om te beginnen.", "add": "Op mijn lijst", "added": "Op je lijst", "remove": "Verwijder", "persons": "personen", "dishes": "Gerechten", "items": "Boodschappen", "hideDone": "Verberg afgevinkt", "addOwn": "Toevoegen", "addOwnPh": "Zelf iets toevoegen, bv. melk…", "own": "Eigen artikelen", "share": "Delen (Google Keep, WhatsApp…)", "copy": "Kopiëren", "keep": "Naar Google Keep", "whatsapp": "WhatsApp", "download": "Download (.txt)", "print": "Printen", "clear": "Lijst leegmaken", "confirmClear": "Weet je zeker dat je de hele lijst wilt leegmaken?", "keepHelp": "Google Keep: de lijst is gekopieerd. Maak in Keep een nieuwe lijst (☑) en plak; elke regel wordt een vinkje. Op je telefoon kan het direct via ‘Delen’ → Keep.", "copied": "Gekopieerd!", "forRecipes": "voor", "browse": "Bekijk recepten", "count": "{n} gerechten · {m} artikelen", "doneOf": "{d} van {m} afgevinkt", "other": "Overig", "checkAll": "Alles afvinken", "uncheckAll": "Alles terugzetten"},
     favAdd: 'Bewaar als favoriet', favRemove: 'Favoriet', onlyFavs: 'Mijn favorieten', noFavs: 'Je hebt nog geen favorieten. Tik op het hartje bij een recept om het te bewaren.',
   },
   es: {
@@ -59,9 +60,10 @@ const UI = {
     notFound: 'Esta página no existe.', notFoundCta: 'Volver a las recetas', usedIn: 'Se usa en',
     f: { cuisine: 'Cocina', protein: 'Ingrediente principal', side: 'Acompañamiento', price: 'Precio máx. p. p.', hours: 'Tiempo máx. en la olla', spice: 'Picante', more: 'Más filtros', reset: 'Quitar filtros', sort: 'Ordenar', freezeOnly: 'Congelable', any: 'Todos', hoursUnit: 'h', noLimit: 'sin límite',
       sorts: { n: 'Orden del libro', price: 'Más barato', time: 'Más rápido', spice: 'Más suave' } },
-    cuisines: { dutch: 'Holandesa', spanish: 'Española', italian: 'Italiana', mexican: 'Mexicana', indian: 'India', moroccan: 'Marroquí', thai: 'Tailandesa', japanese: 'Japonesa', greek: 'Griega', british: 'Británica', mediterranean: 'Mediterránea', european: 'Europea' },
-    proteins: { chicken: 'Pollo', beef: 'Ternera', pork: 'Cerdo y chorizo', mince: 'Carne picada', fish: 'Pescado', prawns: 'Gambas', veg: 'Vegetariano' },
-    sides: { rice: 'Arroz', pasta: 'Pasta', potato: 'Patata', bread: 'Pan', tortilla: 'Tortillas', couscous: 'Cuscús' },
+    cuisines: { dutch: 'Holandesa', spanish: 'Española', italian: 'Italiana', mexican: 'Mexicana', indian: 'India', moroccan: 'Marroquí', thai: 'Tailandesa', japanese: 'Japonesa', greek: 'Griega', british: 'Británica', mediterranean: 'Mediterránea', french: 'Francesa', hungarian: 'Húngara', korean: 'Coreana', american: 'Americana', caribbean: 'Caribeña', middle_eastern: 'De Oriente Medio', chinese: 'China', european: 'Europea' },
+    proteins: { chicken: 'Pollo', beef: 'Ternera', pork: 'Cerdo y chorizo', mince: 'Carne picada', fish: 'Pescado', prawns: 'Gambas', sweet: 'Dulce', veg: 'Vegetariano' },
+    sides: { rice: 'Arroz', pasta: 'Pasta', potato: 'Patata', bread: 'Pan', tortilla: 'Tortillas', none: 'Sin acompañamiento', couscous: 'Cuscús' },
+    list: {"nav": "Lista", "title": "Mi lista de la compra", "lead": "Elige unos platos, ajusta las personas y obtén una sola lista ordenada por secciones. Márcala en el súper.", "empty": "Tu lista está vacía. Toca ‘A mi lista’ en una receta para empezar.", "add": "A mi lista", "added": "En tu lista", "remove": "Quitar", "persons": "personas", "dishes": "Platos", "items": "La compra", "hideDone": "Ocultar marcados", "addOwn": "Añadir", "addOwnPh": "Añade algo, p. ej. leche…", "own": "Mis artículos", "share": "Compartir (Google Keep, WhatsApp…)", "copy": "Copiar", "keep": "A Google Keep", "whatsapp": "WhatsApp", "download": "Descargar (.txt)", "print": "Imprimir", "clear": "Vaciar lista", "confirmClear": "¿Seguro que quieres vaciar la lista?", "keepHelp": "Google Keep: la lista está copiada. Crea en Keep una lista nueva (☑) y pega; cada línea será una casilla. En el móvil, usa ‘Compartir’ → Keep.", "copied": "¡Copiado!", "forRecipes": "para", "browse": "Ver recetas", "count": "{n} platos · {m} artículos", "doneOf": "{d} de {m} marcados", "other": "Otros", "checkAll": "Marcar todo", "uncheckAll": "Desmarcar todo"},
     favAdd: 'Guardar en favoritos', favRemove: 'En favoritos', onlyFavs: 'Mis favoritos', noFavs: 'Aún no tienes favoritos. Toca el corazón de una receta para guardarla.',
   },
   en: {
@@ -85,9 +87,10 @@ const UI = {
     notFound: 'This page does not exist.', notFoundCta: 'Back to the recipes', usedIn: 'Used in',
     f: { cuisine: 'Cuisine', protein: 'Main ingredient', side: 'Served with', price: 'Max. price pp', hours: 'Max. time in the slow cooker', spice: 'Heat', more: 'More filters', reset: 'Clear filters', sort: 'Sort', freezeOnly: 'Freezable', any: 'Any', hoursUnit: 'hrs', noLimit: 'no limit',
       sorts: { n: 'Book order', price: 'Cheapest', time: 'Quickest', spice: 'Mildest' } },
-    cuisines: { dutch: 'Dutch', spanish: 'Spanish', italian: 'Italian', mexican: 'Mexican', indian: 'Indian', moroccan: 'Moroccan', thai: 'Thai', japanese: 'Japanese', greek: 'Greek', british: 'British', mediterranean: 'Mediterranean', european: 'European' },
-    proteins: { chicken: 'Chicken', beef: 'Beef', pork: 'Pork & chorizo', mince: 'Mince', fish: 'Fish', prawns: 'Prawns', veg: 'Vegetarian' },
-    sides: { rice: 'Rice', pasta: 'Pasta', potato: 'Potato', bread: 'Bread', tortilla: 'Tortillas', couscous: 'Couscous' },
+    cuisines: { dutch: 'Dutch', spanish: 'Spanish', italian: 'Italian', mexican: 'Mexican', indian: 'Indian', moroccan: 'Moroccan', thai: 'Thai', japanese: 'Japanese', greek: 'Greek', british: 'British', mediterranean: 'Mediterranean', french: 'French', hungarian: 'Hungarian', korean: 'Korean', american: 'American', caribbean: 'Caribbean', middle_eastern: 'Middle Eastern', chinese: 'Chinese', european: 'European' },
+    proteins: { chicken: 'Chicken', beef: 'Beef', pork: 'Pork & chorizo', mince: 'Mince', fish: 'Fish', prawns: 'Prawns', sweet: 'Sweet', veg: 'Vegetarian' },
+    sides: { rice: 'Rice', pasta: 'Pasta', potato: 'Potato', bread: 'Bread', tortilla: 'Tortillas', none: 'No side', couscous: 'Couscous' },
+    list: {"nav": "List", "title": "My shopping list", "lead": "Pick a few dishes, set the number of people and get one list sorted by aisle. Tick it off in the shop.", "empty": "Your list is empty. Tap ‘Add to list’ on a recipe to get started.", "add": "Add to list", "added": "On your list", "remove": "Remove", "persons": "people", "dishes": "Dishes", "items": "Shopping", "hideDone": "Hide ticked items", "addOwn": "Add", "addOwnPh": "Add your own item, e.g. milk…", "own": "My items", "share": "Share (Google Keep, WhatsApp…)", "copy": "Copy", "keep": "To Google Keep", "whatsapp": "WhatsApp", "download": "Download (.txt)", "print": "Print", "clear": "Clear list", "confirmClear": "Are you sure you want to clear the whole list?", "keepHelp": "Google Keep: the list has been copied. Create a new list note (☑) in Keep and paste; each line becomes a checkbox. On your phone use ‘Share’ → Keep.", "copied": "Copied!", "forRecipes": "for", "browse": "Browse recipes", "count": "{n} dishes · {m} items", "doneOf": "{d} of {m} ticked", "other": "Other", "checkAll": "Tick all", "uncheckAll": "Untick all"},
     favAdd: 'Save as favourite', favRemove: 'Saved', onlyFavs: 'My favourites', noFavs: 'No favourites yet. Tap the heart on a recipe to save it.',
   },
   de: {
@@ -111,9 +114,10 @@ const UI = {
     notFound: 'Diese Seite gibt es nicht.', notFoundCta: 'Zurück zu den Rezepten', usedIn: 'Verwendet in',
     f: { cuisine: 'Küche', protein: 'Hauptzutat', side: 'Beilage', price: 'Max. Preis p. P.', hours: 'Max. Zeit im Slowcooker', spice: 'Schärfe', more: 'Mehr Filter', reset: 'Filter zurücksetzen', sort: 'Sortieren', freezeOnly: 'Einfrierbar', any: 'Alle', hoursUnit: 'Std.', noLimit: 'ohne Limit',
       sorts: { n: 'Reihenfolge im Buch', price: 'Günstigste', time: 'Schnellste', spice: 'Mildeste' } },
-    cuisines: { dutch: 'Niederländisch', spanish: 'Spanisch', italian: 'Italienisch', mexican: 'Mexikanisch', indian: 'Indisch', moroccan: 'Marokkanisch', thai: 'Thailändisch', japanese: 'Japanisch', greek: 'Griechisch', british: 'Britisch', mediterranean: 'Mediterran', european: 'Europäisch' },
-    proteins: { chicken: 'Hähnchen', beef: 'Rind', pork: 'Schwein & Chorizo', mince: 'Hackfleisch', fish: 'Fisch', prawns: 'Garnelen', veg: 'Vegetarisch' },
-    sides: { rice: 'Reis', pasta: 'Nudeln', potato: 'Kartoffeln', bread: 'Brot', tortilla: 'Tortillas', couscous: 'Couscous' },
+    cuisines: { dutch: 'Niederländisch', spanish: 'Spanisch', italian: 'Italienisch', mexican: 'Mexikanisch', indian: 'Indisch', moroccan: 'Marokkanisch', thai: 'Thailändisch', japanese: 'Japanisch', greek: 'Griechisch', british: 'Britisch', mediterranean: 'Mediterran', french: 'Französisch', hungarian: 'Ungarisch', korean: 'Koreanisch', american: 'Amerikanisch', caribbean: 'Karibisch', middle_eastern: 'Nahöstlich', chinese: 'Chinesisch', european: 'Europäisch' },
+    proteins: { chicken: 'Hähnchen', beef: 'Rind', pork: 'Schwein & Chorizo', mince: 'Hackfleisch', fish: 'Fisch', prawns: 'Garnelen', sweet: 'Süß', veg: 'Vegetarisch' },
+    sides: { rice: 'Reis', pasta: 'Nudeln', potato: 'Kartoffeln', bread: 'Brot', tortilla: 'Tortillas', none: 'Ohne Beilage', couscous: 'Couscous' },
+    list: {"nav": "Liste", "title": "Meine Einkaufsliste", "lead": "Wähle ein paar Gerichte, stelle die Personenzahl ein und bekomme eine Liste, sortiert nach Abteilung. Abhaken im Laden.", "empty": "Deine Liste ist noch leer. Tippe bei einem Rezept auf ‚Auf meine Liste‘.", "add": "Auf meine Liste", "added": "Auf deiner Liste", "remove": "Entfernen", "persons": "Personen", "dishes": "Gerichte", "items": "Einkauf", "hideDone": "Abgehakte ausblenden", "addOwn": "Hinzufügen", "addOwnPh": "Eigenes hinzufügen, z. B. Milch…", "own": "Eigene Artikel", "share": "Teilen (Google Keep, WhatsApp…)", "copy": "Kopieren", "keep": "Zu Google Keep", "whatsapp": "WhatsApp", "download": "Herunterladen (.txt)", "print": "Drucken", "clear": "Liste leeren", "confirmClear": "Möchtest du die ganze Liste wirklich leeren?", "keepHelp": "Google Keep: Die Liste ist kopiert. Erstelle in Keep eine neue Liste (☑) und füge sie ein; jede Zeile wird ein Häkchen. Am Handy über ‚Teilen‘ → Keep.", "copied": "Kopiert!", "forRecipes": "für", "browse": "Rezepte ansehen", "count": "{n} Gerichte · {m} Artikel", "doneOf": "{d} von {m} abgehakt", "other": "Sonstiges", "checkAll": "Alle abhaken", "uncheckAll": "Alle zurücksetzen"},
     favAdd: 'Als Favorit speichern', favRemove: 'Favorit', onlyFavs: 'Meine Favoriten', noFavs: 'Noch keine Favoriten. Tippe bei einem Rezept auf das Herz, um es zu speichern.',
   },
   fr: {
@@ -137,9 +141,10 @@ const UI = {
     notFound: "Cette page n'existe pas.", notFoundCta: 'Retour aux recettes', usedIn: 'Utilisé dans',
     f: { cuisine: 'Cuisine', protein: 'Ingrédient principal', side: 'Accompagnement', price: 'Prix max. /pers.', hours: 'Temps max. dans la mijoteuse', spice: 'Piquant', more: 'Plus de filtres', reset: 'Effacer les filtres', sort: 'Trier', freezeOnly: 'Se congèle', any: 'Tous', hoursUnit: 'h', noLimit: 'sans limite',
       sorts: { n: 'Ordre du livre', price: 'Moins cher', time: 'Plus rapide', spice: 'Plus doux' } },
-    cuisines: { dutch: 'Néerlandaise', spanish: 'Espagnole', italian: 'Italienne', mexican: 'Mexicaine', indian: 'Indienne', moroccan: 'Marocaine', thai: 'Thaïe', japanese: 'Japonaise', greek: 'Grecque', british: 'Britannique', mediterranean: 'Méditerranéenne', european: 'Européenne' },
-    proteins: { chicken: 'Poulet', beef: 'Bœuf', pork: 'Porc & chorizo', mince: 'Viande hachée', fish: 'Poisson', prawns: 'Crevettes', veg: 'Végétarien' },
-    sides: { rice: 'Riz', pasta: 'Pâtes', potato: 'Pommes de terre', bread: 'Pain', tortilla: 'Tortillas', couscous: 'Semoule' },
+    cuisines: { dutch: 'Néerlandaise', spanish: 'Espagnole', italian: 'Italienne', mexican: 'Mexicaine', indian: 'Indienne', moroccan: 'Marocaine', thai: 'Thaïe', japanese: 'Japonaise', greek: 'Grecque', british: 'Britannique', mediterranean: 'Méditerranéenne', french: 'Française', hungarian: 'Hongroise', korean: 'Coréenne', american: 'Américaine', caribbean: 'Caribéenne', middle_eastern: 'Du Moyen-Orient', chinese: 'Chinoise', european: 'Européenne' },
+    proteins: { chicken: 'Poulet', beef: 'Bœuf', pork: 'Porc & chorizo', mince: 'Viande hachée', fish: 'Poisson', prawns: 'Crevettes', sweet: 'Sucré', veg: 'Végétarien' },
+    sides: { rice: 'Riz', pasta: 'Pâtes', potato: 'Pommes de terre', bread: 'Pain', tortilla: 'Tortillas', none: 'Sans accompagnement', couscous: 'Semoule' },
+    list: {"nav": "Liste", "title": "Ma liste de courses", "lead": "Choisis quelques plats, règle le nombre de personnes et obtiens une seule liste triée par rayon. Coche au supermarché.", "empty": "Ta liste est vide. Touche « Ajouter à ma liste » sur une recette pour commencer.", "add": "Ajouter à ma liste", "added": "Dans ta liste", "remove": "Retirer", "persons": "personnes", "dishes": "Plats", "items": "Courses", "hideDone": "Masquer les articles cochés", "addOwn": "Ajouter", "addOwnPh": "Ajoute un article, p. ex. du lait…", "own": "Mes articles", "share": "Partager (Google Keep, WhatsApp…)", "copy": "Copier", "keep": "Vers Google Keep", "whatsapp": "WhatsApp", "download": "Télécharger (.txt)", "print": "Imprimer", "clear": "Vider la liste", "confirmClear": "Veux-tu vraiment vider toute la liste ?", "keepHelp": "Google Keep : la liste est copiée. Crée une nouvelle liste (☑) dans Keep et colle ; chaque ligne devient une case. Sur mobile, utilise « Partager » → Keep.", "copied": "Copié !", "forRecipes": "pour", "browse": "Voir les recettes", "count": "{n} plats · {m} articles", "doneOf": "{d} sur {m} cochés", "other": "Autres", "checkAll": "Tout cocher", "uncheckAll": "Tout décocher"},
     favAdd: 'Ajouter aux favoris', favRemove: 'Favori', onlyFavs: 'Mes favoris', noFavs: 'Pas encore de favoris. Touche le cœur d’une recette pour la garder.',
   },
 };

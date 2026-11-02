@@ -154,4 +154,170 @@
   }
   var pr = document.querySelector('[data-print]');
   if (pr) pr.addEventListener('click', function () { window.print(); });
+
+  // ---------- boodschappenlijst: welke gerechten, voor hoeveel personen ----------
+  var LKEY = 'sk-list', CKEY = 'sk-list-checks', OKEY = 'sk-list-own';
+  function readJson(k, d) { try { var v = JSON.parse(store.get(k) || 'null'); return v && typeof v === 'object' ? v : d; } catch (e) { return d; } }
+  function list() { return readJson(LKEY, {}); }
+  function saveList(o) { store.set(LKEY, JSON.stringify(o)); paintList(); }
+  function paintList() {
+    var o = list(), n = Object.keys(o).length;
+    document.querySelectorAll('[data-add]').forEach(function (b) {
+      var on = !!o[b.getAttribute('data-add')];
+      b.setAttribute('aria-pressed', on ? 'true' : 'false'); b.classList.toggle('on', on);
+      var s = b.querySelector('span'); if (s) s.textContent = on ? b.getAttribute('data-on') : b.getAttribute('data-off');
+    });
+    document.querySelectorAll('[data-persons]').forEach(function (sel) { var p = o[sel.getAttribute('data-persons')]; if (p) sel.value = String(p); });
+    document.querySelectorAll('[data-list-count]').forEach(function (el) { el.textContent = n ? String(n) : ''; });
+  }
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest('[data-add]'); if (!b) return;
+    e.preventDefault();
+    var g = b.getAttribute('data-add'), o = list();
+    if (o[g]) delete o[g];
+    else { var sel = document.querySelector('[data-persons="' + g + '"]'); o[g] = sel ? +sel.value : 4; }
+    saveList(o);
+  });
+  document.addEventListener('change', function (e) {
+    var sel = e.target.closest('[data-persons]'); if (!sel) return;
+    var g = sel.getAttribute('data-persons'), o = list();
+    if (o[g]) { o[g] = +sel.value; saveList(o); }
+  });
+  paintList();
+
+  // ---------- boodschappenlijst-pagina ----------
+  var shop = document.querySelector('.shoplist');
+  if (shop) {
+    var S = JSON.parse(shop.getAttribute('data-strings')), DATA = null;
+    var en = S.lang === 'en';
+    var $$ = function (id) { return document.getElementById(id); };
+    var FR = { '½': .5, '¼': .25, '¾': .75, '⅓': 1 / 3, '⅔': 2 / 3 };
+    function num(t) { // "1½", "1,5", "½" -> number
+      var m = String(t).match(/^(\d+)?([½¼¾⅓⅔])?(?:[.,](\d+))?$/); if (!m) return NaN;
+      var v = (m[1] ? +m[1] : 0) + (m[2] ? FR[m[2]] : 0) + (m[3] ? +('0.' + m[3]) : 0);
+      return m[1] || m[2] ? v : NaN;
+    }
+    function fmt(v, unit) {
+      var u = (unit || '').toLowerCase();
+      if (/^(g|gr|ml|gram|grams|gramm)\b/.test(u)) v = v >= 50 ? Math.round(v / 10) * 10 : Math.round(v / 5) * 5 || v;
+      else v = Math.round(v * 2) / 2;
+      var whole = Math.floor(v), frac = v - whole;
+      if (Math.abs(frac - .5) < .01 && !/^(g|ml|kg|l)\b/.test(u)) return (whole || '') + '½';
+      var s = String(Math.round(v * 100) / 100);
+      return en ? s : s.replace('.', ',');
+    }
+    var NUMRE = /(\d+(?:[.,]\d+)?[½¼¾]?|[½¼¾⅓⅔])/g;
+    function scaleText(q, f) { return f === 1 ? q : q.replace(NUMRE, function (t) { var v = num(t); return isNaN(v) ? t : fmt(v * f, q.slice(q.indexOf(t) + t.length).trim()); }); }
+    function parseQ(q) { // simple "500 g" / "2" / "1 el" -> {v, unit}
+      var m = String(q).trim().match(/^(\d+(?:[.,]\d+)?[½¼¾]?|[½¼¾⅓⅔])\s*([^\d+()–-]*)$/);
+      return m ? { v: num(m[1]), unit: m[2].trim() } : null;
+    }
+    function cleanName(s) { return s.replace(/\s*\(.*?\)/g, '').split(',')[0].trim(); }
+    var checks = function () { return readJson(CKEY, {}); };
+    function setCheck(k, on) { var c = checks(); if (on) c[k] = 1; else delete c[k]; store.set(CKEY, JSON.stringify(c)); }
+    function own() { var a = readJson(OKEY, []); return Array.isArray(a) ? a : []; }
+
+    function build() {
+      var o = list(), rows = {}, dishes = [];
+      Object.keys(o).forEach(function (g) {
+        var r = DATA.recipes[g]; if (!r) return;
+        var f = o[g] / 4; dishes.push({ g: g, r: r, p: o[g] });
+        r.ing.forEach(function (i) {
+          var q = i[0], item = i[1], es = i[2], key = (es || cleanName(item)).toLowerCase();
+          var row = rows[key] || (rows[key] = { key: key, name: cleanName(item), es: es, parts: [], sums: {}, recipes: [], aisle: DATA.aisles[es] || ['', 99, []] });
+          if (row.recipes.indexOf(r.t) < 0) row.recipes.push(r.t);
+          if (!q) return;
+          var pq = parseQ(q);
+          if (pq && !isNaN(pq.v)) { var uk = pq.unit.toLowerCase(); row.sums[uk] = (row.sums[uk] || { v: 0, unit: pq.unit }); row.sums[uk].v += pq.v * f; }
+          else row.parts.push(scaleText(q, f));
+        });
+      });
+      Object.keys(rows).forEach(function (k) {
+        var row = rows[k];
+        var qs = Object.keys(row.sums).map(function (u) { var s = row.sums[u]; return (fmt(s.v, s.unit) + ' ' + s.unit).trim(); });
+        row.qty = qs.concat(row.parts).join(' + ');
+      });
+      return { dishes: dishes.sort(function (a, b) { return a.r.n - b.r.n; }), rows: Object.keys(rows).map(function (k) { return rows[k]; }) };
+    }
+    function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+
+    function render() {
+      var res = build(), c = checks(), hide = $$('slHide').checked, ownItems = own();
+      var empty = !res.dishes.length && !ownItems.length;
+      $$('slEmpty').hidden = !empty; $$('slGrid').hidden = empty;
+      if (empty) return;
+      $$('slDishes').innerHTML = res.dishes.map(function (d) {
+        return '<li><a href="' + d.r.u + '"><img src="' + d.r.img + '" alt="" width="56" height="56"></a><div><a href="' + d.r.u + '">' + esc(d.r.t) + '</a>' +
+          '<div class="stepper"><button type="button" data-step="-1" data-g="' + d.g + '" aria-label="−">−</button><span>' + d.p + ' ' + esc(S.persons) + '</span><button type="button" data-step="1" data-g="' + d.g + '" aria-label="+">+</button>' +
+          '<button type="button" class="linkbtn" data-rm="' + d.g + '">' + esc(S.remove) + '</button></div></div></li>';
+      }).join('');
+      var groups = {};
+      res.rows.forEach(function (r) { var a = r.aisle[0] || S.other; (groups[a] = groups[a] || { name: a, rank: r.aisle[0] ? r.aisle[1] : 100, rows: [] }).rows.push(r); });
+      var gs = Object.keys(groups).map(function (k) { return groups[k]; }).sort(function (a, b) { return a.rank - b.rank || a.name.localeCompare(b.name); });
+      var total = res.rows.length + ownItems.length, done = 0;
+      var html = gs.map(function (gr) {
+        gr.rows.sort(function (a, b) { return a.name.localeCompare(b.name); });
+        return '<section class="sl-group"><h3 lang="es">' + esc(gr.name) + '</h3><ul>' + gr.rows.map(function (r) {
+          var on = !!c[r.key]; if (on) done++;
+          return '<li class="' + (on ? 'done' : '') + '"' + (on && hide ? ' hidden' : '') + '><label><input type="checkbox" data-ck="' + esc(r.key) + '"' + (on ? ' checked' : '') + '>' +
+            '<span class="sl-q">' + esc(r.qty) + '</span><span class="sl-n">' + esc(r.name) + (S.lang !== 'es' && r.es ? '<i lang="es">' + esc(r.es) + '</i>' : '') +
+            '<small>' + esc(S.forRecipes) + ' ' + esc(r.recipes.join(', ')) + (r.aisle[2] && r.aisle[2].length ? ' · ' + esc(r.aisle[2].join(', ')) : '') + '</small></span></label></li>';
+        }).join('') + '</ul></section>';
+      }).join('');
+      if (ownItems.length) html += '<section class="sl-group"><h3>' + esc(S.own) + '</h3><ul>' + ownItems.map(function (t, i) {
+        var k = 'own:' + t.toLowerCase(), on = !!c[k]; if (on) done++;
+        return '<li class="' + (on ? 'done' : '') + '"' + (on && hide ? ' hidden' : '') + '><label><input type="checkbox" data-ck="' + esc(k) + '"' + (on ? ' checked' : '') + '><span class="sl-n">' + esc(t) + '</span></label><button type="button" class="linkbtn" data-rmown="' + i + '" aria-label="' + esc(S.remove) + '">×</button></li>';
+      }).join('') + '</ul></section>';
+      $$('slList').innerHTML = html;
+      $$('slCount').textContent = S.count.replace('{n}', res.dishes.length).replace('{m}', total) + ' · ' + S.doneOf.replace('{d}', done).replace('{m}', total);
+      $$('slWa').href = 'https://wa.me/?text=' + encodeURIComponent(text(true));
+    }
+    function text(withHeaders) {
+      var res = build(), c = checks(), lines = [], last = null;
+      res.rows.slice().sort(function (a, b) { return (a.aisle[0] ? a.aisle[1] : 100) - (b.aisle[0] ? b.aisle[1] : 100) || a.name.localeCompare(b.name); }).forEach(function (r) {
+        if (c[r.key]) return;
+        var head = r.aisle[0] || S.other;
+        if (withHeaders && head !== last) { lines.push((lines.length ? '\n' : '') + head.toUpperCase()); last = head; }
+        lines.push((withHeaders ? '☐ ' : '') + (r.qty ? r.qty + ' ' : '') + r.name + (S.lang !== 'es' && r.es ? ' (' + r.es + ')' : ''));
+      });
+      own().forEach(function (t) { if (!c['own:' + t.toLowerCase()]) lines.push((withHeaders ? '☐ ' : '') + t); });
+      var title = S.title + (withHeaders ? '\n' + res.dishes.map(function (d) { return '• ' + d.r.t + ' (' + d.p + ' ' + S.persons + ')'; }).join('\n') + '\n' : '');
+      return title + '\n' + lines.join('\n');
+    }
+    function flash(btn, msg) { var o = btn.textContent; btn.textContent = msg; setTimeout(function () { btn.textContent = o; }, 1800); }
+    function copy(t, btn) { if (navigator.clipboard) navigator.clipboard.writeText(t).then(function () { if (btn) flash(btn, S.copied); }, function () {}); }
+
+    shop.addEventListener('click', function (e) {
+      var t = e.target, o = list();
+      if (t.closest('[data-step]')) { var b = t.closest('[data-step]'), g = b.getAttribute('data-g'); o[g] = Math.max(1, Math.min(16, (o[g] || 4) + +b.getAttribute('data-step'))); saveList(o); render(); }
+      else if (t.closest('[data-rm]')) { delete o[t.closest('[data-rm]').getAttribute('data-rm')]; saveList(o); render(); }
+      else if (t.closest('[data-rmown]')) { var a = own(); a.splice(+t.closest('[data-rmown]').getAttribute('data-rmown'), 1); store.set(OKEY, JSON.stringify(a)); render(); }
+    });
+    shop.addEventListener('change', function (e) {
+      var ck = e.target.closest('[data-ck]'); if (ck) { setCheck(ck.getAttribute('data-ck'), ck.checked); render(); }
+    });
+    $$('slHide').addEventListener('change', render);
+    $$('slAll').addEventListener('click', function () { var c = {}; build().rows.forEach(function (r) { c[r.key] = 1; }); own().forEach(function (t) { c['own:' + t.toLowerCase()] = 1; }); store.set(CKEY, JSON.stringify(c)); render(); });
+    $$('slNone').addEventListener('click', function () { store.set(CKEY, '{}'); render(); });
+    $$('slOwn').addEventListener('submit', function (e) { e.preventDefault(); var i = $$('slOwnInput'), v = i.value.trim(); if (!v) return; var a = own(); a.push(v); store.set(OKEY, JSON.stringify(a)); i.value = ''; render(); });
+    $$('slShare').addEventListener('click', function () {
+      var t = text(true);
+      if (navigator.share) navigator.share({ title: S.title, text: t }).catch(function () {});
+      else { copy(t, $$('slShare')); $$('slHelp').hidden = false; }
+    });
+    $$('slKeep').addEventListener('click', function () {
+      var t = text(false);
+      if (navigator.share && /Android|iPhone|iPad/i.test(navigator.userAgent)) { navigator.share({ title: S.title, text: t }).catch(function () {}); return; }
+      copy(t); $$('slHelp').hidden = false; window.open('https://keep.google.com/', '_blank', 'noopener');
+    });
+    $$('slCopy').addEventListener('click', function () { copy(text(true), $$('slCopy')); });
+    $$('slTxt').addEventListener('click', function () {
+      var a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([text(true)], { type: 'text/plain;charset=utf-8' }));
+      a.download = S.title.replace(/\s+/g, '-').toLowerCase() + '.txt'; document.body.appendChild(a); a.click(); setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 500);
+    });
+    $$('slClear').addEventListener('click', function () { if (confirm(S.confirmClear)) { store.set(LKEY, '{}'); store.set(CKEY, '{}'); store.set(OKEY, '[]'); paintList(); render(); } });
+
+    fetch(shop.getAttribute('data-src')).then(function (r) { return r.json(); }).then(function (d) { DATA = d; render(); })
+      .catch(function () { $$('slEmpty').hidden = false; });
+  }
 })();

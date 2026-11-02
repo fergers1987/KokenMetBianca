@@ -33,6 +33,7 @@ const NUM = {}; order.forEach((r, i) => { NUM[r.id] = i + 1; });
 const CHIDX = {}, GUID = {}, META = {}; NL_RECIPES.forEach(r => { CHIDX[r.id] = NL_CHAPTERS.indexOf(r.chapter); GUID[r.id] = r.guid; META[r.id] = { cuisine: r.cuisine, protein: r.protein, side: r.side, price: r.price, spice: r.spice, vega: r.vega, freeze: r.freeze, hrs: hours(r.low) }; });
 if (new Set(Object.values(GUID)).size !== NL_RECIPES.length || Object.values(GUID).some(g => !g)) throw new Error('Elk recept heeft een unieke guid nodig in recipes.json');
 
+const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'];
 const D = {};
 for (const L of LANGS) {
   let recipes = L === 'nl' ? NL_RECIPES : readJson(`recipes.${L}.json`, null);
@@ -40,6 +41,8 @@ for (const L of LANGS) {
   const text = readJson(`i18n-source.${L}.json`, readJson('i18n-source.nl.json'));
   const byId = {};
   recipes.forEach(r => { byId[r.id] = { ...r, ...META[r.id], guid: GUID[r.id], slug: r.slug || slugify(r.title), n: NUM[r.id], nn: String(NUM[r.id]).padStart(2, '0'), ci: CHIDX[r.id] }; });
+  const nlText = readJson('i18n-source.nl.json');
+  text.chapters = nlText.chapters.map((c, i) => text.chapters[i] || c);
   D[L] = { text, byId, list: order.map(r => byId[r.id]) };
 }
 
@@ -50,6 +53,7 @@ const u = {
   recipe: (L, id) => `/${L}/${PATHS[L].recipes}/${D[L].byId[id].slug}/`,
   market: L => `/${L}/${PATHS[L].market}/`,
   basics: L => `/${L}/${PATHS[L].basics}/`,
+  list: L => `/${L}/${PATHS[L].list}/`,
 };
 const dishImg = id => `/img/dish/${id}.svg`;
 const brand = L => UI[L].brand.join(' ');
@@ -63,7 +67,7 @@ function perPerson(L, p) {
 }
 const spiceWord = (L, n) => D[L].text.spiceWords[n - 1];
 function peppers(n, size = '') { let s = ''; for (let i = 1; i <= 3; i++) s += art.pepperIcon(i <= n, T.vars.pepOn, T.vars.pepOff); return `<span class="peps${size}" aria-hidden="true">${s}</span>`; }
-const chColor = ci => T.chapters[ci];
+const chColor = ci => T.chapters[ci % T.chapters.length];
 
 function tags(L, r, compact = false) {
   const ui = UI[L]; const t = [];
@@ -115,7 +119,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script
 <header class="site-head">
   <div class="wrap head-in">
     <a class="brand" href="${u.home(L)}"><span class="b1">${esc(ui.brand[0])}</span> <span class="b2">${esc(ui.brand[1])}</span></a>
-    <nav class="main-nav" aria-label="Menu"><a class="nav-favs" href="${u.recipes(L)}?fav=1" aria-label="${esc(ui.onlyFavs)}">${heart()}<span data-fav-count></span></a>${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('basics', ui.nav.basics)}</nav>
+    <nav class="main-nav" aria-label="Menu"><a class="nav-favs" href="${u.recipes(L)}?fav=1" aria-label="${esc(ui.onlyFavs)}">${heart()}<span data-fav-count></span></a><a class="nav-list" href="${u.list(L)}"${key === 'list' ? ' aria-current="page"' : ''}>${cartIco()}${esc(ui.list.nav)}<span data-list-count></span></a>${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('basics', ui.nav.basics)}</nav>
     <nav class="langs" aria-label="${ui.langLabel}">${alts.map(a => `<a href="${a.href}" hreflang="${a.L}" lang="${a.L}"${a.L === L ? ' aria-current="true"' : ''}>${a.L.toUpperCase()}</a>`).join('')}</nav>
   </div>
 </header>
@@ -127,7 +131,7 @@ ${body}
     <div class="sprig">${sprig()}</div>
     <p class="f-title">${esc(brand(L))} <span>· ${esc(ui.by)}</span></p>
     <p class="f-tag">${esc(D[L].text.content.tagline)}</p>
-    <nav class="f-nav">${navItem('home', ui.nav.home)}${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('basics', ui.nav.basics)}</nav>
+    <nav class="f-nav">${navItem('home', ui.nav.home)}${navItem('recipes', ui.nav.recipes)}${navItem('market', ui.nav.market)}${navItem('basics', ui.nav.basics)}${navItem('list', ui.list.title)}</nav>
     <p class="f-small">${esc(ui.footer)} · ${alts.map(a => `<a href="${a.href}" lang="${a.L}">${UI[a.L].langName}</a>`).join(' · ')}</p>
   </div>
 </footer>
@@ -137,6 +141,11 @@ ${body}
 }
 
 const heart = () => `<svg viewBox="0 0 24 24" class="ico heart" aria-hidden="true"><path d="M12 20.3s-7.6-4.6-9.3-9.4C1.6 7.6 3.6 4.4 6.9 4.2c2-.1 3.6 1 5.1 2.9 1.5-1.9 3.1-3 5.1-2.9 3.3.2 5.3 3.4 4.2 6.7-1.7 4.8-9.3 9.4-9.3 9.4Z"/></svg>`;
+const cartIco = () => `<svg viewBox="0 0 24 24" class="ico cart" aria-hidden="true"><path d="M3 4h2.2l2.3 10.2a1.6 1.6 0 0 0 1.6 1.3h7.7a1.6 1.6 0 0 0 1.6-1.2L20.2 8H6.3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="9.5" cy="19.5" r="1.4" fill="currentColor"/><circle cx="17" cy="19.5" r="1.4" fill="currentColor"/></svg>`;
+function addBtn(L, r, big = false) {
+  const l = UI[L].list;
+  return `<button type="button" class="add${big ? ' big' : ''}" data-add="${r.guid}" aria-pressed="false" data-on="${esc(l.added)}" data-off="${esc(l.add)}" aria-label="${esc(l.add)}: ${esc(r.title)}">${cartIco()}<span>${esc(l.add)}</span></button>`;
+}
 function favBtn(L, r, big = false) {
   const ui = UI[L];
   return `<button type="button" class="fav${big ? ' big' : ''}" data-fav="${r.guid}" aria-pressed="false" aria-label="${esc(ui.favAdd)}: ${esc(r.title)}" data-on="${esc(ui.favRemove)}" data-off="${esc(ui.favAdd)}">${heart()}${big ? `<span>${ui.favAdd}</span>` : ''}</button>`;
@@ -158,6 +167,7 @@ function card(L, r) {
     </div>
   </a>
   ${favBtn(L, r)}
+  ${addBtn(L, r)}
 </li>`;
 }
 
@@ -166,10 +176,11 @@ function home(L) {
   const ui = UI[L], tx = D[L].text, c = tx.content;
   const chapters = tx.chapters.map((name, ci) => {
     const rs = D[L].list.filter(r => r.ci === ci);
+    if (!rs.length) return '';
     const info = c.chapters[name] || Object.values(c.chapters)[ci] || {};
     return `<a class="ch-card" href="${u.recipes(L)}?h=${ci}" style="--ch:${chColor(ci)}">
       <div class="ch-minis">${rs.slice(0, 3).map(r => `<img src="${dishImg(r.id)}" alt="" loading="lazy" width="600" height="600">`).join('')}</div>
-      <span class="ch-no">${['I', 'II', 'III', 'IV', 'V'][ci]} · ${ui.recipesIn(rs.length)}</span>
+      <span class="ch-no">${ROMAN[ci]} · ${ui.recipesIn(rs.length)}</span>
       <h3>${esc(name)}</h3>
       <p class="ch-tagline">${esc(info.tagline || '')}</p>
       <p>${esc(info.intro || '')}</p>
@@ -238,7 +249,7 @@ function recipesPage(L) {
     </div>
     <div class="chips" role="group" aria-label="${ui.chapters}">
       <button type="button" class="chip" data-h="" aria-pressed="true">${ui.all}</button>
-      ${tx.chapters.map((c, i) => `<button type="button" class="chip" data-h="${i}" aria-pressed="false" style="--ch:${chColor(i)}">${esc(c)}</button>`).join('')}
+      ${tx.chapters.map((c, i) => D[L].list.some(r => r.ci === i) && `<button type="button" class="chip" data-h="${i}" aria-pressed="false" style="--ch:${chColor(i)}">${esc(c)}</button>`).filter(Boolean).join('')}
     </div>
     <div class="chips" role="group">
       <button type="button" class="chip toggle" id="favs" aria-pressed="false">${heart()} ${ui.onlyFavs} <span class="fav-count" data-fav-count></span></button>
@@ -312,7 +323,9 @@ function recipePage(L, r) {
       <div class="r-text">
         <p class="r-no">Nº ${r.nn} · ${esc(tx.chapters[r.ci])} · ${ui.persons}</p>
         <h1 class="r-title">${esc(r.title)}</h1>
-        ${favBtn(L, r, true)}
+        <div class="r-actions">${favBtn(L, r, true)}
+          <div class="add-wrap">${addBtn(L, r, true)}<label class="persons"><select data-persons="${r.guid}" aria-label="${esc(ui.list.persons)}">${[2, 3, 4, 5, 6, 8, 10].map(n => `<option value="${n}"${n === 4 ? ' selected' : ''}>${n} ${esc(ui.list.persons)}</option>`).join('')}</select></label></div>
+        </div>
         <p class="intro">${esc(r.intro)}</p>
         ${tags(L, r)}
         <aside class="note r-tip"><h4>${ui.tip}</h4><p>${nb(r.tip)}</p></aside>
@@ -396,6 +409,61 @@ function basicsPage(L) {
   return layout(L, { title: `${ui.basicsTitle} – ${brand(L)}`, desc: tx.basics.slice(0, 3).map(b => b[1]).join(' '), body, key: 'basics' });
 }
 
+function aisleRank(a) {
+  const order = ['fruta', 'verdura', 'panader', 'carne', 'carnic', 'charcut', 'pescad', 'marisc', 'refriger', 'lácte', 'lacte', 'huevo', 'congel', 'conserva', 'legumbre', 'arroz', 'pasta', 'harina', 'aceite', 'especia', 'salsa', 'internacional', 'dulce', 'bebida'];
+  const s = (a || '').toLowerCase();
+  const i = order.findIndex(k => s.includes(k));
+  return i < 0 ? 99 : i;
+}
+function dataJson(L) {
+  const recipes = {};
+  D[L].list.forEach(r => {
+    recipes[r.guid] = { n: r.n, t: r.title, u: u.recipe(L, r.id), img: dishImg(r.id), ing: r.ingredients.concat(r.serve).map(i => [i.q || '', i.item, i.es || '']) };
+  });
+  const aisles = {};
+  Object.entries(STORES).forEach(([es, s]) => { aisles[es] = [s.aisle_es || '', aisleRank(s.aisle_es), (s.stores || []).filter(n => n !== 'Overal')]; });
+  return JSON.stringify({ recipes, aisles });
+}
+function listPage(L) {
+  const ui = UI[L], l = ui.list;
+  const strings = { ...l, everywhere: ui.everywhere, lang: L };
+  const body = `
+<section class="wrap sec shoplist" data-strings="${esc(JSON.stringify(strings))}" data-src="/data/${L}.json">
+  <p class="eyebrow">${ui.nav.recipes} · ${esc(l.nav)}</p>
+  <h1 class="page-title">${esc(l.title)}</h1>
+  <p class="lead narrow">${esc(l.lead)}</p>
+  <div class="sl-empty" id="slEmpty" hidden><p>${esc(l.empty)}</p><a class="btn" href="${u.recipes(L)}">${esc(l.browse)}</a></div>
+  <div class="sl-grid" id="slGrid" hidden>
+    <aside class="sl-dishes">
+      <h2>${esc(l.dishes)}</h2>
+      <ul id="slDishes"></ul>
+      <a class="linkbtn" href="${u.recipes(L)}">+ ${esc(l.browse)}</a>
+    </aside>
+    <div class="sl-items">
+      <div class="sl-head"><h2>${esc(l.items)}</h2><p class="count" id="slCount"></p></div>
+      <div class="sl-tools">
+        <label class="sl-toggle"><input type="checkbox" id="slHide"> ${esc(l.hideDone)}</label>
+        <button type="button" class="linkbtn" id="slAll">${esc(l.checkAll)}</button>
+        <button type="button" class="linkbtn" id="slNone">${esc(l.uncheckAll)}</button>
+      </div>
+      <div id="slList"></div>
+      <form class="sl-own" id="slOwn"><input type="text" id="slOwnInput" placeholder="${esc(l.addOwnPh)}" aria-label="${esc(l.addOwnPh)}"><button class="btn small" type="submit">${esc(l.addOwn)}</button></form>
+      <div class="sl-export">
+        <button type="button" class="btn" id="slShare">${esc(l.share)}</button>
+        <button type="button" class="btn ghost" id="slKeep">${esc(l.keep)}</button>
+        <button type="button" class="btn ghost" id="slCopy">${esc(l.copy)}</button>
+        <a class="btn ghost" id="slWa" href="#" target="_blank" rel="noopener">${esc(l.whatsapp)}</a>
+        <button type="button" class="btn ghost" id="slTxt">${esc(l.download)}</button>
+        <button type="button" class="btn ghost" data-print>${esc(l.print)}</button>
+      </div>
+      <p class="sl-help" id="slHelp" hidden>${esc(l.keepHelp)}</p>
+      <button type="button" class="linkbtn danger" id="slClear">${esc(l.clear)}</button>
+    </div>
+  </div>
+</section>`;
+  return layout(L, { title: `${l.title} – ${brand(L)}`, desc: l.lead, body, key: 'list' });
+}
+
 function rootPage() {
   return `<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${brand('nl')} · ${LANGS.filter(x => x !== 'nl').map(brand).join(' · ')}</title>
@@ -459,6 +527,8 @@ function build() {
     put(u.recipes(L), recipesPage(L));
     put(u.market(L), marketPage(L));
     put(u.basics(L), basicsPage(L));
+    put(u.list(L), listPage(L));
+    writeFile(`data/${L}.json`, dataJson(L));
     D[L].list.forEach(r => put(u.recipe(L, r.id), recipePage(L, r)));
   }
   if (SITE) {

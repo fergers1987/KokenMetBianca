@@ -62,6 +62,14 @@
    "Budgetfavorieten": {
     "tagline": "Veel smaak voor weinig geld",
     "intro": "Simpele, voedzame gerechten die laten zien dat lekker eten niet duur hoeft te zijn. Linzensoep, ouderwetse kipstoof en gehakt-groentestoof, voor €6 tot €10 per maaltijd."
+   },
+   "Vegetarisch": {
+    "tagline": "Groenten in de hoofdrol",
+    "intro": "Peulvruchten, groenten en granen die urenlang zacht garen tot ze vol van smaak zijn. Stevig genoeg voor de hele familie, en ook nog eens goedkoop."
+   },
+   "Zoet uit de slowcooker": {
+    "tagline": "Toetjes en ontbijt die vanzelf gaan",
+    "intro": "Rijstpap, gestoofd fruit en warme toetjes: de slowcooker doet het roeren voor je. Ideaal voor het weekend of een verjaardag."
    }
   },
   "basics_title": "Slowcooker-basics: zo haal je er alles uit",
@@ -457,7 +465,9 @@
   "Spaans & Mediterraan",
   "Wereldgerechten",
   "Vis & Garnalen",
-  "Budgetfavorieten"
+  "Budgetfavorieten",
+  "Vegetarisch",
+  "Zoet uit de slowcooker"
  ],
  "spiceWords": [
   "Mild",
