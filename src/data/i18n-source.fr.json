@@ -1,0 +1,467 @@
+{
+ "content": {
+  "cover_kicker": "Le livre de la mijoteuse pour les familles en Espagne",
+  "cover_subtitle": "30 recettes familiales économiques, assez douces pour les enfants",
+  "cover_badges": [
+   "Pour 4 personnes",
+   "Dès 1,50 € par personne",
+   "Doux pour les enfants",
+   "Tout au supermarché espagnol"
+  ],
+  "tagline": "Tu coupes, la mijoteuse fait le reste.",
+  "foreword_title": "Bienvenue à table",
+  "foreword": [
+   "En semaine, tu ne veux vraiment qu'une chose : un bon repas chaud sur la table, sans passer des heures en cuisine après une longue journée. C'est pour ça que ce livre est entièrement consacré à la mijoteuse. Tu coupes un peu, tu fais revenir rapidement, et elle s'occupe du reste.",
+   "Chaque recette est prévue pour quatre personnes : deux adultes et deux enfants. Je garde des saveurs douces pour que tout le monde puisse manger ensemble. Si tu aimes plus relevé, ajoute de la sauce piquante à table. Tu trouveras tous les ingrédients au supermarché espagnol, et la plupart des repas coûtent entre 6 € et 12 €.",
+   "Ragoût de bœuf à la néerlandaise, lentejas espagnoles ou curry doux : choisis ce qui convient à ta semaine, allume la mijoteuse et profite de la bonne odeur qui se répand dans la maison. Bon appétit ! – Bianca"
+  ],
+  "how_to_title": "Comment lire les recettes",
+  "how_to": [
+   {
+    "label": "Prix",
+    "text": "Prix indicatif pour tout le repas pour quatre personnes, basé sur les prix des supermarchés espagnols."
+   },
+   {
+    "label": "Niveau d'épices",
+    "text": "Un piment, c'est doux pour les enfants ; deux, c'est relevé mais pas fort ; trois, c'est piquant. Le piquant en plus s'ajoute à table."
+   },
+   {
+    "label": "Végé",
+    "text": "Une feuille signifie végétarien : sans viande ni poisson, préparé avec du bouillon de légumes."
+   },
+   {
+    "label": "Préparation",
+    "text": "Le temps pour couper et faire revenir, avant que tout passe dans la mijoteuse."
+   },
+   {
+    "label": "Mijoteuse LOW/HIGH",
+    "text": "Chaque recette indique un temps pour LOW et pour HIGH. LOW donne le résultat le plus tendre. Le poulet est cuit à une température à cœur de 75 °C."
+   },
+   {
+    "label": "Congélation",
+    "text": "Flocon de neige : se congèle en portions jusqu'à trois mois. Pas de flocon ? Alors c'est meilleur frais."
+   }
+  ],
+  "chapters": {
+   "Néerlandais & européen": {
+    "tagline": "Des classiques familiers, mijotés à la perfection",
+    "intro": "Ragoût de bœuf, bolognaise, cottage pie et poulet crémeux : des plats que tout le monde connaît et adore. La mijoteuse rend la viande fondante et la sauce pleine de saveur pendant que tu t'occupes d'autre chose."
+   },
+   "Espagnol & méditerranéen": {
+    "tagline": "Du soleil dans ton assiette",
+    "intro": "Lentejas au chorizo doux, ragoût de poulet aux pois chiches et poulet au citron à la grecque. Des plats mijotés méditerranéens tout simples, avec des ingrédients que tu trouveras dans les rayons de n'importe quel supermarché espagnol."
+   },
+   "Cuisines du monde": {
+    "tagline": "Le tour du monde, en douceur pour les enfants",
+    "intro": "Curry, teriyaki, tacos et ragoût marocain : le monde à ta table, mais doucement épicé. Quelqu'un veut plus de piquant ? Pose simplement une bouteille de sauce piquante sur la table."
+   },
+   "Poisson & crevettes": {
+    "tagline": "Du poisson que tout le monde mange",
+    "intro": "La sauce mijote d'abord tranquillement, et le poisson ou les crevettes ne s'ajoutent qu'à la fin. Ainsi, tout reste tendre. Tu trouveras le merlu, le bacalao et les crevettes décortiquées frais ou surgelés."
+   },
+   "Petits budgets": {
+    "tagline": "Beaucoup de saveur pour peu d'argent",
+    "intro": "Des plats simples et nourrissants qui prouvent que bien manger ne coûte pas forcément cher. Soupe de lentilles, ragoût de poulet à l'ancienne et mijoté de viande hachée aux légumes, pour 6 € à 10 € par repas."
+   }
+  },
+  "basics_title": "Les bases de la mijoteuse : comment en tirer le meilleur",
+  "glossary_title": "Ta liste de courses en espagnol",
+  "glossary_intro": "Cette liste t'aide à trouver rapidement ce qu'il te faut au supermarché espagnol. Par exemple, les hauts de cuisse de poulet désossés s'appellent « contramuslo de pollo » et la crème liquide « nata para cocinar ».",
+  "back_cover_headline": "De bons repas en famille sans passer des heures en cuisine",
+  "back_cover_blurb": "Un repas chaud sur la table sans passer tout l'après-midi en cuisine ? Avec ce livre, tu coupes un peu, tu fais revenir rapidement et tu laisses la mijoteuse faire le reste. Trente recettes économiques pour quatre personnes, doucement épicées pour que les enfants mangent aussi. Du ragoût de bœuf à la néerlandaise au curry doux, avec des ingrédients du supermarché espagnol.",
+  "back_cover_bullets": [
+   "30 recettes pour 4 personnes (2 adultes + 2 enfants)",
+   "Prix indicatif 6–12 € par repas",
+   "Doucement épicé, les enfants mangent aussi",
+   "Ingrédients du supermarché espagnol",
+   "Chaque ingrédient aussi en espagnol, plus une liste de courses pour le magasin"
+  ],
+  "toc_title": "Qu'est-ce qu'on mange aujourd'hui ?",
+  "closing_line": "Allume la mijoteuse, mets la table et savoure ce moment en famille. Bon appétit !",
+  "note_s": "Les prix sont indicatifs (niveau de prix 2026) et valent pour tout le repas. Chaque mijoteuse est différente : considère les temps comme une indication.",
+  "in_book": "Ce que tu trouveras dans ce livre : 30 recettes · 5 chapitres · les bases de la mijoteuse · liste de courses en espagnol.",
+  "signature": "Bises, Bianca",
+  "site_intro": "Ce site réunit les 30 recettes à la mijoteuse du livre, avec chaque ingrédient sous le nom que tu trouveras au supermarché espagnol. Tu y trouveras aussi un guide des supermarchés de la Costa del Sol, pour faire tes courses en Espagne vite et facilement."
+ },
+ "basics": [
+  [
+   "Remplir de ½ à ¾",
+   "Une cuve trop vide se dessèche ; une cuve trop pleine ne cuit pas à temps. Remplis la cuve entre la moitié et les trois quarts."
+  ],
+  [
+   "Légumes durs au fond",
+   "Pommes de terre, carottes et oignons vont au fond, là où se trouve la chaleur. Pose la viande par-dessus."
+  ],
+  [
+   "Garde le couvercle",
+   "Chaque fois que tu soulèves le couvercle, la cuisson s'allonge de 15 à 20 minutes. Attends la fin pour jeter un œil."
+  ],
+  [
+   "Taille",
+   "Toutes les recettes sont prévues pour une mijoteuse de 3,5 à 5 litres. Plus grande (6 l ou plus) ? Prends le temps le plus court et vérifie plus tôt."
+  ],
+  [
+   "LOW ou HIGH",
+   "HIGH est environ une fois et demie à deux fois plus rapide que LOW. LOW donne la viande la plus tendre ; HIGH, c'est pour quand tu commences plus tard."
+  ],
+  [
+   "Faire revenir = du goût",
+   "Faire dorer rapidement la viande, le chorizo et l'oignon donne une sauce plus riche. Faire revenir brièvement les épices dans l'huile les rend plus parfumées."
+  ],
+  [
+   "Moins de liquide",
+   "Presque rien ne s'évapore dans une mijoteuse. Utilise moins de bouillon que dans une casserole classique ; tu pourras toujours allonger ensuite."
+  ],
+  [
+   "Crème et poisson à la fin",
+   "La crème, le yaourt, le poisson et les crevettes ne s'ajoutent qu'à la fin, ou après avoir mixé ou éteint l'appareil, comme l'indique la recette."
+  ],
+  [
+   "Épaissir",
+   "Délaie d'abord la maïzena dans un peu d'eau froide, puis incorpore-la à la sauce pendant la dernière demi-heure, en HIGH."
+  ],
+  [
+   "Jamais surgelé",
+   "Ne mets jamais de viande ou de poulet surgelé dans la mijoteuse. Fais-le décongeler une nuit au réfrigérateur."
+  ],
+  [
+   "Bien cuit",
+   "Le poulet est cuit à une température à cœur de 75 °C : la chair est blanche et le jus est clair. Un doute ? Laisse encore une demi-heure."
+  ],
+  [
+   "Haricots en conserve",
+   "Utilise des légumineuses en conserve ou en bocal. Les haricots rouges secs ne chauffent pas assez dans une mijoteuse."
+  ],
+  [
+   "Réchauffer",
+   "Réchauffe les restes à la casserole ou au micro-ondes jusqu'à ce qu'ils soient brûlants, pas dans la mijoteuse."
+  ],
+  [
+   "Restes",
+   "Mets-les au réfrigérateur dans les 2 heures et consomme-les sous 3 jours. Ils se congèlent jusqu'à 3 mois ; décongèle-les au réfrigérateur."
+  ],
+  [
+   "Rester doux",
+   "Cuisine doux pour toute la table. Sors de la sauce piquante, des flocons de piment ou du pimentón picante pour ceux qui en veulent."
+  ]
+ ],
+ "glossary": [
+  [
+   "Viande & poisson",
+   [
+    [
+     "hauts de cuisse de poulet désossés",
+     "contramuslo de pollo deshuesado"
+    ],
+    [
+     "bœuf à braiser",
+     "carne para guisar (morcillo)"
+    ],
+    [
+     "paleron / épaule de bœuf",
+     "aguja o espaldilla de ternera"
+    ],
+    [
+     "bœuf haché",
+     "carne picada de vacuno"
+    ],
+    [
+     "haché mixte bœuf-porc",
+     "carne picada mixta"
+    ],
+    [
+     "épaule de porc",
+     "paleta o aguja de cerdo"
+    ],
+    [
+     "chorizo doux",
+     "chorizo dulce"
+    ],
+    [
+     "merlu",
+     "merluza"
+    ],
+    [
+     "cabillaud frais",
+     "bacalao fresco"
+    ],
+    [
+     "morue dessalée (bacalao)",
+     "bacalao desalado"
+    ],
+    [
+     "crevettes crues décortiquées",
+     "gambas peladas crudas"
+    ]
+   ]
+  ],
+  [
+   "Légumes & fruits",
+   [
+    [
+     "pommes de terre (farineuses / fermes)",
+     "patatas para cocer / para guisar"
+    ],
+    [
+     "oignon · ail",
+     "cebolla · ajo"
+    ],
+    [
+     "carotte",
+     "zanahoria"
+    ],
+    [
+     "poireau",
+     "puerro"
+    ],
+    [
+     "céleri branche",
+     "apio"
+    ],
+    [
+     "courgette",
+     "calabacín"
+    ],
+    [
+     "poivron (rouge / jaune)",
+     "pimiento rojo / amarillo"
+    ],
+    [
+     "champignons de Paris",
+     "champiñones"
+    ],
+    [
+     "épinards",
+     "espinacas frescas"
+    ],
+    [
+     "concombre",
+     "pepino"
+    ],
+    [
+     "citron · citron vert",
+     "limón · lima"
+    ],
+    [
+     "pomme douce",
+     "manzana golden"
+    ],
+    [
+     "gingembre frais",
+     "jengibre fresco"
+    ],
+    [
+     "persil frais",
+     "perejil fresco"
+    ]
+   ]
+  ],
+  [
+   "Placard",
+   [
+    [
+     "passata (coulis de tomate)",
+     "tomate triturado"
+    ],
+    [
+     "tomates concassées",
+     "tomate troceado"
+    ],
+    [
+     "concentré de tomate",
+     "tomate concentrado"
+    ],
+    [
+     "tomates séchées",
+     "tomates secos en aceite"
+    ],
+    [
+     "lentilles pardina",
+     "lentejas pardinas"
+    ],
+    [
+     "lentilles corail",
+     "lentejas rojas"
+    ],
+    [
+     "pois chiches (bocal)",
+     "garbanzos cocidos"
+    ],
+    [
+     "haricots rouges (boîte)",
+     "alubias rojas cocidas"
+    ],
+    [
+     "maïs doux",
+     "maíz dulce"
+    ],
+    [
+     "petits pois surgelés",
+     "guisantes congelados"
+    ],
+    [
+     "olives vertes",
+     "aceitunas verdes sin hueso"
+    ],
+    [
+     "abricots secs",
+     "orejones de albaricoque"
+    ],
+    [
+     "lait de coco",
+     "leche de coco"
+    ],
+    [
+     "beurre de cacahuète",
+     "crema de cacahuete"
+    ],
+    [
+     "sauce soja",
+     "salsa de soja"
+    ],
+    [
+     "miel",
+     "miel"
+    ],
+    [
+     "moutarde",
+     "mostaza"
+    ],
+    [
+     "bouillon (légumes / poulet / bœuf / poisson)",
+     "caldo de verduras / pollo / carne / pescado"
+    ],
+    [
+     "huile d'olive · huile de tournesol",
+     "aceite de oliva · de girasol"
+    ],
+    [
+     "vinaigre de xérès, de vin, de cidre",
+     "vinagre de Jerez / de vino / de manzana"
+    ],
+    [
+     "farine de blé · maïzena",
+     "harina de trigo · maicena"
+    ],
+    [
+     "chapelure",
+     "pan rallado"
+    ],
+    [
+     "sucre roux",
+     "azúcar moreno"
+    ],
+    [
+     "riz (basmati / jasmin)",
+     "arroz (basmati / jazmín)"
+    ],
+    [
+     "spaghettis · pâtes",
+     "espaguetis · macarrones"
+    ],
+    [
+     "couscous",
+     "cuscús"
+    ],
+    [
+     "wraps · tortillas",
+     "tortillas de trigo / maíz"
+    ],
+    [
+     "baguette",
+     "barra de pan"
+    ]
+   ]
+  ],
+  [
+   "Herbes & épices",
+   [
+    [
+     "paprika doux",
+     "pimentón dulce"
+    ],
+    [
+     "paprika fumé",
+     "pimentón de la Vera"
+    ],
+    [
+     "cumin",
+     "comino molido"
+    ],
+    [
+     "curcuma",
+     "cúrcuma"
+    ],
+    [
+     "cannelle",
+     "canela molida"
+    ],
+    [
+     "curry en poudre (doux)",
+     "curry en polvo"
+    ],
+    [
+     "noix de muscade",
+     "nuez moscada"
+    ],
+    [
+     "origan · basilic",
+     "orégano · albahaca"
+    ],
+    [
+     "thym",
+     "tomillo"
+    ],
+    [
+     "feuille de laurier",
+     "hoja de laurel"
+    ],
+    [
+     "ail en poudre",
+     "ajo en polvo"
+    ],
+    [
+     "graines de sésame",
+     "sésamo tostado"
+    ]
+   ]
+  ],
+  [
+   "Produits laitiers & œufs",
+   [
+    [
+     "crème liquide",
+     "nata para cocinar"
+    ],
+    [
+     "yaourt grec",
+     "yogur griego natural"
+    ],
+    [
+     "lait · beurre",
+     "leche · mantequilla"
+    ],
+    [
+     "parmesan râpé",
+     "queso parmesano rallado"
+    ],
+    [
+     "œuf",
+     "huevo"
+    ]
+   ]
+  ]
+ ],
+ "chapters": [
+  "Néerlandais & européen",
+  "Espagnol & méditerranéen",
+  "Cuisines du monde",
+  "Poisson & crevettes",
+  "Petits budgets"
+ ],
+ "spiceWords": [
+  "Doux",
+  "Relevé",
+  "Piquant"
+ ]
+}

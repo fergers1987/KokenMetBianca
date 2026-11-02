@@ -1,0 +1,467 @@
+{
+ "content": {
+  "cover_kicker": "Das Slow-Cooker-Buch für Familien in Spanien",
+  "cover_subtitle": "30 günstige Familienrezepte, mild genug für Kinder",
+  "cover_badges": [
+   "Für 4 Personen",
+   "Ab 1,50 € pro Person",
+   "Mild für Kinder",
+   "Alles aus dem spanischen Supermarkt"
+  ],
+  "tagline": "Du schnippelst, der Slow Cooker macht den Rest.",
+  "foreword_title": "Willkommen am Tisch",
+  "foreword": [
+   "Unter der Woche willst du vor allem eins: eine warme, richtige Mahlzeit auf dem Tisch, ohne nach einem langen Tag noch stundenlang in der Küche zu stehen. Deshalb dreht sich in diesem Buch alles um den Slow Cooker. Du schnippelst ein bisschen, brätst kurz an, und dann übernimmt er die Arbeit.",
+   "Jedes Rezept ist für vier Personen: zwei Erwachsene und zwei Kinder. Ich würze mild, damit alle einfach zusammen essen können. Wer es schärfer mag, nimmt sich am Tisch scharfe Soße dazu. Alle Zutaten findest du im spanischen Supermarkt, und die meisten Mahlzeiten kosten zwischen 6 € und 12 €.",
+   "Niederländischer Rindfleischeintopf, spanische Lentejas oder ein mildes Curry: Such dir aus, was zu deiner Woche passt, schalte den Slow Cooker ein und genieß den Duft, der durchs Haus zieht. Guten Appetit! – Bianca"
+  ],
+  "how_to_title": "So liest du die Rezepte",
+  "how_to": [
+   {
+    "label": "Preis",
+    "text": "Richtpreis für die ganze Mahlzeit für vier Personen, basierend auf spanischen Supermarktpreisen."
+   },
+   {
+    "label": "Schärfegrad",
+    "text": "Eine Chilischote ist kindermild, zwei sind würzig, aber nicht scharf, drei sind scharf. Extra Schärfe gibt es erst am Tisch."
+   },
+   {
+    "label": "Veggie",
+    "text": "Ein Blatt bedeutet vegetarisch: ohne Fleisch oder Fisch, mit Gemüsebrühe zubereitet."
+   },
+   {
+    "label": "Vorbereitung",
+    "text": "Die Zeit zum Schnippeln und Anbraten, bevor alles in den Slow Cooker kommt."
+   },
+   {
+    "label": "Slow Cooker LOW/HIGH",
+    "text": "Jedes Rezept nennt eine Zeit für LOW und für HIGH. LOW ergibt das zarteste Ergebnis. Hähnchen ist bei einer Kerntemperatur von 75 °C gar."
+   },
+   {
+    "label": "Einfrieren",
+    "text": "Schneeflocke: lässt sich portionsweise bis zu drei Monate einfrieren. Keine Schneeflocke? Dann schmeckt es frisch am besten."
+   }
+  ],
+  "chapters": {
+   "Niederländisch & Europäisch": {
+    "tagline": "Vertraute Klassiker, schön langsam gegart",
+    "intro": "Rindfleischeintopf, Bolognese, Cottage Pie und cremiges Hähnchen: Gerichte, die alle kennen und mögen. Der Slow Cooker macht das Fleisch butterzart und die Soße richtig aromatisch, während du dich um andere Dinge kümmerst."
+   },
+   "Spanisch & Mediterran": {
+    "tagline": "Sonne auf dem Teller",
+    "intro": "Lentejas mit milder Chorizo, Hähnchen-Kichererbsen-Eintopf und griechisches Zitronenhähnchen. Einfache mediterrane Schmorgerichte mit Zutaten, die du in jedem spanischen Supermarkt im Regal findest."
+   },
+   "Küchen der Welt": {
+    "tagline": "Einmal um die Welt, kinderfreundlich und mild",
+    "intro": "Curry, Teriyaki, Tacos und marokkanischer Eintopf: die Welt an deinem Tisch, aber mild gewürzt. Jemand möchte es schärfer? Stell einfach eine Flasche scharfe Soße auf den Tisch."
+   },
+   "Fisch & Garnelen": {
+    "tagline": "Fisch, den alle essen",
+    "intro": "Zuerst gart die Soße in Ruhe, erst am Ende kommen Fisch oder Garnelen dazu. So bleibt alles zart. Seehecht, Bacalao und geschälte Garnelen bekommst du frisch oder tiefgekühlt."
+   },
+   "Spar-Favoriten": {
+    "tagline": "Viel Geschmack für wenig Geld",
+    "intro": "Einfache, nahrhafte Gerichte, die zeigen, dass gutes Essen nicht teuer sein muss. Linsensuppe, Hühnereintopf nach alter Art und Hackfleisch-Gemüse-Eintopf, für 6 € bis 10 € pro Mahlzeit."
+   }
+  },
+  "basics_title": "Slow-Cooker-Basics: So holst du alles heraus",
+  "glossary_title": "Deine Einkaufsliste auf Spanisch",
+  "glossary_intro": "Mit dieser Liste findest du im spanischen Supermarkt schnell, was du brauchst. Hähnchenschenkel ohne Knochen heißen zum Beispiel „contramuslo de pollo“ und Kochsahne „nata para cocinar“.",
+  "back_cover_headline": "Leckeres Familienessen ohne stundenlanges Kochen",
+  "back_cover_blurb": "Eine warme Mahlzeit auf dem Tisch, ohne den ganzen Nachmittag in der Küche zu stehen? Mit diesem Buch schnippelst du ein bisschen, brätst kurz an und lässt den Slow Cooker den Rest erledigen. Dreißig günstige Rezepte für vier Personen, mild gewürzt, damit die Kinder mitessen können. Vom niederländischen Rindfleischeintopf bis zum milden Curry, mit Zutaten aus dem spanischen Supermarkt.",
+  "back_cover_bullets": [
+   "30 Rezepte für 4 Personen (2 Erwachsene + 2 Kinder)",
+   "Richtpreis 6–12 € pro Mahlzeit",
+   "Mild gewürzt, Kinder essen mit",
+   "Zutaten aus dem spanischen Supermarkt",
+   "Jede Zutat auch auf Spanisch, plus Einkaufsliste für den Laden"
+  ],
+  "toc_title": "Was gibt es heute zu essen?",
+  "closing_line": "Schalte den Slow Cooker ein, deck den Tisch und genieß das Essen gemeinsam. Guten Appetit!",
+  "note_s": "Die Preise sind Richtpreise (Preisniveau 2026) für die ganze Mahlzeit. Jeder Slow Cooker ist anders: Sieh die Zeiten als Richtwert.",
+  "in_book": "Das findest du in diesem Buch: 30 Rezepte · 5 Kapitel · Slow-Cooker-Basics · Einkaufsliste auf Spanisch.",
+  "signature": "Alles Liebe, Bianca",
+  "site_intro": "Auf dieser Website findest du alle 30 Slow-Cooker-Rezepte aus dem Buch, jede Zutat unter dem Namen, unter dem sie im spanischen Supermarkt zu finden ist. Außerdem gibt es einen Supermarkt-Guide für die Costa del Sol, damit das Einkaufen in Spanien schnell und einfach geht."
+ },
+ "basics": [
+  [
+   "½ bis ¾ füllen",
+   "Ein zu leerer Topf trocknet aus, ein zu voller wird nicht rechtzeitig gar. Füll den Topf zwischen halb und dreiviertel voll."
+  ],
+  [
+   "Hartes nach unten",
+   "Kartoffeln, Karotten und Zwiebeln kommen nach unten, wo die Hitze ist. Das Fleisch legst du obendrauf."
+  ],
+  [
+   "Deckel zu",
+   "Jedes Mal, wenn du den Deckel anhebst, verlängert sich die Garzeit um 15–20 Minuten. Nachschauen erst am Ende."
+  ],
+  [
+   "Größe",
+   "Alle Rezepte sind für einen Slow Cooker mit 3,5–5 Litern. Größer (6 l oder mehr)? Nimm die kürzeste Zeit und prüf früher."
+  ],
+  [
+   "LOW oder HIGH",
+   "HIGH ist etwa anderthalb- bis zweimal so schnell wie LOW. LOW ergibt das zarteste Fleisch; HIGH ist für Tage, an denen du später anfängst."
+  ],
+  [
+   "Anbraten = Geschmack",
+   "Fleisch, Chorizo und Zwiebeln kurz anzubraten ergibt eine kräftigere Soße. Gewürze kurz in Öl mitzurösten macht sie aromatischer."
+  ],
+  [
+   "Weniger Flüssigkeit",
+   "Im Slow Cooker verdampft fast nichts. Nimm weniger Brühe als in einem normalen Topf; verdünnen kannst du immer noch."
+  ],
+  [
+   "Sahne und Fisch zum Schluss",
+   "Sahne, Joghurt, Fisch und Garnelen kommen erst am Ende dazu, oder nach dem Pürieren bzw. Ausschalten, wie im Rezept angegeben."
+  ],
+  [
+   "Andicken",
+   "Rühr Speisestärke zuerst mit einem Schuss kaltem Wasser glatt und misch sie in der letzten halben Stunde auf HIGH unter die Soße."
+  ],
+  [
+   "Nie gefroren",
+   "Gib nie gefrorenes Fleisch oder Hähnchen in den Slow Cooker. Tau es über Nacht im Kühlschrank auf."
+  ],
+  [
+   "Richtig durch",
+   "Hähnchen ist bei einer Kerntemperatur von 75 °C gar: Das Fleisch ist weiß und der Saft klar. Unsicher? Gib ihm noch eine halbe Stunde."
+  ],
+  [
+   "Bohnen aus der Dose",
+   "Nimm Hülsenfrüchte aus der Dose oder dem Glas. Getrocknete Kidneybohnen werden im Slow Cooker nicht heiß genug."
+  ],
+  [
+   "Aufwärmen",
+   "Wärm Reste im Topf oder in der Mikrowelle auf, bis sie richtig heiß sind, nicht im Slow Cooker."
+  ],
+  [
+   "Reste",
+   "Innerhalb von 2 Stunden in den Kühlschrank und innerhalb von 3 Tagen aufessen. Einfrieren geht bis zu 3 Monate; im Kühlschrank auftauen."
+  ],
+  [
+   "Mild bleiben",
+   "Koch mild für den ganzen Tisch. Scharfe Soße, Chiliflocken oder Pimentón picante stellst du für alle dazu, die es schärfer mögen."
+  ]
+ ],
+ "glossary": [
+  [
+   "Fleisch & Fisch",
+   [
+    [
+     "Hähnchenschenkel ohne Knochen",
+     "contramuslo de pollo deshuesado"
+    ],
+    [
+     "Rindfleisch zum Schmoren",
+     "carne para guisar (morcillo)"
+    ],
+    [
+     "Rinderschulter / Rindernacken",
+     "aguja o espaldilla de ternera"
+    ],
+    [
+     "Rinderhackfleisch",
+     "carne picada de vacuno"
+    ],
+    [
+     "gemischtes Hackfleisch (Rind & Schwein)",
+     "carne picada mixta"
+    ],
+    [
+     "Schweineschulter",
+     "paleta o aguja de cerdo"
+    ],
+    [
+     "milde Chorizo",
+     "chorizo dulce"
+    ],
+    [
+     "Seehecht",
+     "merluza"
+    ],
+    [
+     "frischer Kabeljau",
+     "bacalao fresco"
+    ],
+    [
+     "entsalzener Stockfisch (Bacalao)",
+     "bacalao desalado"
+    ],
+    [
+     "rohe geschälte Garnelen",
+     "gambas peladas crudas"
+    ]
+   ]
+  ],
+  [
+   "Gemüse & Obst",
+   [
+    [
+     "Kartoffeln (mehligkochend / festkochend)",
+     "patatas para cocer / para guisar"
+    ],
+    [
+     "Zwiebel · Knoblauch",
+     "cebolla · ajo"
+    ],
+    [
+     "Karotte",
+     "zanahoria"
+    ],
+    [
+     "Lauch",
+     "puerro"
+    ],
+    [
+     "Staudensellerie",
+     "apio"
+    ],
+    [
+     "Zucchini",
+     "calabacín"
+    ],
+    [
+     "Paprika (rot / gelb)",
+     "pimiento rojo / amarillo"
+    ],
+    [
+     "Champignons",
+     "champiñones"
+    ],
+    [
+     "Spinat",
+     "espinacas frescas"
+    ],
+    [
+     "Gurke",
+     "pepino"
+    ],
+    [
+     "Zitrone · Limette",
+     "limón · lima"
+    ],
+    [
+     "süßer Apfel",
+     "manzana golden"
+    ],
+    [
+     "frischer Ingwer",
+     "jengibre fresco"
+    ],
+    [
+     "frische Petersilie",
+     "perejil fresco"
+    ]
+   ]
+  ],
+  [
+   "Vorratsschrank",
+   [
+    [
+     "passierte Tomaten",
+     "tomate triturado"
+    ],
+    [
+     "stückige Tomaten",
+     "tomate troceado"
+    ],
+    [
+     "Tomatenmark",
+     "tomate concentrado"
+    ],
+    [
+     "getrocknete Tomaten",
+     "tomates secos en aceite"
+    ],
+    [
+     "Pardina-Linsen",
+     "lentejas pardinas"
+    ],
+    [
+     "rote Linsen",
+     "lentejas rojas"
+    ],
+    [
+     "Kichererbsen (Glas)",
+     "garbanzos cocidos"
+    ],
+    [
+     "Kidneybohnen (Dose)",
+     "alubias rojas cocidas"
+    ],
+    [
+     "Mais",
+     "maíz dulce"
+    ],
+    [
+     "TK-Erbsen",
+     "guisantes congelados"
+    ],
+    [
+     "grüne Oliven",
+     "aceitunas verdes sin hueso"
+    ],
+    [
+     "getrocknete Aprikosen",
+     "orejones de albaricoque"
+    ],
+    [
+     "Kokosmilch",
+     "leche de coco"
+    ],
+    [
+     "Erdnussbutter",
+     "crema de cacahuete"
+    ],
+    [
+     "Sojasoße",
+     "salsa de soja"
+    ],
+    [
+     "Honig",
+     "miel"
+    ],
+    [
+     "Senf",
+     "mostaza"
+    ],
+    [
+     "Brühe (Gemüse / Huhn / Rind / Fisch)",
+     "caldo de verduras / pollo / carne / pescado"
+    ],
+    [
+     "Olivenöl · Sonnenblumenöl",
+     "aceite de oliva · de girasol"
+    ],
+    [
+     "Sherry-, Wein-, Apfelessig",
+     "vinagre de Jerez / de vino / de manzana"
+    ],
+    [
+     "Weizenmehl · Speisestärke",
+     "harina de trigo · maicena"
+    ],
+    [
+     "Paniermehl",
+     "pan rallado"
+    ],
+    [
+     "brauner Zucker",
+     "azúcar moreno"
+    ],
+    [
+     "Reis (Basmati / Jasmin)",
+     "arroz (basmati / jazmín)"
+    ],
+    [
+     "Spaghetti · Nudeln",
+     "espaguetis · macarrones"
+    ],
+    [
+     "Couscous",
+     "cuscús"
+    ],
+    [
+     "Wraps · Tortillas",
+     "tortillas de trigo / maíz"
+    ],
+    [
+     "Baguette",
+     "barra de pan"
+    ]
+   ]
+  ],
+  [
+   "Kräuter & Gewürze",
+   [
+    [
+     "edelsüßes Paprikapulver",
+     "pimentón dulce"
+    ],
+    [
+     "geräuchertes Paprikapulver",
+     "pimentón de la Vera"
+    ],
+    [
+     "Kreuzkümmel",
+     "comino molido"
+    ],
+    [
+     "Kurkuma",
+     "cúrcuma"
+    ],
+    [
+     "Zimt",
+     "canela molida"
+    ],
+    [
+     "Currypulver (mild)",
+     "curry en polvo"
+    ],
+    [
+     "Muskatnuss",
+     "nuez moscada"
+    ],
+    [
+     "Oregano · Basilikum",
+     "orégano · albahaca"
+    ],
+    [
+     "Thymian",
+     "tomillo"
+    ],
+    [
+     "Lorbeerblatt",
+     "hoja de laurel"
+    ],
+    [
+     "Knoblauchpulver",
+     "ajo en polvo"
+    ],
+    [
+     "Sesam",
+     "sésamo tostado"
+    ]
+   ]
+  ],
+  [
+   "Milchprodukte & Eier",
+   [
+    [
+     "Kochsahne",
+     "nata para cocinar"
+    ],
+    [
+     "griechischer Joghurt",
+     "yogur griego natural"
+    ],
+    [
+     "Milch · Butter",
+     "leche · mantequilla"
+    ],
+    [
+     "geriebener Parmesan",
+     "queso parmesano rallado"
+    ],
+    [
+     "Ei",
+     "huevo"
+    ]
+   ]
+  ]
+ ],
+ "chapters": [
+  "Niederländisch & Europäisch",
+  "Spanisch & Mediterran",
+  "Küchen der Welt",
+  "Fisch & Garnelen",
+  "Spar-Favoriten"
+ ],
+ "spiceWords": [
+  "Mild",
+  "Würzig",
+  "Scharf"
+ ]
+}

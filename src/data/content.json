@@ -1,0 +1,84 @@
+{
+ "cover_kicker": "Het slowcookerboek voor gezinnen in Spanje",
+ "cover_subtitle": "30 betaalbare gezinsrecepten, mild voor kinderen",
+ "cover_badges": [
+  "Voor 4 personen",
+  "Vanaf €1,50 p.p.",
+  "Mild voor kinderen",
+  "Alles uit de Spaanse supermarkt"
+ ],
+ "tagline": "Jij snijdt, de slowcooker doet de rest.",
+ "foreword_title": "Welkom aan tafel",
+ "foreword": [
+  "Doordeweeks wil je vooral één ding: een warme, goede maaltijd op tafel, zonder dat je na een lange dag nog uren in de keuken staat. Daarom draait dit boek om de slowcooker. Je snijdt wat, bakt kort aan en daarna doet hij het werk.",
+  "Elk recept is voor vier personen: twee volwassenen en twee kinderen. Ik houd de smaken mild, zodat iedereen gewoon meeëet. Wie het pittiger wil, pakt aan tafel de hete saus erbij. De ingrediënten vind je in de Spaanse supermarkt en de meeste maaltijden kosten tussen de €6 en €12.",
+  "Hollandse stoofpot, Spaanse lentejas of een milde curry: kies wat bij je week past, zet de slowcooker aan en geniet van de geur die door het huis trekt. Eet smakelijk! – Bianca"
+ ],
+ "how_to_title": "Zo lees je de recepten",
+ "how_to": [
+  {
+   "label": "Prijs",
+   "text": "Richtprijs voor de hele maaltijd voor vier personen, gebaseerd op Spaanse supermarktprijzen."
+  },
+  {
+   "label": "Pittigheid",
+   "text": "Eén pepertje is kindermild, twee kruidig maar niet heet, drie pittig. Extra pit pas aan tafel."
+  },
+  {
+   "label": "Vega",
+   "text": "Een blaadje betekent vegetarisch: zonder vlees of vis, gemaakt met groentebouillon."
+  },
+  {
+   "label": "Voorbereiding",
+   "text": "De tijd voor snijden en aanbakken, voordat alles de slowcooker in gaat."
+  },
+  {
+   "label": "Slowcooker LOW/HIGH",
+   "text": "Elk recept geeft een tijd voor LOW en voor HIGH. LOW geeft het malste resultaat. Kip is gaar bij 75 °C in de kern."
+  },
+  {
+   "label": "Invriezen",
+   "text": "Sneeuwvlok: in porties in te vriezen, tot drie maanden. Geen sneeuwvlok? Dan is het vers het lekkerst."
+  }
+ ],
+ "chapters": {
+  "Hollands & Europees": {
+   "tagline": "Vertrouwde klassiekers, lekker lang gegaard",
+   "intro": "Stoofpot, bolognese, cottage pie en romige kip: gerechten die iedereen kent en lust. De slowcooker maakt het vlees boterzacht en de saus vol van smaak, terwijl jij iets anders doet."
+  },
+  "Spaans & Mediterraan": {
+   "tagline": "Zon op je bord",
+   "intro": "Lentejas met milde chorizo, kipstoof met kikkererwten en Griekse citroenkip. Eenvoudige mediterrane stoofgerechten met ingrediënten die in elke Spaanse supermarkt gewoon in het schap liggen."
+  },
+  "Wereldgerechten": {
+   "tagline": "Op reis, maar wel kindermild",
+   "intro": "Curry, teriyaki, taco's en Marokkaanse stoof: de wereld aan tafel, maar dan mild gekruid. Wil iemand meer pit? Zet dan een flesje hete saus op tafel."
+  },
+  "Vis & Garnalen": {
+   "tagline": "Vis die iedereen lust",
+   "intro": "Eerst gaart de saus rustig, pas aan het eind gaan vis of garnalen erbij. Zo blijft alles mals. Heek, bacalao en gepelde garnalen vind je vers of in de diepvries."
+  },
+  "Budgetfavorieten": {
+   "tagline": "Veel smaak voor weinig geld",
+   "intro": "Simpele, voedzame gerechten die laten zien dat lekker eten niet duur hoeft te zijn. Linzensoep, ouderwetse kipstoof en gehakt-groentestoof, voor €6 tot €10 per maaltijd."
+  }
+ },
+ "basics_title": "Slowcooker-basics: zo haal je er alles uit",
+ "glossary_title": "Je boodschappenlijst in het Spaans",
+ "glossary_intro": "Met deze lijst vind je in de Spaanse supermarkt snel wat je zoekt. Zo weet je dat kipdijfilet 'contramuslo de pollo' heet en kookroom 'nata para cocinar'.",
+ "back_cover_headline": "Lekker gezinseten, zonder uren in de keuken",
+ "back_cover_blurb": "Een warme maaltijd op tafel zonder dat je er de hele middag voor in de keuken staat? Met dit boek snijd je wat, bak je kort aan en laat je de slowcooker de rest doen. Dertig betaalbare recepten voor vier personen, mild gekruid zodat de kinderen gewoon meeëten. Van Hollandse stoofpot tot milde curry, met ingrediënten uit de Spaanse supermarkt.",
+ "back_cover_bullets": [
+  "30 recepten voor 4 personen (2 volwassenen + 2 kinderen)",
+  "Richtprijs €6–12 per maaltijd",
+  "Mild gekruid, kinderen eten mee",
+  "Ingrediënten uit de Spaanse supermarkt",
+  "Elk ingrediënt ook in het Spaans, plus een boodschappenlijst voor de winkel"
+ ],
+ "toc_title": "Wat eten we vandaag?",
+ "closing_line": "Zet de slowcooker aan, dek de tafel en geniet samen. Eet smakelijk!",
+ "note_s": "Prijzen zijn richtprijzen (prijspeil 2026) voor de hele maaltijd. Elke slowcooker is anders: zie de tijden als richtlijn.",
+ "in_book": "Wat je in dit boek vindt: 30 recepten · 5 hoofdstukken · basics voor de slowcooker · boodschappenlijst in het Spaans.",
+ "signature": "Liefs, Bianca",
+ "site_intro": "Op deze site vind je alle 30 slowcookerrecepten uit het boek, met elk ingrediënt onder de naam die je in de Spaanse supermarkt tegenkomt. Daarnaast is er een supermarktgids voor de Costa del Sol, zodat boodschappen doen in Spanje snel en makkelijk gaat."
+}

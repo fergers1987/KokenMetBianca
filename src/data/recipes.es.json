@@ -1,0 +1,2609 @@
+[
+  {
+    "id": 1,
+    "title": "Estofado holandés de ternera",
+    "slug": "estofado-holandes-de-ternera",
+    "chapter": "Holandés y europeo",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "8–9 h",
+    "high": "5–6 h",
+    "intro": "Ternera melosa, zanahorias dulces y patatas en una salsa agridulce suave: comida de invierno holandesa que llena toda la casa de un olor delicioso.",
+    "ingredients": [
+      {
+        "q": "1 cda",
+        "item": "harina de trigo",
+        "es": "harina de trigo"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite de girasol",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "500 g",
+        "item": "carne de ternera para guisar (aguja o morcillo), en dados de 4 cm",
+        "es": "carne para guisar (morcillo o aguja de ternera)"
+      },
+      {
+        "q": "600 g",
+        "item": "patatas para guisar (3 grandes)",
+        "es": "patatas para guisar"
+      },
+      {
+        "q": "3",
+        "item": "zanahorias",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2",
+        "item": "cebollas, en medias lunas",
+        "es": "cebollas"
+      },
+      {
+        "q": "250 ml",
+        "item": "caldo de carne",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 cda",
+        "item": "mostaza",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 cda",
+        "item": "vinagre de vino",
+        "es": "vinagre de vino"
+      },
+      {
+        "q": "1 cdta",
+        "item": "azúcar moreno",
+        "es": "azúcar moreno"
+      },
+      {
+        "q": "2",
+        "item": "hojas de laurel",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "",
+        "item": "sal y pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Espolvorea la carne con harina, sal y pimienta. Dórala por todos los lados en aceite bien caliente, en dos tandas; así ganas sabor y además una salsa ligada.",
+      "Corta las patatas y las zanahorias en trozos grandes y ponlas en el fondo de la olla lenta, que es donde más calienta. Coloca la carne encima.",
+      "Sofríe las cebollas 3 minutos en la misma sartén. Desglasa con el caldo, la mostaza, el vinagre y el azúcar, y rasca bien lo que se haya pegado al fondo.",
+      "Vierte esto sobre la carne, añade el laurel y cierra la tapa. Cocina 8–9 h en LOW o 5–6 h en HIGH.",
+      "Retira el laurel y prueba: ajusta de sal, pimienta y, si quieres, un chorrito de vinagre. La carne tiene que deshacerse sola."
+    ],
+    "tip": "Elige patatas para guisar y córtalas en trozos grandes, así no se deshacen. ¿La salsa ha quedado muy líquida? Aplasta unos trozos de patata y mézclalos: espesante gratis.",
+    "kids": "Aplasta la carne, la patata y la zanahoria con un poco de salsa: un puré casero de toda la vida para los más pequeños.",
+    "freeze": false,
+    "guid": "de4db3ca-b57f-4e0a-9d68-825e1bc83bc9"
+  },
+  {
+    "id": 2,
+    "title": "Lentejas con chorizo",
+    "slug": "lentejas-con-chorizo",
+    "chapter": "Español y mediterráneo",
+    "price": "7–9",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 h",
+    "high": "3–4 h",
+    "intro": "Así se comen en media España cualquier día entre semana: unas lentejas espesas y ahumadas para rebañar el plato con pan.",
+    "ingredients": [
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "250 g",
+        "item": "lentejas pardinas, enjuagadas",
+        "es": "lentejas pardinas"
+      },
+      {
+        "q": "100 g",
+        "item": "chorizo dulce, en rodajas",
+        "es": "chorizo dulce (sarta)"
+      },
+      {
+        "q": "1 + 2",
+        "item": "cebolla + dientes de ajo",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2 (± 400 g)",
+        "item": "patatas",
+        "es": "patatas"
+      },
+      {
+        "q": "200 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "900 ml",
+        "item": "caldo de verduras",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 cdta",
+        "item": "pimentón dulce",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1",
+        "item": "hoja de laurel",
+        "es": "hoja de laurel"
+      },
+      {
+        "q": "1 cda",
+        "item": "vinagre de Jerez o de vino",
+        "es": "vinagre de Jerez"
+      },
+      {
+        "q": "",
+        "item": "sal y pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "barra de pan o pan rústico",
+        "es": "barra de pan / pan rústico"
+      }
+    ],
+    "steps": [
+      "Enjuaga las lentejas en un colador hasta que el agua salga limpia; no hace falta ponerlas en remojo. Pela las patatas y las zanahorias y córtalas en dados de 2 cm.",
+      "Sofríe el chorizo 2 minutos en el aceite de oliva y añade la cebolla y el ajo 3 minutos más. Fuera del fuego, incorpora el pimentón; se quema enseguida.",
+      "Pásalo todo a la olla lenta con las lentejas, las verduras, el tomate, el laurel y el caldo. No sales todavía: eso se hace al final.",
+      "Cocina 6–7 h en LOW o 3–4 h en HIGH con la tapa cerrada, hasta que las lentejas estén completamente tiernas.",
+      "¿Demasiado espesas? Añade un poco de agua caliente. Retira el laurel y ajusta de sal, pimienta y vinagre."
+    ],
+    "tip": "Aplasta unos dados de patata contra la pared de la olla y remueve: el guiso se vuelve cremoso solo. El chorrito de vinagre de Jerez al final da profundidad al sabor, como hacen las abuelas españolas.",
+    "kids": "Elige chorizo dulce, nunca picante. A quien le guste, que espolvoree un poco de pimentón picante en su plato.",
+    "freeze": true,
+    "guid": "74b6ccef-6f45-4c90-ba24-f02a771f6a00"
+  },
+  {
+    "id": 3,
+    "title": "Pollo cremoso con pimientos y arroz",
+    "slug": "pollo-cremoso-con-pimientos-y-arroz",
+    "chapter": "Holandés y europeo",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Contramuslos de pollo jugosos en una salsa aterciopelada de pimiento dulce y nata, llena de verduras: un plato lleno de color que siempre triunfa.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados, en trozos grandes",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "2",
+        "item": "pimientos (rojo y amarillo), en tiras",
+        "es": "pimiento rojo y amarillo"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, en medias lunas",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en rodajas finas",
+        "es": "zanahorias"
+      },
+      {
+        "q": "150 g",
+        "item": "champiñones laminados",
+        "es": "champiñones laminados"
+      },
+      {
+        "q": "1 cda",
+        "item": "tomate concentrado",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 cdta",
+        "item": "pimentón dulce",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 cdta",
+        "item": "orégano",
+        "es": "orégano"
+      },
+      {
+        "q": "150 ml",
+        "item": "caldo de pollo",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "150 ml",
+        "item": "nata para cocinar",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 cda",
+        "item": "maicena + 2 cda de agua fría",
+        "es": "maicena"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite, sal y pimienta",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "arroz",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Espolvorea el pollo con sal, pimienta y la mitad del pimentón. Dora los trozos brevemente en aceite; no hace falta que se hagan por dentro.",
+      "Pon la zanahoria y la cebolla en el fondo de la olla lenta y encima los pimientos, los champiñones y el pollo. Mezcla el caldo, el tomate concentrado, el resto del pimentón y el orégano, y viértelo por encima.",
+      "Cocina 4–5 h en LOW o 2–3 h en HIGH con la tapa cerrada. El pollo está hecho cuando alcanza 75 °C en el centro.",
+      "En la última media hora, incorpora la nata y la maicena disuelta en 2 cda de agua fría. Deja que siga cocinándose con la tapa cerrada.",
+      "Mientras tanto, cuece el arroz según el paquete y sírvelo con el pollo y la salsa por encima."
+    ],
+    "tip": "Esa cucharada de tomate concentrado es mi secreto: da profundidad y un color cálido a la salsa de pimiento, sin que sepa a tomate.",
+    "kids": "¿No les gustan los champiñones? Pícalos muy finos y desaparecerán en la salsa sin que nadie se dé cuenta.",
+    "freeze": true,
+    "guid": "2ae51557-e9c0-4e78-8dd4-e6a2ea8a832d"
+  },
+  {
+    "id": 4,
+    "title": "Albóndigas en salsa de tomate a la italiana",
+    "slug": "albondigas-en-salsa-de-tomate-a-la-italiana",
+    "chapter": "Holandés y europeo",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Albóndigas jugosas que se cocinan a fuego lento durante horas en una salsa de tomate dulce con verduras escondidas: una fiesta para cualquier niño.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "carne picada mixta (cerdo y ternera)",
+        "es": "carne picada mixta (cerdo y vacuno)"
+      },
+      {
+        "q": "1",
+        "item": "huevo",
+        "es": "huevo"
+      },
+      {
+        "q": "3 cda",
+        "item": "pan rallado",
+        "es": "pan rallado"
+      },
+      {
+        "q": "2 cda",
+        "item": "queso parmesano rallado",
+        "es": "queso parmesano rallado"
+      },
+      {
+        "q": "2 cdta",
+        "item": "hierbas italianas",
+        "es": "hierbas italianas (o orégano y albahaca)"
+      },
+      {
+        "q": "400 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1 cda",
+        "item": "tomate concentrado",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada fina",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "zanahoria, rallada fina",
+        "es": "zanahoria"
+      },
+      {
+        "q": "2",
+        "item": "dientes de ajo, prensados",
+        "es": "ajo"
+      },
+      {
+        "q": "1 cdta",
+        "item": "orégano",
+        "es": "orégano"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva, sal y pimienta",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "100 ml",
+        "item": "agua",
+        "es": "agua"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "espaguetis",
+        "es": "espaguetis"
+      }
+    ],
+    "steps": [
+      "Mezcla brevemente la carne picada, el huevo, el pan rallado, el parmesano, 1 cdta de hierbas italianas, sal y pimienta. Con las manos mojadas, forma unas 20 albóndigas.",
+      "Dora las albóndigas por todos los lados en aceite de oliva. No hace falta que se hagan por dentro; la costra da sabor y hace que no se deshagan.",
+      "Mezcla en la olla lenta el tomate triturado, el tomate concentrado, la cebolla, la zanahoria, el ajo, el orégano y el resto de las hierbas. Enjuaga el envase del tomate con los 100 ml de agua y añádela.",
+      "Coloca las albóndigas en la salsa y cúbrelas con cuidado. Cocina 4–5 h en LOW o 2–3 h en HIGH.",
+      "Cuece los espaguetis al dente, ajusta la salsa de sal y pimienta, y sirve con un poco más de parmesano."
+    ],
+    "tip": "Amasa la carne lo menos posible: cuanto menos la trabajes, más tiernas quedan las albóndigas. Están hechas cuando ya no se ven rosadas por dentro.",
+    "kids": "Deja que los niños formen las albóndigas; lo hecho por ellos sabe el doble de rico. Para los adultos: copos de chile en la mesa.",
+    "freeze": true,
+    "guid": "b33dd976-1781-4cf7-9332-d479015ac358"
+  },
+  {
+    "id": 5,
+    "title": "Wraps de pollo desmechado",
+    "slug": "wraps-de-pollo-desmechado",
+    "chapter": "Cocina del mundo",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "10 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Pollo dulce y ahumado que se deshace solo: cada uno se monta su wrap en la mesa y verás qué rápido se vacía la fuente.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, en aros",
+        "es": "cebolla"
+      },
+      {
+        "q": "200 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 cda",
+        "item": "tomate concentrado",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "1 cda",
+        "item": "miel",
+        "es": "miel"
+      },
+      {
+        "q": "1 cdta",
+        "item": "mostaza",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 cda",
+        "item": "vinagre de manzana",
+        "es": "vinagre de manzana"
+      },
+      {
+        "q": "2 cdta",
+        "item": "pimentón de la Vera dulce",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 cdta",
+        "item": "ajo en polvo",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "",
+        "item": "sal y pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "8",
+        "item": "tortillas de trigo",
+        "es": "tortillas de trigo"
+      },
+      {
+        "q": "1 lata pequeña + ½",
+        "item": "maíz dulce + pepino",
+        "es": "maíz dulce + pepino"
+      },
+      {
+        "q": "200 g",
+        "item": "yogur griego natural",
+        "es": "yogur griego natural"
+      }
+    ],
+    "steps": [
+      "Mezcla en la olla lenta el tomate triturado, el tomate concentrado, la miel, la mostaza, el vinagre, el pimentón y el ajo en polvo con sal y pimienta.",
+      "Pon la cebolla y el pollo encima. Cubre bien el pollo con la salsa.",
+      "Cocina 4–5 h en LOW o 2–3 h en HIGH con la tapa cerrada, hasta que el pollo alcance 75 °C y se deshaga con facilidad.",
+      "Desmecha el pollo con dos tenedores dentro de la olla y mézclalo con la salsa. ¿Muy líquida? Déjala reducir 20 minutos en HIGH sin tapa.",
+      "Calienta las tortillas un momento en una sartén sin aceite. Cada uno rellena la suya con pollo, maíz, pepino y una cucharada de yogur."
+    ],
+    "tip": "Usa contramuslo, no pechuga: el contramuslo queda jugoso y se desmecha muy bien; la pechuga se queda seca y fibrosa. Las sobras están buenísimas al día siguiente en un sándwich mixto.",
+    "kids": "Deja que los niños enrollen su propio wrap. Para los adultos: unas gotas de Tabasco o jalapeño.",
+    "freeze": true,
+    "guid": "3fd8fe08-b3df-4177-ba6a-e0dd9e7f4314"
+  },
+  {
+    "id": 6,
+    "title": "Salsa boloñesa con verduras extra",
+    "slug": "salsa-bolonesa-con-verduras-extra",
+    "chapter": "Holandés y europeo",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 h",
+    "high": "3–4 h",
+    "intro": "Una boloñesa rica y con mucho sabor a tomate en la que el calabacín, la zanahoria y el apio desaparecen sin dejar rastro: verduras sin que nadie lo note.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "carne picada de ternera",
+        "es": "carne picada de vacuno"
+      },
+      {
+        "q": "1",
+        "item": "cebolla",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "calabacín",
+        "es": "calabacín"
+      },
+      {
+        "q": "2",
+        "item": "ramas de apio",
+        "es": "apio"
+      },
+      {
+        "q": "400 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 cda",
+        "item": "tomate concentrado",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "caldo de carne",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 cdta + 1 cdta",
+        "item": "orégano y albahaca",
+        "es": "orégano y albahaca"
+      },
+      {
+        "q": "1",
+        "item": "hoja de laurel",
+        "es": "hoja de laurel"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva, sal y pimienta",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "espaguetis",
+        "es": "espaguetis"
+      }
+    ],
+    "steps": [
+      "Dora la carne picada en aceite de oliva en una sartén bien caliente, desmenuzándola. Déjala quieta un momento antes de remover; así se forman costritas llenas de sabor.",
+      "Pica fina la cebolla y el apio, y ralla gruesos la zanahoria y el calabacín. Cuanto más finos, menos los encontrarán los niños.",
+      "Pon la carne, las verduras, el tomate triturado, el tomate concentrado, el caldo, las hierbas y el laurel en la olla lenta. Remueve bien y salpimienta.",
+      "Cocina 6–7 h en LOW o 3–4 h en HIGH. ¿Muy líquida? Deja la tapa entreabierta los últimos 30 minutos.",
+      "Retira el laurel, cuece los espaguetis al dente y sírvelos con abundante salsa."
+    ],
+    "tip": "Justo antes de servir, añade a la salsa un chorrito del agua de cocer la pasta: queda brillante y se adhiere mejor a los espaguetis. Un truco italiano de verdad.",
+    "kids": "Tritura la salsa un momento con la batidora de mano: queda superfina y las verduras son invisibles.",
+    "freeze": true,
+    "guid": "da6c0a07-bb65-4657-8cac-05dd55cf333e"
+  },
+  {
+    "id": 7,
+    "title": "Chili con carne suave",
+    "slug": "chili-con-carne-suave",
+    "chapter": "Cocina del mundo",
+    "price": "9–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 h",
+    "high": "3 h",
+    "intro": "Un chili reconfortante y lleno de sabor, sin nada de picante: comida casera de la que los niños piden un segundo plato.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "carne picada (de ternera o mixta)",
+        "es": "carne picada de vacuno / mixta"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "pimiento rojo, en dados",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2 dientes",
+        "item": "ajo",
+        "es": "ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 cda",
+        "item": "tomate concentrado",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "caldo de carne",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 lata (400 g)",
+        "item": "alubias rojas cocidas, enjuagadas",
+        "es": "alubias rojas cocidas"
+      },
+      {
+        "q": "150 g",
+        "item": "maíz dulce",
+        "es": "maíz dulce"
+      },
+      {
+        "q": "2 cdta",
+        "item": "pimentón dulce",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 cdta",
+        "item": "comino molido",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva + sal y pimienta",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "arroz",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Dora la carne picada en aceite a fuego fuerte, desmenuzándola; deja que coja color de verdad, eso es sabor. Añade la cebolla, el pimiento y el ajo y sofríe 3 minutos más.",
+      "Fuera del fuego, incorpora el pimentón, el comino y el tomate concentrado, y pásalo todo a la olla lenta.",
+      "Añade el tomate triturado, el caldo y las alubias enjuagadas. Salpimienta, remueve y cierra la tapa.",
+      "Cocina 5–6 h en LOW o 3 h en HIGH. Añade el maíz en la última media hora para que siga crujiente.",
+      "Mientras tanto, cuece el arroz. Prueba el chili, ajusta de sal y sirve."
+    ],
+    "tip": "Usa siempre alubias rojas cocidas, de lata o de bote: las secas no llegan a calentarse lo suficiente en la olla lenta para ser seguras. Y no dudes en prepararlo el día antes: el chili está aún más rico.",
+    "kids": "Los niños se lo comen tal cual; los adultos pueden añadir copos de chile o jalapeño en su plato.",
+    "freeze": true,
+    "guid": "97be1c7e-dc53-40dd-90c2-157d99094a29"
+  },
+  {
+    "id": 8,
+    "title": "Guiso de pollo con garbanzos",
+    "slug": "guiso-de-pollo-con-garbanzos",
+    "chapter": "Español y mediterráneo",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Pollo dorado, garbanzos cremosos y pimentón dulce en una salsa de tomate que huele a cocina de pueblo andaluz.",
+    "ingredients": [
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "500 g",
+        "item": "contramuslos de pollo deshuesados, en trozos grandes",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 bote/lata",
+        "item": "garbanzos cocidos (± 250 g escurridos)",
+        "es": "garbanzos cocidos"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en dados",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2 (± 400 g)",
+        "item": "patatas, en dados",
+        "es": "patatas"
+      },
+      {
+        "q": "1 + 2",
+        "item": "cebolla + dientes de ajo",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "200 ml",
+        "item": "caldo de pollo",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 cdta",
+        "item": "pimentón dulce",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "½ cdta",
+        "item": "comino molido",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 cdta",
+        "item": "orégano seco",
+        "es": "orégano"
+      },
+      {
+        "q": "",
+        "item": "sal y pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "barra de pan",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Salpimienta el pollo y dóralo 3–4 minutos en aceite de oliva; no hace falta que se haga por dentro.",
+      "Sofríe la cebolla y el ajo 3 minutos en la misma grasa. Fuera del fuego, añade el pimentón, el comino y el orégano.",
+      "Pon la patata y la zanahoria (en dados de 2 cm) en el fondo de la olla lenta y, encima, los garbanzos enjuagados, el pollo y la cebolla. Vierte el tomate y el caldo por encima.",
+      "Cocina 4–5 h en LOW o 2–3 h en HIGH con la tapa cerrada, hasta que la patata esté tierna y el pollo alcance 75 °C.",
+      "Prueba y ajusta de sal y pimienta. ¿Muy líquido? Aplasta una cucharada de garbanzos y mézclala con el guiso."
+    ],
+    "tip": "La patata y la zanahoria van al fondo: ahí es donde más calienta la olla lenta, y las verduras duras necesitan más tiempo. Enjuaga bien los garbanzos; el líquido del bote sabe salado y apagado.",
+    "kids": "Suave y tierno, perfecto para chafar con el tenedor. Para los adultos: una pizca de pimentón picante en la mesa.",
+    "freeze": true,
+    "guid": "7626cd17-7d39-45d7-8fcb-0ef8c0a5e93d"
+  },
+  {
+    "id": 9,
+    "title": "Crema de patata y puerro",
+    "slug": "crema-de-patata-y-puerro",
+    "chapter": "Holandés y europeo",
+    "price": "7–9",
+    "spice": 1,
+    "vega": true,
+    "prep": "15 min",
+    "low": "5–6 h",
+    "high": "3–4 h",
+    "intro": "Una crema suave y aterciopelada de puerro y patata: sencilla, económica y justo lo que apetece en una noche fresca de otoño.",
+    "ingredients": [
+      {
+        "q": "800 g",
+        "item": "patatas harinosas (para cocer), en dados",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "2",
+        "item": "puerros",
+        "es": "puerros"
+      },
+      {
+        "q": "1",
+        "item": "cebolla",
+        "es": "cebolla"
+      },
+      {
+        "q": "1 cda",
+        "item": "mantequilla",
+        "es": "mantequilla"
+      },
+      {
+        "q": "1 litro",
+        "item": "caldo de verduras",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "150 ml",
+        "item": "nata para cocinar",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "pizca",
+        "item": "nuez moscada",
+        "es": "nuez moscada"
+      },
+      {
+        "q": "",
+        "item": "sal y pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Corta el puerro en rodajas y lávalo bien en un colador: entre las capas suele haber tierra. Pica la cebolla.",
+      "Rehoga el puerro y la cebolla 5 minutos a fuego suave en la mantequilla, sin que cojan color. Esto le da a la crema un sabor dulce y redondo.",
+      "Pon el puerro, la cebolla, la patata y el caldo en la olla lenta, llenándola como mucho hasta tres cuartos. Cocina 5–6 h en LOW o 3–4 h en HIGH.",
+      "Tritura la crema con la batidora de mano hasta que quede fina. Mantén el pie de la batidora bajo la superficie para que no salpique.",
+      "Añade la nata y deja que se caliente 10 minutos más. Ajusta de sal, pimienta y una pizca de nuez moscada."
+    ],
+    "tip": "Tritura poco tiempo: si te pasas, la patata queda pegajosa. ¿Quieres congelarla? Hazlo antes de añadir la nata e incorpórala después de recalentarla.",
+    "kids": "Sírvela con tiras de pan tostado con queso para mojar en la crema.",
+    "freeze": true,
+    "guid": "686aaa64-626c-46cc-aab4-7e4545b149e5"
+  },
+  {
+    "id": 10,
+    "title": "Curry suave de pollo con leche de coco",
+    "slug": "curry-suave-de-pollo-con-leche-de-coco",
+    "chapter": "Cocina del mundo",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Un curry dorado y aterciopelado con un toque dulce de manzana: el curry con el que tus hijos se enamorarán de la cocina del mundo.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados, en trozos",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "400 ml",
+        "item": "leche de coco (entera)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en rodajas",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "pimiento rojo, en dados",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1",
+        "item": "manzana dulce (tipo Golden), en dados",
+        "es": "manzana golden"
+      },
+      {
+        "q": "2 cda",
+        "item": "curry en polvo suave",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 cdta",
+        "item": "ajo en polvo",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "1 cda + 2 cda",
+        "item": "maicena + agua fría",
+        "es": "maicena"
+      },
+      {
+        "q": "",
+        "item": "sal",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "arroz basmati",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Sofríe la cebolla 3 minutos en aceite y añade el curry y el ajo en polvo 30 segundos, hasta que huelan. Así desaparece el sabor a especia cruda.",
+      "Pon el pollo, la zanahoria, el pimiento y la manzana en la olla lenta. Añade la cebolla con curry por encima, vierte la mitad de la leche de coco y sala.",
+      "Cocina 4–5 h en LOW o 2–3 h en HIGH con la tapa cerrada, hasta que el pollo alcance 75 °C.",
+      "En la última media hora, incorpora el resto de la leche de coco y la maicena disuelta en agua fría. Pon en HIGH, con la tapa cerrada, hasta que la salsa espese.",
+      "Mientras tanto, cuece el arroz, prueba el curry de sal y sirve."
+    ],
+    "tip": "Las especias solo sueltan todo su sabor en aceite caliente, así que sofríe siempre el curry un momento. La segunda mitad de la leche de coco al final hace la salsa más cremosa y fresca.",
+    "kids": "La manzana endulza la salsa suavemente. Para los adultos: sambal o copos de chile en la mesa.",
+    "freeze": true,
+    "guid": "b3948253-8718-410d-88a3-93c75312875a"
+  },
+  {
+    "id": 11,
+    "title": "Guiso marroquí de pollo con ras el hanout",
+    "slug": "guiso-marroqui-de-pollo-con-ras-el-hanout",
+    "chapter": "Cocina del mundo",
+    "price": "9–11",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "La canela, el ras el hanout y los orejones dulces llenan tu cocina del aroma de un zoco marroquí.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados, en trozos grandes",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 + 2",
+        "item": "cebolla + dientes de ajo",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en rodajas",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "calabacín, en dados grandes",
+        "es": "calabacín"
+      },
+      {
+        "q": "1 bote/lata",
+        "item": "garbanzos cocidos, enjuagados",
+        "es": "garbanzos cocidos"
+      },
+      {
+        "q": "200 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "150 ml",
+        "item": "caldo de pollo",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 cda",
+        "item": "ras el hanout",
+        "es": "ras el hanout"
+      },
+      {
+        "q": "½ cdta",
+        "item": "canela molida",
+        "es": "canela molida"
+      },
+      {
+        "q": "50 g",
+        "item": "orejones de albaricoque, partidos por la mitad",
+        "es": "orejones de albaricoque"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva + sal y pimienta",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g + 300 ml",
+        "item": "cuscús + caldo hirviendo",
+        "es": "cuscús"
+      }
+    ],
+    "steps": [
+      "Sala el pollo y dóralo 3 minutos en aceite de oliva. Añade la cebolla y el ajo, e incorpora el ras el hanout y la canela durante 30 segundos.",
+      "Pon la zanahoria, los garbanzos, los orejones y la mezcla de pollo en la olla lenta. Vierte el tomate y el caldo por encima.",
+      "Cocina 4–5 h en LOW o 2–3 h en HIGH con la tapa cerrada, hasta que el pollo alcance 75 °C.",
+      "En la última hora, coloca el calabacín por encima y cierra la tapa rápidamente; así no se deshace y conserva su color verde.",
+      "Vierte el caldo hirviendo sobre el cuscús, déjalo reposar 5 minutos tapado y suéltalo con un tenedor."
+    ],
+    "tip": "El ras el hanout cambia mucho según la marca: uno es dulce y floral, otro más picante. Huélelo, empieza con 1 cucharada y, si quieres, añade un poco más al final.",
+    "kids": "Los orejones lo hacen suave y dulce. Para los adultos: una cucharadita de harissa en su plato.",
+    "freeze": true,
+    "guid": "79338300-57c2-4965-a6cf-5de2b713a476"
+  },
+  {
+    "id": 12,
+    "title": "Carne guisada con puré de patatas",
+    "slug": "carne-guisada-con-pure-de-patatas",
+    "chapter": "Holandés y europeo",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "8–9 h",
+    "high": "5–6 h",
+    "intro": "Carne guisada como la hacía la abuela: tan tierna que se deshace en hebras, en una salsa agridulce y brillante, con una montaña de puré cremoso al lado.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "carne de ternera para guisar (morcillo o aguja), en dados",
+        "es": "carne para guisar (morcillo)"
+      },
+      {
+        "q": "2",
+        "item": "cebollas, en medias lunas",
+        "es": "cebollas"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en trozos",
+        "es": "zanahorias"
+      },
+      {
+        "q": "250 ml",
+        "item": "caldo de carne",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 cda",
+        "item": "mostaza",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 cda",
+        "item": "vinagre de vino",
+        "es": "vinagre de vino"
+      },
+      {
+        "q": "1 cda",
+        "item": "azúcar moreno",
+        "es": "azúcar moreno"
+      },
+      {
+        "q": "2",
+        "item": "hojas de laurel",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "2 ramitas",
+        "item": "tomillo (o 1 cdta seco)",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 cda",
+        "item": "maicena + 2 cda de agua fría",
+        "es": "maicena"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite, sal y pimienta",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "1 kg",
+        "item": "patatas harinosas (para cocer)",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "150 ml",
+        "item": "leche caliente",
+        "es": "leche"
+      },
+      {
+        "q": "30 g",
+        "item": "mantequilla",
+        "es": "mantequilla"
+      }
+    ],
+    "steps": [
+      "Seca la carne con papel de cocina, salpimiéntala y dórala bien en aceite, en tandas pequeñas, hasta que esté bien tostada por todos los lados. Pásala a la olla lenta.",
+      "Dora las cebollas en la misma sartén. Desglasa con el caldo, la mostaza, el vinagre y el azúcar, y rasca bien todo lo que se haya pegado al fondo.",
+      "Vierte esto sobre la carne, añade la zanahoria, el laurel y el tomillo, y cierra la tapa. Cocina 8–9 h en LOW o 5–6 h en HIGH.",
+      "En la última media hora, incorpora a la salsa la maicena disuelta en 2 cda de agua fría. Retira el laurel y las ramitas de tomillo.",
+      "Mientras tanto, cuece las patatas, escúrrelas y cháfalas con la leche caliente, la mantequilla y sal hasta obtener un puré cremoso."
+    ],
+    "tip": "El secreto está en dorar bien la carne: hazlo en tandas pequeñas o la carne se cocerá en vez de tostarse. ¿Lo quieres aún más holandés? Añade 2 clavos de olor.",
+    "kids": "Haz un hoyito en el puré y llénalo de salsa: un volcán. A los niños les encanta.",
+    "freeze": true,
+    "guid": "0452c948-9f3f-4b9b-91f2-f2dfac88483f"
+  },
+  {
+    "id": 13,
+    "title": "Tacos de cerdo desmechado",
+    "slug": "tacos-de-cerdo-desmechado",
+    "chapter": "Cocina del mundo",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "8–9 h",
+    "high": "5–6 h",
+    "intro": "Paleta de cerdo cocinada durante horas en una salsa pegajosa y ahumada: monta una barra de tacos en la mesa y que cada uno se prepare los suyos.",
+    "ingredients": [
+      {
+        "q": "800 g",
+        "item": "paleta de cerdo deshuesada",
+        "es": "paleta de cerdo / aguja"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, en aros",
+        "es": "cebolla"
+      },
+      {
+        "q": "150 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 cda",
+        "item": "tomate concentrado",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 cda",
+        "item": "miel",
+        "es": "miel"
+      },
+      {
+        "q": "2 cda",
+        "item": "vinagre de manzana",
+        "es": "vinagre de manzana"
+      },
+      {
+        "q": "2 cdta",
+        "item": "pimentón de la Vera dulce",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 cdta",
+        "item": "comino molido",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 cdta",
+        "item": "ajo en polvo",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "1 cdta",
+        "item": "sal + pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "8–12",
+        "item": "tortillas pequeñas",
+        "es": "tortillas de trigo o maíz"
+      },
+      {
+        "q": "",
+        "item": "maíz dulce, tomate y pepino",
+        "es": "maíz dulce, tomate, pepino"
+      },
+      {
+        "q": "200 g",
+        "item": "yogur griego natural",
+        "es": "yogur griego natural"
+      }
+    ],
+    "steps": [
+      "Corta la carne en 4 trozos grandes y frótalos con el pimentón, el comino, el ajo en polvo, sal y pimienta.",
+      "Pon la cebolla en el fondo de la olla lenta y la carne encima. Mezcla el tomate triturado, el concentrado, la miel y el vinagre, y viértelo sobre la carne.",
+      "Cocina 8–9 h en LOW o 5–6 h en HIGH con la tapa cerrada, hasta que la carne se deshaga con un tenedor.",
+      "Saca la carne, desméchala y retira los trozos grandes de grasa. Reduce la salsa en un cazo 5–10 minutos hasta que quede como un almíbar.",
+      "Mezcla la carne con la salsa reducida. Calienta las tortillas un momento en una sartén sin aceite y rellénalas en la mesa con los toppings."
+    ],
+    "tip": "La paleta tiene la grasa y el colágeno justos para quedar melosa; una carne magra como el lomo se queda seca. Reducir la salsa es lo que marca la diferencia entre bueno y espectacular.",
+    "kids": "Los niños eligen sus propios toppings. Para los adultos: jalapeño, salsa picante o un gajo de lima.",
+    "freeze": true,
+    "guid": "7525c319-03f3-4c84-b1cd-b8dfbcf99fd8"
+  },
+  {
+    "id": 14,
+    "title": "Pollo tikka masala suave y cremoso",
+    "slug": "pollo-tikka-masala-suave-y-cremoso",
+    "chapter": "Cocina del mundo",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "El curry cremoso y anaranjado de tu restaurante indio favorito, pero lo bastante suave para toda la mesa.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados, en dados de 3 cm",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 + 2",
+        "item": "cebolla + dientes de ajo",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1 cda",
+        "item": "jengibre fresco, rallado",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "200 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 cda",
+        "item": "tomate concentrado",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 cdta",
+        "item": "garam masala suave",
+        "es": "garam masala"
+      },
+      {
+        "q": "1 cdta",
+        "item": "pimentón dulce",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 cdta + ½ cdta",
+        "item": "comino + cúrcuma",
+        "es": "comino + cúrcuma"
+      },
+      {
+        "q": "150 ml",
+        "item": "nata para cocinar",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "150 g",
+        "item": "yogur griego natural (entero)",
+        "es": "yogur griego natural"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "",
+        "item": "sal",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "arroz basmati",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Sofríe la cebolla, el ajo y el jengibre 4 minutos en aceite. Añade todas las especias y el tomate concentrado y rehoga 1 minuto, hasta que huela.",
+      "Pon el pollo en la olla lenta, cúbrelo con la mezcla de especias y el tomate triturado, sala y remueve.",
+      "Cocina 4–5 h en LOW o 2–3 h en HIGH con la tapa cerrada, hasta que el pollo alcance 75 °C.",
+      "En el último cuarto de hora, incorpora la nata. Después apaga la olla lenta o ponla en WARM.",
+      "Mezcla el yogur con unas cucharadas de la salsa caliente y solo entonces añádelo al curry. Que no vuelva a hervir, o se cortará.",
+      "Cuece el arroz basmati aparte y sirve."
+    ],
+    "tip": "El yogur entero se corta mucho menos que el desnatado, y «templarlo» primero con salsa caliente evita los grumos. También puedes usar jengibre en polvo: 1 cucharadita en lugar del fresco. ¿Quieres congelarlo? Hazlo antes de añadir la nata y el yogur.",
+    "kids": "Cremoso y de sabor suave. Para los adultos: copos de chile o una guindilla verde picada por encima.",
+    "freeze": true,
+    "guid": "0b520b03-1a78-463a-a80b-f6f9d02c8b7b"
+  },
+  {
+    "id": 15,
+    "title": "Pollo en salsa cremosa de champiñones",
+    "slug": "pollo-en-salsa-cremosa-de-champinones",
+    "chapter": "Holandés y europeo",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Pollo jugoso en una salsa cremosa con champiñones, ajo y tomillo: comida reconfortante que sabe como si hubieras pasado horas en la cocina.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "250 g",
+        "item": "champiñones laminados",
+        "es": "champiñones laminados"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "dientes de ajo, prensados",
+        "es": "ajo"
+      },
+      {
+        "q": "150 ml",
+        "item": "caldo de pollo",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 cdta",
+        "item": "tomillo",
+        "es": "tomillo"
+      },
+      {
+        "q": "150 ml",
+        "item": "nata para cocinar",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 cda",
+        "item": "maicena + 2 cda de agua fría",
+        "es": "maicena"
+      },
+      {
+        "q": "2 cda",
+        "item": "perejil fresco, picado fino",
+        "es": "perejil fresco"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite, sal y pimienta",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "1 kg",
+        "item": "patatas harinosas (para puré)",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "100 ml + 25 g",
+        "item": "leche y mantequilla",
+        "es": "leche y mantequilla"
+      }
+    ],
+    "steps": [
+      "Salpimienta el pollo, dóralo brevemente en aceite y pásalo a la olla lenta.",
+      "Saltea los champiñones, la cebolla y el ajo 4 minutos a fuego fuerte en la misma sartén. Así los champiñones sueltan el agua y cogen sabor.",
+      "Ponlo sobre el pollo, añade el caldo y espolvorea el tomillo. Cocina 4–5 h en LOW o 2–3 h en HIGH.",
+      "En la última media hora, incorpora la nata y la maicena disuelta en 2 cda de agua fría. El pollo debe alcanzar 75 °C en el centro.",
+      "Mientras tanto, cuece las patatas y cháfalas con la leche y la mantequilla para hacer el puré. Espolvorea el perejil sobre el pollo y sirve."
+    ],
+    "tip": "Saltea los champiñones a fuego fuerte y no demasiados a la vez: así se doran en lugar de cocerse en su jugo. Es la diferencia entre una salsa sosa y una con mucho sabor.",
+    "kids": "Chafa el puré con una cucharada de salsa: cremoso, suave y fácil de comer para manos pequeñas.",
+    "freeze": true,
+    "guid": "ed068490-f8ff-4784-8dc9-1b7f58e3e608"
+  },
+  {
+    "id": 16,
+    "title": "Cerdo en salsa de miel y mostaza",
+    "slug": "cerdo-en-salsa-de-miel-y-mostaza",
+    "chapter": "Holandés y europeo",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 h",
+    "high": "3–4 h",
+    "intro": "Cerdo guisado y tierno con manzana en una salsa cremosa de miel y mostaza: el equilibrio perfecto entre dulce y salado.",
+    "ingredients": [
+      {
+        "q": "700 g",
+        "item": "aguja o paleta de cerdo, en dados de 4 cm",
+        "es": "aguja o paleta de cerdo para guisar"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, en gajos",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en trozos",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "manzana dulce (tipo Golden), en gajos",
+        "es": "manzana Golden"
+      },
+      {
+        "q": "2 cda",
+        "item": "mostaza (de Dijon o a la antigua)",
+        "es": "mostaza (Dijon o a la antigua)"
+      },
+      {
+        "q": "1 cda",
+        "item": "miel",
+        "es": "miel"
+      },
+      {
+        "q": "200 ml",
+        "item": "caldo de pollo",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 cdta",
+        "item": "tomillo",
+        "es": "tomillo"
+      },
+      {
+        "q": "100 ml",
+        "item": "nata para cocinar",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 cda",
+        "item": "maicena + 2 cda de agua fría",
+        "es": "maicena"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite, sal y pimienta",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "800 g",
+        "item": "patatas o 300 g de arroz",
+        "es": "patatas o arroz"
+      }
+    ],
+    "steps": [
+      "Quita el exceso de grasa de la carne. Salpimiéntala y dora los dados ligeramente en aceite, por tandas.",
+      "Pon la zanahoria, la cebolla y la manzana en el fondo de la olla lenta y la carne encima.",
+      "Mezcla el caldo, la miel, 1 cda de mostaza y el tomillo, y viértelo por encima. Cocina 6–7 h en LOW o 3–4 h en HIGH.",
+      "En la última media hora, incorpora la nata, el resto de la mostaza y la maicena disuelta en 2 cda de agua fría.",
+      "Mientras tanto, cuece las patatas o el arroz. Prueba la salsa y ajusta con sal, pimienta o una cucharadita más de miel."
+    ],
+    "tip": "La mostaza pierde sabor con la cocción larga. Por eso, añade la mitad solo al final: así la salsa queda fresca y la mostaza se nota de verdad.",
+    "kids": "¿Demasiada mostaza? Un chorrito más de nata y un poco de miel suavizan la salsa para los paladares pequeños.",
+    "freeze": true,
+    "guid": "d3b2a55f-89a7-4724-9a4e-42f696b52f82"
+  },
+  {
+    "id": 17,
+    "title": "Cottage pie de carne picada y verduras",
+    "slug": "cottage-pie-de-carne-picada-y-verduras",
+    "chapter": "Holandés y europeo",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Un relleno sabroso de carne picada y verduras bajo una manta de puré cremoso: comida reconfortante británica que reúne a toda la familia en la mesa.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "carne picada de ternera",
+        "es": "carne picada de vacuno"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en dados",
+        "es": "zanahorias"
+      },
+      {
+        "q": "100 g",
+        "item": "guisantes congelados",
+        "es": "guisantes congelados"
+      },
+      {
+        "q": "200 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1 cda",
+        "item": "tomate concentrado",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "caldo de carne",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 cdta",
+        "item": "tomillo",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 cda",
+        "item": "salsa Worcestershire (o salsa de soja)",
+        "es": "salsa Worcestershire (o salsa de soja)"
+      },
+      {
+        "q": "1 cda",
+        "item": "maicena + 2 cda de agua fría",
+        "es": "maicena"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite, sal y pimienta",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "800 g",
+        "item": "patatas harinosas (para cocer)",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "100 ml + 30 g",
+        "item": "leche y mantequilla",
+        "es": "leche y mantequilla"
+      }
+    ],
+    "steps": [
+      "Dora la carne picada con la cebolla en aceite, desmenuzándola. Pásala a la olla lenta con la zanahoria, el tomate triturado, el concentrado, el caldo, el tomillo y la salsa Worcestershire.",
+      "Salpimienta y cocina 4–5 h en LOW o 2–3 h en HIGH con la tapa cerrada.",
+      "En la última media hora, incorpora los guisantes y la maicena disuelta en 2 cda de agua fría. Así el relleno queda bien ligado.",
+      "Mientras tanto, cuece las patatas y cháfalas con la leche, la mantequilla y sal hasta obtener un puré firme.",
+      "Pon el relleno en una fuente de horno, reparte el puré por encima y haz surcos con un tenedor. Gratina 10 minutos bajo el grill bien caliente (o 15 min a 220 °C) hasta que se dore."
+    ],
+    "tip": "Los surcos del tenedor se convierten en bordes crujientes bajo el grill: la mejor parte. ¿No tienes grill? Pon el puré sobre el relleno dentro de la olla lenta y deja que se caliente 15 minutos.",
+    "kids": "Espolvorea un poco de queso rallado sobre el puré: todos querrán la costra dorada.",
+    "freeze": true,
+    "guid": "39098b62-acca-4bdf-a78f-a9dc031b98ca"
+  },
+  {
+    "id": 18,
+    "title": "Pollo a la toscana",
+    "slug": "pollo-a-la-toscana",
+    "chapter": "Holandés y europeo",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "3½–4 h",
+    "high": "2 h",
+    "intro": "Pollo cremoso con tomates secos, espinacas y parmesano: sabe a vacaciones en Italia, en cualquier noche entre semana.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "dientes de ajo, prensados",
+        "es": "ajo"
+      },
+      {
+        "q": "100 g",
+        "item": "tomates secos en aceite, en tiras",
+        "es": "tomates secos en aceite"
+      },
+      {
+        "q": "150 ml",
+        "item": "caldo de pollo",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 cdta",
+        "item": "orégano",
+        "es": "orégano"
+      },
+      {
+        "q": "150 ml",
+        "item": "nata para cocinar",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 cda",
+        "item": "maicena + 2 cda de agua fría",
+        "es": "maicena"
+      },
+      {
+        "q": "100 g",
+        "item": "espinacas frescas (brotes)",
+        "es": "espinacas frescas (brotes)"
+      },
+      {
+        "q": "30 g",
+        "item": "queso parmesano rallado",
+        "es": "queso parmesano rallado"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva, sal y pimienta",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "pasta (penne o macarrones)",
+        "es": "macarrones o penne"
+      }
+    ],
+    "steps": [
+      "Espolvorea el pollo con sal, pimienta y orégano y dóralo brevemente en aceite. Puedes usar el aceite del bote de tomates secos.",
+      "Pon la cebolla y el ajo en el fondo de la olla lenta, luego el pollo y los tomates secos. Vierte el caldo por encima.",
+      "Cocina 3½–4 h en LOW o 2 h en HIGH con la tapa cerrada, hasta que el pollo alcance 75 °C en el centro.",
+      "En la última media hora, incorpora la nata y la maicena disuelta en 2 cda de agua fría.",
+      "10 minutos antes del final, añade las espinacas y el parmesano; las espinacas se reducen solas. Mientras tanto, cuece la pasta y sirve."
+    ],
+    "tip": "Los tomates secos en aceite son más tiernos y sabrosos que los secos de bolsa. ¿Solo tienes de esos? Remójalos antes 10 minutos en agua caliente.",
+    "kids": "¿Dudan con las espinacas? Pica las hojas finas y se convertirán en puntitos verdes discretos en la salsa.",
+    "freeze": true,
+    "guid": "4f47cecd-8fbf-4dfc-a43a-67b31d926738"
+  },
+  {
+    "id": 19,
+    "title": "Ternera desmechada a la mexicana",
+    "slug": "ternera-desmechada-a-la-mexicana",
+    "chapter": "Cocina del mundo",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "8–9 h",
+    "high": "5–6 h",
+    "intro": "Ternera que, tras un día cocinándose a fuego lento, se deshace en hebras, con comino, orégano y un toque fresco de lima.",
+    "ingredients": [
+      {
+        "q": "700 g",
+        "item": "aguja o espaldilla de ternera para guisar",
+        "es": "aguja o espaldilla de ternera"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, en tiras",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "pimiento rojo, en tiras",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2 dientes",
+        "item": "ajo, prensado",
+        "es": "ajo"
+      },
+      {
+        "q": "200 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100 ml",
+        "item": "caldo de carne",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "2 cdta",
+        "item": "comino molido",
+        "es": "comino molido"
+      },
+      {
+        "q": "2 cdta",
+        "item": "pimentón de la Vera dulce",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 cdta",
+        "item": "orégano seco",
+        "es": "orégano"
+      },
+      {
+        "q": "½",
+        "item": "lima (zumo)",
+        "es": "lima"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite + sal y pimienta",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "8–12",
+        "item": "tortillas",
+        "es": "tortillas de trigo o maíz"
+      }
+    ],
+    "steps": [
+      "Corta la carne en 4 trozos, salpimiéntalos y dóralos bien en aceite por todos los lados, 6–8 minutos. Esa costra es puro sabor.",
+      "Pon la cebolla y el pimiento en el fondo de la olla lenta y la carne encima.",
+      "Mezcla el tomate, el caldo, el ajo, el comino, el pimentón y el orégano, y viértelo sobre la carne.",
+      "Cocina 8–9 h en LOW o 5–6 h en HIGH con la tapa cerrada, hasta que la carne se deshaga con un tenedor.",
+      "Desmecha la carne dentro de la olla, mézclala con la salsa y exprime la lima por encima. Sirve en tortillas calientes."
+    ],
+    "tip": "La lima se añade solo al final, para que quede fresca. ¿Te sobra? Congela raciones con un poco de salsa: perfectas para quesadillas o un burrito bowl rápido.",
+    "kids": "Suave y ahumada. Para los adultos: jalapeño, salsa picante o una pizca de cayena en la mesa.",
+    "freeze": true,
+    "guid": "a5bedd7e-c4fc-4f6c-b898-55f62edec7f5"
+  },
+  {
+    "id": 20,
+    "title": "Pollo teriyaki",
+    "slug": "pollo-teriyaki",
+    "chapter": "Cocina del mundo",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4 h",
+    "high": "2 h",
+    "intro": "Pollo brillante, dulce y salado con jengibre y ajo: en una semana todos te lo pedirán otra vez.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "80 ml",
+        "item": "salsa de soja",
+        "es": "salsa de soja"
+      },
+      {
+        "q": "2 cda",
+        "item": "miel",
+        "es": "miel"
+      },
+      {
+        "q": "100 ml",
+        "item": "agua",
+        "es": ""
+      },
+      {
+        "q": "1 cda",
+        "item": "vinagre de arroz o de manzana",
+        "es": "vinagre de arroz / de manzana"
+      },
+      {
+        "q": "1 diente",
+        "item": "ajo, prensado",
+        "es": "ajo"
+      },
+      {
+        "q": "1 cda",
+        "item": "jengibre fresco, rallado",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "1½ cda + 3 cda",
+        "item": "maicena + agua fría",
+        "es": "maicena"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "arroz",
+        "es": "arroz"
+      },
+      {
+        "q": "1 cda",
+        "item": "sésamo tostado",
+        "es": "sésamo tostado"
+      }
+    ],
+    "steps": [
+      "Mezcla en la olla lenta la salsa de soja, la miel, el agua, el vinagre, el ajo y el jengibre.",
+      "Añade los contramuslos enteros o en trozos grandes y cúbrelos con la salsa. Cierra la tapa.",
+      "Cocina 4 h en LOW o 2 h en HIGH, hasta que el pollo alcance 75 °C.",
+      "Disuelve la maicena en el agua fría e incorpórala a la salsa. Pon en HIGH y deja que espese 20–30 minutos con la tapa cerrada, hasta que brille.",
+      "Corta o desmecha el pollo, mézclalo con la salsa y sírvelo sobre arroz con sésamo."
+    ],
+    "tip": "El contramuslo queda jugoso y absorbe mejor la salsa que la pechuga. ¿Demasiado salado para los niños? Usa salsa de soja baja en sal o sustituye 2 cucharadas por agua.",
+    "kids": "Dulce, salado y pegajoso: un favorito de los niños. Para los adultos: sriracha o copos de chile.",
+    "freeze": true,
+    "guid": "84b63f83-cce0-4588-b9ef-f8168f71f614"
+  },
+  {
+    "id": 21,
+    "title": "Pollo tailandés al coco con salsa de cacahuete",
+    "slug": "pollo-tailandes-al-coco-con-salsa-de-cacahuete",
+    "chapter": "Cocina del mundo",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4 h",
+    "high": "2 h",
+    "intro": "Coco cremoso, cacahuete con sabor a fruto seco y un toque fresco de lima: una noche de street food tailandés, directamente de tu olla lenta.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados, en trozos",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "400 ml",
+        "item": "leche de coco (entera)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "pimiento rojo, en tiras",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en tiras",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2–3 cda",
+        "item": "crema de cacahuete",
+        "es": "crema de cacahuete"
+      },
+      {
+        "q": "1–2 cda",
+        "item": "curry en polvo suave",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 cda",
+        "item": "salsa de soja",
+        "es": "salsa de soja"
+      },
+      {
+        "q": "1",
+        "item": "lima (zumo)",
+        "es": "lima"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite + sal",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "arroz jazmín",
+        "es": "arroz jazmín"
+      }
+    ],
+    "steps": [
+      "Sofríe la cebolla 3 minutos en aceite y añade el curry 30 segundos, hasta que huela.",
+      "Pon el pollo, el pimiento, la zanahoria y la cebolla con curry en la olla lenta. Vierte por encima la mitad de la leche de coco y la salsa de soja.",
+      "Cocina 4 h en LOW o 2 h en HIGH con la tapa cerrada, hasta que el pollo alcance 75 °C.",
+      "En la última media hora, bate el resto de la leche de coco con la crema de cacahuete hasta que quede fina e incorpórala al guiso. Tapa y deja 20–30 minutos más.",
+      "Añade el zumo de lima, prueba de sal y sirve con arroz."
+    ],
+    "tip": "Bate primero la crema de cacahuete con la leche de coco fría: así se disuelve sin grumos y no se pega al fondo. La lima, solo al final, para que quede fresca.",
+    "kids": "Cremoso y con sabor a cacahuete. ¡Cuidado con la alergia al cacahuete si vienen amiguitos! Para los adultos: sambal.",
+    "freeze": true,
+    "guid": "f49f2d39-c188-4431-aac8-cda7e23b85cb"
+  },
+  {
+    "id": 22,
+    "title": "Pollo griego al limón con patatas",
+    "slug": "pollo-griego-al-limon-con-patatas",
+    "chapter": "Español y mediterráneo",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 h",
+    "high": "3 h",
+    "intro": "Pollo soleado con limón, ajo y orégano sobre patatas que absorben todo el jugo: una terraza griega de verano en una noche entre semana.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "700 g",
+        "item": "patatas para guisar",
+        "es": "patatas"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, en aros",
+        "es": "cebolla"
+      },
+      {
+        "q": "2 dientes",
+        "item": "ajo, prensado",
+        "es": "ajo"
+      },
+      {
+        "q": "1",
+        "item": "limón (ralladura + zumo)",
+        "es": "limón"
+      },
+      {
+        "q": "150 ml",
+        "item": "caldo de pollo",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "3 cda",
+        "item": "aceite de oliva virgen extra",
+        "es": "aceite de oliva virgen extra"
+      },
+      {
+        "q": "2 cdta",
+        "item": "orégano seco",
+        "es": "orégano"
+      },
+      {
+        "q": "1 cdta",
+        "item": "tomillo seco",
+        "es": "tomillo"
+      },
+      {
+        "q": "",
+        "item": "sal y pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "200 g",
+        "item": "yogur griego natural",
+        "es": "yogur griego natural"
+      },
+      {
+        "q": "½",
+        "item": "pepino, en dados",
+        "es": "pepino"
+      }
+    ],
+    "steps": [
+      "Corta las patatas en gajos de 3 cm y ponlas con la cebolla, el ajo, sal y pimienta en el fondo de la olla lenta.",
+      "Salpimienta el pollo. Si quieres, dóralo 3 minutos en una sartén bien caliente: queda con mejor color y más sabor.",
+      "Coloca el pollo sobre las patatas. Bate el zumo de limón, el aceite de oliva, el caldo, el orégano y el tomillo, y viértelo por encima.",
+      "Cocina 5–6 h en LOW o 3 h en HIGH con la tapa cerrada, hasta que las patatas estén tiernas y el pollo alcance 75 °C.",
+      "Justo antes de servir, ralla la piel del limón por encima y mezcla el jugo con las patatas. Sirve con yogur y pepino."
+    ],
+    "tip": "Ralla la piel solo al final: horas de cocción apagan el limón, y la ralladura fresca lo ilumina todo. ¿Quieres bordes crujientes? Pon las patatas 10 minutos más bajo el grill del horno.",
+    "kids": "¿Demasiado ácido para los pequeños? Usa medio limón y añade más ralladura en el plato de los adultos.",
+    "freeze": false,
+    "guid": "ef38dd6d-e72f-482c-9a4c-a8305b1a9b4b"
+  },
+  {
+    "id": 23,
+    "title": "Guiso cremoso de pescado con tomate",
+    "slug": "guiso-cremoso-de-pescado-con-tomate",
+    "chapter": "Pescado y gambas",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "3–4 h + 20–30 min",
+    "high": "1½–2 h + 15–20 min",
+    "intro": "Merluza tierna que se cocina suavemente en una salsa cremosa de tomate y pimiento: pescado que convence hasta a los más reacios de la mesa.",
+    "ingredients": [
+      {
+        "q": "500 g",
+        "item": "filetes de merluza sin piel (frescos o descongelados)",
+        "es": "merluza (filetes sin piel)"
+      },
+      {
+        "q": "1 + 2",
+        "item": "cebolla + dientes de ajo",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "pimiento rojo, en dados",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1",
+        "item": "zanahoria, en dados",
+        "es": "zanahoria"
+      },
+      {
+        "q": "200 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100 ml",
+        "item": "caldo de pescado o de verduras",
+        "es": "caldo de pescado"
+      },
+      {
+        "q": "150 ml",
+        "item": "nata para cocinar o leche de coco",
+        "es": "nata para cocinar / leche de coco"
+      },
+      {
+        "q": "1 cdta",
+        "item": "pimentón dulce",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 cdta",
+        "item": "orégano seco",
+        "es": "orégano"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva + sal y pimienta",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "arroz",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Pon en la olla lenta la cebolla y el ajo picados, el pimiento, la zanahoria, el tomate, el caldo, el aceite, el pimentón, el orégano, sal y pimienta.",
+      "Cocina 3–4 h en LOW o 1½–2 h en HIGH con la tapa cerrada, hasta que las verduras estén tiernas.",
+      "Incorpora la nata o la leche de coco. Seca el pescado con papel de cocina, córtalo en trozos de 4 cm, sálalo y colócalo con cuidado en la salsa.",
+      "Cierra la tapa y cocina 20–30 minutos en LOW (15–20 en HIGH), hasta que el pescado esté blanco y se separe con facilidad. No remuevas.",
+      "Mientras tanto, cuece el arroz. Sirve el pescado con cuidado en los platos, con su salsa."
+    ],
+    "tip": "La merluza congelada es barata y va perfecta: descongélala una noche en la nevera y sécala bien. Compruébala a los 15 minutos en HIGH o a los 20 en LOW, porque si se pasa, el pescado queda seco.",
+    "kids": "Revisa que no haya espinas antes de servir. Para los adultos: una pizca de pimentón picante por encima.",
+    "freeze": false,
+    "guid": "c5662b5f-d957-4649-8b21-ec8bf09c5af1"
+  },
+  {
+    "id": 24,
+    "title": "Pasta cremosa con gambas al ajo",
+    "slug": "pasta-cremosa-con-gambas-al-ajo",
+    "chapter": "Pescado y gambas",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "10 min",
+    "low": "2–3 h y luego 10–15 min en HIGH",
+    "high": "1–1½ h + 10–15 min",
+    "intro": "Ajo confitado dulce, una salsa cremosa y gambas jugosas con tu pasta: sensación de restaurante a precio de casa.",
+    "ingredients": [
+      {
+        "q": "300–350 g",
+        "item": "gambas peladas crudas, descongeladas",
+        "es": "gambas peladas crudas"
+      },
+      {
+        "q": "2–3 dientes",
+        "item": "ajo, picado fino",
+        "es": "ajo"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada fina",
+        "es": "cebolla"
+      },
+      {
+        "q": "100 ml",
+        "item": "caldo de verduras o de pescado",
+        "es": "caldo de verduras / de pescado"
+      },
+      {
+        "q": "150 ml",
+        "item": "nata para cocinar",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "2 cda",
+        "item": "aceite de oliva",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "½ cdta",
+        "item": "pimentón dulce",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "½",
+        "item": "limón (zumo)",
+        "es": "limón"
+      },
+      {
+        "q": "2 cda",
+        "item": "perejil fresco, picado",
+        "es": "perejil fresco"
+      },
+      {
+        "q": "",
+        "item": "sal y pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "pasta (linguine o tallarines)",
+        "es": "espaguetis / tallarines"
+      }
+    ],
+    "steps": [
+      "Rehoga la cebolla y el ajo 3 minutos a fuego suave en aceite de oliva, sin que cojan color. Pásalos a la olla lenta con el caldo y el pimentón.",
+      "Cocina 2–3 h en LOW o 1–1½ h en HIGH con la tapa cerrada, hasta que la cebolla y el ajo estén tiernos y dulces.",
+      "Seca bien las gambas descongeladas. Mientras tanto, cuece la pasta y reserva una taza del agua de cocción.",
+      "Pon la olla lenta en HIGH e incorpora la nata y las gambas. Tapa y deja 10–15 minutos, hasta que estén rosadas y justo hechas.",
+      "Añade el zumo de limón, el perejil, sal y pimienta, y mezcla con la pasta. ¿Demasiado espesa? Un chorrito del agua de cocción."
+    ],
+    "tip": "Elige gambas crudas; las cocidas se ponen gomosas enseguida y solo necesitan 5 minutos. En forma de C están en su punto; si se cierran en una O, se han pasado.",
+    "kids": "¿No les gustan las gambas? Sírveles la pasta antes, solo con la salsa cremosa.",
+    "freeze": false,
+    "guid": "8b6d7f4f-6283-42e3-89e4-17b1a8160af0"
+  },
+  {
+    "id": 25,
+    "title": "Bacalao guisado con patatas",
+    "slug": "bacalao-guisado-con-patatas",
+    "chapter": "Pescado y gambas",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "3–4 h + 20–30 min",
+    "high": "2 h + 15–20 min",
+    "intro": "Bacalao blanco nacarado sobre una cama de patata, pimiento y tomate, regado con buen aceite de oliva: cocina casera española en estado puro.",
+    "ingredients": [
+      {
+        "q": "500 g",
+        "item": "bacalao desalado o bacalao fresco",
+        "es": "bacalao desalado / bacalao fresco"
+      },
+      {
+        "q": "1 + 2",
+        "item": "cebolla + dientes de ajo",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "pimiento rojo, en tiras",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "400 g",
+        "item": "patatas",
+        "es": "patatas"
+      },
+      {
+        "q": "200 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100–150 ml",
+        "item": "caldo de pescado o de verduras",
+        "es": "caldo de pescado"
+      },
+      {
+        "q": "3 cda",
+        "item": "aceite de oliva virgen extra",
+        "es": "aceite de oliva virgen extra"
+      },
+      {
+        "q": "1 cdta",
+        "item": "pimentón dulce",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "puñado",
+        "item": "aceitunas verdes sin hueso (opcional)",
+        "es": "aceitunas verdes sin hueso"
+      },
+      {
+        "q": "",
+        "item": "sal y pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "barra de pan",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Corta las patatas en rodajas de 1 cm y ponlas en el fondo de la olla lenta. Reparte la cebolla, el ajo y el pimiento por encima.",
+      "Mezcla el tomate, el caldo, 2 cda de aceite y el pimentón, viértelo por encima y sala ligeramente. Cocina 3–4 h en LOW o 2 h en HIGH.",
+      "¿Están tiernas las patatas? Seca el pescado, córtalo en trozos de 5 cm y colócalo encima. Rocía con el aceite restante.",
+      "Cierra la tapa y cocina 20–30 minutos en LOW (15–20 en HIGH), hasta que el pescado esté blanco nacarado y se separe en lascas.",
+      "Esparce las aceitunas por encima, prueba de sal solo ahora y sirve con pan para mojar en la salsa."
+    ],
+    "tip": "¿Lo desalas tú? Deja el bacalao 24–36 h en agua fría en la nevera y cámbiale el agua 3–4 veces. Más fácil: bacalao desalado congelado, o simplemente bacalao fresco.",
+    "kids": "Revisa que no haya espinas y sirve el pescado con patata. Las aceitunas, solo para quien le gusten.",
+    "freeze": false,
+    "guid": "dac3f547-a3a7-4796-a377-508e349e3527"
+  },
+  {
+    "id": 26,
+    "title": "Curry suave de gambas con coco",
+    "slug": "curry-suave-de-gambas-con-coco",
+    "chapter": "Pescado y gambas",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "2–3 h y luego 10–15 min en HIGH",
+    "high": "1–1½ h + 10–15 min",
+    "intro": "Un curry de coco dorado con gambas jugosas y un toque fresco de lima: vacaciones en un cuenco, listo en un momento.",
+    "ingredients": [
+      {
+        "q": "300–350 g",
+        "item": "gambas peladas crudas, descongeladas",
+        "es": "gambas peladas crudas"
+      },
+      {
+        "q": "400 ml",
+        "item": "leche de coco (entera)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1 + 1",
+        "item": "cebolla + diente de ajo",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "zanahoria, en tiras",
+        "es": "zanahoria"
+      },
+      {
+        "q": "1",
+        "item": "pimiento rojo, en tiras",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1–2 cda",
+        "item": "curry en polvo suave",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 cda",
+        "item": "jengibre fresco, rallado (o 1 cdta en polvo)",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "1",
+        "item": "lima (zumo)",
+        "es": "lima"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite + sal",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "arroz basmati",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Sofríe la cebolla, el ajo y el jengibre 3 minutos en aceite y añade el curry 30 segundos, hasta que huela.",
+      "Pon la mezcla con la zanahoria y el pimiento en la olla lenta. Vierte la leche de coco por encima, sala y remueve.",
+      "Cocina 2–3 h en LOW o 1–1½ h en HIGH con la tapa cerrada, hasta que las verduras estén tiernas.",
+      "Pon en HIGH e incorpora las gambas bien secas. Tapa y deja 10–15 minutos, hasta que estén rosadas y justo hechas.",
+      "Añade el zumo de lima, prueba de sal y sirve enseguida con arroz."
+    ],
+    "tip": "Las gambas pasan de jugosas a duras en pocos minutos: ten el arroz listo antes de añadirlas y sirve en cuanto estén. La leche de coco entera da la salsa más rica.",
+    "kids": "Un curry suave y cremoso. Para los adultos: sambal o copos de chile en la mesa.",
+    "freeze": false,
+    "guid": "e64704bd-1cf4-4bd2-bbdb-be7829efd9c6"
+  },
+  {
+    "id": 27,
+    "title": "Patatas a la riojana",
+    "slug": "patatas-a-la-riojana",
+    "chapter": "Español y mediterráneo",
+    "price": "8–10",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 h",
+    "high": "3–4 h",
+    "intro": "Patatas a la riojana para toda la familia: patatas que se deshacen en una salsa roja intensa y ahumada, llena de chorizo.",
+    "ingredients": [
+      {
+        "q": "300 g",
+        "item": "chorizo dulce, en rodajas",
+        "es": "chorizo dulce (sarta)"
+      },
+      {
+        "q": "600 g",
+        "item": "patatas para guisar",
+        "es": "patatas"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en rodajas",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada",
+        "es": "cebolla"
+      },
+      {
+        "q": "2 dientes",
+        "item": "ajo",
+        "es": "ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "400 ml",
+        "item": "caldo de pollo o de verduras",
+        "es": "caldo de pollo / de verduras"
+      },
+      {
+        "q": "1 cdta",
+        "item": "pimentón dulce",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "2",
+        "item": "hojas de laurel",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "",
+        "item": "sal y pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "barra de pan",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Pela las patatas y «cháscalas» en trozos de 3 cm: corta hasta la mitad y rompe el trozo haciendo palanca con el cuchillo. Los bordes irregulares ligarán luego la salsa.",
+      "Sofríe el chorizo 3 minutos en el aceite hasta que suelte la grasa roja. Añade la cebolla y el ajo y sofríe 3 minutos más; fuera del fuego, incorpora el pimentón.",
+      "Pon la patata y la zanahoria en la olla lenta, añade el sofrito de chorizo por encima y agrega el tomate, el caldo y el laurel. El líquido debe quedar justo por debajo de las patatas.",
+      "Cocina 6–7 h en LOW o 3–4 h en HIGH con la tapa cerrada, hasta que las patatas estén tiernas.",
+      "Aplasta unos trozos de patata contra la pared para espesar la salsa. Retira el laurel y sala solo ahora: el chorizo ya es salado."
+    ],
+    "tip": "«Chascar» la patata, como se dice en España, libera almidón que liga la salsa sin harina. Si flota mucha grasa por encima, retírala con una cuchara antes de servir.",
+    "kids": "Corta el chorizo en medias lunas pequeñas; a los niños les encanta pincharlas entre las patatas.",
+    "freeze": true,
+    "guid": "802e6fa5-c61d-4fd9-8eb0-3dcbeda9f025"
+  },
+  {
+    "id": 28,
+    "title": "Crema de lentejas rojas y tomate",
+    "slug": "crema-de-lentejas-rojas-y-tomate",
+    "chapter": "Favoritos económicos",
+    "price": "6–8",
+    "spice": 1,
+    "vega": true,
+    "prep": "10 min",
+    "low": "6 h",
+    "high": "3 h",
+    "intro": "Una crema espesa y suave llena de lentejas rojas y tomate: nutritiva, baratísima y lista para la olla en diez minutos.",
+    "ingredients": [
+      {
+        "q": "250 g",
+        "item": "lentejas rojas",
+        "es": "lentejas rojas"
+      },
+      {
+        "q": "400 g",
+        "item": "tomate triturado",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en rodajas",
+        "es": "zanahorias"
+      },
+      {
+        "q": "900 ml",
+        "item": "caldo de verduras",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 cdta",
+        "item": "comino molido",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 cdta",
+        "item": "pimentón dulce",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "100 ml",
+        "item": "nata para cocinar",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "½",
+        "item": "limón (zumo)",
+        "es": "limón"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva, sal y pimienta",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Enjuaga las lentejas en un colador con agua fría hasta que el agua salga limpia. Así evitas la espuma y un sabor harinoso.",
+      "Pon las lentejas, el tomate, la cebolla, la zanahoria, el caldo, el comino y el pimentón en la olla lenta y remueve bien.",
+      "Cocina 6 h en LOW o 3 h en HIGH. Las lentejas rojas se deshacen solas y espesan la crema.",
+      "Tritúrala fina o déjala con textura. ¿Demasiado espesa? Añade un chorrito de agua caliente.",
+      "Incorpora la nata y el zumo de limón, deja que se caliente 5 minutos y ajusta de sal y pimienta. Rocía cada plato con aceite de oliva."
+    ],
+    "tip": "Ese poquito de zumo de limón al final es mi secreto: de repente, las lentejas, de sabor terroso, quedan frescas y vivas. Las lentejas espesan al reposar; aligera las sobras con un poco de agua.",
+    "kids": "Sírvela con un poco de nata y pan para mojar. Para los adultos: copos de chile en la mesa.",
+    "freeze": true,
+    "guid": "5e34e2aa-6573-4945-92b6-95196973f76f"
+  },
+  {
+    "id": 29,
+    "title": "Guiso de pollo con verduras de toda la vida",
+    "slug": "guiso-de-pollo-con-verduras-de-toda-la-vida",
+    "chapter": "Favoritos económicos",
+    "price": "8–10",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 h",
+    "high": "3 h",
+    "intro": "Un guiso honesto, de los de siempre, con pollo tierno, patatas y zanahoria en una salsa ligada: una sola olla, todo dentro y todos contentos.",
+    "ingredients": [
+      {
+        "q": "1 cda",
+        "item": "aceite",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "600 g",
+        "item": "contramuslos de pollo deshuesados, en trozos grandes",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "700 g",
+        "item": "patatas para guisar",
+        "es": "patatas para guisar"
+      },
+      {
+        "q": "4",
+        "item": "zanahorias",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2",
+        "item": "cebollas, en gajos",
+        "es": "cebollas"
+      },
+      {
+        "q": "300 ml",
+        "item": "caldo de pollo",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "2",
+        "item": "hojas de laurel",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "1 cdta",
+        "item": "tomillo seco",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 cda",
+        "item": "maicena + 2 cda de agua fría",
+        "es": "maicena"
+      },
+      {
+        "q": "",
+        "item": "sal y pimienta",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Corta las patatas y las zanahorias en trozos grandes de 3 cm y ponlas en el fondo de la olla lenta. Ahí es donde más calienta.",
+      "Espolvorea el pollo con sal, pimienta y tomillo y dóralo brevemente en aceite. Añade las cebollas y rehoga 2 minutos más.",
+      "Coloca el pollo y la cebolla sobre las verduras, vierte el caldo y añade el laurel. Llena la olla como mucho hasta tres cuartos.",
+      "Cocina 5–6 h en LOW o 3 h en HIGH con la tapa cerrada, hasta que las patatas estén tiernas y el pollo alcance 75 °C.",
+      "En la última media hora, incorpora la maicena disuelta en 2 cda de agua fría. Retira el laurel y sirve."
+    ],
+    "tip": "El contramuslo queda jugoso durante la cocción larga; la pechuga se queda seca. Corta los trozos grandes para que no se deshagan. Un poco de perejil fresco por encima le da color.",
+    "kids": "Chafa la patata y la zanahoria con un poco de salsa: un puré fácil y de toda la vida.",
+    "freeze": false,
+    "guid": "40b795f9-cc5c-41ef-8112-d804baa8558a"
+  },
+  {
+    "id": 30,
+    "title": "Guiso italiano de carne picada y verduras",
+    "slug": "guiso-italiano-de-carne-picada-y-verduras",
+    "chapter": "Favoritos económicos",
+    "price": "8–10",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 h",
+    "high": "3 h",
+    "intro": "Un guiso rústico y lleno de color de carne picada y verduras en trozos con salsa de tomate: buenísimo con pasta o con arroz, y amable con tu bolsillo.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "carne picada mixta (cerdo y ternera)",
+        "es": "carne picada mixta (cerdo y vacuno)"
+      },
+      {
+        "q": "400 g",
+        "item": "tomate troceado (lata o brik)",
+        "es": "tomate troceado"
+      },
+      {
+        "q": "1",
+        "item": "cebolla, picada",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "zanahorias, en rodajas",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "calabacín, en dados de 3 cm",
+        "es": "calabacín"
+      },
+      {
+        "q": "2",
+        "item": "dientes de ajo, prensados",
+        "es": "ajo"
+      },
+      {
+        "q": "2 cdta",
+        "item": "hierbas italianas",
+        "es": "hierbas italianas (o orégano y albahaca)"
+      },
+      {
+        "q": "200 ml",
+        "item": "caldo de verduras",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 cda",
+        "item": "aceite de oliva, sal y pimienta",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "pasta o arroz",
+        "es": "pasta o arroz"
+      }
+    ],
+    "steps": [
+      "Dora la carne picada con la cebolla y el ajo en aceite de oliva, desmenuzándola. Salpimienta.",
+      "Pon la zanahoria en el fondo de la olla lenta y la carne encima.",
+      "Añade el tomate troceado, el caldo y las hierbas, y remueve. Coloca el calabacín por encima; así queda más entero.",
+      "Cocina 5–6 h en LOW o 3 h en HIGH con la tapa cerrada.",
+      "Remueve todo y prueba. Mientras tanto, cuece la pasta o el arroz y sirve el guiso generosamente por encima."
+    ],
+    "tip": "¿Te sobra? Al día siguiente, ponlo en una fuente de horno, espolvorea queso y hornea 15 minutos a 200 °C: un gratinado gratis.",
+    "kids": "Elige pasta pequeña y corta el calabacín más pequeño: perfecto para comer a cucharadas.",
+    "freeze": true,
+    "guid": "788c3a44-0904-4481-8906-9e0e89584b53"
+  }
+]

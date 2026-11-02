@@ -1,0 +1,2699 @@
+[
+  {
+    "id": 1,
+    "title": "Holländischer Rindfleischeintopf",
+    "slug": "hollaendischer-rindfleischeintopf",
+    "chapter": "Niederländisch & Europäisch",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 Min.",
+    "low": "8–9 Std.",
+    "high": "5–6 Std.",
+    "intro": "Butterzartes Rindfleisch, süße Möhren und Kartoffeln in einer mild-säuerlichen Soße: holländisches Winteressen, bei dem das ganze Haus herrlich duftet.",
+    "ingredients": [
+      {
+        "q": "1 EL",
+        "item": "Mehl",
+        "es": "harina de trigo"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "500 g",
+        "item": "Rindergulasch (Querrippe), in 4-cm-Würfeln",
+        "es": "carne para guisar (morcillo o aguja de ternera)"
+      },
+      {
+        "q": "600 g",
+        "item": "festkochende Kartoffeln (3 große)",
+        "es": "patatas para guisar"
+      },
+      {
+        "q": "3",
+        "item": "Möhren",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2",
+        "item": "Zwiebeln, in halben Ringen",
+        "es": "cebollas"
+      },
+      {
+        "q": "250 ml",
+        "item": "Rinderbrühe",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 EL",
+        "item": "Senf",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 EL",
+        "item": "Essig",
+        "es": "vinagre de vino"
+      },
+      {
+        "q": "1 TL",
+        "item": "brauner Zucker",
+        "es": "azúcar moreno"
+      },
+      {
+        "q": "2",
+        "item": "Lorbeerblätter",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "",
+        "item": "Salz und Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Bestreue das Fleisch mit Mehl, Salz und Pfeffer. Brate es in zwei Portionen in heißem Öl rundherum braun an; so bekommst du Geschmack und eine gebundene Soße.",
+      "Schneide Kartoffeln und Möhren in grobe Stücke und lege sie unten in den Slowcooker, wo es am heißesten ist. Lege das Fleisch darauf.",
+      "Dünste die Zwiebeln 3 Minuten in derselben Pfanne an. Lösche mit Brühe, Senf, Essig und Zucker ab und kratze den Bratensatz los.",
+      "Gieß das über das Fleisch, leg die Lorbeerblätter dazu und schließ den Deckel. Gare alles 8–9 Stunden auf LOW oder 5–6 Stunden auf HIGH.",
+      "Fisch die Lorbeerblätter heraus und schmecke ab: mit Salz, Pfeffer und eventuell einem Schuss Essig. Das Fleisch sollte zerfallen."
+    ],
+    "tip": "Nimm festkochende Kartoffeln in großen Stücken, dann bleiben sie ganz. Ist die Soße zu dünn? Zerdrücke ein paar Kartoffelstücke und rühre sie unter: Bindung zum Nulltarif.",
+    "kids": "Zerdrücke Fleisch, Kartoffel und Möhre mit etwas Soße: ein vertrautes Stampfgericht für kleine Esser.",
+    "freeze": false,
+    "guid": "de4db3ca-b57f-4e0a-9d68-825e1bc83bc9",
+    "cuisine": "dutch",
+    "protein": "beef",
+    "side": "potato"
+  },
+  {
+    "id": 2,
+    "title": "Spanische Lentejas mit Chorizo",
+    "slug": "spanische-lentejas-mit-chorizo",
+    "chapter": "Spanisch & Mediterran",
+    "price": "7–9",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "6–7 Std.",
+    "high": "3–4 Std.",
+    "intro": "So isst ganz Spanien an einem normalen Wochentag: ein dicker, rauchiger Linseneintopf, bei dem du den Topf mit einem Stück Brot auswischst.",
+    "ingredients": [
+      {
+        "q": "1 EL",
+        "item": "Olivenöl",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "250 g",
+        "item": "Pardina-Linsen, abgespült",
+        "es": "lentejas pardinas"
+      },
+      {
+        "q": "100 g",
+        "item": "milde Chorizo, in Scheiben",
+        "es": "chorizo dulce (sarta)"
+      },
+      {
+        "q": "1 + 2",
+        "item": "Zwiebel + Knoblauchzehen",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "2",
+        "item": "Möhren",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2 (± 400 g)",
+        "item": "Kartoffeln",
+        "es": "patatas"
+      },
+      {
+        "q": "200 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "900 ml",
+        "item": "Gemüsebrühe",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 TL",
+        "item": "edelsüßes Paprikapulver",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1",
+        "item": "Lorbeerblatt",
+        "es": "hoja de laurel"
+      },
+      {
+        "q": "1 EL",
+        "item": "Sherry- oder Weinessig",
+        "es": "vinagre de Jerez"
+      },
+      {
+        "q": "",
+        "item": "Salz und Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "Baguette oder Bauernbrot",
+        "es": "barra de pan / pan rústico"
+      }
+    ],
+    "steps": [
+      "Spüle die Linsen in einem Sieb, bis das Wasser klar ist; Einweichen ist nicht nötig. Schäle Kartoffeln und Möhren und schneide sie in 2-cm-Würfel.",
+      "Brate die Chorizo 2 Minuten im Olivenöl an und dünste Zwiebel und Knoblauch 3 Minuten mit. Rühre das Paprikapulver neben dem Herd unter; es verbrennt schnell.",
+      "Gib alles mit Linsen, Gemüse, Tomaten, Lorbeer und Brühe in den Slowcooker. Noch nicht salzen: Das machst du am Ende.",
+      "Gare alles 6–7 Stunden auf LOW oder 3–4 Stunden auf HIGH bei geschlossenem Deckel, bis die Linsen ganz weich sind.",
+      "Zu dick? Rühre etwas heißes Wasser unter. Nimm das Lorbeerblatt heraus und schmecke mit Salz, Pfeffer und dem Essig ab."
+    ],
+    "tip": "Drücke ein paar Kartoffelwürfel an der Topfwand platt und rühre sie unter: So wird der Eintopf ganz von selbst cremig. Der Schuss Sherryessig am Ende vertieft den Geschmack, genau wie bei spanischen Omas.",
+    "kids": "Nimm chorizo dulce, nie picante. Wer es scharf mag, streut etwas pimentón picante auf den eigenen Teller.",
+    "freeze": true,
+    "guid": "74b6ccef-6f45-4c90-ba24-f02a771f6a00",
+    "cuisine": "spanish",
+    "protein": "pork",
+    "side": "bread"
+  },
+  {
+    "id": 3,
+    "title": "Cremiges Paprika-Hähnchen mit Reis",
+    "slug": "cremiges-paprika-haehnchen-mit-reis",
+    "chapter": "Niederländisch & Europäisch",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "4–5 Std.",
+    "high": "2–3 Std.",
+    "intro": "Zarte Hähnchenschenkel in einer samtigen, süßen Paprika-Sahnesoße voller Gemüse: bunt auf dem Teller und immer ein Volltreffer.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet, in großen Stücken",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "2",
+        "item": "Paprikaschoten (rot und gelb), in Streifen",
+        "es": "pimiento rojo y amarillo"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, in halben Ringen",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in dünnen Scheiben",
+        "es": "zanahorias"
+      },
+      {
+        "q": "150 g",
+        "item": "Champignons, in Scheiben",
+        "es": "champiñones laminados"
+      },
+      {
+        "q": "1 EL",
+        "item": "Tomatenmark",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 TL",
+        "item": "edelsüßes Paprikapulver",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 TL",
+        "item": "Oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "150 ml",
+        "item": "Hühnerbrühe",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "150 ml",
+        "item": "Kochsahne",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 EL",
+        "item": "Speisestärke + 2 EL kaltes Wasser",
+        "es": "maicena"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl, Salz und Pfeffer",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Reis",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Bestreue das Hähnchen mit Salz, Pfeffer und der Hälfte des Paprikapulvers. Brate die Stücke kurz in Öl goldbraun an; durch müssen sie noch nicht sein.",
+      "Lege Möhren und Zwiebel unten in den Slowcooker, darauf Paprika, Champignons und Hähnchen. Verrühre Brühe, Tomatenmark, restliches Paprikapulver und Oregano und gieß es darüber.",
+      "Gare alles 4–5 Stunden auf LOW oder 2–3 Stunden auf HIGH bei geschlossenem Deckel. Das Hähnchen ist gar, wenn es im Kern 75 °C erreicht.",
+      "Rühre in der letzten halben Stunde die Kochsahne und die mit 2 EL kaltem Wasser angerührte Speisestärke unter. Lass alles bei geschlossenem Deckel weitergaren.",
+      "Koche inzwischen den Reis nach Packungsanweisung und gib das Hähnchen mit Soße darüber."
+    ],
+    "tip": "Der Löffel Tomatenmark ist mein Geheimnis: Er gibt der Paprikasoße Tiefe und eine warme Farbe, ohne nach Tomate zu schmecken.",
+    "kids": "Keine Champignon-Fans? Schneide sie ganz fein, dann verschwinden sie unbemerkt in der Soße.",
+    "freeze": true,
+    "guid": "2ae51557-e9c0-4e78-8dd4-e6a2ea8a832d",
+    "cuisine": "european",
+    "protein": "chicken",
+    "side": "rice"
+  },
+  {
+    "id": 4,
+    "title": "Hackbällchen in italienischer Tomatensoße",
+    "slug": "hackbaellchen-in-italienischer-tomatensosse",
+    "chapter": "Niederländisch & Europäisch",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 Min.",
+    "low": "4–5 Std.",
+    "high": "2–3 Std.",
+    "intro": "Saftige Hackbällchen, die stundenlang sanft in einer süßen Tomatensoße mit verstecktem Gemüse köcheln: ein Fest für jedes Kind.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "gemischtes Hackfleisch",
+        "es": "carne picada mixta (cerdo y vacuno)"
+      },
+      {
+        "q": "1",
+        "item": "Ei",
+        "es": "huevo"
+      },
+      {
+        "q": "3 EL",
+        "item": "Paniermehl",
+        "es": "pan rallado"
+      },
+      {
+        "q": "2 EL",
+        "item": "geriebener Parmesan",
+        "es": "queso parmesano rallado"
+      },
+      {
+        "q": "2 TL",
+        "item": "italienische Kräuter",
+        "es": "hierbas italianas (o orégano y albahaca)"
+      },
+      {
+        "q": "400 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1 EL",
+        "item": "Tomatenmark",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, fein gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "Möhre, fein gerieben",
+        "es": "zanahoria"
+      },
+      {
+        "q": "2",
+        "item": "Knoblauchzehen, gepresst",
+        "es": "ajo"
+      },
+      {
+        "q": "1 TL",
+        "item": "Oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "1 EL",
+        "item": "Olivenöl, Salz und Pfeffer",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "100 ml",
+        "item": "Wasser",
+        "es": "agua"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Spaghetti",
+        "es": "espaguetis"
+      }
+    ],
+    "steps": [
+      "Verknete Hackfleisch, Ei, Paniermehl, Parmesan, 1 TL italienische Kräuter, Salz und Pfeffer kurz miteinander. Forme mit nassen Händen etwa 20 Bällchen.",
+      "Brate die Bällchen in Olivenöl rundherum braun an. Durch müssen sie nicht sein; die Kruste gibt Geschmack und hält sie zusammen.",
+      "Verrühre Tomaten, Tomatenmark, Zwiebel, Möhre, Knoblauch, Oregano und die restlichen Kräuter im Slowcooker. Spüle die Packung mit 100 ml Wasser aus und gib es dazu.",
+      "Lege die Bällchen in die Soße und heb sie vorsichtig unter. Gare alles 4–5 Stunden auf LOW oder 2–3 Stunden auf HIGH.",
+      "Koche die Spaghetti al dente, schmecke die Soße mit Salz und Pfeffer ab und serviere alles mit einer extra Prise Parmesan."
+    ],
+    "tip": "Knete das Hackfleisch so kurz wie möglich: Je weniger du knetest, desto zarter werden die Bällchen. Sie sind gar, wenn sie innen nicht mehr rosa sind.",
+    "kids": "Lass die Kinder die Bällchen selbst formen; Selbstgemachtes schmeckt doppelt so gut. Für Erwachsene: Chiliflocken auf den Tisch.",
+    "freeze": true,
+    "guid": "b33dd976-1781-4cf7-9332-d479015ac358",
+    "cuisine": "italian",
+    "protein": "mince",
+    "side": "pasta"
+  },
+  {
+    "id": 5,
+    "title": "Pulled-Chicken-Wraps",
+    "slug": "pulled-chicken-wraps",
+    "chapter": "Küchen der Welt",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "10 Min.",
+    "low": "4–5 Std.",
+    "high": "2–3 Std.",
+    "intro": "Süß-rauchiges Hähnchen, das ganz von selbst zerfällt: Jeder rollt am Tisch seinen eigenen Wrap, und die Schüssel ist im Nu leer.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, in Ringen",
+        "es": "cebolla"
+      },
+      {
+        "q": "200 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 EL",
+        "item": "Tomatenmark",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "1 EL",
+        "item": "Honig",
+        "es": "miel"
+      },
+      {
+        "q": "1 TL",
+        "item": "Senf",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 EL",
+        "item": "Apfelessig",
+        "es": "vinagre de manzana"
+      },
+      {
+        "q": "2 TL",
+        "item": "geräuchertes Paprikapulver (süß)",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 TL",
+        "item": "Knoblauchpulver",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "",
+        "item": "Salz und Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "8",
+        "item": "Wraps",
+        "es": "tortillas de trigo"
+      },
+      {
+        "q": "1 kleine Dose + ½",
+        "item": "Mais + Gurke",
+        "es": "maíz dulce + pepino"
+      },
+      {
+        "q": "200 g",
+        "item": "griechischer Joghurt",
+        "es": "yogur griego natural"
+      }
+    ],
+    "steps": [
+      "Verrühre Tomaten, Tomatenmark, Honig, Senf, Essig, Paprika- und Knoblauchpulver mit Salz und Pfeffer im Slowcooker.",
+      "Lege die Zwiebel hinein und das Hähnchen darauf. Löffle die Soße über das Hähnchen, sodass alles bedeckt ist.",
+      "Gare alles 4–5 Stunden auf LOW oder 2–3 Stunden auf HIGH bei geschlossenem Deckel, bis das Hähnchen 75 °C erreicht und leicht zerfällt.",
+      "Zupfe das Hähnchen im Topf mit zwei Gabeln auseinander und rühre es unter die Soße. Zu dünn? Lass sie 20 Minuten ohne Deckel auf HIGH eindicken.",
+      "Erwärme die Wraps kurz in einer trockenen Pfanne. Jeder füllt sich selbst Hähnchen, Mais, Gurke und einen Löffel Joghurt ein."
+    ],
+    "tip": "Nimm Hähnchenschenkel, keine Hähnchenbrust: Schenkel bleiben saftig und lassen sich schön zupfen, Brust wird trocken und faserig. Reste schmecken am nächsten Tag herrlich in einem Toastie.",
+    "kids": "Lass die Kinder ihre Wraps selbst rollen. Für Erwachsene: ein paar Tropfen Tabasco oder Jalapeño dazu.",
+    "freeze": true,
+    "guid": "3fd8fe08-b3df-4177-ba6a-e0dd9e7f4314",
+    "cuisine": "mexican",
+    "protein": "chicken",
+    "side": "tortilla"
+  },
+  {
+    "id": 6,
+    "title": "Bolognese mit extra Gemüse",
+    "slug": "bolognese-mit-extra-gemuese",
+    "chapter": "Niederländisch & Europäisch",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "6–7 Std.",
+    "high": "3–4 Std.",
+    "intro": "Eine reichhaltige, kräftig-tomatige Bolognese, in der Zucchini, Möhre und Sellerie still verschwinden: Gemüse essen, ohne dass es jemand merkt.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "Rinderhackfleisch",
+        "es": "carne picada de vacuno"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "Möhren",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "Zucchini",
+        "es": "calabacín"
+      },
+      {
+        "q": "2",
+        "item": "Stangen Staudensellerie",
+        "es": "apio"
+      },
+      {
+        "q": "400 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 EL",
+        "item": "Tomatenmark",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "Rinderbrühe",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 TL + 1 TL",
+        "item": "Oregano und Basilikum",
+        "es": "orégano y albahaca"
+      },
+      {
+        "q": "1",
+        "item": "Lorbeerblatt",
+        "es": "hoja de laurel"
+      },
+      {
+        "q": "1 EL",
+        "item": "Olivenöl, Salz und Pfeffer",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Spaghetti",
+        "es": "espaguetis"
+      }
+    ],
+    "steps": [
+      "Brate das Hackfleisch in einer heißen Pfanne in Olivenöl krümelig und braun. Lass es kurz liegen, bevor du rührst; so entstehen aromatische Röststellen.",
+      "Hacke Zwiebel und Sellerie fein und raspele Möhre und Zucchini grob. Je feiner, desto weniger finden die Kinder sie wieder.",
+      "Gib Hackfleisch, Gemüse, Tomaten, Tomatenmark, Brühe, Kräuter und Lorbeer in den Slowcooker. Gut umrühren und mit Salz und Pfeffer abschmecken.",
+      "Gare alles 6–7 Stunden auf LOW oder 3–4 Stunden auf HIGH. Zu dünn? Lege den Deckel in den letzten 30 Minuten nur schräg auf.",
+      "Nimm das Lorbeerblatt heraus, koche die Spaghetti al dente und gib die Soße großzügig darüber."
+    ],
+    "tip": "Rühre kurz vor dem Servieren einen Schuss Nudelkochwasser in die Soße: Sie wird glänzend und haftet besser an den Spaghetti. Ein echter italienischer Trick.",
+    "kids": "Püriere die Soße kurz mit dem Stabmixer: superglatt, und das Gemüse ist unsichtbar.",
+    "freeze": true,
+    "guid": "da6c0a07-bb65-4657-8cac-05dd55cf333e",
+    "cuisine": "italian",
+    "protein": "mince",
+    "side": "pasta"
+  },
+  {
+    "id": 7,
+    "title": "Milder Chili con Carne",
+    "slug": "milder-chili-con-carne",
+    "chapter": "Küchen der Welt",
+    "price": "9–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "5–6 Std.",
+    "high": "3 Std.",
+    "intro": "Ein warmer, tiefgründiger Chili ohne brennende Schärfe: Soulfood, von dem Kinder ganz selbstverständlich einen zweiten Teller wollen.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "Hackfleisch (Rind oder gemischt)",
+        "es": "carne picada de vacuno / mixta"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "rote Paprika, in Würfeln",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2 Zehen",
+        "item": "Knoblauch",
+        "es": "ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 EL",
+        "item": "Tomatenmark",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "Rinderbrühe",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 Dose (400 g)",
+        "item": "Kidneybohnen, abgespült",
+        "es": "alubias rojas cocidas"
+      },
+      {
+        "q": "150 g",
+        "item": "Mais",
+        "es": "maíz dulce"
+      },
+      {
+        "q": "2 TL",
+        "item": "edelsüßes Paprikapulver",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 TL",
+        "item": "gemahlener Kreuzkümmel",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 EL",
+        "item": "Olivenöl + Salz und Pfeffer",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Reis",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Brate das Hackfleisch in Öl bei starker Hitze krümelig und braun; lass es richtig Farbe nehmen, das ist Geschmack. Dünste Zwiebel, Paprika und Knoblauch 3 Minuten mit.",
+      "Rühre Paprikapulver, Kreuzkümmel und Tomatenmark neben dem Herd unter und gib alles in den Slowcooker.",
+      "Gib Tomaten, Brühe und die abgespülten Kidneybohnen dazu. Mit Salz und Pfeffer abschmecken, umrühren und den Deckel schließen.",
+      "Gare alles 5–6 Stunden auf LOW oder 3 Stunden auf HIGH. Rühre den Mais in der letzten halben Stunde unter, damit er knackig bleibt.",
+      "Koche inzwischen den Reis. Probiere den Chili, schmecke ihn ab und serviere."
+    ],
+    "tip": "Nimm immer Kidneybohnen aus der Dose oder dem Glas: Getrocknete werden im Slowcooker nicht heiß genug, um sicher zu sein. Und koch ruhig einen Tag vorher, dann schmeckt Chili noch besser.",
+    "kids": "Kinder essen ihn so, wie er ist; Erwachsene streuen Chiliflocken oder Jalapeño auf ihren Teller.",
+    "freeze": true,
+    "guid": "97be1c7e-dc53-40dd-90c2-157d99094a29",
+    "cuisine": "mexican",
+    "protein": "mince",
+    "side": "rice"
+  },
+  {
+    "id": 8,
+    "title": "Spanischer Hähncheneintopf mit Kichererbsen",
+    "slug": "spanischer-haehncheneintopf-mit-kichererbsen",
+    "chapter": "Spanisch & Mediterran",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "4–5 Std.",
+    "high": "2–3 Std.",
+    "intro": "Goldbraunes Hähnchen, cremige Kichererbsen und süße Paprika in einer Tomatensoße, die nach einer andalusischen Dorfküche duftet.",
+    "ingredients": [
+      {
+        "q": "1 EL",
+        "item": "Olivenöl",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "500 g",
+        "item": "Hähnchenschenkelfilet, in großen Stücken",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 Glas/Dose",
+        "item": "Kichererbsen (± 250 g abgetropft)",
+        "es": "garbanzos cocidos"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in Würfeln",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2 (± 400 g)",
+        "item": "Kartoffeln, in Würfeln",
+        "es": "patatas"
+      },
+      {
+        "q": "1 + 2",
+        "item": "Zwiebel + Knoblauchzehen",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "200 ml",
+        "item": "Hühnerbrühe",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 TL",
+        "item": "edelsüßes Paprikapulver",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "½ TL",
+        "item": "gemahlener Kreuzkümmel",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 TL",
+        "item": "getrockneter Oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "",
+        "item": "Salz und Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "Baguette",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Bestreue das Hähnchen mit Salz und Pfeffer und brate es 3–4 Minuten in Olivenöl goldbraun an; durch muss es noch nicht sein.",
+      "Dünste Zwiebel und Knoblauch 3 Minuten im selben Fett an. Rühre Paprikapulver, Kreuzkümmel und Oregano neben dem Herd unter.",
+      "Lege Kartoffeln und Möhren (2-cm-Würfel) unten in den Slowcooker, darauf die abgespülten Kichererbsen, das Hähnchen und die Zwiebel. Gieß Tomaten und Brühe darüber.",
+      "Gare alles 4–5 Stunden auf LOW oder 2–3 Stunden auf HIGH bei geschlossenem Deckel, bis die Kartoffeln weich sind und das Hähnchen 75 °C erreicht.",
+      "Probiere und schmecke mit Salz und Pfeffer ab. Zu dünn? Zerdrücke einen Löffel Kichererbsen und rühre sie unter."
+    ],
+    "tip": "Kartoffeln und Möhren kommen nach unten: Dort ist der Slowcooker am heißesten, und hartes Gemüse braucht die meiste Zeit. Spüle die Kichererbsen gut ab, das Einlegewasser schmeckt salzig und dumpf.",
+    "kids": "Mild und weich, ideal zum Zerdrücken. Für Erwachsene: eine Prise pimentón picante auf den Tisch.",
+    "freeze": true,
+    "guid": "7626cd17-7d39-45d7-8fcb-0ef8c0a5e93d",
+    "cuisine": "spanish",
+    "protein": "chicken",
+    "side": "bread"
+  },
+  {
+    "id": 9,
+    "title": "Kartoffel-Lauch-Suppe",
+    "slug": "kartoffel-lauch-suppe",
+    "chapter": "Niederländisch & Europäisch",
+    "price": "7–9",
+    "spice": 1,
+    "vega": true,
+    "prep": "15 Min.",
+    "low": "5–6 Std.",
+    "high": "3–4 Std.",
+    "intro": "Samtig-cremige Suppe aus Lauch und Kartoffeln: einfach, günstig und genau das Richtige an einem frischen Herbstabend.",
+    "ingredients": [
+      {
+        "q": "800 g",
+        "item": "mehligkochende Kartoffeln, in Würfeln",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "2",
+        "item": "Stangen Lauch",
+        "es": "puerros"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel",
+        "es": "cebolla"
+      },
+      {
+        "q": "1 EL",
+        "item": "Butter",
+        "es": "mantequilla"
+      },
+      {
+        "q": "1 Liter",
+        "item": "Gemüsebrühe",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "150 ml",
+        "item": "Kochsahne",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "Prise",
+        "item": "Muskatnuss",
+        "es": "nuez moscada"
+      },
+      {
+        "q": "",
+        "item": "Salz und Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Schneide den Lauch in Ringe und spüle ihn gründlich in einem Sieb: Zwischen den Schichten sitzt oft Sand. Würfle die Zwiebel.",
+      "Dünste Lauch und Zwiebel 5 Minuten sanft in der Butter an, ohne dass sie Farbe nehmen. Das gibt der Suppe einen süßen, runden Geschmack.",
+      "Gib Lauch, Zwiebel, Kartoffeln und Brühe in den Slowcooker, höchstens zu drei Vierteln gefüllt. Gare alles 5–6 Stunden auf LOW oder 3–4 Stunden auf HIGH.",
+      "Püriere die Suppe mit dem Stabmixer glatt. Halte den Mixkopf unter der Oberfläche, dann spritzt es nicht.",
+      "Rühre die Kochsahne unter und lass alles 10 Minuten durchziehen. Mit Salz, Pfeffer und einer Prise Muskatnuss abschmecken."
+    ],
+    "tip": "Mixe nur kurz: Zu langes Pürieren macht Kartoffeln kleisterig. Einfrieren? Mach das, bevor die Sahne dazukommt, und rühre sie nach dem Aufwärmen unter.",
+    "kids": "Serviere Streifen von geröstetem Käsebrot dazu, zum Eintunken in die Suppe.",
+    "freeze": true,
+    "guid": "686aaa64-626c-46cc-aab4-7e4545b149e5",
+    "cuisine": "dutch",
+    "protein": "veg",
+    "side": "bread"
+  },
+  {
+    "id": 10,
+    "title": "Mildes Hähnchencurry mit Kokosmilch",
+    "slug": "mildes-haehnchencurry-mit-kokosmilch",
+    "chapter": "Küchen der Welt",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "4–5 Std.",
+    "high": "2–3 Std.",
+    "intro": "Samtiges, goldgelbes Curry mit einem süßen Hauch Apfel: das Curry, mit dem sich deine Kinder in die Küchen der Welt verlieben.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet, in Stücken",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "400 ml",
+        "item": "Kokosmilch (vollfett)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in Scheiben",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "rote Paprika, in Würfeln",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1",
+        "item": "süßer Apfel, in Würfeln",
+        "es": "manzana golden"
+      },
+      {
+        "q": "2 EL",
+        "item": "mildes Currypulver",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 TL",
+        "item": "Knoblauchpulver",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "1 EL + 2 EL",
+        "item": "Speisestärke + kaltes Wasser",
+        "es": "maicena"
+      },
+      {
+        "q": "",
+        "item": "Salz",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Reis",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Dünste die Zwiebel 3 Minuten in Öl an und röste Curry- und Knoblauchpulver 30 Sekunden mit, bis es duftet. So verschwindet der rohe Gewürzgeschmack.",
+      "Gib Hähnchen, Möhren, Paprika und Apfel in den Slowcooker. Verteile die Curry-Zwiebeln darüber, gieß die Hälfte der Kokosmilch dazu und salze.",
+      "Gare alles 4–5 Stunden auf LOW oder 2–3 Stunden auf HIGH bei geschlossenem Deckel, bis das Hähnchen 75 °C erreicht.",
+      "Rühre in der letzten halben Stunde die restliche Kokosmilch und die mit kaltem Wasser angerührte Speisestärke unter. Stell auf HIGH und lass alles bei geschlossenem Deckel binden.",
+      "Koche inzwischen den Reis, schmecke das Curry mit Salz ab und serviere."
+    ],
+    "tip": "Gewürze entfalten ihr Aroma erst richtig in heißem Öl, also röste das Currypulver immer kurz mit. Die zweite Hälfte Kokosmilch am Ende macht die Soße besonders cremig und frisch.",
+    "kids": "Der Apfel macht die Soße sanft-süß. Für Erwachsene: Sambal oder Chiliflocken auf den Tisch.",
+    "freeze": true,
+    "guid": "b3948253-8718-410d-88a3-93c75312875a",
+    "cuisine": "indian",
+    "protein": "chicken",
+    "side": "rice"
+  },
+  {
+    "id": 11,
+    "title": "Marokkanischer Hähncheneintopf mit Ras el Hanout",
+    "slug": "marokkanischer-haehncheneintopf-mit-ras-el-hanout",
+    "chapter": "Küchen der Welt",
+    "price": "9–11",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "4–5 Std.",
+    "high": "2–3 Std.",
+    "intro": "Zimt, Ras el Hanout und süße Aprikosen erfüllen deine Küche mit dem Duft eines marokkanischen Souks.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet, in großen Stücken",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 + 2",
+        "item": "Zwiebel + Knoblauchzehen",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in Scheiben",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "Zucchini, in Würfeln",
+        "es": "calabacín"
+      },
+      {
+        "q": "1 Glas/Dose",
+        "item": "Kichererbsen, abgespült",
+        "es": "garbanzos cocidos"
+      },
+      {
+        "q": "200 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "150 ml",
+        "item": "Hühnerbrühe",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 EL",
+        "item": "Ras el Hanout",
+        "es": "ras el hanout"
+      },
+      {
+        "q": "½ TL",
+        "item": "Zimt",
+        "es": "canela molida"
+      },
+      {
+        "q": "50 g",
+        "item": "getrocknete Aprikosen, halbiert",
+        "es": "orejones de albaricoque"
+      },
+      {
+        "q": "1 EL",
+        "item": "Olivenöl + Salz und Pfeffer",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g + 300 ml",
+        "item": "Couscous + kochende Brühe",
+        "es": "cuscús"
+      }
+    ],
+    "steps": [
+      "Bestreue das Hähnchen mit Salz und brate es 3 Minuten in Olivenöl an. Dünste Zwiebel und Knoblauch mit und röste Ras el Hanout und Zimt 30 Sekunden mit.",
+      "Gib Möhren, Kichererbsen, Aprikosen und die Hähnchenmischung in den Slowcooker. Gieß Tomaten und Brühe darüber.",
+      "Gare alles 4–5 Stunden auf LOW oder 2–3 Stunden auf HIGH bei geschlossenem Deckel, bis das Hähnchen 75 °C erreicht.",
+      "Lege die Zucchini in der letzten Stunde obenauf und schließ schnell den Deckel; so bleibt sie ganz und schön grün.",
+      "Gieß die kochende Brühe über den Couscous, lass ihn 5 Minuten abgedeckt quellen und lockere ihn mit einer Gabel auf."
+    ],
+    "tip": "Ras el Hanout ist je nach Marke verschieden: mal süß-blumig, mal würzig-scharf. Riech daran, fang mit 1 Esslöffel an und rühre am Ende ruhig noch etwas mehr unter.",
+    "kids": "Die Aprikosen machen es mild und süß. Für Erwachsene: ein Löffelchen Harissa auf den eigenen Teller.",
+    "freeze": true,
+    "guid": "79338300-57c2-4965-a6cf-5de2b713a476",
+    "cuisine": "moroccan",
+    "protein": "chicken",
+    "side": "couscous"
+  },
+  {
+    "id": 12,
+    "title": "Schmorfleisch mit Kartoffelpüree",
+    "slug": "schmorfleisch-mit-kartoffelpueree",
+    "chapter": "Niederländisch & Europäisch",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 Min.",
+    "low": "8–9 Std.",
+    "high": "5–6 Std.",
+    "intro": "Schmorfleisch wie bei Oma: zart in Fasern zerfallend, in einer glänzenden, süß-sauren Soße, mit einem Berg cremigem Püree daneben.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Schmorfleisch (Rinderwade oder Querrippe), in Würfeln",
+        "es": "carne para guisar (morcillo)"
+      },
+      {
+        "q": "2",
+        "item": "Zwiebeln, in halben Ringen",
+        "es": "cebollas"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in Stücken",
+        "es": "zanahorias"
+      },
+      {
+        "q": "250 ml",
+        "item": "Rinderbrühe",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 EL",
+        "item": "Senf",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 EL",
+        "item": "Essig",
+        "es": "vinagre de vino"
+      },
+      {
+        "q": "1 EL",
+        "item": "brauner Zucker",
+        "es": "azúcar moreno"
+      },
+      {
+        "q": "2",
+        "item": "Lorbeerblätter",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "2 Zweige",
+        "item": "Thymian (oder 1 TL getrocknet)",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 EL",
+        "item": "Speisestärke + 2 EL kaltes Wasser",
+        "es": "maicena"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl, Salz und Pfeffer",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "1 kg",
+        "item": "mehligkochende Kartoffeln",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "150 ml",
+        "item": "warme Milch",
+        "es": "leche"
+      },
+      {
+        "q": "30 g",
+        "item": "Butter",
+        "es": "mantequilla"
+      }
+    ],
+    "steps": [
+      "Tupfe das Fleisch trocken, bestreue es mit Salz und Pfeffer und brate es in kleinen Portionen in Öl rundherum dunkelbraun an. Lege es in den Slowcooker.",
+      "Brate die Zwiebeln in derselben Pfanne goldbraun. Lösche mit Brühe, Senf, Essig und Zucker ab und kratze den ganzen Bratensatz los.",
+      "Gieß das über das Fleisch, gib Möhren, Lorbeer und Thymian dazu und schließ den Deckel. Gare alles 8–9 Stunden auf LOW oder 5–6 Stunden auf HIGH.",
+      "Rühre in der letzten halben Stunde die mit 2 EL kaltem Wasser angerührte Speisestärke in die Soße. Fisch Lorbeer und Thymianstiele heraus.",
+      "Koche inzwischen die Kartoffeln gar, gieß sie ab und stampfe sie mit warmer Milch, Butter und Salz zu cremigem Püree."
+    ],
+    "tip": "Das dunkle Anbraten ist alles: Brate in kleinen Portionen, sonst kocht das Fleisch, statt Farbe zu nehmen. Soll es extra holländisch sein? Gib 2 Gewürznelken dazu.",
+    "kids": "Drück eine Mulde ins Püree und füll Soße hinein: ein kleiner Vulkan. Kinder lieben das.",
+    "freeze": true,
+    "guid": "0452c948-9f3f-4b9b-91f2-f2dfac88483f",
+    "cuisine": "dutch",
+    "protein": "beef",
+    "side": "potato"
+  },
+  {
+    "id": 13,
+    "title": "Pulled-Pork-Tacos",
+    "slug": "pulled-pork-tacos",
+    "chapter": "Küchen der Welt",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "8–9 Std.",
+    "high": "5–6 Std.",
+    "intro": "Stundenlang gegarte Schweineschulter in einer klebrigen, rauchigen Soße: Stell eine Taco-Bar auf den Tisch und lass jeden selbst bauen.",
+    "ingredients": [
+      {
+        "q": "800 g",
+        "item": "Schweineschulter ohne Knochen",
+        "es": "paleta de cerdo / aguja"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, in Ringen",
+        "es": "cebolla"
+      },
+      {
+        "q": "150 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 EL",
+        "item": "Tomatenmark",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 EL",
+        "item": "Honig",
+        "es": "miel"
+      },
+      {
+        "q": "2 EL",
+        "item": "Apfelessig",
+        "es": "vinagre de manzana"
+      },
+      {
+        "q": "2 TL",
+        "item": "geräuchertes Paprikapulver (süß)",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 TL",
+        "item": "gemahlener Kreuzkümmel",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 TL",
+        "item": "Knoblauchpulver",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "1 TL",
+        "item": "Salz + Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "8–12",
+        "item": "kleine Tortillas",
+        "es": "tortillas de trigo o maíz"
+      },
+      {
+        "q": "",
+        "item": "Mais, Tomate und Gurke",
+        "es": "maíz dulce, tomate, pepino"
+      },
+      {
+        "q": "200 g",
+        "item": "griechischer Joghurt",
+        "es": "yogur griego natural"
+      }
+    ],
+    "steps": [
+      "Schneide das Fleisch in 4 große Stücke und reibe sie mit Paprikapulver, Kreuzkümmel, Knoblauchpulver, Salz und Pfeffer ein.",
+      "Lege die Zwiebel unten in den Slowcooker und das Fleisch darauf. Verrühre Tomaten, Tomatenmark, Honig und Essig und gieß alles über das Fleisch.",
+      "Gare alles 8–9 Stunden auf LOW oder 5–6 Stunden auf HIGH bei geschlossenem Deckel, bis das Fleisch mit einer Gabel zerfällt.",
+      "Nimm das Fleisch heraus, zupfe es in Fasern und entferne größere Fettstücke. Koche die Soße in einem Topf 5–10 Minuten sirupartig ein.",
+      "Heb das Fleisch unter die eingekochte Soße. Erwärme die Tortillas kurz in einer trockenen Pfanne und belege sie am Tisch mit den Toppings."
+    ],
+    "tip": "Schulter hat genau genug Fett und Bindegewebe, um butterzart zu werden; mageres Fleisch wie lomo wird trocken. Das Einkochen der Soße macht den Unterschied zwischen gut und großartig.",
+    "kids": "Kinder wählen ihre Toppings selbst. Für Erwachsene: Jalapeño, salsa picante oder ein Limettenschnitz.",
+    "freeze": true,
+    "guid": "7525c319-03f3-4c84-b1cd-b8dfbcf99fd8",
+    "cuisine": "mexican",
+    "protein": "pork",
+    "side": "tortilla"
+  },
+  {
+    "id": 14,
+    "title": "Cremiges mildes Chicken Tikka Masala",
+    "slug": "cremiges-mildes-chicken-tikka-masala",
+    "chapter": "Küchen der Welt",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "4–5 Std.",
+    "high": "2–3 Std.",
+    "intro": "Das cremige, orangefarbene Curry aus deinem indischen Lieblingsrestaurant, aber mild genug für den ganzen Tisch.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet, in 3-cm-Würfeln",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 + 2",
+        "item": "Zwiebel + Knoblauchzehen",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1 EL",
+        "item": "frischer Ingwer, gerieben",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "200 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 EL",
+        "item": "Tomatenmark",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 TL",
+        "item": "mildes Garam Masala",
+        "es": "garam masala"
+      },
+      {
+        "q": "1 TL",
+        "item": "edelsüßes Paprikapulver",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 TL + ½ TL",
+        "item": "Kreuzkümmel + Kurkuma",
+        "es": "comino + cúrcuma"
+      },
+      {
+        "q": "150 ml",
+        "item": "Kochsahne",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "150 g",
+        "item": "vollfetter griechischer Joghurt",
+        "es": "yogur griego natural"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "",
+        "item": "Salz",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Basmatireis",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Dünste Zwiebel, Knoblauch und Ingwer 4 Minuten in Öl an. Rühre alle Gewürze und das Tomatenmark unter und röste alles 1 Minute, bis es duftet.",
+      "Gib das Hähnchen in den Slowcooker, verteile die Gewürzmischung und die Tomaten darüber, salze und rühre um.",
+      "Gare alles 4–5 Stunden auf LOW oder 2–3 Stunden auf HIGH bei geschlossenem Deckel, bis das Hähnchen 75 °C erreicht.",
+      "Rühre in der letzten Viertelstunde die Kochsahne unter. Schalte den Slowcooker danach aus oder auf WARM.",
+      "Verrühre den Joghurt mit ein paar Löffeln heißer Soße und rühre ihn erst dann unter das Curry. Nicht mehr kochen lassen, sonst flockt er aus.",
+      "Koche den Basmatireis separat und serviere."
+    ],
+    "tip": "Vollfetter Joghurt flockt viel weniger aus als magerer, und vorher mit warmer Soße „temperieren“ verhindert Klümpchen. Ingwerpulver geht auch: Nimm dann 1 Teelöffel statt frischem Ingwer. Einfrieren? Mach das, bevor Sahne und Joghurt dazukommen.",
+    "kids": "Cremig und mild im Geschmack. Für Erwachsene: Chiliflocken oder eine fein geschnittene grüne Chili darüber.",
+    "freeze": true,
+    "guid": "0b520b03-1a78-463a-a80b-f6f9d02c8b7b",
+    "cuisine": "indian",
+    "protein": "chicken",
+    "side": "rice"
+  },
+  {
+    "id": 15,
+    "title": "Hähnchen in cremiger Champignonsoße",
+    "slug": "haehnchen-in-cremiger-champignonsosse",
+    "chapter": "Niederländisch & Europäisch",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "4–5 Std.",
+    "high": "2–3 Std.",
+    "intro": "Zartes Hähnchen in einer cremigen Soße mit Champignons, Knoblauch und Thymian: Soulfood, das schmeckt, als hättest du stundenlang in der Küche gestanden.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "250 g",
+        "item": "Champignons, in Scheiben",
+        "es": "champiñones laminados"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "Knoblauchzehen, gepresst",
+        "es": "ajo"
+      },
+      {
+        "q": "150 ml",
+        "item": "Hühnerbrühe",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 TL",
+        "item": "Thymian",
+        "es": "tomillo"
+      },
+      {
+        "q": "150 ml",
+        "item": "Kochsahne",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 EL",
+        "item": "Speisestärke + 2 EL kaltes Wasser",
+        "es": "maicena"
+      },
+      {
+        "q": "2 EL",
+        "item": "frische Petersilie, fein gehackt",
+        "es": "perejil fresco"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl, Salz und Pfeffer",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "1 kg",
+        "item": "mehligkochende Kartoffeln (für Püree)",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "100 ml + 25 g",
+        "item": "Milch und Butter",
+        "es": "leche y mantequilla"
+      }
+    ],
+    "steps": [
+      "Bestreue das Hähnchen mit Salz und Pfeffer, brate es kurz in Öl goldbraun an und lege es in den Slowcooker.",
+      "Brate Champignons, Zwiebel und Knoblauch 4 Minuten bei starker Hitze in derselben Pfanne. So verlieren die Pilze ihr Wasser und bekommen Geschmack.",
+      "Gib das über das Hähnchen, gieß die Brühe dazu und streue den Thymian darüber. Gare alles 4–5 Stunden auf LOW oder 2–3 Stunden auf HIGH.",
+      "Rühre in der letzten halben Stunde die Kochsahne und die mit 2 EL kaltem Wasser angerührte Speisestärke unter. Das Hähnchen muss im Kern 75 °C erreichen.",
+      "Koche inzwischen die Kartoffeln und stampfe sie mit Milch und Butter zu Püree. Streue Petersilie über das Hähnchen und serviere."
+    ],
+    "tip": "Brate die Champignons bei starker Hitze und nicht zu viele auf einmal, dann bräunen sie, statt zu schmoren. Das ist der Unterschied zwischen einer faden und einer vollmundigen Soße.",
+    "kids": "Zerdrücke das Püree mit einem Löffel Soße: cremig, mild und leicht zu essen für kleine Hände.",
+    "freeze": true,
+    "guid": "ed068490-f8ff-4784-8dc9-1b7f58e3e608",
+    "cuisine": "european",
+    "protein": "chicken",
+    "side": "potato"
+  },
+  {
+    "id": 16,
+    "title": "Schweinefleisch in Honig-Senf-Soße",
+    "slug": "schweinefleisch-in-honig-senf-sosse",
+    "chapter": "Niederländisch & Europäisch",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "6–7 Std.",
+    "high": "3–4 Std.",
+    "intro": "Zartes Schweineschmorfleisch mit Apfel in einer süß-cremigen Honig-Senf-Soße: die perfekte Balance zwischen süß und herzhaft.",
+    "ingredients": [
+      {
+        "q": "700 g",
+        "item": "Schweineschulter, in 4-cm-Würfeln",
+        "es": "aguja o paleta de cerdo para guisar"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, in Spalten",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in Stücken",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "süßer Apfel, in Spalten",
+        "es": "manzana Golden"
+      },
+      {
+        "q": "2 EL",
+        "item": "Senf",
+        "es": "mostaza (Dijon o a la antigua)"
+      },
+      {
+        "q": "1 EL",
+        "item": "Honig",
+        "es": "miel"
+      },
+      {
+        "q": "200 ml",
+        "item": "Hühnerbrühe",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 TL",
+        "item": "Thymian",
+        "es": "tomillo"
+      },
+      {
+        "q": "100 ml",
+        "item": "Kochsahne",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 EL",
+        "item": "Speisestärke + 2 EL kaltes Wasser",
+        "es": "maicena"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl, Salz und Pfeffer",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "800 g",
+        "item": "Kartoffeln oder 300 g Reis",
+        "es": "patatas o arroz"
+      }
+    ],
+    "steps": [
+      "Schneide überschüssiges Fett vom Fleisch. Bestreue es mit Salz und Pfeffer und brate die Würfel portionsweise in Öl leicht braun an.",
+      "Lege Möhren, Zwiebel und Apfel unten in den Slowcooker und gib das Fleisch darauf.",
+      "Verrühre Brühe, Honig, 1 EL Senf und Thymian und gieß es darüber. Gare alles 6–7 Stunden auf LOW oder 3–4 Stunden auf HIGH.",
+      "Rühre in der letzten halben Stunde die Kochsahne, den restlichen Senf und die mit 2 EL kaltem Wasser angerührte Speisestärke unter.",
+      "Koche inzwischen Kartoffeln oder Reis. Probiere die Soße und schmecke mit Salz, Pfeffer oder einem extra Löffelchen Honig ab."
+    ],
+    "tip": "Senf verliert beim langen Garen seinen Geschmack. Gib deshalb die Hälfte erst am Ende dazu: So bleibt die Soße frisch und du schmeckst den Senf wirklich.",
+    "kids": "Zu senfig? Ein extra Schuss Sahne und etwas Honig machen die Soße milder für kleine Genießer.",
+    "freeze": true,
+    "guid": "d3b2a55f-89a7-4724-9a4e-42f696b52f82",
+    "cuisine": "dutch",
+    "protein": "pork",
+    "side": "potato"
+  },
+  {
+    "id": 17,
+    "title": "Cottage Pie mit Hackfleisch und Gemüse",
+    "slug": "cottage-pie-mit-hackfleisch-und-gemuese",
+    "chapter": "Niederländisch & Europäisch",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 Min.",
+    "low": "4–5 Std.",
+    "high": "2–3 Std.",
+    "intro": "Herzhafte Hackfleischfüllung mit Gemüse unter einer Decke aus cremigem Püree: britisches Soulfood, das die ganze Familie an den Tisch holt.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "Rinderhackfleisch",
+        "es": "carne picada de vacuno"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in Würfeln",
+        "es": "zanahorias"
+      },
+      {
+        "q": "100 g",
+        "item": "TK-Erbsen",
+        "es": "guisantes congelados"
+      },
+      {
+        "q": "200 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1 EL",
+        "item": "Tomatenmark",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "Rinderbrühe",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 TL",
+        "item": "Thymian",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 EL",
+        "item": "Worcestersoße (oder Sojasoße)",
+        "es": "salsa Worcestershire (o salsa de soja)"
+      },
+      {
+        "q": "1 EL",
+        "item": "Speisestärke + 2 EL kaltes Wasser",
+        "es": "maicena"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl, Salz und Pfeffer",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "800 g",
+        "item": "mehligkochende Kartoffeln",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "100 ml + 30 g",
+        "item": "Milch und Butter",
+        "es": "leche y mantequilla"
+      }
+    ],
+    "steps": [
+      "Brate Hackfleisch und Zwiebel in Öl krümelig und braun. Gib alles mit Möhren, Tomaten, Tomatenmark, Brühe, Thymian und Worcestersoße in den Slowcooker.",
+      "Mit Salz und Pfeffer abschmecken und 4–5 Stunden auf LOW oder 2–3 Stunden auf HIGH bei geschlossenem Deckel garen.",
+      "Rühre in der letzten halben Stunde die Erbsen und die mit 2 EL kaltem Wasser angerührte Speisestärke unter. So wird die Füllung schön gebunden.",
+      "Koche inzwischen die Kartoffeln und stampfe sie mit Milch, Butter und Salz zu einem festen Püree.",
+      "Gib die Füllung in eine Auflaufform, verteile das Püree darauf und zieh mit einer Gabel Rillen hinein. 10 Minuten unter dem heißen Backofengrill (oder 15 Min. bei 220 °C) goldbraun überbacken."
+    ],
+    "tip": "Die Gabelrillen werden unter dem Grill zu knusprigen Rändern, dem besten Stück. Kein Grill? Verteile das Püree im Slowcooker auf der Füllung und wärme alles 15 Minuten durch.",
+    "kids": "Streu etwas geriebenen Käse über das Püree: Jeder will die goldbraune Kruste.",
+    "freeze": true,
+    "guid": "39098b62-acca-4bdf-a78f-a9dc031b98ca",
+    "cuisine": "british",
+    "protein": "mince",
+    "side": "potato"
+  },
+  {
+    "id": 18,
+    "title": "Toskanisches Hähnchen",
+    "slug": "toskanisches-haehnchen",
+    "chapter": "Niederländisch & Europäisch",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "3½–4 Std.",
+    "high": "2 Std.",
+    "intro": "Cremiges Hähnchen mit getrockneten Tomaten, Spinat und Parmesan: schmeckt nach Italienurlaub, ganz einfach an einem normalen Wochentag.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "Knoblauchzehen, gepresst",
+        "es": "ajo"
+      },
+      {
+        "q": "100 g",
+        "item": "getrocknete Tomaten in Öl, in Streifen",
+        "es": "tomates secos en aceite"
+      },
+      {
+        "q": "150 ml",
+        "item": "Hühnerbrühe",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 TL",
+        "item": "Oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "150 ml",
+        "item": "Kochsahne",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 EL",
+        "item": "Speisestärke + 2 EL kaltes Wasser",
+        "es": "maicena"
+      },
+      {
+        "q": "100 g",
+        "item": "frischer Spinat",
+        "es": "espinacas frescas (brotes)"
+      },
+      {
+        "q": "30 g",
+        "item": "geriebener Parmesan",
+        "es": "queso parmesano rallado"
+      },
+      {
+        "q": "1 EL",
+        "item": "Olivenöl, Salz und Pfeffer",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Pasta (Penne oder Makkaroni)",
+        "es": "macarrones o penne"
+      }
+    ],
+    "steps": [
+      "Bestreue das Hähnchen mit Salz, Pfeffer und Oregano und brate es kurz in Öl goldbraun an. Nimm ruhig das Öl aus dem Tomatenglas.",
+      "Lege Zwiebel und Knoblauch unten in den Slowcooker, darauf das Hähnchen und die getrockneten Tomaten. Gieß die Brühe darüber.",
+      "Gare alles 3½–4 Stunden auf LOW oder 2 Stunden auf HIGH bei geschlossenem Deckel, bis das Hähnchen im Kern 75 °C erreicht.",
+      "Rühre in der letzten halben Stunde die Kochsahne und die mit 2 EL kaltem Wasser angerührte Speisestärke unter.",
+      "Heb 10 Minuten vor Schluss Spinat und Parmesan unter; der Spinat fällt von selbst zusammen. Koche inzwischen die Pasta und serviere."
+    ],
+    "tip": "Getrocknete Tomaten in Öl sind weicher und aromatischer als getrocknete aus der Tüte. Hast du nur die? Weiche sie vorher 10 Minuten in heißem Wasser ein.",
+    "kids": "Spinat-Skeptiker? Hacke die Blätter fein, dann werden sie zu unauffälligen grünen Sprenkeln in der Soße.",
+    "freeze": true,
+    "guid": "4f47cecd-8fbf-4dfc-a43a-67b31d926738",
+    "cuisine": "italian",
+    "protein": "chicken",
+    "side": "pasta"
+  },
+  {
+    "id": 19,
+    "title": "Mexikanisches Pulled Beef",
+    "slug": "mexikanisches-pulled-beef",
+    "chapter": "Küchen der Welt",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "8–9 Std.",
+    "high": "5–6 Std.",
+    "intro": "Rindfleisch, das nach einem Tag Schmoren in Fasern zerfällt, mit Kreuzkümmel, Oregano und einem frischen Spritzer Limette.",
+    "ingredients": [
+      {
+        "q": "700 g",
+        "item": "Rinderschulter / Schmorfleisch",
+        "es": "aguja o espaldilla de ternera"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, in Streifen",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "rote Paprika, in Streifen",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2 Zehen",
+        "item": "Knoblauch, gepresst",
+        "es": "ajo"
+      },
+      {
+        "q": "200 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100 ml",
+        "item": "Rinderbrühe",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "2 TL",
+        "item": "gemahlener Kreuzkümmel",
+        "es": "comino molido"
+      },
+      {
+        "q": "2 TL",
+        "item": "geräuchertes Paprikapulver (süß)",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 TL",
+        "item": "getrockneter Oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "½",
+        "item": "Limette (Saft)",
+        "es": "lima"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl + Salz und Pfeffer",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "8–12",
+        "item": "Tortillas",
+        "es": "tortillas de trigo o maíz"
+      }
+    ],
+    "steps": [
+      "Schneide das Fleisch in 4 Stücke, bestreue es mit Salz und Pfeffer und brate es 6–8 Minuten in Öl rundherum dunkelbraun an. Diese Kruste ist purer Geschmack.",
+      "Lege Zwiebel und Paprika unten in den Slowcooker und das Fleisch darauf.",
+      "Verrühre Tomaten, Brühe, Knoblauch, Kreuzkümmel, Paprikapulver und Oregano und gieß es über das Fleisch.",
+      "Gare alles 8–9 Stunden auf LOW oder 5–6 Stunden auf HIGH bei geschlossenem Deckel, bis das Fleisch mit einer Gabel zerfällt.",
+      "Zupfe das Fleisch im Topf auseinander, rühre es unter die Soße und drück den Limettensaft darüber. In warmen Tortillas servieren."
+    ],
+    "tip": "Die Limette kommt erst am Ende dazu, dann bleibt sie frisch. Reste? Friere Portionen mit etwas Soße ein: perfekt für Quesadillas oder eine schnelle Burrito-Bowl.",
+    "kids": "Mild und rauchig. Für Erwachsene: Jalapeño, salsa picante oder eine Prise Cayennepfeffer auf den Tisch.",
+    "freeze": true,
+    "guid": "a5bedd7e-c4fc-4f6c-b898-55f62edec7f5",
+    "cuisine": "mexican",
+    "protein": "beef",
+    "side": "tortilla"
+  },
+  {
+    "id": 20,
+    "title": "Teriyaki-Hähnchen",
+    "slug": "teriyaki-haehnchen",
+    "chapter": "Küchen der Welt",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "4 Std.",
+    "high": "2 Std.",
+    "intro": "Glänzendes, süß-salziges Hähnchen mit Ingwer und Knoblauch: Innerhalb einer Woche fragt jeder danach.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "80 ml",
+        "item": "Sojasoße",
+        "es": "salsa de soja"
+      },
+      {
+        "q": "2 EL",
+        "item": "Honig",
+        "es": "miel"
+      },
+      {
+        "q": "100 ml",
+        "item": "Wasser",
+        "es": ""
+      },
+      {
+        "q": "1 EL",
+        "item": "Reis- oder Apfelessig",
+        "es": "vinagre de arroz / de manzana"
+      },
+      {
+        "q": "1 Zehe",
+        "item": "Knoblauch, gepresst",
+        "es": "ajo"
+      },
+      {
+        "q": "1 EL",
+        "item": "frischer Ingwer, gerieben",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "1½ EL + 3 EL",
+        "item": "Speisestärke + kaltes Wasser",
+        "es": "maicena"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Reis",
+        "es": "arroz"
+      },
+      {
+        "q": "1 EL",
+        "item": "gerösteter Sesam",
+        "es": "sésamo tostado"
+      }
+    ],
+    "steps": [
+      "Verrühre Sojasoße, Honig, Wasser, Essig, Knoblauch und Ingwer im Slowcooker.",
+      "Lege die Hähnchenschenkel ganz oder in großen Stücken hinein und löffle die Soße darüber. Deckel zu.",
+      "Gare alles 4 Stunden auf LOW oder 2 Stunden auf HIGH, bis das Hähnchen 75 °C erreicht.",
+      "Rühre die Speisestärke in kaltem Wasser glatt und rühre sie unter die Soße. Stell auf HIGH und lass alles 20–30 Minuten bei geschlossenem Deckel binden, bis es glänzt.",
+      "Schneide oder zupfe das Hähnchen in Stücke, heb es unter die Soße und serviere es auf Reis mit Sesam."
+    ],
+    "tip": "Hähnchenschenkel bleiben saftig und nehmen die Soße besser auf als Brustfilet. Zu salzig für die Kinder? Nimm salzreduzierte Sojasoße oder ersetze 2 Esslöffel durch Wasser.",
+    "kids": "Süß-salzig und klebrig: ein Kinderliebling. Für Erwachsene: Sriracha oder Chiliflocken dazu.",
+    "freeze": true,
+    "guid": "84b63f83-cce0-4588-b9ef-f8168f71f614",
+    "cuisine": "japanese",
+    "protein": "chicken",
+    "side": "rice"
+  },
+  {
+    "id": 21,
+    "title": "Thailändisches Kokos-Hähnchen mit Erdnusssoße",
+    "slug": "thailaendisches-kokos-haehnchen-mit-erdnusssosse",
+    "chapter": "Küchen der Welt",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "4 Std.",
+    "high": "2 Std.",
+    "intro": "Cremige Kokosmilch, nussige Erdnuss und ein frischer Spritzer Limette: ein thailändischer Streetfood-Abend, ganz einfach aus deinem eigenen Slowcooker.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet, in Stücken",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "400 ml",
+        "item": "Kokosmilch (vollfett)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "rote Paprika, in Streifen",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in Streifen",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2–3 EL",
+        "item": "Erdnussbutter",
+        "es": "crema de cacahuete"
+      },
+      {
+        "q": "1–2 EL",
+        "item": "mildes Currypulver",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 EL",
+        "item": "Sojasoße",
+        "es": "salsa de soja"
+      },
+      {
+        "q": "1",
+        "item": "Limette (Saft)",
+        "es": "lima"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl + Salz",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Jasminreis",
+        "es": "arroz jazmín"
+      }
+    ],
+    "steps": [
+      "Dünste die Zwiebel 3 Minuten in Öl an und röste das Currypulver 30 Sekunden mit, bis es duftet.",
+      "Gib Hähnchen, Paprika, Möhren und die Curry-Zwiebeln in den Slowcooker. Gieß die Hälfte der Kokosmilch und die Sojasoße darüber.",
+      "Gare alles 4 Stunden auf LOW oder 2 Stunden auf HIGH bei geschlossenem Deckel, bis das Hähnchen 75 °C erreicht.",
+      "Verquirle in der letzten halben Stunde die restliche Kokosmilch mit der Erdnussbutter glatt und rühre sie unter den Eintopf. Deckel zu, noch 20–30 Minuten.",
+      "Rühre den Limettensaft unter, schmecke mit Salz ab und serviere mit Reis."
+    ],
+    "tip": "Verquirle die Erdnussbutter zuerst in kalter Kokosmilch: So löst sie sich ohne Klümpchen auf und brennt nicht am Boden an. Limette erst am Ende, dann bleibt sie frisch.",
+    "kids": "Cremig und nussig. Achtung bei Erdnussallergie unter den kleinen Gästen! Für Erwachsene: Sambal dazu.",
+    "freeze": true,
+    "guid": "f49f2d39-c188-4431-aac8-cda7e23b85cb",
+    "cuisine": "thai",
+    "protein": "chicken",
+    "side": "rice"
+  },
+  {
+    "id": 22,
+    "title": "Griechisches Zitronenhähnchen mit Kartoffeln",
+    "slug": "griechisches-zitronenhaehnchen-mit-kartoffeln",
+    "chapter": "Spanisch & Mediterran",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "5–6 Std.",
+    "high": "3 Std.",
+    "intro": "Sonniges Hähnchen mit Zitrone, Knoblauch und Oregano auf Kartoffeln, die die ganze Soße aufsaugen: eine griechische Sommerterrasse an einem normalen Wochentag.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "700 g",
+        "item": "festkochende Kartoffeln",
+        "es": "patatas"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, in Ringen",
+        "es": "cebolla"
+      },
+      {
+        "q": "2 Zehen",
+        "item": "Knoblauch, gepresst",
+        "es": "ajo"
+      },
+      {
+        "q": "1",
+        "item": "Zitrone (Abrieb + Saft)",
+        "es": "limón"
+      },
+      {
+        "q": "150 ml",
+        "item": "Hühnerbrühe",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "3 EL",
+        "item": "Olivenöl",
+        "es": "aceite de oliva virgen extra"
+      },
+      {
+        "q": "2 TL",
+        "item": "getrockneter Oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "1 TL",
+        "item": "getrockneter Thymian",
+        "es": "tomillo"
+      },
+      {
+        "q": "",
+        "item": "Salz und Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "200 g",
+        "item": "griechischer Joghurt",
+        "es": "yogur griego natural"
+      },
+      {
+        "q": "½",
+        "item": "Gurke, in Würfeln",
+        "es": "pepino"
+      }
+    ],
+    "steps": [
+      "Schneide die Kartoffeln in 3 cm große Spalten und lege sie mit Zwiebel, Knoblauch, Salz und Pfeffer unten in den Slowcooker.",
+      "Bestreue das Hähnchen mit Salz und Pfeffer. Brate es nach Wunsch 3 Minuten in einer heißen Pfanne goldbraun an: schönere Farbe und vollerer Geschmack.",
+      "Lege das Hähnchen auf die Kartoffeln. Verquirle Zitronensaft, Olivenöl, Brühe, Oregano und Thymian und gieß es darüber.",
+      "Gare alles 5–6 Stunden auf LOW oder 3 Stunden auf HIGH bei geschlossenem Deckel, bis die Kartoffeln weich sind und das Hähnchen 75 °C erreicht.",
+      "Reibe kurz vor dem Servieren die Zitronenschale darüber und heb die Soße unter die Kartoffeln. Mit Joghurt und Gurke servieren."
+    ],
+    "tip": "Reibe die Schale erst am Ende ab: Stundenlanges Garen macht Zitrone dumpf, frischer Abrieb bringt alles zum Leuchten. Knusprige Ränder? Stell die Kartoffeln noch 10 Minuten unter den Backofengrill.",
+    "kids": "Zu sauer für die Kleinen? Nimm eine halbe Zitrone und gib den Erwachsenen extra Abrieb.",
+    "freeze": false,
+    "guid": "ef38dd6d-e72f-482c-9a4c-a8305b1a9b4b",
+    "cuisine": "greek",
+    "protein": "chicken",
+    "side": "potato"
+  },
+  {
+    "id": 23,
+    "title": "Cremiger Tomaten-Fischeintopf",
+    "slug": "cremiger-tomaten-fischeintopf",
+    "chapter": "Fisch & Garnelen",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "3–4 Std. + 20–30 Min.",
+    "high": "1½–2 Std. + 15–20 Min.",
+    "intro": "Zarter Seehecht, der sanft in einer cremigen Tomaten-Paprika-Soße gart: Fisch, bei dem selbst Skeptiker am Tisch schwach werden.",
+    "ingredients": [
+      {
+        "q": "500 g",
+        "item": "Seehechtfilet ohne Haut (frisch oder aufgetaut)",
+        "es": "merluza (filetes sin piel)"
+      },
+      {
+        "q": "1 + 2",
+        "item": "Zwiebel + Knoblauchzehen",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "rote Paprika, in Würfeln",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1",
+        "item": "Möhre, in Würfeln",
+        "es": "zanahoria"
+      },
+      {
+        "q": "200 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100 ml",
+        "item": "Fisch- oder Gemüsebrühe",
+        "es": "caldo de pescado"
+      },
+      {
+        "q": "150 ml",
+        "item": "Kochsahne oder Kokosmilch",
+        "es": "nata para cocinar / leche de coco"
+      },
+      {
+        "q": "1 TL",
+        "item": "edelsüßes Paprikapulver",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 TL",
+        "item": "getrockneter Oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "1 EL",
+        "item": "Olivenöl + Salz und Pfeffer",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Reis",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Gib gewürfelte Zwiebel und Knoblauch, Paprika, Möhre, Tomaten, Brühe, Öl, Paprikapulver, Oregano, Salz und Pfeffer in den Slowcooker.",
+      "Gare alles 3–4 Stunden auf LOW oder 1½–2 Stunden auf HIGH bei geschlossenem Deckel, bis das Gemüse weich ist.",
+      "Rühre die Sahne oder Kokosmilch unter. Tupfe den Fisch trocken, schneide ihn in 4-cm-Stücke, salze ihn und lege ihn vorsichtig in die Soße.",
+      "Deckel zu und 20–30 Minuten auf LOW (15–20 auf HIGH) garen, bis der Fisch weiß ist und gerade zerfällt. Nicht umrühren.",
+      "Koche inzwischen den Reis. Gib den Fisch vorsichtig mit der Soße auf die Teller."
+    ],
+    "tip": "TK-Seehecht ist günstig und völlig in Ordnung: Lass ihn über Nacht im Kühlschrank auftauen und tupfe ihn gut trocken. Prüfe nach 15 Minuten auf HIGH oder 20 auf LOW, denn zu langes Garen macht Fisch trocken.",
+    "kids": "Prüfe vor dem Servieren auf Gräten. Für Erwachsene: eine Prise pimentón picante darüber.",
+    "freeze": false,
+    "guid": "c5662b5f-d957-4649-8b21-ec8bf09c5af1",
+    "cuisine": "mediterranean",
+    "protein": "fish",
+    "side": "rice"
+  },
+  {
+    "id": 24,
+    "title": "Cremige Knoblauchgarnelen mit Pasta",
+    "slug": "cremige-knoblauchgarnelen-mit-pasta",
+    "chapter": "Fisch & Garnelen",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "10 Min.",
+    "low": "2–3 Std., dann 10–15 Min. auf HIGH",
+    "high": "1–1½ Std. + 10–15 Min.",
+    "intro": "Süßlich geschmorter Knoblauch, cremige Soße und saftige Garnelen unter deiner Pasta: Restaurantgefühl für kleines Geld.",
+    "ingredients": [
+      {
+        "q": "300–350 g",
+        "item": "rohe geschälte Garnelen, aufgetaut",
+        "es": "gambas peladas crudas"
+      },
+      {
+        "q": "2–3 Zehen",
+        "item": "Knoblauch, fein gehackt",
+        "es": "ajo"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, fein gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "100 ml",
+        "item": "Gemüse- oder Fischbrühe",
+        "es": "caldo de verduras / de pescado"
+      },
+      {
+        "q": "150 ml",
+        "item": "Kochsahne",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "2 EL",
+        "item": "Olivenöl",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "½ TL",
+        "item": "edelsüßes Paprikapulver",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "½",
+        "item": "Zitrone (Saft)",
+        "es": "limón"
+      },
+      {
+        "q": "2 EL",
+        "item": "frische Petersilie, gehackt",
+        "es": "perejil fresco"
+      },
+      {
+        "q": "",
+        "item": "Salz und Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Pasta (Linguine oder Tagliatelle)",
+        "es": "espaguetis / tallarines"
+      }
+    ],
+    "steps": [
+      "Dünste Zwiebel und Knoblauch 3 Minuten sanft in Olivenöl an, ohne dass sie Farbe nehmen. Gib sie mit Brühe und Paprikapulver in den Slowcooker.",
+      "Gare alles 2–3 Stunden auf LOW oder 1–1½ Stunden auf HIGH bei geschlossenem Deckel, bis Zwiebel und Knoblauch weich und süß sind.",
+      "Tupfe die aufgetauten Garnelen gut trocken. Koche inzwischen die Pasta und heb eine Tasse Kochwasser auf.",
+      "Stell den Slowcooker auf HIGH und rühre Sahne und Garnelen unter. Deckel zu, 10–15 Minuten, bis sie rosa und gerade gar sind.",
+      "Rühre Zitronensaft, Petersilie, Salz und Pfeffer unter und heb die Pasta unter. Zu dick? Ein Schuss Kochwasser."
+    ],
+    "tip": "Nimm rohe Garnelen; vorgegarte werden schnell gummiartig und brauchen nur 5 Minuten. C-Form ist perfekt gar, eine enge O-Form heißt: zu lange.",
+    "kids": "Kein Garnelen-Fan? Gib seine Pasta schon vorher nur mit der cremigen Soße auf den Teller.",
+    "freeze": false,
+    "guid": "8b6d7f4f-6283-42e3-89e4-17b1a8160af0",
+    "cuisine": "italian",
+    "protein": "prawns",
+    "side": "pasta"
+  },
+  {
+    "id": 25,
+    "title": "Spanischer Bacalao-Eintopf",
+    "slug": "spanischer-bacalao-eintopf",
+    "chapter": "Fisch & Garnelen",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "3–4 Std. + 20–30 Min.",
+    "high": "2 Std. + 15–20 Min.",
+    "intro": "Perlweißer Kabeljau auf einem Bett aus Kartoffeln, Paprika und Tomate, beträufelt mit gutem Olivenöl: echte spanische Hausmannskost.",
+    "ingredients": [
+      {
+        "q": "500 g",
+        "item": "entsalzener Bacalao oder frischer Kabeljau",
+        "es": "bacalao desalado / bacalao fresco"
+      },
+      {
+        "q": "1 + 2",
+        "item": "Zwiebel + Knoblauchzehen",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "rote Paprika, in Streifen",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "400 g",
+        "item": "Kartoffeln",
+        "es": "patatas"
+      },
+      {
+        "q": "200 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100–150 ml",
+        "item": "Fisch- oder Gemüsebrühe",
+        "es": "caldo de pescado"
+      },
+      {
+        "q": "3 EL",
+        "item": "Olivenöl",
+        "es": "aceite de oliva virgen extra"
+      },
+      {
+        "q": "1 TL",
+        "item": "edelsüßes Paprikapulver",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "Handvoll",
+        "item": "grüne Oliven ohne Stein (optional)",
+        "es": "aceitunas verdes sin hueso"
+      },
+      {
+        "q": "",
+        "item": "Salz und Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "Baguette",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Schneide die Kartoffeln in 1 cm dicke Scheiben und lege sie unten in den Slowcooker. Verteile Zwiebel, Knoblauch und Paprika darauf.",
+      "Verrühre Tomaten, Brühe, 2 EL Öl und Paprikapulver, gieß es darüber und salze leicht. Gare alles 3–4 Stunden auf LOW oder 2 Stunden auf HIGH.",
+      "Sind die Kartoffeln weich? Tupfe den Fisch trocken, schneide ihn in 5-cm-Stücke und lege sie obenauf. Mit dem restlichen Öl beträufeln.",
+      "Deckel zu und 20–30 Minuten auf LOW (15–20 auf HIGH) garen, bis der Fisch perlweiß ist und in Lamellen zerfällt.",
+      "Streue die Oliven darüber, schmecke erst jetzt mit Salz ab und serviere mit Brot zum Auftunken der Soße."
+    ],
+    "tip": "Selbst entsalzen? Leg Bacalao 24–36 Stunden in kaltes Wasser in den Kühlschrank und wechsle es 3–4 Mal. Einfacher: „bacalao desalado“ aus der Tiefkühltruhe oder einfach frischer Kabeljau.",
+    "kids": "Auf Gräten prüfen und Fisch mit Kartoffeln auftun. Oliven nur für die, die sie mögen.",
+    "freeze": false,
+    "guid": "dac3f547-a3a7-4796-a377-508e349e3527",
+    "cuisine": "spanish",
+    "protein": "fish",
+    "side": "bread"
+  },
+  {
+    "id": 26,
+    "title": "Mildes Kokos-Garnelen-Curry",
+    "slug": "mildes-kokos-garnelen-curry",
+    "chapter": "Fisch & Garnelen",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "2–3 Std., dann 10–15 Min. auf HIGH",
+    "high": "1–1½ Std. + 10–15 Min.",
+    "intro": "Zartgelbes Kokoscurry mit saftigen Garnelen und einem frischen Spritzer Limette: Urlaub in der Schüssel, im Handumdrehen fertig.",
+    "ingredients": [
+      {
+        "q": "300–350 g",
+        "item": "rohe geschälte Garnelen, aufgetaut",
+        "es": "gambas peladas crudas"
+      },
+      {
+        "q": "400 ml",
+        "item": "Kokosmilch (vollfett)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1 + 1",
+        "item": "Zwiebel + Knoblauchzehe",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "Möhre, in Streifen",
+        "es": "zanahoria"
+      },
+      {
+        "q": "1",
+        "item": "rote Paprika, in Streifen",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1–2 EL",
+        "item": "mildes Currypulver",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 EL",
+        "item": "frischer Ingwer, gerieben (oder 1 TL Pulver)",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "1",
+        "item": "Limette (Saft)",
+        "es": "lima"
+      },
+      {
+        "q": "1 EL",
+        "item": "Öl + Salz",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Reis",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Dünste Zwiebel, Knoblauch und Ingwer 3 Minuten in Öl an und röste das Currypulver 30 Sekunden mit, bis es duftet.",
+      "Gib die Mischung mit Möhre und Paprika in den Slowcooker. Gieß die Kokosmilch darüber, salze und rühre um.",
+      "Gare alles 2–3 Stunden auf LOW oder 1–1½ Stunden auf HIGH bei geschlossenem Deckel, bis das Gemüse weich ist.",
+      "Stell auf HIGH und rühre die trockengetupften Garnelen unter. Deckel zu, 10–15 Minuten, bis sie rosa und gerade gar sind.",
+      "Rühre den Limettensaft unter, schmecke mit Salz ab und serviere sofort mit Reis."
+    ],
+    "tip": "Garnelen werden in wenigen Minuten von saftig zu zäh: Halte den Reis bereit, bevor sie hineinkommen, und serviere sofort. Vollfette Kokosmilch ergibt die reichhaltigste Soße.",
+    "kids": "Mildes, cremiges Curry. Für Erwachsene: Sambal oder Chiliflocken auf den Tisch.",
+    "freeze": false,
+    "guid": "e64704bd-1cf4-4bd2-bbdb-be7829efd9c6",
+    "cuisine": "thai",
+    "protein": "prawns",
+    "side": "rice"
+  },
+  {
+    "id": 27,
+    "title": "Spanischer Wurst-Kartoffel-Eintopf",
+    "slug": "spanischer-wurst-kartoffel-eintopf",
+    "chapter": "Spanisch & Mediterran",
+    "price": "8–10",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "6–7 Std.",
+    "high": "3–4 Std.",
+    "intro": "Patatas a la riojana für die ganze Familie: Kartoffeln, die in einer tiefroten, rauchigen Soße voller Chorizo zergehen.",
+    "ingredients": [
+      {
+        "q": "300 g",
+        "item": "milde Chorizo, in Scheiben",
+        "es": "chorizo dulce (sarta)"
+      },
+      {
+        "q": "600 g",
+        "item": "festkochende Kartoffeln",
+        "es": "patatas"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in Scheiben",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "2 Zehen",
+        "item": "Knoblauch",
+        "es": "ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "400 ml",
+        "item": "Hühner- oder Gemüsebrühe",
+        "es": "caldo de pollo / de verduras"
+      },
+      {
+        "q": "1 TL",
+        "item": "edelsüßes Paprikapulver",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "2",
+        "item": "Lorbeerblätter",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "1 EL",
+        "item": "Olivenöl",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "",
+        "item": "Salz und Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "Baguette",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Schäle die Kartoffeln und „brich“ sie in 3-cm-Stücke: halb einschneiden und abbrechen. Die rauen Ränder binden später die Soße.",
+      "Brate die Chorizo 3 Minuten im Öl an, bis das rote Fett austritt. Dünste Zwiebel und Knoblauch 3 Minuten mit; rühre das Paprikapulver neben dem Herd unter.",
+      "Gib Kartoffeln und Möhren in den Slowcooker, verteile die Chorizo-Mischung darüber und füge Tomaten, Brühe und Lorbeer hinzu. Die Flüssigkeit steht knapp unter den Kartoffeln.",
+      "Gare alles 6–7 Stunden auf LOW oder 3–4 Stunden auf HIGH bei geschlossenem Deckel, bis die Kartoffeln weich sind.",
+      "Drücke ein paar Kartoffelstücke an der Topfwand platt für eine dickere Soße. Nimm den Lorbeer heraus und salze erst jetzt: Chorizo ist schon salzig."
+    ],
+    "tip": "Das „Brechen“ der Kartoffeln (chascar, sagen die Spanier) setzt Stärke frei, die die Soße bindet, ganz ohne Mehl. Schwimmt viel Fett oben, schöpfe es vor dem Servieren mit einem Löffel ab.",
+    "kids": "Schneide die Chorizo in kleine Halbmonde; Kinder picken sie gern zwischen den Kartoffeln heraus.",
+    "freeze": true,
+    "guid": "802e6fa5-c61d-4fd9-8eb0-3dcbeda9f025",
+    "cuisine": "spanish",
+    "protein": "pork",
+    "side": "bread"
+  },
+  {
+    "id": 28,
+    "title": "Cremige Tomaten-Linsensuppe",
+    "slug": "cremige-tomaten-linsensuppe",
+    "chapter": "Spar-Favoriten",
+    "price": "6–8",
+    "spice": 1,
+    "vega": true,
+    "prep": "10 Min.",
+    "low": "6 Std.",
+    "high": "3 Std.",
+    "intro": "Eine dicke, cremige Suppe voller roter Linsen und Tomaten: nahrhaft, spottbillig und in zehn Minuten angesetzt.",
+    "ingredients": [
+      {
+        "q": "250 g",
+        "item": "rote Linsen",
+        "es": "lentejas rojas"
+      },
+      {
+        "q": "400 g",
+        "item": "passierte Tomaten",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in Scheiben",
+        "es": "zanahorias"
+      },
+      {
+        "q": "900 ml",
+        "item": "Gemüsebrühe",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 TL",
+        "item": "gemahlener Kreuzkümmel",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 TL",
+        "item": "edelsüßes Paprikapulver",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "100 ml",
+        "item": "Kochsahne",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "½",
+        "item": "Zitrone (Saft)",
+        "es": "limón"
+      },
+      {
+        "q": "1 EL",
+        "item": "Olivenöl, Salz und Pfeffer",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Spüle die Linsen in einem Sieb unter kaltem Wasser, bis das Wasser klar ist. So vermeidest du Schaum und einen mehligen Geschmack.",
+      "Gib Linsen, Tomaten, Zwiebel, Möhren, Brühe, Kreuzkümmel und Paprikapulver in den Slowcooker und rühre gut um.",
+      "Gare alles 6 Stunden auf LOW oder 3 Stunden auf HIGH. Die roten Linsen zerfallen von selbst und binden die Suppe.",
+      "Püriere die Suppe glatt oder lass sie schön stückig. Zu dick? Rühre einen Schuss heißes Wasser unter.",
+      "Rühre Kochsahne und Zitronensaft unter, lass alles 5 Minuten durchwärmen und schmecke mit Salz und Pfeffer ab. Beträufle jeden Teller mit Olivenöl."
+    ],
+    "tip": "Das bisschen Zitronensaft am Ende ist mein Geheimnis: Es macht die erdigen Linsen plötzlich frisch und lebendig. Linsen dicken nach; verdünne Reste mit etwas Wasser.",
+    "kids": "Serviere sie mit einem Klecks Sahne und Baguette zum Eintunken. Für Erwachsene: Chiliflocken auf den Tisch.",
+    "freeze": true,
+    "guid": "5e34e2aa-6573-4945-92b6-95196973f76f",
+    "cuisine": "mediterranean",
+    "protein": "veg",
+    "side": "bread"
+  },
+  {
+    "id": 29,
+    "title": "Hähnchen-Gemüse-Eintopf nach Omas Art",
+    "slug": "haehnchen-gemuese-eintopf-nach-omas-art",
+    "chapter": "Spar-Favoriten",
+    "price": "8–10",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "5–6 Std.",
+    "high": "3 Std.",
+    "intro": "Ehrlicher Eintopf wie früher mit zartem Hähnchen, Kartoffeln und Möhren in einer gebundenen Soße: ein Topf, alles hinein, alle zufrieden.",
+    "ingredients": [
+      {
+        "q": "1 EL",
+        "item": "Öl",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "600 g",
+        "item": "Hähnchenschenkelfilet, in großen Stücken",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "700 g",
+        "item": "festkochende Kartoffeln",
+        "es": "patatas para guisar"
+      },
+      {
+        "q": "4",
+        "item": "Möhren",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2",
+        "item": "Zwiebeln, in Spalten",
+        "es": "cebollas"
+      },
+      {
+        "q": "300 ml",
+        "item": "Hühnerbrühe",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "2",
+        "item": "Lorbeerblätter",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "1 TL",
+        "item": "getrockneter Thymian",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 EL",
+        "item": "Speisestärke + 2 EL kaltes Wasser",
+        "es": "maicena"
+      },
+      {
+        "q": "",
+        "item": "Salz und Pfeffer",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Schneide Kartoffeln und Möhren in grobe 3-cm-Stücke und lege sie unten in den Slowcooker. Dort ist es am heißesten.",
+      "Bestreue das Hähnchen mit Salz, Pfeffer und Thymian und brate es kurz in Öl goldbraun an. Brate die Zwiebeln 2 Minuten mit.",
+      "Lege Hähnchen und Zwiebeln auf das Gemüse, gieß die Brühe darüber und leg die Lorbeerblätter dazu. Füll den Topf höchstens zu drei Vierteln.",
+      "Gare alles 5–6 Stunden auf LOW oder 3 Stunden auf HIGH bei geschlossenem Deckel, bis die Kartoffeln weich sind und das Hähnchen 75 °C erreicht.",
+      "Rühre in der letzten halben Stunde die mit 2 EL kaltem Wasser angerührte Speisestärke unter. Fisch den Lorbeer heraus und serviere."
+    ],
+    "tip": "Hähnchenschenkel bleiben beim langen Garen saftig, Brustfilet wird trocken. Schneide die Stücke groß, dann zerfallen sie nicht. Frische Petersilie darüber bringt Farbe.",
+    "kids": "Zerdrücke Kartoffeln und Möhren mit etwas Soße zu einem Stampfgericht: einfach und vertraut.",
+    "freeze": false,
+    "guid": "40b795f9-cc5c-41ef-8112-d804baa8558a",
+    "cuisine": "dutch",
+    "protein": "chicken",
+    "side": "potato"
+  },
+  {
+    "id": 30,
+    "title": "Italienischer Hackfleisch-Gemüse-Eintopf",
+    "slug": "italienischer-hackfleisch-gemuese-eintopf",
+    "chapter": "Spar-Favoriten",
+    "price": "8–10",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 Min.",
+    "low": "5–6 Std.",
+    "high": "3 Std.",
+    "intro": "Ein bunter, rustikaler Eintopf aus Hackfleisch und grobem Gemüse in Tomatensoße: herrlich zu Pasta und Reis, und freundlich zu deinem Budget.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "gemischtes Hackfleisch",
+        "es": "carne picada mixta (cerdo y vacuno)"
+      },
+      {
+        "q": "400 g",
+        "item": "stückige Tomaten (Dose oder Tetrapak)",
+        "es": "tomate troceado"
+      },
+      {
+        "q": "1",
+        "item": "Zwiebel, gewürfelt",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "Möhren, in Scheiben",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "Zucchini, in 3-cm-Würfeln",
+        "es": "calabacín"
+      },
+      {
+        "q": "2",
+        "item": "Knoblauchzehen, gepresst",
+        "es": "ajo"
+      },
+      {
+        "q": "2 TL",
+        "item": "italienische Kräuter",
+        "es": "hierbas italianas (o orégano y albahaca)"
+      },
+      {
+        "q": "200 ml",
+        "item": "Gemüsebrühe",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 EL",
+        "item": "Olivenöl, Salz und Pfeffer",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "Pasta oder Reis",
+        "es": "pasta o arroz"
+      }
+    ],
+    "steps": [
+      "Brate das Hackfleisch mit Zwiebel und Knoblauch in Olivenöl krümelig und braun. Mit Salz und Pfeffer abschmecken.",
+      "Lege die Möhren unten in den Slowcooker und gib das Hackfleisch darauf.",
+      "Rühre stückige Tomaten, Brühe und Kräuter unter. Lege die Zucchini obenauf; so bleibt sie fester.",
+      "Gare alles 5–6 Stunden auf LOW oder 3 Stunden auf HIGH bei geschlossenem Deckel.",
+      "Rühre alles um und probiere. Koche inzwischen Pasta oder Reis und gib den Eintopf großzügig darüber."
+    ],
+    "tip": "Reste übrig? Gib sie am nächsten Tag in eine Auflaufform, streu Käse darüber und backe alles 15 Minuten bei 200 °C: ein Auflauf zum Nulltarif.",
+    "kids": "Nimm kleine Nudelformen und schneide die Zucchini kleiner: wunderbar zum Löffeln für kleine Esser.",
+    "freeze": true,
+    "guid": "788c3a44-0904-4481-8906-9e0e89584b53",
+    "cuisine": "italian",
+    "protein": "mince",
+    "side": "pasta"
+  }
+]

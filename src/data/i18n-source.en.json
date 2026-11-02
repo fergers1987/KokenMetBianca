@@ -1,0 +1,467 @@
+{
+ "content": {
+  "cover_kicker": "The slow cooker book for families in Spain",
+  "cover_subtitle": "30 affordable family recipes, mild enough for kids",
+  "cover_badges": [
+   "Serves 4",
+   "From €1.50 per person",
+   "Mild for kids",
+   "Everything from the Spanish supermarket"
+  ],
+  "tagline": "You chop, the slow cooker does the rest.",
+  "foreword_title": "Welcome to the table",
+  "foreword": [
+   "On weekdays you really want just one thing: a warm, proper meal on the table without spending hours in the kitchen after a long day. That is why this book is all about the slow cooker. You chop a little, brown things briefly, and then it does the work.",
+   "Every recipe serves four: two adults and two children. I keep the flavours mild so everyone can simply eat together. If you like it hotter, add hot sauce at the table. You will find all the ingredients in the Spanish supermarket, and most meals cost between €6 and €12.",
+   "Dutch beef stew, Spanish lentejas or a mild curry: pick whatever suits your week, switch on the slow cooker and enjoy the smell drifting through the house. Enjoy your meal! – Bianca"
+  ],
+  "how_to_title": "How to read the recipes",
+  "how_to": [
+   {
+    "label": "Price",
+    "text": "Guide price for the whole meal for four, based on Spanish supermarket prices."
+   },
+   {
+    "label": "Spice level",
+    "text": "One chilli is mild enough for kids, two is medium: spiced but not hot, three is spicy. Add extra heat at the table."
+   },
+   {
+    "label": "Veggie",
+    "text": "A leaf means vegetarian: no meat or fish, made with vegetable stock."
+   },
+   {
+    "label": "Prep",
+    "text": "The time for chopping and browning before everything goes into the slow cooker."
+   },
+   {
+    "label": "Slow cooker LOW/HIGH",
+    "text": "Every recipe gives a time for LOW and for HIGH. LOW gives the most tender result. Chicken is cooked at a core temperature of 75 °C."
+   },
+   {
+    "label": "Freezing",
+    "text": "Snowflake: can be frozen in portions for up to three months. No snowflake? Then it is best eaten fresh."
+   }
+  ],
+  "chapters": {
+   "Dutch & European": {
+    "tagline": "Familiar classics, slow-cooked to perfection",
+    "intro": "Beef stew, bolognese, cottage pie and creamy chicken: dishes everyone knows and loves. The slow cooker makes the meat meltingly tender and the sauce full of flavour while you get on with other things."
+   },
+   "Spanish & Mediterranean": {
+    "tagline": "Sunshine on your plate",
+    "intro": "Lentejas with mild chorizo, chicken and chickpea stew and Greek lemon chicken. Simple Mediterranean stews made with ingredients you will find on the shelves of any Spanish supermarket."
+   },
+   "World Dishes": {
+    "tagline": "Travel the world, kid-friendly and mild",
+    "intro": "Curry, teriyaki, tacos and Moroccan stew: the world at your table, but mildly spiced. Someone wants more heat? Just put a bottle of hot sauce on the table."
+   },
+   "Fish & Prawns": {
+    "tagline": "Fish everyone will eat",
+    "intro": "The sauce cooks gently first, and the fish or prawns only go in at the end. That way everything stays tender. You can buy hake, bacalao and peeled prawns fresh or frozen."
+   },
+   "Budget Favourites": {
+    "tagline": "Lots of flavour for little money",
+    "intro": "Simple, nourishing dishes that prove good food does not have to be expensive. Lentil soup, old-fashioned chicken stew and mince and vegetable stew, for €6 to €10 per meal."
+   }
+  },
+  "basics_title": "Slow cooker basics: how to get the most out of it",
+  "glossary_title": "Your shopping list in Spanish",
+  "glossary_intro": "This list helps you quickly find what you need in the Spanish supermarket. For example, boneless chicken thighs are 'contramuslo de pollo' and cooking cream is 'nata para cocinar'.",
+  "back_cover_headline": "Delicious family meals without hours in the kitchen",
+  "back_cover_blurb": "A warm meal on the table without spending the whole afternoon in the kitchen? With this book you chop a little, brown briefly and let the slow cooker do the rest. Thirty affordable recipes for four people, mildly spiced so the kids can eat along. From Dutch beef stew to mild curry, with ingredients from the Spanish supermarket.",
+  "back_cover_bullets": [
+   "30 recipes serving 4 (2 adults + 2 children)",
+   "Guide price €6–12 per meal",
+   "Mildly spiced, kids eat along",
+   "Ingredients from the Spanish supermarket",
+   "Every ingredient also in Spanish, plus a shopping list for the store"
+  ],
+  "toc_title": "What's for dinner today?",
+  "closing_line": "Switch on the slow cooker, set the table and enjoy it together. Enjoy your meal!",
+  "note_s": "Prices are guide prices (2026 price level) for the whole meal. Every slow cooker is different: treat the times as a guideline.",
+  "in_book": "What you will find in this book: 30 recipes · 5 chapters · slow cooker basics · shopping list in Spanish.",
+  "signature": "Love, Bianca",
+  "site_intro": "This site brings together all 30 slow cooker recipes from the book, with every ingredient listed under its Spanish supermarket name. You will also find a supermarket guide for the Costa del Sol, so shopping in Spain is quick and easy."
+ },
+ "basics": [
+  [
+   "Fill ½ to ¾",
+   "A pot that is too empty dries out; one that is too full won't cook through in time. Keep the pot between half and three-quarters full."
+  ],
+  [
+   "Hard veg at the bottom",
+   "Potatoes, carrots and onions go at the bottom, where the heat is. Place the meat on top."
+  ],
+  [
+   "Keep the lid on",
+   "Every time you lift the lid, it adds 15–20 minutes to the cooking time. Save peeking for the end."
+  ],
+  [
+   "Size",
+   "All recipes are for a 3.5–5 litre slow cooker. Larger (6 l or more)? Use the shortest time and check sooner."
+  ],
+  [
+   "LOW or HIGH",
+   "HIGH is roughly one and a half to two times as fast as LOW. LOW gives the most tender meat; HIGH is for when you start later."
+  ],
+  [
+   "Browning = flavour",
+   "Briefly browning meat, chorizo and onion gives a richer sauce. Frying spices briefly in oil makes them fuller."
+  ],
+  [
+   "Less liquid",
+   "Almost nothing evaporates in a slow cooker. Use less stock than in a regular pan; you can always thin it later."
+  ],
+  [
+   "Cream and fish at the end",
+   "Cream, yoghurt, fish and prawns only go in at the end, or after blending or switching off, as the recipe says."
+  ],
+  [
+   "Thickening",
+   "First mix cornflour with a splash of cold water, then stir it into the sauce during the last half hour, on HIGH."
+  ],
+  [
+   "Never frozen",
+   "Never put frozen meat or chicken in the slow cooker. Thaw it overnight in the fridge."
+  ],
+  [
+   "Properly cooked",
+   "Chicken is cooked at a core temperature of 75 °C: the meat is white and the juices run clear. In doubt? Give it another half hour."
+  ],
+  [
+   "Tinned beans",
+   "Use tinned or jarred pulses. Dried kidney beans don't get hot enough in a slow cooker."
+  ],
+  [
+   "Reheating",
+   "Reheat leftovers in a pan or microwave until piping hot, not in the slow cooker."
+  ],
+  [
+   "Leftovers",
+   "Refrigerate within 2 hours and eat within 3 days. Freeze for up to 3 months; thaw in the fridge."
+  ],
+  [
+   "Keep it mild",
+   "Cook mild for the whole table. Put out hot sauce, chilli flakes or pimentón picante for those who want it."
+  ]
+ ],
+ "glossary": [
+  [
+   "Meat & fish",
+   [
+    [
+     "boneless chicken thighs",
+     "contramuslo de pollo deshuesado"
+    ],
+    [
+     "stewing beef",
+     "carne para guisar (morcillo)"
+    ],
+    [
+     "beef chuck / shoulder",
+     "aguja o espaldilla de ternera"
+    ],
+    [
+     "beef mince",
+     "carne picada de vacuno"
+    ],
+    [
+     "mixed beef and pork mince",
+     "carne picada mixta"
+    ],
+    [
+     "pork shoulder",
+     "paleta o aguja de cerdo"
+    ],
+    [
+     "mild chorizo",
+     "chorizo dulce"
+    ],
+    [
+     "hake",
+     "merluza"
+    ],
+    [
+     "fresh cod",
+     "bacalao fresco"
+    ],
+    [
+     "desalted salt cod (bacalao)",
+     "bacalao desalado"
+    ],
+    [
+     "raw peeled prawns",
+     "gambas peladas crudas"
+    ]
+   ]
+  ],
+  [
+   "Vegetables & fruit",
+   [
+    [
+     "potatoes (floury / waxy)",
+     "patatas para cocer / para guisar"
+    ],
+    [
+     "onion · garlic",
+     "cebolla · ajo"
+    ],
+    [
+     "carrot",
+     "zanahoria"
+    ],
+    [
+     "leek",
+     "puerro"
+    ],
+    [
+     "celery",
+     "apio"
+    ],
+    [
+     "courgette",
+     "calabacín"
+    ],
+    [
+     "pepper (red / yellow)",
+     "pimiento rojo / amarillo"
+    ],
+    [
+     "mushrooms",
+     "champiñones"
+    ],
+    [
+     "spinach",
+     "espinacas frescas"
+    ],
+    [
+     "cucumber",
+     "pepino"
+    ],
+    [
+     "lemon · lime",
+     "limón · lima"
+    ],
+    [
+     "sweet apple",
+     "manzana golden"
+    ],
+    [
+     "fresh ginger",
+     "jengibre fresco"
+    ],
+    [
+     "fresh parsley",
+     "perejil fresco"
+    ]
+   ]
+  ],
+  [
+   "Store cupboard",
+   [
+    [
+     "passata",
+     "tomate triturado"
+    ],
+    [
+     "chopped tomatoes",
+     "tomate troceado"
+    ],
+    [
+     "tomato purée",
+     "tomate concentrado"
+    ],
+    [
+     "sun-dried tomatoes",
+     "tomates secos en aceite"
+    ],
+    [
+     "pardina lentils",
+     "lentejas pardinas"
+    ],
+    [
+     "red lentils",
+     "lentejas rojas"
+    ],
+    [
+     "chickpeas (jar)",
+     "garbanzos cocidos"
+    ],
+    [
+     "kidney beans (tin)",
+     "alubias rojas cocidas"
+    ],
+    [
+     "sweetcorn",
+     "maíz dulce"
+    ],
+    [
+     "frozen peas",
+     "guisantes congelados"
+    ],
+    [
+     "green olives",
+     "aceitunas verdes sin hueso"
+    ],
+    [
+     "dried apricots",
+     "orejones de albaricoque"
+    ],
+    [
+     "coconut milk",
+     "leche de coco"
+    ],
+    [
+     "peanut butter",
+     "crema de cacahuete"
+    ],
+    [
+     "soy sauce",
+     "salsa de soja"
+    ],
+    [
+     "honey",
+     "miel"
+    ],
+    [
+     "mustard",
+     "mostaza"
+    ],
+    [
+     "stock (vegetable / chicken / beef / fish)",
+     "caldo de verduras / pollo / carne / pescado"
+    ],
+    [
+     "olive oil · sunflower oil",
+     "aceite de oliva · de girasol"
+    ],
+    [
+     "sherry, wine, cider vinegar",
+     "vinagre de Jerez / de vino / de manzana"
+    ],
+    [
+     "plain flour · cornflour",
+     "harina de trigo · maicena"
+    ],
+    [
+     "breadcrumbs",
+     "pan rallado"
+    ],
+    [
+     "brown sugar",
+     "azúcar moreno"
+    ],
+    [
+     "rice (basmati / jasmine)",
+     "arroz (basmati / jazmín)"
+    ],
+    [
+     "spaghetti · pasta",
+     "espaguetis · macarrones"
+    ],
+    [
+     "couscous",
+     "cuscús"
+    ],
+    [
+     "wraps · tortillas",
+     "tortillas de trigo / maíz"
+    ],
+    [
+     "baguette",
+     "barra de pan"
+    ]
+   ]
+  ],
+  [
+   "Herbs & spices",
+   [
+    [
+     "sweet paprika",
+     "pimentón dulce"
+    ],
+    [
+     "smoked paprika",
+     "pimentón de la Vera"
+    ],
+    [
+     "cumin",
+     "comino molido"
+    ],
+    [
+     "turmeric",
+     "cúrcuma"
+    ],
+    [
+     "cinnamon",
+     "canela molida"
+    ],
+    [
+     "curry powder (mild)",
+     "curry en polvo"
+    ],
+    [
+     "nutmeg",
+     "nuez moscada"
+    ],
+    [
+     "oregano · basil",
+     "orégano · albahaca"
+    ],
+    [
+     "thyme",
+     "tomillo"
+    ],
+    [
+     "bay leaf",
+     "hoja de laurel"
+    ],
+    [
+     "garlic powder",
+     "ajo en polvo"
+    ],
+    [
+     "sesame seeds",
+     "sésamo tostado"
+    ]
+   ]
+  ],
+  [
+   "Dairy & eggs",
+   [
+    [
+     "cooking cream",
+     "nata para cocinar"
+    ],
+    [
+     "Greek yoghurt",
+     "yogur griego natural"
+    ],
+    [
+     "milk · butter",
+     "leche · mantequilla"
+    ],
+    [
+     "grated Parmesan",
+     "queso parmesano rallado"
+    ],
+    [
+     "egg",
+     "huevo"
+    ]
+   ]
+  ]
+ ],
+ "chapters": [
+  "Dutch & European",
+  "Spanish & Mediterranean",
+  "World Dishes",
+  "Fish & Prawns",
+  "Budget Favourites"
+ ],
+ "spiceWords": [
+  "Mild",
+  "Medium",
+  "Spicy"
+ ]
+}

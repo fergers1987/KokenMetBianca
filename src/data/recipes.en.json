@@ -1,0 +1,2579 @@
+[
+  {
+    "id": 1,
+    "title": "Dutch Beef Stew",
+    "slug": "dutch-beef-stew",
+    "chapter": "Dutch & European",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "8–9 hrs",
+    "high": "5–6 hrs",
+    "intro": "Meltingly tender beef, sweet carrots and potatoes in a gently tangy gravy: Dutch winter comfort food that fills the whole house with the most wonderful smell.",
+    "ingredients": [
+      {
+        "q": "1 tbsp",
+        "item": "flour",
+        "es": "harina de trigo"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "500 g",
+        "item": "braising beef (chuck), cut into 4 cm chunks",
+        "es": "carne para guisar (morcillo o aguja de ternera)"
+      },
+      {
+        "q": "600 g",
+        "item": "waxy potatoes (3 large)",
+        "es": "patatas para guisar"
+      },
+      {
+        "q": "3",
+        "item": "carrots",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2",
+        "item": "onions, cut into half-moons",
+        "es": "cebollas"
+      },
+      {
+        "q": "250 ml",
+        "item": "beef stock",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "mustard",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "vinegar",
+        "es": "vinagre de vino"
+      },
+      {
+        "q": "1 tsp",
+        "item": "brown sugar",
+        "es": "azúcar moreno"
+      },
+      {
+        "q": "2",
+        "item": "bay leaves",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "",
+        "item": "salt and pepper",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Dust the meat with flour, salt and pepper. Brown it all over in hot oil in two batches; this gives you flavour and a nicely thickened gravy.",
+      "Cut the potatoes and carrots into large chunks and put them in the bottom of the slow cooker, where it's hottest. Lay the meat on top.",
+      "Soften the onions in the same pan for 3 minutes. Deglaze with the stock, mustard, vinegar and sugar, scraping up all the browned bits.",
+      "Pour this over the meat, tuck in the bay leaves and put the lid on. Cook for 8–9 hours on LOW or 5–6 hours on HIGH.",
+      "Fish out the bay leaves and taste: season with salt, pepper and an extra splash of vinegar if you like. The meat should fall apart."
+    ],
+    "tip": "Choose waxy potatoes and cut them into large chunks so they hold their shape. Gravy too thin? Mash a few pieces of potato and stir them in: free thickening.",
+    "kids": "Mash the meat, potato and carrot together with a little gravy: a familiar Dutch-style stamppot for little eaters.",
+    "freeze": false
+  },
+  {
+    "id": 2,
+    "title": "Spanish Lentejas with Chorizo",
+    "slug": "spanish-lentejas-with-chorizo",
+    "chapter": "Spanish & Mediterranean",
+    "price": "7–9",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 hrs",
+    "high": "3–4 hrs",
+    "intro": "This is how all of Spain eats on a weeknight: a thick, smoky lentil stew you'll want to mop up with a hunk of bread.",
+    "ingredients": [
+      {
+        "q": "1 tbsp",
+        "item": "olive oil",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "250 g",
+        "item": "pardina lentils, rinsed",
+        "es": "lentejas pardinas"
+      },
+      {
+        "q": "100 g",
+        "item": "mild chorizo, sliced",
+        "es": "chorizo dulce (sarta)"
+      },
+      {
+        "q": "1 + 2",
+        "item": "onion + garlic cloves",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "2",
+        "item": "carrots",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2 (± 400 g)",
+        "item": "potatoes",
+        "es": "patatas"
+      },
+      {
+        "q": "200 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "900 ml",
+        "item": "vegetable stock",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 tsp",
+        "item": "sweet paprika",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1",
+        "item": "bay leaf",
+        "es": "hoja de laurel"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "sherry or wine vinegar",
+        "es": "vinagre de Jerez"
+      },
+      {
+        "q": "",
+        "item": "salt and pepper",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "baguette or rustic loaf",
+        "es": "barra de pan / pan rústico"
+      }
+    ],
+    "steps": [
+      "Rinse the lentils in a sieve until the water runs clear; there's no need to soak them. Peel the potatoes and carrots and cut them into 2 cm cubes.",
+      "Fry the chorizo in the olive oil for 2 minutes, then add the onion and garlic and soften for 3 minutes. Take the pan off the heat before stirring in the paprika; it burns quickly.",
+      "Tip everything into the slow cooker with the lentils, vegetables, passata, bay leaf and stock. Don't add salt yet: you'll do that at the end.",
+      "Cook with the lid on for 6–7 hours on LOW or 3–4 hours on HIGH, until the lentils are completely soft.",
+      "Too thick? Stir in a little hot water. Remove the bay leaf and season with salt, pepper and the vinegar."
+    ],
+    "tip": "Squash a few cubes of potato against the side of the pot and stir them in: the stew turns creamy all by itself. A splash of sherry vinegar at the end deepens the flavour, just the way Spanish grandmothers do it.",
+    "kids": "Always choose chorizo dulce, never picante. Spice lovers can sprinkle a little pimentón picante over their own plate.",
+    "freeze": true
+  },
+  {
+    "id": 3,
+    "title": "Creamy Chicken with Peppers and Rice",
+    "slug": "creamy-chicken-with-peppers-and-rice",
+    "chapter": "Dutch & European",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 hrs",
+    "high": "2–3 hrs",
+    "intro": "Tender chicken thighs in a velvety, sweet pepper and cream sauce packed with vegetables: colourful on the plate and a guaranteed hit.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs, cut into large pieces",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "2",
+        "item": "peppers (red and yellow), cut into strips",
+        "es": "pimiento rojo y amarillo"
+      },
+      {
+        "q": "1",
+        "item": "onion, cut into half-moons",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carrots, thinly sliced",
+        "es": "zanahorias"
+      },
+      {
+        "q": "150 g",
+        "item": "mushrooms, sliced",
+        "es": "champiñones laminados"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "tomato purée",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 tsp",
+        "item": "sweet paprika",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 tsp",
+        "item": "oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "150 ml",
+        "item": "chicken stock",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "150 ml",
+        "item": "cooking cream",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "cornflour + 2 tbsp cold water",
+        "es": "maicena"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil, salt and pepper",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "rice",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Season the chicken with salt, pepper and half the paprika. Brown the pieces quickly in oil until golden; they don't need to be cooked through yet.",
+      "Put the carrot and onion in the bottom of the slow cooker, then the peppers, mushrooms and chicken. Mix the stock, tomato purée, remaining paprika and oregano and pour it over the top.",
+      "Cook with the lid on for 4–5 hours on LOW or 2–3 hours on HIGH. The chicken is done when it reaches 75 °C in the centre.",
+      "For the last half hour, stir in the cooking cream and the cornflour mixed with 2 tbsp cold water. Put the lid back on and let it carry on cooking.",
+      "Meanwhile, cook the rice according to the packet instructions and spoon the chicken and sauce over the top."
+    ],
+    "tip": "That little spoonful of tomato purée is my secret: it gives the pepper sauce depth and a warm colour without tasting of tomato.",
+    "kids": "Not keen on mushrooms? Chop them very finely and they'll disappear into the sauce unnoticed.",
+    "freeze": true
+  },
+  {
+    "id": 4,
+    "title": "Meatballs in Italian Tomato Sauce",
+    "slug": "meatballs-in-italian-tomato-sauce",
+    "chapter": "Dutch & European",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "4–5 hrs",
+    "high": "2–3 hrs",
+    "intro": "Juicy meatballs that simmer gently for hours in a sweet tomato sauce with hidden vegetables: a treat for every child.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "mixed beef and pork mince",
+        "es": "carne picada mixta (cerdo y vacuno)"
+      },
+      {
+        "q": "1",
+        "item": "egg",
+        "es": "huevo"
+      },
+      {
+        "q": "3 tbsp",
+        "item": "breadcrumbs",
+        "es": "pan rallado"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "grated Parmesan",
+        "es": "queso parmesano rallado"
+      },
+      {
+        "q": "2 tsp",
+        "item": "Italian herbs",
+        "es": "hierbas italianas (o orégano y albahaca)"
+      },
+      {
+        "q": "400 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "tomato purée",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "1",
+        "item": "onion, finely chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "carrot, finely grated",
+        "es": "zanahoria"
+      },
+      {
+        "q": "2",
+        "item": "garlic cloves, crushed",
+        "es": "ajo"
+      },
+      {
+        "q": "1 tsp",
+        "item": "oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "olive oil, salt and pepper",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "100 ml",
+        "item": "water",
+        "es": "agua"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "spaghetti",
+        "es": "espaguetis"
+      }
+    ],
+    "steps": [
+      "Briefly mix the mince, egg, breadcrumbs, Parmesan, 1 tsp Italian herbs, salt and pepper. With wet hands, roll into about 20 meatballs.",
+      "Brown the meatballs all over in olive oil. They don't need to be cooked through; the crust adds flavour and helps them hold together.",
+      "Stir the passata, tomato purée, onion, carrot, garlic, oregano and the rest of the herbs together in the slow cooker. Swirl the 100 ml water round the passata carton and add it too.",
+      "Add the meatballs to the sauce and gently spoon it over them. Cook for 4–5 hours on LOW or 2–3 hours on HIGH.",
+      "Cook the spaghetti until al dente, season the sauce with salt and pepper to taste and serve with an extra sprinkle of Parmesan."
+    ],
+    "tip": "Mix the mince as little as possible: the less you work it, the more tender the meatballs. They're done when they're no longer pink inside.",
+    "kids": "Let the children roll the meatballs themselves; homemade tastes twice as good. Grown-ups: chilli flakes at the table.",
+    "freeze": true
+  },
+  {
+    "id": 5,
+    "title": "Pulled Chicken Wraps",
+    "slug": "pulled-chicken-wraps",
+    "chapter": "World Dishes",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "10 min",
+    "low": "4–5 hrs",
+    "high": "2–3 hrs",
+    "intro": "Sweet, smoky chicken that falls apart all on its own: roll your own wraps at the table and watch how fast the dish empties.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1",
+        "item": "onion, sliced into rings",
+        "es": "cebolla"
+      },
+      {
+        "q": "200 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "tomato purée",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "honey",
+        "es": "miel"
+      },
+      {
+        "q": "1 tsp",
+        "item": "mustard",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "cider vinegar",
+        "es": "vinagre de manzana"
+      },
+      {
+        "q": "2 tsp",
+        "item": "sweet smoked paprika",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 tsp",
+        "item": "garlic powder",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "",
+        "item": "salt and pepper",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "8",
+        "item": "wraps",
+        "es": "tortillas de trigo"
+      },
+      {
+        "q": "1 small tin + ½",
+        "item": "sweetcorn + cucumber",
+        "es": "maíz dulce + pepino"
+      },
+      {
+        "q": "200 g",
+        "item": "Greek yoghurt",
+        "es": "yogur griego natural"
+      }
+    ],
+    "steps": [
+      "Stir the passata, tomato purée, honey, mustard, vinegar, paprika and garlic powder together with salt and pepper in the slow cooker.",
+      "Add the onion and lay the chicken on top. Spoon the sauce over the chicken so everything is covered.",
+      "Cook with the lid on for 4–5 hours on LOW or 2–3 hours on HIGH, until the chicken reaches 75 °C and pulls apart easily.",
+      "Shred the chicken with two forks right in the pot and stir it through the sauce. Too runny? Leave the lid off and let it thicken on HIGH for 20 minutes.",
+      "Warm the wraps briefly in a dry frying pan. Everyone fills their own with chicken, sweetcorn, cucumber and a spoonful of yoghurt."
+    ],
+    "tip": "Use chicken thighs, not breast: thigh stays juicy and shreds beautifully, while breast turns dry and stringy. Leftovers are delicious in a toastie the next day.",
+    "kids": "Let the children roll their own wraps. Grown-ups: a few drops of Tabasco or some jalapeño.",
+    "freeze": true
+  },
+  {
+    "id": 6,
+    "title": "Bolognese with Extra Vegetables",
+    "slug": "bolognese-with-extra-vegetables",
+    "chapter": "Dutch & European",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 hrs",
+    "high": "3–4 hrs",
+    "intro": "A rich, deeply tomatoey bolognese in which courgette, carrot and celery quietly vanish: vegetables eaten without anyone noticing.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "beef mince",
+        "es": "carne picada de vacuno"
+      },
+      {
+        "q": "1",
+        "item": "onion",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carrots",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "courgette",
+        "es": "calabacín"
+      },
+      {
+        "q": "2",
+        "item": "celery sticks",
+        "es": "apio"
+      },
+      {
+        "q": "400 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "tomato purée",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "beef stock",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 tsp + 1 tsp",
+        "item": "oregano and basil",
+        "es": "orégano y albahaca"
+      },
+      {
+        "q": "1",
+        "item": "bay leaf",
+        "es": "hoja de laurel"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "olive oil, salt and pepper",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "spaghetti",
+        "es": "espaguetis"
+      }
+    ],
+    "steps": [
+      "Fry the mince in olive oil in a hot pan until browned and crumbly. Leave it alone for a moment before stirring; that's how you get those flavourful crispy bits.",
+      "Finely chop the onion and celery and coarsely grate the carrot and courgette. The finer they are, the less likely the children are to spot them.",
+      "Put the mince, vegetables, passata, tomato purée, stock, herbs and bay leaf in the slow cooker. Stir well and season with salt and pepper.",
+      "Cook for 6–7 hours on LOW or 3–4 hours on HIGH. Too runny? Leave the lid slightly ajar for the last 30 minutes.",
+      "Remove the bay leaf, cook the spaghetti until al dente and spoon the sauce generously over the top."
+    ],
+    "tip": "Just before serving, stir a splash of pasta cooking water into the sauce: it turns glossy and clings to the spaghetti better. A true Italian trick.",
+    "kids": "Give the sauce a quick blitz with a stick blender: silky smooth, and the vegetables become invisible.",
+    "freeze": true
+  },
+  {
+    "id": 7,
+    "title": "Mild Chilli con Carne",
+    "slug": "mild-chilli-con-carne",
+    "chapter": "World Dishes",
+    "price": "9–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 hrs",
+    "high": "3 hrs",
+    "intro": "A warm, deep-flavoured chilli without the fiery edge: comfort food that has children asking for seconds.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "mince (beef or mixed beef and pork)",
+        "es": "carne picada de vacuno / mixta"
+      },
+      {
+        "q": "1",
+        "item": "onion, chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "red pepper, diced",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2 cloves",
+        "item": "garlic",
+        "es": "ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "tomato purée",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "beef stock",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 tin (400 g)",
+        "item": "kidney beans, rinsed",
+        "es": "alubias rojas cocidas"
+      },
+      {
+        "q": "150 g",
+        "item": "sweetcorn",
+        "es": "maíz dulce"
+      },
+      {
+        "q": "2 tsp",
+        "item": "sweet paprika",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 tsp",
+        "item": "ground cumin",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "olive oil + salt and pepper",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "rice",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Fry the mince in oil over a high heat until browned and crumbly; let it really colour, because that's where the flavour is. Add the onion, pepper and garlic and fry for 3 minutes.",
+      "Take the pan off the heat, stir in the paprika, cumin and tomato purée and tip everything into the slow cooker.",
+      "Add the passata, stock and rinsed kidney beans. Season with salt and pepper, stir and put the lid on.",
+      "Cook for 5–6 hours on LOW or 3 hours on HIGH. Stir in the sweetcorn for the last half hour so it stays crunchy.",
+      "Meanwhile, cook the rice. Taste the chilli, adjust the seasoning and serve."
+    ],
+    "tip": "Always use tinned or jarred kidney beans: dried ones don't get hot enough in a slow cooker to be safe. And feel free to make it a day ahead; chilli tastes even better the next day.",
+    "kids": "Children eat it just as it is; grown-ups sprinkle chilli flakes or jalapeño over their own plate.",
+    "freeze": true
+  },
+  {
+    "id": 8,
+    "title": "Spanish Chicken and Chickpea Stew",
+    "slug": "spanish-chicken-and-chickpea-stew",
+    "chapter": "Spanish & Mediterranean",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 hrs",
+    "high": "2–3 hrs",
+    "intro": "Golden chicken, creamy chickpeas and sweet paprika in a tomato sauce that smells like an Andalusian village kitchen.",
+    "ingredients": [
+      {
+        "q": "1 tbsp",
+        "item": "olive oil",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "500 g",
+        "item": "boneless chicken thighs, cut into large pieces",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 jar/tin",
+        "item": "chickpeas (± 250 g drained)",
+        "es": "garbanzos cocidos"
+      },
+      {
+        "q": "2",
+        "item": "carrots, diced",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2 (± 400 g)",
+        "item": "potatoes, diced",
+        "es": "patatas"
+      },
+      {
+        "q": "1 + 2",
+        "item": "onion + garlic cloves",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "200 ml",
+        "item": "chicken stock",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 tsp",
+        "item": "sweet paprika",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "½ tsp",
+        "item": "ground cumin",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 tsp",
+        "item": "dried oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "",
+        "item": "salt and pepper",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "baguette",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Season the chicken with salt and pepper and fry in olive oil for 3–4 minutes until golden; it doesn't need to be cooked through yet.",
+      "Soften the onion and garlic in the same oil for 3 minutes. Take the pan off the heat and stir in the paprika, cumin and oregano.",
+      "Put the potato and carrot (in 2 cm cubes) in the bottom of the slow cooker, then add the rinsed chickpeas, chicken and onion. Pour the passata and stock over the top.",
+      "Cook with the lid on for 4–5 hours on LOW or 2–3 hours on HIGH, until the potato is soft and the chicken reaches 75 °C.",
+      "Taste and season with salt and pepper. Too runny? Mash a spoonful of chickpeas and stir them in."
+    ],
+    "tip": "Potato and carrot go at the bottom: that's where the slow cooker is hottest, and hard vegetables need the most time. Rinse the chickpeas well; the liquid from the jar tastes salty and dull.",
+    "kids": "Mild and soft, perfect for mashing. Grown-ups: a pinch of pimentón picante at the table.",
+    "freeze": true
+  },
+  {
+    "id": 9,
+    "title": "Potato and Leek Soup",
+    "slug": "potato-and-leek-soup",
+    "chapter": "Dutch & European",
+    "price": "7–9",
+    "spice": 1,
+    "vega": true,
+    "prep": "15 min",
+    "low": "5–6 hrs",
+    "high": "3–4 hrs",
+    "intro": "A velvety, creamy leek and potato soup: simple, inexpensive and just what you want on a crisp autumn evening.",
+    "ingredients": [
+      {
+        "q": "800 g",
+        "item": "floury potatoes, diced",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "2",
+        "item": "leeks",
+        "es": "puerros"
+      },
+      {
+        "q": "1",
+        "item": "onion",
+        "es": "cebolla"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "butter",
+        "es": "mantequilla"
+      },
+      {
+        "q": "1 litre",
+        "item": "vegetable stock",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "150 ml",
+        "item": "cooking cream",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "pinch",
+        "item": "nutmeg",
+        "es": "nuez moscada"
+      },
+      {
+        "q": "",
+        "item": "salt and pepper",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Slice the leeks into rings and rinse them well in a colander: there's often sand hiding between the layers. Chop the onion.",
+      "Gently soften the leek and onion in the butter for 5 minutes without letting them colour. This gives the soup a sweet, rounded flavour.",
+      "Put the leek, onion, potato and stock in the slow cooker, filling it no more than three-quarters full. Cook for 5–6 hours on LOW or 3–4 hours on HIGH.",
+      "Blend the soup until smooth with a stick blender. Keep the head below the surface and it won't splatter.",
+      "Stir in the cooking cream and let it warm through for 10 minutes. Season with salt, pepper and a pinch of nutmeg."
+    ],
+    "tip": "Blend only briefly: over-blending makes potato gluey. Freezing it? Do so before adding the cream, then stir the cream in after reheating.",
+    "kids": "Serve with strips of cheesy toast for dipping into the soup.",
+    "freeze": true
+  },
+  {
+    "id": 10,
+    "title": "Mild Coconut Chicken Curry",
+    "slug": "mild-coconut-chicken-curry",
+    "chapter": "World Dishes",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 hrs",
+    "high": "2–3 hrs",
+    "intro": "A velvety, golden curry with a sweet hint of apple: the curry that will make your children fall in love with world cooking.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs, cut into pieces",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "400 ml",
+        "item": "coconut milk (full-fat)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1",
+        "item": "onion, chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carrots, sliced",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "red pepper, diced",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1",
+        "item": "sweet apple, diced",
+        "es": "manzana golden"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "mild curry powder",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 tsp",
+        "item": "garlic powder",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "1 tbsp + 2 tbsp",
+        "item": "cornflour + cold water",
+        "es": "maicena"
+      },
+      {
+        "q": "",
+        "item": "salt",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "rice",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Soften the onion in oil for 3 minutes, then stir in the curry powder and garlic powder for 30 seconds until fragrant. This cooks out the raw taste of the spices.",
+      "Put the chicken, carrot, pepper and apple in the slow cooker. Spoon the curried onion over the top, pour in half the coconut milk and add salt.",
+      "Cook with the lid on for 4–5 hours on LOW or 2–3 hours on HIGH, until the chicken reaches 75 °C.",
+      "For the last half hour, stir in the rest of the coconut milk and the cornflour mixed with the cold water. Switch to HIGH and keep the lid on until the sauce thickens.",
+      "Meanwhile, cook the rice, taste the curry for salt and serve."
+    ],
+    "tip": "Spices only really release their flavour in hot oil, so always fry the curry powder briefly. Adding the second half of the coconut milk at the end makes the sauce extra creamy and fresh.",
+    "kids": "The apple gives the sauce a gentle sweetness. Grown-ups: sambal or chilli flakes at the table.",
+    "freeze": true
+  },
+  {
+    "id": 11,
+    "title": "Moroccan Chicken Stew with Ras el Hanout",
+    "slug": "moroccan-chicken-stew-with-ras-el-hanout",
+    "chapter": "World Dishes",
+    "price": "9–11",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 hrs",
+    "high": "2–3 hrs",
+    "intro": "Cinnamon, ras el hanout and sweet apricots fill your kitchen with the scent of a Moroccan souk.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs, cut into large pieces",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 + 2",
+        "item": "onion + garlic cloves",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "2",
+        "item": "carrots, sliced",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "courgette, cut into chunks",
+        "es": "calabacín"
+      },
+      {
+        "q": "1 jar/tin",
+        "item": "chickpeas, rinsed",
+        "es": "garbanzos cocidos"
+      },
+      {
+        "q": "200 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "150 ml",
+        "item": "chicken stock",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "ras el hanout",
+        "es": "ras el hanout"
+      },
+      {
+        "q": "½ tsp",
+        "item": "cinnamon",
+        "es": "canela molida"
+      },
+      {
+        "q": "50 g",
+        "item": "dried apricots, halved",
+        "es": "orejones de albaricoque"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "olive oil + salt and pepper",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g + 300 ml",
+        "item": "couscous + boiling stock",
+        "es": "cuscús"
+      }
+    ],
+    "steps": [
+      "Season the chicken with salt and fry in olive oil for 3 minutes. Add the onion and garlic to soften, then stir in the ras el hanout and cinnamon for 30 seconds.",
+      "Put the carrot, chickpeas, apricots and chicken mixture in the slow cooker. Pour the passata and stock over the top.",
+      "Cook with the lid on for 4–5 hours on LOW or 2–3 hours on HIGH, until the chicken reaches 75 °C.",
+      "For the last hour, lay the courgette on top and quickly put the lid back on; that way it stays whole and nicely green.",
+      "Pour the boiling stock over the couscous, cover and leave to swell for 5 minutes, then fluff it up with a fork."
+    ],
+    "tip": "Ras el hanout varies from brand to brand: some are sweet and floral, others punchy. Give it a sniff, start with 1 tablespoon and feel free to stir in a little extra at the end.",
+    "kids": "The apricots make it soft and sweet. Grown-ups: a little spoonful of harissa on their own plate.",
+    "freeze": true
+  },
+  {
+    "id": 12,
+    "title": "Dutch Braised Beef with Mash",
+    "slug": "dutch-braised-beef-with-mash",
+    "chapter": "Dutch & European",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "8–9 hrs",
+    "high": "5–6 hrs",
+    "intro": "Draadjesvlees just like Grandma used to make: beef so tender it falls into threads, in a glossy sweet-and-sour gravy, with a mountain of creamy mash on the side.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "braising beef (blade or chuck), cut into chunks",
+        "es": "carne para guisar (morcillo)"
+      },
+      {
+        "q": "2",
+        "item": "onions, cut into half-moons",
+        "es": "cebollas"
+      },
+      {
+        "q": "2",
+        "item": "carrots, cut into chunks",
+        "es": "zanahorias"
+      },
+      {
+        "q": "250 ml",
+        "item": "beef stock",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "mustard",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "vinegar",
+        "es": "vinagre de vino"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "brown sugar",
+        "es": "azúcar moreno"
+      },
+      {
+        "q": "2",
+        "item": "bay leaves",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "2 sprigs",
+        "item": "thyme (or 1 tsp dried)",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "cornflour + 2 tbsp cold water",
+        "es": "maicena"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil, salt and pepper",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "1 kg",
+        "item": "floury potatoes",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "150 ml",
+        "item": "warm milk",
+        "es": "leche"
+      },
+      {
+        "q": "30 g",
+        "item": "butter",
+        "es": "mantequilla"
+      }
+    ],
+    "steps": [
+      "Pat the meat dry, season with salt and pepper and brown it in small batches in oil until deep brown all over. Transfer it to the slow cooker.",
+      "Fry the onions in the same pan until golden. Deglaze with the stock, mustard, vinegar and sugar, scraping up all the browned bits.",
+      "Pour this over the meat, add the carrot, bay leaves and thyme and put the lid on. Cook for 8–9 hours on LOW or 5–6 hours on HIGH.",
+      "For the last half hour, stir the cornflour mixed with 2 tbsp cold water into the gravy. Fish out the bay leaves and thyme stalks.",
+      "Meanwhile, boil the potatoes until tender, drain and mash with the warm milk, butter and salt until creamy."
+    ],
+    "tip": "Deep browning is everything: work in small batches, otherwise the meat stews instead of colouring. Want it extra Dutch? Add 2 whole cloves.",
+    "kids": "Make a little well in the mash and fill it with gravy: a gravy volcano. Children love it.",
+    "freeze": true
+  },
+  {
+    "id": 13,
+    "title": "Pulled Pork Tacos",
+    "slug": "pulled-pork-tacos",
+    "chapter": "World Dishes",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "8–9 hrs",
+    "high": "5–6 hrs",
+    "intro": "Slow-cooked pork shoulder in a sticky, smoky sauce: set up a taco bar on the table and let everyone build their own.",
+    "ingredients": [
+      {
+        "q": "800 g",
+        "item": "boneless pork shoulder",
+        "es": "paleta de cerdo / aguja"
+      },
+      {
+        "q": "1",
+        "item": "onion, sliced into rings",
+        "es": "cebolla"
+      },
+      {
+        "q": "150 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "tomato purée",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "honey",
+        "es": "miel"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "cider vinegar",
+        "es": "vinagre de manzana"
+      },
+      {
+        "q": "2 tsp",
+        "item": "sweet smoked paprika",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 tsp",
+        "item": "ground cumin",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 tsp",
+        "item": "garlic powder",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "1 tsp",
+        "item": "salt + pepper",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "8–12",
+        "item": "small tortillas",
+        "es": "tortillas de trigo o maíz"
+      },
+      {
+        "q": "",
+        "item": "sweetcorn, tomato and cucumber",
+        "es": "maíz dulce, tomate, pepino"
+      },
+      {
+        "q": "200 g",
+        "item": "Greek yoghurt",
+        "es": "yogur griego natural"
+      }
+    ],
+    "steps": [
+      "Cut the meat into 4 large pieces and rub them with the paprika, cumin, garlic powder, salt and pepper.",
+      "Put the onion in the bottom of the slow cooker and the meat on top. Mix the passata, tomato purée, honey and vinegar and pour over the meat.",
+      "Cook with the lid on for 8–9 hours on LOW or 5–6 hours on HIGH, until the meat falls apart with a fork.",
+      "Lift out the meat, shred it and discard any large pieces of fat. Reduce the sauce in a pan for 5–10 minutes until syrupy.",
+      "Stir the meat through the reduced sauce. Warm the tortillas briefly in a dry frying pan and fill them at the table with the toppings."
+    ],
+    "tip": "Shoulder has just the right amount of fat and connective tissue to turn meltingly tender; lean cuts such as lomo dry out. Reducing the sauce is the difference between good and great.",
+    "kids": "Children choose their own toppings. Grown-ups: jalapeño, salsa picante or a wedge of lime.",
+    "freeze": true
+  },
+  {
+    "id": 14,
+    "title": "Creamy Mild Chicken Tikka Masala",
+    "slug": "creamy-mild-chicken-tikka-masala",
+    "chapter": "World Dishes",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 hrs",
+    "high": "2–3 hrs",
+    "intro": "The creamy orange curry from your favourite Indian restaurant, but gentle enough for the whole table.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs, cut into 3 cm cubes",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 + 2",
+        "item": "onion + garlic cloves",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "fresh ginger, grated",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "200 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "tomato purée",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 tsp",
+        "item": "mild garam masala",
+        "es": "garam masala"
+      },
+      {
+        "q": "1 tsp",
+        "item": "sweet paprika",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 tsp + ½ tsp",
+        "item": "cumin + turmeric",
+        "es": "comino + cúrcuma"
+      },
+      {
+        "q": "150 ml",
+        "item": "cooking cream",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "150 g",
+        "item": "full-fat Greek yoghurt",
+        "es": "yogur griego natural"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "",
+        "item": "salt",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "basmati rice",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Soften the onion, garlic and ginger in oil for 4 minutes. Stir in all the spices and the tomato purée and fry for 1 minute until fragrant.",
+      "Put the chicken in the slow cooker, spoon the spice mixture and passata over it, add salt and stir.",
+      "Cook with the lid on for 4–5 hours on LOW or 2–3 hours on HIGH, until the chicken reaches 75 °C.",
+      "For the last 15 minutes, stir in the cooking cream. Then switch the slow cooker off or to WARM.",
+      "Mix the yoghurt with a few spoonfuls of the hot sauce and only then stir it into the curry. Don't let it boil again, or it will split.",
+      "Cook the basmati rice separately and serve."
+    ],
+    "tip": "Full-fat yoghurt is far less likely to split than low-fat, and 'tempering' it with warm sauce first prevents lumps. Ground ginger works too: use 1 teaspoon instead of fresh. Freezing it? Do so before adding the cream and yoghurt.",
+    "kids": "Creamy and mild. Grown-ups: chilli flakes or a finely chopped green chilli on top.",
+    "freeze": true
+  },
+  {
+    "id": 15,
+    "title": "Chicken in Creamy Mushroom Sauce",
+    "slug": "chicken-in-creamy-mushroom-sauce",
+    "chapter": "Dutch & European",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 hrs",
+    "high": "2–3 hrs",
+    "intro": "Tender chicken in a creamy sauce with mushrooms, garlic and thyme: comfort food that tastes as if you'd spent hours in the kitchen.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "250 g",
+        "item": "mushrooms, sliced",
+        "es": "champiñones laminados"
+      },
+      {
+        "q": "1",
+        "item": "onion, chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "garlic cloves, crushed",
+        "es": "ajo"
+      },
+      {
+        "q": "150 ml",
+        "item": "chicken stock",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 tsp",
+        "item": "thyme",
+        "es": "tomillo"
+      },
+      {
+        "q": "150 ml",
+        "item": "cooking cream",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "cornflour + 2 tbsp cold water",
+        "es": "maicena"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "fresh parsley, finely chopped",
+        "es": "perejil fresco"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil, salt and pepper",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "1 kg",
+        "item": "floury potatoes (for mash)",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "100 ml + 25 g",
+        "item": "milk and butter",
+        "es": "leche y mantequilla"
+      }
+    ],
+    "steps": [
+      "Season the chicken with salt and pepper, brown it quickly in oil until golden and transfer it to the slow cooker.",
+      "Fry the mushrooms, onion and garlic in the same pan over a high heat for 4 minutes. This drives off the mushrooms' water and gives them flavour.",
+      "Spoon this over the chicken, pour in the stock and sprinkle over the thyme. Cook for 4–5 hours on LOW or 2–3 hours on HIGH.",
+      "For the last half hour, stir in the cooking cream and the cornflour mixed with 2 tbsp cold water. The chicken must reach 75 °C in the centre.",
+      "Meanwhile, boil the potatoes and mash them with the milk and butter. Sprinkle the parsley over the chicken and serve."
+    ],
+    "tip": "Fry the mushrooms over a high heat and not too many at once, so they brown rather than stew. That's the difference between a bland sauce and a rich one.",
+    "kids": "Mash the potato with a spoonful of sauce: creamy, mild and easy to eat for little hands.",
+    "freeze": true
+  },
+  {
+    "id": 16,
+    "title": "Pork in Honey Mustard Sauce",
+    "slug": "pork-in-honey-mustard-sauce",
+    "chapter": "Dutch & European",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 hrs",
+    "high": "3–4 hrs",
+    "intro": "Tender braised pork with apple in a sweet, creamy honey mustard sauce: the perfect balance of sweet and savoury.",
+    "ingredients": [
+      {
+        "q": "700 g",
+        "item": "pork shoulder, cut into 4 cm chunks",
+        "es": "aguja o paleta de cerdo para guisar"
+      },
+      {
+        "q": "1",
+        "item": "onion, cut into wedges",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carrots, cut into chunks",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "sweet apple, cut into wedges",
+        "es": "manzana Golden"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "mustard",
+        "es": "mostaza (Dijon o a la antigua)"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "honey",
+        "es": "miel"
+      },
+      {
+        "q": "200 ml",
+        "item": "chicken stock",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 tsp",
+        "item": "thyme",
+        "es": "tomillo"
+      },
+      {
+        "q": "100 ml",
+        "item": "cooking cream",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "cornflour + 2 tbsp cold water",
+        "es": "maicena"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil, salt and pepper",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "800 g",
+        "item": "potatoes or 300 g rice",
+        "es": "patatas o arroz"
+      }
+    ],
+    "steps": [
+      "Trim any excess fat from the meat. Season with salt and pepper and lightly brown the chunks in oil in batches.",
+      "Put the carrot, onion and apple in the bottom of the slow cooker and spoon the meat on top.",
+      "Mix the stock, honey, 1 tbsp mustard and the thyme and pour it over. Cook for 6–7 hours on LOW or 3–4 hours on HIGH.",
+      "For the last half hour, stir in the cooking cream, the rest of the mustard and the cornflour mixed with 2 tbsp cold water.",
+      "Meanwhile, cook the potatoes or rice. Taste the sauce and season with salt, pepper or an extra spoonful of honey."
+    ],
+    "tip": "Mustard loses its punch during long cooking. That's why you add half of it only at the end: the sauce stays fresh and you can really taste the mustard.",
+    "kids": "Too mustardy? An extra splash of cream and a little honey will soften the sauce for little tasters.",
+    "freeze": true
+  },
+  {
+    "id": 17,
+    "title": "Cottage Pie with Mince and Vegetables",
+    "slug": "cottage-pie-with-mince-and-vegetables",
+    "chapter": "Dutch & European",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "4–5 hrs",
+    "high": "2–3 hrs",
+    "intro": "A savoury mince and vegetable filling under a blanket of creamy mash: British comfort food that gets the whole family to the table.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "beef mince",
+        "es": "carne picada de vacuno"
+      },
+      {
+        "q": "1",
+        "item": "onion, chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carrots, diced",
+        "es": "zanahorias"
+      },
+      {
+        "q": "100 g",
+        "item": "frozen peas",
+        "es": "guisantes congelados"
+      },
+      {
+        "q": "200 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "tomato purée",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "beef stock",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 tsp",
+        "item": "thyme",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "Worcestershire sauce (or soy sauce)",
+        "es": "salsa Worcestershire (o salsa de soja)"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "cornflour + 2 tbsp cold water",
+        "es": "maicena"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil, salt and pepper",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "800 g",
+        "item": "floury potatoes",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "100 ml + 30 g",
+        "item": "milk and butter",
+        "es": "leche y mantequilla"
+      }
+    ],
+    "steps": [
+      "Fry the mince and onion in oil until browned and crumbly. Spoon into the slow cooker with the carrot, passata, tomato purée, stock, thyme and Worcestershire sauce.",
+      "Season with salt and pepper and cook with the lid on for 4–5 hours on LOW or 2–3 hours on HIGH.",
+      "For the last half hour, stir in the peas and the cornflour mixed with 2 tbsp cold water. This thickens the filling nicely.",
+      "Meanwhile, boil the potatoes and mash them with the milk, butter and salt to a firm mash.",
+      "Spoon the filling into an ovenproof dish, spread the mash over the top and rough it up with a fork. Place under a hot grill for 10 minutes (or 15 min at 220 °C) until golden."
+    ],
+    "tip": "The fork ridges turn into crispy edges under the grill: the best bit. No grill? Spoon the mash over the filling in the slow cooker and heat through for 15 minutes.",
+    "kids": "Sprinkle some grated cheese over the mash: everyone will want a piece of the golden crust.",
+    "freeze": true
+  },
+  {
+    "id": 18,
+    "title": "Tuscan Chicken",
+    "slug": "tuscan-chicken",
+    "chapter": "Dutch & European",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "3½–4 hrs",
+    "high": "2 hrs",
+    "intro": "Creamy chicken with sun-dried tomatoes, spinach and Parmesan: it tastes like an Italian holiday, even on an ordinary weeknight.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1",
+        "item": "onion, chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "garlic cloves, crushed",
+        "es": "ajo"
+      },
+      {
+        "q": "100 g",
+        "item": "sun-dried tomatoes in oil, cut into strips",
+        "es": "tomates secos en aceite"
+      },
+      {
+        "q": "150 ml",
+        "item": "chicken stock",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 tsp",
+        "item": "oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "150 ml",
+        "item": "cooking cream",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "cornflour + 2 tbsp cold water",
+        "es": "maicena"
+      },
+      {
+        "q": "100 g",
+        "item": "fresh spinach",
+        "es": "espinacas frescas (brotes)"
+      },
+      {
+        "q": "30 g",
+        "item": "grated Parmesan",
+        "es": "queso parmesano rallado"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "olive oil, salt and pepper",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "pasta (penne or macaroni)",
+        "es": "macarrones o penne"
+      }
+    ],
+    "steps": [
+      "Season the chicken with salt, pepper and oregano and brown it quickly in oil until golden. Feel free to use the oil from the tomato jar.",
+      "Put the onion and garlic in the bottom of the slow cooker, then the chicken and sun-dried tomatoes. Pour the stock over the top.",
+      "Cook with the lid on for 3½–4 hours on LOW or 2 hours on HIGH, until the chicken reaches 75 °C in the centre.",
+      "For the last half hour, stir in the cooking cream and the cornflour mixed with 2 tbsp cold water.",
+      "10 minutes before the end, stir in the spinach and Parmesan; the spinach wilts by itself. Meanwhile, cook the pasta and serve."
+    ],
+    "tip": "Sun-dried tomatoes in oil are softer and fuller in flavour than the dry ones from a packet. Only got those? Soak them in hot water for 10 minutes first.",
+    "kids": "Spinach sceptics? Chop the leaves finely and they become inconspicuous green flecks in the sauce.",
+    "freeze": true
+  },
+  {
+    "id": 19,
+    "title": "Mexican Pulled Beef",
+    "slug": "mexican-pulled-beef",
+    "chapter": "World Dishes",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "8–9 hrs",
+    "high": "5–6 hrs",
+    "intro": "Beef that falls into shreds after a day of simmering, with cumin, oregano and a fresh squeeze of lime.",
+    "ingredients": [
+      {
+        "q": "700 g",
+        "item": "beef shoulder / braising beef",
+        "es": "aguja o espaldilla de ternera"
+      },
+      {
+        "q": "1",
+        "item": "onion, cut into strips",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "red pepper, cut into strips",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2 cloves",
+        "item": "garlic, crushed",
+        "es": "ajo"
+      },
+      {
+        "q": "200 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100 ml",
+        "item": "beef stock",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "2 tsp",
+        "item": "ground cumin",
+        "es": "comino molido"
+      },
+      {
+        "q": "2 tsp",
+        "item": "sweet smoked paprika",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 tsp",
+        "item": "dried oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "½",
+        "item": "lime (juice)",
+        "es": "lima"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil + salt and pepper",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "8–12",
+        "item": "tortillas",
+        "es": "tortillas de trigo o maíz"
+      }
+    ],
+    "steps": [
+      "Cut the meat into 4 pieces, season with salt and pepper and brown well all over in oil, 6–8 minutes. That crust is pure flavour.",
+      "Put the onion and pepper in the bottom of the slow cooker and the meat on top.",
+      "Mix the passata, stock, garlic, cumin, paprika and oregano and pour over the meat.",
+      "Cook with the lid on for 8–9 hours on LOW or 5–6 hours on HIGH, until the meat falls apart with a fork.",
+      "Shred the meat in the pot, stir it through the sauce and squeeze over the lime juice. Serve in warm tortillas."
+    ],
+    "tip": "Add the lime only at the end so it stays fresh. Leftovers? Freeze portions with a little sauce: perfect for quesadillas or a quick burrito bowl.",
+    "kids": "Mild and smoky. Grown-ups: jalapeño, salsa picante or a pinch of cayenne at the table.",
+    "freeze": true
+  },
+  {
+    "id": 20,
+    "title": "Teriyaki Chicken",
+    "slug": "teriyaki-chicken",
+    "chapter": "World Dishes",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4 hrs",
+    "high": "2 hrs",
+    "intro": "Glossy, sweet-and-salty chicken with ginger and garlic: within a week, everyone will be asking for it.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "80 ml",
+        "item": "soy sauce",
+        "es": "salsa de soja"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "honey",
+        "es": "miel"
+      },
+      {
+        "q": "100 ml",
+        "item": "water",
+        "es": ""
+      },
+      {
+        "q": "1 tbsp",
+        "item": "rice or cider vinegar",
+        "es": "vinagre de arroz / de manzana"
+      },
+      {
+        "q": "1 clove",
+        "item": "garlic, crushed",
+        "es": "ajo"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "fresh ginger, grated",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "1½ tbsp + 3 tbsp",
+        "item": "cornflour + cold water",
+        "es": "maicena"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "rice",
+        "es": "arroz"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "toasted sesame seeds",
+        "es": "sésamo tostado"
+      }
+    ],
+    "steps": [
+      "Stir the soy sauce, honey, water, vinegar, garlic and ginger together in the slow cooker.",
+      "Add the chicken thighs, whole or in large pieces, and spoon the sauce over them. Put the lid on.",
+      "Cook for 4 hours on LOW or 2 hours on HIGH, until the chicken reaches 75 °C.",
+      "Mix the cornflour with the cold water and stir it into the sauce. Switch to HIGH and leave with the lid on for 20–30 minutes until thickened and glossy.",
+      "Slice or shred the chicken, stir it through the sauce and serve on rice, sprinkled with sesame seeds."
+    ],
+    "tip": "Chicken thigh stays juicy and soaks up the sauce better than breast. Too salty for the children? Use reduced-salt soy sauce or replace 2 tablespoons of it with water.",
+    "kids": "Sweet, salty and sticky: a children's favourite. Grown-ups: sriracha or chilli flakes on the side.",
+    "freeze": true
+  },
+  {
+    "id": 21,
+    "title": "Thai Coconut Chicken with Peanut Sauce",
+    "slug": "thai-coconut-chicken-with-peanut-sauce",
+    "chapter": "World Dishes",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4 hrs",
+    "high": "2 hrs",
+    "intro": "Creamy coconut, nutty peanut and a fresh squeeze of lime: a Thai street-food night, straight from your own slow cooker.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs, cut into pieces",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "400 ml",
+        "item": "coconut milk (full-fat)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1",
+        "item": "onion, chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "red pepper, cut into strips",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2",
+        "item": "carrots, cut into strips",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2–3 tbsp",
+        "item": "peanut butter",
+        "es": "crema de cacahuete"
+      },
+      {
+        "q": "1–2 tbsp",
+        "item": "mild curry powder",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "soy sauce",
+        "es": "salsa de soja"
+      },
+      {
+        "q": "1",
+        "item": "lime (juice)",
+        "es": "lima"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil + salt",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "jasmine rice",
+        "es": "arroz jazmín"
+      }
+    ],
+    "steps": [
+      "Soften the onion in oil for 3 minutes and stir in the curry powder for 30 seconds until fragrant.",
+      "Put the chicken, pepper, carrot and curried onion in the slow cooker. Pour over half the coconut milk and the soy sauce.",
+      "Cook with the lid on for 4 hours on LOW or 2 hours on HIGH, until the chicken reaches 75 °C.",
+      "For the last half hour, whisk the rest of the coconut milk with the peanut butter until smooth and stir it into the stew. Lid on, for another 20–30 minutes.",
+      "Stir in the lime juice, taste for salt and serve with rice."
+    ],
+    "tip": "Whisk the peanut butter into cold coconut milk first: that way it dissolves without lumps and won't catch on the bottom. Add the lime only at the end so it stays fresh.",
+    "kids": "Creamy and nutty. Watch out for peanut allergies among visiting friends! Grown-ups: sambal on the side.",
+    "freeze": true
+  },
+  {
+    "id": 22,
+    "title": "Greek Lemon Chicken with Potatoes",
+    "slug": "greek-lemon-chicken-with-potatoes",
+    "chapter": "Spanish & Mediterranean",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 hrs",
+    "high": "3 hrs",
+    "intro": "Sunny chicken with lemon, garlic and oregano on potatoes that soak up all the juices: a Greek summer terrace on a weeknight.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "700 g",
+        "item": "waxy potatoes",
+        "es": "patatas"
+      },
+      {
+        "q": "1",
+        "item": "onion, sliced into rings",
+        "es": "cebolla"
+      },
+      {
+        "q": "2 cloves",
+        "item": "garlic, crushed",
+        "es": "ajo"
+      },
+      {
+        "q": "1",
+        "item": "lemon (zest + juice)",
+        "es": "limón"
+      },
+      {
+        "q": "150 ml",
+        "item": "chicken stock",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "3 tbsp",
+        "item": "olive oil",
+        "es": "aceite de oliva virgen extra"
+      },
+      {
+        "q": "2 tsp",
+        "item": "dried oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "1 tsp",
+        "item": "dried thyme",
+        "es": "tomillo"
+      },
+      {
+        "q": "",
+        "item": "salt and pepper",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "200 g",
+        "item": "Greek yoghurt",
+        "es": "yogur griego natural"
+      },
+      {
+        "q": "½",
+        "item": "cucumber, diced",
+        "es": "pepino"
+      }
+    ],
+    "steps": [
+      "Cut the potatoes into 3 cm wedges and put them in the bottom of the slow cooker with the onion, garlic, salt and pepper.",
+      "Season the chicken with salt and pepper. If you like, brown it in a hot pan for 3 minutes: it gives a nicer colour and a fuller flavour.",
+      "Lay the chicken on the potatoes. Whisk the lemon juice, olive oil, stock, oregano and thyme together and pour over.",
+      "Cook with the lid on for 5–6 hours on LOW or 3 hours on HIGH, until the potatoes are soft and the chicken reaches 75 °C.",
+      "Just before serving, grate the lemon zest over the top and spoon the juices through the potatoes. Serve with yoghurt and cucumber."
+    ],
+    "tip": "Only zest the lemon at the end: hours of cooking dull its flavour, while fresh zest makes everything sing. Want crispy edges? Pop the potatoes under the grill for another 10 minutes.",
+    "kids": "Too sour for the little ones? Use half a lemon and give the grown-ups extra zest.",
+    "freeze": false
+  },
+  {
+    "id": 23,
+    "title": "Creamy Tomato Fish Stew",
+    "slug": "creamy-tomato-fish-stew",
+    "chapter": "Fish & Prawns",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "3–4 hrs + 20–30 min",
+    "high": "1½–2 hrs + 15–20 min",
+    "intro": "Tender hake gently cooked in a creamy tomato and pepper sauce: fish that wins over even the doubters at the table.",
+    "ingredients": [
+      {
+        "q": "500 g",
+        "item": "skinless hake fillet (fresh or defrosted)",
+        "es": "merluza (filetes sin piel)"
+      },
+      {
+        "q": "1 + 2",
+        "item": "onion + garlic cloves",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "red pepper, diced",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1",
+        "item": "carrot, diced",
+        "es": "zanahoria"
+      },
+      {
+        "q": "200 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100 ml",
+        "item": "fish or vegetable stock",
+        "es": "caldo de pescado"
+      },
+      {
+        "q": "150 ml",
+        "item": "cooking cream or coconut milk",
+        "es": "nata para cocinar / leche de coco"
+      },
+      {
+        "q": "1 tsp",
+        "item": "sweet paprika",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 tsp",
+        "item": "dried oregano",
+        "es": "orégano"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "olive oil + salt and pepper",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "rice",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Put the chopped onion and garlic, pepper, carrot, passata, stock, oil, paprika, oregano, salt and pepper in the slow cooker.",
+      "Cook with the lid on for 3–4 hours on LOW or 1½–2 hours on HIGH, until the vegetables are soft.",
+      "Stir in the cream or coconut milk. Pat the fish dry, cut it into 4 cm pieces, season with salt and gently lay them in the sauce.",
+      "Put the lid on and cook for 20–30 minutes on LOW (15–20 on HIGH), until the fish is white and just flakes apart. Don't stir.",
+      "Meanwhile, cook the rice. Carefully spoon the fish and sauce onto the plates."
+    ],
+    "tip": "Frozen hake is cheap and perfectly good: defrost it overnight in the fridge and pat it thoroughly dry. Check after 15 minutes on HIGH or 20 on LOW, because overcooking makes fish dry.",
+    "kids": "Check for small bones before serving. Grown-ups: a pinch of pimentón picante on top.",
+    "freeze": false
+  },
+  {
+    "id": 24,
+    "title": "Creamy Garlic Prawns with Pasta",
+    "slug": "creamy-garlic-prawns-with-pasta",
+    "chapter": "Fish & Prawns",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "10 min",
+    "low": "2–3 hrs, then 10–15 min on HIGH",
+    "high": "1–1½ hrs + 10–15 min",
+    "intro": "Sweet slow-cooked garlic, a creamy sauce and juicy prawns tossed through your pasta: a restaurant feel at a bargain price.",
+    "ingredients": [
+      {
+        "q": "300–350 g",
+        "item": "raw peeled prawns, defrosted",
+        "es": "gambas peladas crudas"
+      },
+      {
+        "q": "2–3 cloves",
+        "item": "garlic, finely chopped",
+        "es": "ajo"
+      },
+      {
+        "q": "1",
+        "item": "onion, finely chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "100 ml",
+        "item": "vegetable or fish stock",
+        "es": "caldo de verduras / de pescado"
+      },
+      {
+        "q": "150 ml",
+        "item": "cooking cream",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "olive oil",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "½ tsp",
+        "item": "sweet paprika",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "½",
+        "item": "lemon (juice)",
+        "es": "limón"
+      },
+      {
+        "q": "2 tbsp",
+        "item": "fresh parsley, chopped",
+        "es": "perejil fresco"
+      },
+      {
+        "q": "",
+        "item": "salt and pepper",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "pasta (linguine or tagliatelle)",
+        "es": "espaguetis / tallarines"
+      }
+    ],
+    "steps": [
+      "Gently soften the onion and garlic in olive oil for 3 minutes without letting them colour. Put them in the slow cooker with the stock and paprika.",
+      "Cook with the lid on for 2–3 hours on LOW or 1–1½ hours on HIGH, until the onion and garlic are soft and sweet.",
+      "Pat the defrosted prawns thoroughly dry. Meanwhile, cook the pasta and save a cup of the cooking water.",
+      "Switch the slow cooker to HIGH and stir in the cream and prawns. Lid on, 10–15 minutes, until they're pink and just cooked.",
+      "Stir in the lemon juice, parsley, salt and pepper and toss the pasta through. Too thick? Add a splash of the cooking water."
+    ],
+    "tip": "Choose raw prawns; pre-cooked ones quickly turn rubbery and only need 5 minutes. A C shape means perfectly cooked, a tight O shape means they've gone too long.",
+    "kids": "Not a prawn fan? Dish up their pasta first with just the creamy sauce.",
+    "freeze": false
+  },
+  {
+    "id": 25,
+    "title": "Spanish Bacalao Stew",
+    "slug": "spanish-bacalao-stew",
+    "chapter": "Fish & Prawns",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "3–4 hrs + 20–30 min",
+    "high": "2 hrs + 15–20 min",
+    "intro": "Pearly white cod on a bed of potato, pepper and tomato, drizzled with good olive oil: pure Spanish home cooking.",
+    "ingredients": [
+      {
+        "q": "500 g",
+        "item": "desalted bacalao or fresh cod",
+        "es": "bacalao desalado / bacalao fresco"
+      },
+      {
+        "q": "1 + 2",
+        "item": "onion + garlic cloves",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "red pepper, cut into strips",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "400 g",
+        "item": "potatoes",
+        "es": "patatas"
+      },
+      {
+        "q": "200 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100–150 ml",
+        "item": "fish or vegetable stock",
+        "es": "caldo de pescado"
+      },
+      {
+        "q": "3 tbsp",
+        "item": "olive oil",
+        "es": "aceite de oliva virgen extra"
+      },
+      {
+        "q": "1 tsp",
+        "item": "sweet paprika",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "handful",
+        "item": "pitted green olives (optional)",
+        "es": "aceitunas verdes sin hueso"
+      },
+      {
+        "q": "",
+        "item": "salt and pepper",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "baguette",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Cut the potatoes into 1 cm slices and lay them in the bottom of the slow cooker. Scatter the onion, garlic and pepper over the top.",
+      "Mix the passata, stock, 2 tbsp oil and paprika, pour it over and season lightly with salt. Cook for 3–4 hours on LOW or 2 hours on HIGH.",
+      "Are the potatoes soft? Pat the fish dry, cut it into 5 cm pieces and lay them on top. Drizzle with the remaining oil.",
+      "Put the lid on and cook for 20–30 minutes on LOW (15–20 on HIGH), until the fish is pearly white and separates into flakes.",
+      "Scatter over the olives, only now taste for salt, and serve with bread to mop up the sauce."
+    ],
+    "tip": "Desalting it yourself? Soak the bacalao in cold water in the fridge for 24–36 hours, changing the water 3–4 times. Easier: frozen 'bacalao desalado', or simply fresh cod.",
+    "kids": "Check for bones and serve the fish with some potato. Olives only for those who like them.",
+    "freeze": false
+  },
+  {
+    "id": 26,
+    "title": "Mild Coconut Prawn Curry",
+    "slug": "mild-coconut-prawn-curry",
+    "chapter": "Fish & Prawns",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "2–3 hrs, then 10–15 min on HIGH",
+    "high": "1–1½ hrs + 10–15 min",
+    "intro": "A soft yellow coconut curry with juicy prawns and a fresh squeeze of lime: a holiday in a bowl, ready in no time.",
+    "ingredients": [
+      {
+        "q": "300–350 g",
+        "item": "raw peeled prawns, defrosted",
+        "es": "gambas peladas crudas"
+      },
+      {
+        "q": "400 ml",
+        "item": "coconut milk (full-fat)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1 + 1",
+        "item": "onion + garlic clove",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "carrot, cut into strips",
+        "es": "zanahoria"
+      },
+      {
+        "q": "1",
+        "item": "red pepper, cut into strips",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1–2 tbsp",
+        "item": "mild curry powder",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "fresh ginger, grated (or 1 tsp ground)",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "1",
+        "item": "lime (juice)",
+        "es": "lima"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "oil + salt",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "rice",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Soften the onion, garlic and ginger in oil for 3 minutes and stir in the curry powder for 30 seconds until fragrant.",
+      "Put the mixture in the slow cooker with the carrot and pepper. Pour over the coconut milk, add salt and stir.",
+      "Cook with the lid on for 2–3 hours on LOW or 1–1½ hours on HIGH, until the vegetables are soft.",
+      "Switch to HIGH and stir in the prawns, patted dry. Lid on, 10–15 minutes, until they're pink and just cooked.",
+      "Stir in the lime juice, taste for salt and serve straight away with rice."
+    ],
+    "tip": "Prawns go from juicy to tough in a matter of minutes: have the rice ready before they go in and serve immediately. Full-fat coconut milk gives the richest sauce.",
+    "kids": "A soft, creamy curry. Grown-ups: sambal or chilli flakes at the table.",
+    "freeze": false
+  },
+  {
+    "id": 27,
+    "title": "Spanish Chorizo and Potato Stew",
+    "slug": "spanish-chorizo-and-potato-stew",
+    "chapter": "Spanish & Mediterranean",
+    "price": "8–10",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 hrs",
+    "high": "3–4 hrs",
+    "intro": "Patatas a la riojana for the whole family: potatoes that melt into a deep red, smoky sauce full of chorizo.",
+    "ingredients": [
+      {
+        "q": "300 g",
+        "item": "mild chorizo, sliced",
+        "es": "chorizo dulce (sarta)"
+      },
+      {
+        "q": "600 g",
+        "item": "waxy potatoes",
+        "es": "patatas"
+      },
+      {
+        "q": "2",
+        "item": "carrots, sliced",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "onion, chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "2 cloves",
+        "item": "garlic",
+        "es": "ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "400 ml",
+        "item": "chicken or vegetable stock",
+        "es": "caldo de pollo / de verduras"
+      },
+      {
+        "q": "1 tsp",
+        "item": "sweet paprika",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "2",
+        "item": "bay leaves",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "olive oil",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "",
+        "item": "salt and pepper",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "baguette",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Peel the potatoes and 'break' them into 3 cm pieces: cut halfway in, then prise them apart. Those rough edges will thicken the sauce later.",
+      "Fry the chorizo in the oil for 3 minutes until it releases its red fat. Add the onion and garlic and soften for 3 minutes; take the pan off the heat and stir in the paprika.",
+      "Put the potato and carrot in the slow cooker, spoon the chorizo mixture over the top and add the passata, stock and bay leaves. The liquid should come to just below the top of the potatoes.",
+      "Cook with the lid on for 6–7 hours on LOW or 3–4 hours on HIGH, until the potatoes are soft.",
+      "Squash a few pieces of potato against the side for a thicker sauce. Remove the bay leaves and only now add salt: chorizo is salty already."
+    ],
+    "tip": "'Breaking' the potatoes (chascar, as the Spanish say) releases starch that thickens the sauce, no flour needed. If a lot of fat floats to the top, skim it off with a spoon before serving.",
+    "kids": "Cut the chorizo into small half-moons; children love spearing them between the potatoes.",
+    "freeze": true
+  },
+  {
+    "id": 28,
+    "title": "Creamy Tomato and Lentil Soup",
+    "slug": "creamy-tomato-and-lentil-soup",
+    "chapter": "Budget Favourites",
+    "price": "6–8",
+    "spice": 1,
+    "vega": true,
+    "prep": "10 min",
+    "low": "6 hrs",
+    "high": "3 hrs",
+    "intro": "A thick, creamy soup full of red lentils and tomato: nourishing, dirt cheap and ready to go in ten minutes.",
+    "ingredients": [
+      {
+        "q": "250 g",
+        "item": "red lentils",
+        "es": "lentejas rojas"
+      },
+      {
+        "q": "400 g",
+        "item": "passata",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1",
+        "item": "onion, chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carrots, sliced",
+        "es": "zanahorias"
+      },
+      {
+        "q": "900 ml",
+        "item": "vegetable stock",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 tsp",
+        "item": "ground cumin",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 tsp",
+        "item": "sweet paprika",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "100 ml",
+        "item": "cooking cream",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "½",
+        "item": "lemon (juice)",
+        "es": "limón"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "olive oil, salt and pepper",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Rinse the lentils in a sieve under cold water until the water runs clear. This prevents foam and a floury taste.",
+      "Put the lentils, passata, onion, carrot, stock, cumin and paprika in the slow cooker and stir well.",
+      "Cook for 6 hours on LOW or 3 hours on HIGH. The red lentils break down by themselves and thicken the soup.",
+      "Blend the soup until smooth or leave it nice and chunky. Too thick? Stir in a splash of hot water.",
+      "Stir in the cooking cream and lemon juice, heat through for 5 minutes and season with salt and pepper. Drizzle each bowl with olive oil."
+    ],
+    "tip": "That little bit of lemon juice at the end is my secret: it suddenly makes the earthy lentils fresh and lively. Lentils keep thickening as they stand, so thin any leftovers with a little water.",
+    "kids": "Serve with a swirl of cream and some baguette for dunking. Grown-ups: chilli flakes at the table.",
+    "freeze": true
+  },
+  {
+    "id": 29,
+    "title": "Old-Fashioned Chicken and Vegetable Stew",
+    "slug": "old-fashioned-chicken-and-vegetable-stew",
+    "chapter": "Budget Favourites",
+    "price": "8–10",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 hrs",
+    "high": "3 hrs",
+    "intro": "An honest, old-fashioned stew of tender chicken, potatoes and carrots in a thickened gravy: one pot, everything in, everyone happy.",
+    "ingredients": [
+      {
+        "q": "1 tbsp",
+        "item": "oil",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "600 g",
+        "item": "boneless chicken thighs, cut into large pieces",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "700 g",
+        "item": "waxy potatoes",
+        "es": "patatas para guisar"
+      },
+      {
+        "q": "4",
+        "item": "carrots",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2",
+        "item": "onions, cut into wedges",
+        "es": "cebollas"
+      },
+      {
+        "q": "300 ml",
+        "item": "chicken stock",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "2",
+        "item": "bay leaves",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "1 tsp",
+        "item": "dried thyme",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "cornflour + 2 tbsp cold water",
+        "es": "maicena"
+      },
+      {
+        "q": "",
+        "item": "salt and pepper",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Cut the potatoes and carrots into rough 3 cm chunks and put them in the bottom of the slow cooker. That's where it's hottest.",
+      "Season the chicken with salt, pepper and thyme and brown it quickly in oil until golden. Add the onions and fry for 2 minutes.",
+      "Lay the chicken and onion on the vegetables, pour over the stock and add the bay leaves. Fill the pot no more than three-quarters full.",
+      "Cook with the lid on for 5–6 hours on LOW or 3 hours on HIGH, until the potatoes are soft and the chicken reaches 75 °C.",
+      "For the last half hour, stir in the cornflour mixed with 2 tbsp cold water. Fish out the bay leaves and serve."
+    ],
+    "tip": "Chicken thigh stays juicy during long cooking, while breast dries out. Cut the pieces large so they don't fall apart. A scattering of fresh parsley adds colour.",
+    "kids": "Mash the potato and carrot with a little gravy into a stamppot: easy and familiar.",
+    "freeze": false
+  },
+  {
+    "id": 30,
+    "title": "Italian Mince and Vegetable Stew",
+    "slug": "italian-mince-and-vegetable-stew",
+    "chapter": "Budget Favourites",
+    "price": "8–10",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 hrs",
+    "high": "3 hrs",
+    "intro": "A colourful, rustic stew of mince and chunky vegetables in tomato sauce: delicious with pasta and rice alike, and kind to your budget.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "mixed beef and pork mince",
+        "es": "carne picada mixta (cerdo y vacuno)"
+      },
+      {
+        "q": "400 g",
+        "item": "chopped tomatoes (tin or carton)",
+        "es": "tomate troceado"
+      },
+      {
+        "q": "1",
+        "item": "onion, chopped",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carrots, sliced",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "courgette, cut into 3 cm chunks",
+        "es": "calabacín"
+      },
+      {
+        "q": "2",
+        "item": "garlic cloves, crushed",
+        "es": "ajo"
+      },
+      {
+        "q": "2 tsp",
+        "item": "Italian herbs",
+        "es": "hierbas italianas (o orégano y albahaca)"
+      },
+      {
+        "q": "200 ml",
+        "item": "vegetable stock",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 tbsp",
+        "item": "olive oil, salt and pepper",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "pasta or rice",
+        "es": "pasta o arroz"
+      }
+    ],
+    "steps": [
+      "Fry the mince with the onion and garlic in olive oil until browned and crumbly. Season with salt and pepper.",
+      "Put the carrot in the bottom of the slow cooker and spoon the mince on top.",
+      "Stir in the chopped tomatoes, stock and herbs. Lay the courgette on top; that way it stays firmer.",
+      "Cook with the lid on for 5–6 hours on LOW or 3 hours on HIGH.",
+      "Give everything a stir and taste. Meanwhile, cook the pasta or rice and spoon the stew generously over the top."
+    ],
+    "tip": "Leftovers? The next day, spoon them into an ovenproof dish, sprinkle with cheese and bake for 15 minutes at 200 °C: a free oven bake.",
+    "kids": "Choose small pasta shapes and cut the courgette smaller: easy spooning for little eaters.",
+    "freeze": true
+  }
+]

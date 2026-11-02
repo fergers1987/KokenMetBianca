@@ -1,0 +1,12 @@
+{
+  "name": "koken-met-bianca",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smaakvol Koken met Bianca Manuela Seegers - statische website met 30 slowcookerrecepten (NL/ES/EN/DE/FR)",
+  "scripts": {
+    "build": "node src/build.js",
+    "start": "node src/build.js && node tools/serve.js",
+    "serve": "node tools/serve.js"
+  },
+  "engines": { "node": ">=18" }
+}

@@ -1,0 +1,2699 @@
+[
+  {
+    "id": 1,
+    "title": "Ragoût de bœuf à la hollandaise",
+    "slug": "ragout-de-boeuf-a-la-hollandaise",
+    "chapter": "Néerlandais & européen",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "8–9 h",
+    "high": "5–6 h",
+    "intro": "Du bœuf fondant, des carottes sucrées et des pommes de terre dans une sauce légèrement aigre-douce : un plat d'hiver hollandais qui embaume toute la maison.",
+    "ingredients": [
+      {
+        "q": "1 c. à s.",
+        "item": "farine",
+        "es": "harina de trigo"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "500 g",
+        "item": "bœuf à braiser (paleron), en cubes de 4 cm",
+        "es": "carne para guisar (morcillo o aguja de ternera)"
+      },
+      {
+        "q": "600 g",
+        "item": "pommes de terre à chair ferme (3 grosses)",
+        "es": "patatas para guisar"
+      },
+      {
+        "q": "3",
+        "item": "carottes",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2",
+        "item": "oignons, en demi-rondelles",
+        "es": "cebollas"
+      },
+      {
+        "q": "250 ml",
+        "item": "bouillon de bœuf",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "moutarde",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "vinaigre",
+        "es": "vinagre de vino"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "sucre brun",
+        "es": "azúcar moreno"
+      },
+      {
+        "q": "2",
+        "item": "feuilles de laurier",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "",
+        "item": "poivre et sel",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Saupoudre la viande de farine, de sel et de poivre. Fais-la dorer sur toutes les faces dans l'huile chaude, en deux fois : tu obtiens du goût et une sauce bien liée.",
+      "Coupe les pommes de terre et les carottes en gros morceaux et dépose-les au fond de la mijoteuse, là où il fait le plus chaud. Pose la viande par-dessus.",
+      "Fais revenir les oignons 3 minutes dans la même poêle. Déglace avec le bouillon, la moutarde, le vinaigre et le sucre, et gratte bien les sucs de cuisson.",
+      "Verse sur la viande, ajoute le laurier et ferme le couvercle. Fais cuire 8–9 h en LOW ou 5–6 h en HIGH.",
+      "Retire le laurier et goûte : rectifie avec du sel, du poivre et éventuellement un trait de vinaigre. La viande doit s'effilocher toute seule."
+    ],
+    "tip": "Choisis des pommes de terre à chair ferme en gros morceaux : elles restent entières. La sauce est trop liquide ? Écrase quelques morceaux de pomme de terre et mélange-les : une liaison gratuite.",
+    "kids": "Écrase la viande, les pommes de terre et les carottes avec un peu de sauce : une purée rassurante, façon stamppot, pour les petits mangeurs.",
+    "freeze": false,
+    "guid": "de4db3ca-b57f-4e0a-9d68-825e1bc83bc9",
+    "cuisine": "dutch",
+    "protein": "beef",
+    "side": "potato"
+  },
+  {
+    "id": 2,
+    "title": "Lentejas espagnoles au chorizo",
+    "slug": "lentejas-espagnoles-au-chorizo",
+    "chapter": "Espagnol & méditerranéen",
+    "price": "7–9",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 h",
+    "high": "3–4 h",
+    "intro": "C'est ce que mange toute l'Espagne un soir de semaine : un ragoût de lentilles épais et fumé, que l'on sauce jusqu'au bout avec un morceau de pain.",
+    "ingredients": [
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "250 g",
+        "item": "lentilles pardina, rincées",
+        "es": "lentejas pardinas"
+      },
+      {
+        "q": "100 g",
+        "item": "chorizo doux, en rondelles",
+        "es": "chorizo dulce (sarta)"
+      },
+      {
+        "q": "1 + 2",
+        "item": "oignon + gousses d'ail",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "2",
+        "item": "carottes",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2 (± 400 g)",
+        "item": "pommes de terre",
+        "es": "patatas"
+      },
+      {
+        "q": "200 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "900 ml",
+        "item": "bouillon de légumes",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "paprika doux",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1",
+        "item": "feuille de laurier",
+        "es": "hoja de laurel"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "vinaigre de xérès ou de vin",
+        "es": "vinagre de Jerez"
+      },
+      {
+        "q": "",
+        "item": "sel et poivre",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "baguette ou pain de campagne",
+        "es": "barra de pan / pan rústico"
+      }
+    ],
+    "steps": [
+      "Rince les lentilles dans une passoire jusqu'à ce que l'eau soit claire ; inutile de les faire tremper. Épluche les pommes de terre et les carottes et coupe-les en dés de 2 cm.",
+      "Fais revenir le chorizo 2 minutes dans l'huile d'olive, puis ajoute l'oignon et l'ail 3 minutes. Hors du feu, incorpore le paprika : il brûle vite.",
+      "Verse le tout dans la mijoteuse avec les lentilles, les légumes, la tomate, le laurier et le bouillon. Ne sale pas encore : ce sera pour la fin.",
+      "Fais cuire 6–7 h en LOW ou 3–4 h en HIGH, couvercle fermé, jusqu'à ce que les lentilles soient bien tendres.",
+      "Trop épais ? Ajoute un peu d'eau chaude. Retire la feuille de laurier et assaisonne avec le sel, le poivre et le vinaigre."
+    ],
+    "tip": "Écrase quelques dés de pomme de terre contre la paroi et mélange : le ragoût devient crémeux tout seul. Le trait de vinaigre de xérès à la fin donne de la profondeur, comme le font les grands-mères espagnoles.",
+    "kids": "Choisis du chorizo dulce, jamais picante. Les amateurs saupoudrent un peu de pimentón picante dans leur propre assiette.",
+    "freeze": true,
+    "guid": "74b6ccef-6f45-4c90-ba24-f02a771f6a00",
+    "cuisine": "spanish",
+    "protein": "pork",
+    "side": "bread"
+  },
+  {
+    "id": 3,
+    "title": "Poulet crémeux aux poivrons et riz",
+    "slug": "poulet-cremeux-aux-poivrons-et-riz",
+    "chapter": "Néerlandais & européen",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Des hauts de cuisse de poulet tendres dans une sauce veloutée et douce au paprika, pleine de légumes : coloré dans l'assiette et succès garanti.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés, en gros morceaux",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "2",
+        "item": "poivrons (rouge et jaune), en lanières",
+        "es": "pimiento rojo y amarillo"
+      },
+      {
+        "q": "1",
+        "item": "oignon, en demi-rondelles",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en fines rondelles",
+        "es": "zanahorias"
+      },
+      {
+        "q": "150 g",
+        "item": "champignons de Paris, émincés",
+        "es": "champiñones laminados"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "concentré de tomate",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 c. à c.",
+        "item": "paprika doux",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "origan",
+        "es": "orégano"
+      },
+      {
+        "q": "150 ml",
+        "item": "bouillon de volaille",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "150 ml",
+        "item": "crème liquide",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "maïzena + 2 c. à s. d'eau froide",
+        "es": "maicena"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile, poivre et sel",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "riz",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Saupoudre le poulet de sel, de poivre et de la moitié du paprika. Fais dorer rapidement les morceaux dans l'huile ; ils n'ont pas besoin d'être cuits.",
+      "Dépose la carotte et l'oignon au fond de la mijoteuse, puis les poivrons, les champignons et le poulet. Mélange le bouillon, le concentré de tomate, le reste du paprika et l'origan, et verse par-dessus.",
+      "Fais cuire 4–5 h en LOW ou 2–3 h en HIGH, couvercle fermé. Le poulet est cuit quand il atteint 75 °C à cœur.",
+      "Pendant la dernière demi-heure, incorpore la crème et la maïzena délayée dans 2 c. à s. d'eau froide. Laisse cuire couvercle fermé.",
+      "Pendant ce temps, cuis le riz selon les indications de l'emballage et nappe-le de poulet en sauce."
+    ],
+    "tip": "Cette petite cuillère de concentré de tomate, c'est mon secret : elle donne de la profondeur et une belle couleur chaude à la sauce au paprika, sans goût de tomate.",
+    "kids": "Pas fans de champignons ? Hache-les très finement : ils disparaissent incognito dans la sauce.",
+    "freeze": true,
+    "guid": "2ae51557-e9c0-4e78-8dd4-e6a2ea8a832d",
+    "cuisine": "european",
+    "protein": "chicken",
+    "side": "rice"
+  },
+  {
+    "id": 4,
+    "title": "Boulettes à la sauce tomate italienne",
+    "slug": "boulettes-a-la-sauce-tomate-italienne",
+    "chapter": "Néerlandais & européen",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Des boulettes juteuses qui mijotent doucement pendant des heures dans une sauce tomate douce aux légumes cachés : la fête pour chaque enfant.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "haché mixte porc-bœuf",
+        "es": "carne picada mixta (cerdo y vacuno)"
+      },
+      {
+        "q": "1",
+        "item": "œuf",
+        "es": "huevo"
+      },
+      {
+        "q": "3 c. à s.",
+        "item": "chapelure",
+        "es": "pan rallado"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "parmesan râpé",
+        "es": "queso parmesano rallado"
+      },
+      {
+        "q": "2 c. à c.",
+        "item": "herbes italiennes",
+        "es": "hierbas italianas (o orégano y albahaca)"
+      },
+      {
+        "q": "400 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "concentré de tomate",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "1",
+        "item": "oignon, finement haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "carotte, finement râpée",
+        "es": "zanahoria"
+      },
+      {
+        "q": "2",
+        "item": "gousses d'ail, écrasées",
+        "es": "ajo"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "origan",
+        "es": "orégano"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive, poivre et sel",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "100 ml",
+        "item": "eau",
+        "es": "agua"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "spaghetti",
+        "es": "espaguetis"
+      }
+    ],
+    "steps": [
+      "Mélange brièvement le haché, l'œuf, la chapelure, le parmesan, 1 c. à c. d'herbes italiennes, du sel et du poivre. Avec les mains mouillées, forme une vingtaine de boulettes.",
+      "Fais dorer les boulettes sur toutes les faces dans l'huile d'olive. Pas besoin qu'elles soient cuites : la croûte donne du goût et les empêche de se défaire.",
+      "Mélange dans la mijoteuse la tomate, le concentré, l'oignon, la carotte, l'ail, l'origan et le reste des herbes. Rince la brique avec les 100 ml d'eau.",
+      "Dépose les boulettes dans la sauce et enrobe-les délicatement. Fais cuire 4–5 h en LOW ou 2–3 h en HIGH.",
+      "Cuis les spaghetti al dente, rectifie la sauce en sel et en poivre et sers avec une pincée de parmesan en plus."
+    ],
+    "tip": "Pétris le haché le moins possible : moins tu le travailles, plus les boulettes sont tendres. Elles sont cuites quand elles ne sont plus roses à l'intérieur.",
+    "kids": "Laisse les enfants rouler eux-mêmes les boulettes : fait maison, c'est deux fois meilleur. Pour les adultes : des flocons de piment à table.",
+    "freeze": true,
+    "guid": "b33dd976-1781-4cf7-9332-d479015ac358",
+    "cuisine": "italian",
+    "protein": "mince",
+    "side": "pasta"
+  },
+  {
+    "id": 5,
+    "title": "Wraps de poulet effiloché",
+    "slug": "wraps-de-poulet-effiloche",
+    "chapter": "Cuisines du monde",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "10 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Du poulet fumé et sucré qui s'effiloche tout seul : chacun roule son wrap à table, et le plat se vide à vue d'œil.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1",
+        "item": "oignon, en rondelles",
+        "es": "cebolla"
+      },
+      {
+        "q": "200 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "concentré de tomate",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "miel",
+        "es": "miel"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "moutarde",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "vinaigre de cidre",
+        "es": "vinagre de manzana"
+      },
+      {
+        "q": "2 c. à c.",
+        "item": "paprika doux fumé",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "ail en poudre",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "",
+        "item": "sel et poivre",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "8",
+        "item": "wraps",
+        "es": "tortillas de trigo"
+      },
+      {
+        "q": "1 petite boîte + ½",
+        "item": "maïs + concombre",
+        "es": "maíz dulce + pepino"
+      },
+      {
+        "q": "200 g",
+        "item": "yaourt grec",
+        "es": "yogur griego natural"
+      }
+    ],
+    "steps": [
+      "Mélange dans la mijoteuse la tomate, le concentré, le miel, la moutarde, le vinaigre, le paprika et l'ail en poudre avec du sel et du poivre.",
+      "Ajoute l'oignon, puis le poulet par-dessus. Nappe le poulet de sauce pour que tout soit recouvert.",
+      "Fais cuire 4–5 h en LOW ou 2–3 h en HIGH, couvercle fermé, jusqu'à ce que le poulet atteigne 75 °C et s'effiloche facilement.",
+      "Effiloche le poulet avec deux fourchettes directement dans la cuve et mélange-le à la sauce. Trop liquide ? Laisse réduire 20 minutes en HIGH sans couvercle.",
+      "Réchauffe brièvement les wraps dans une poêle sèche. Chacun garnit le sien de poulet, de maïs, de concombre et d'une cuillerée de yaourt."
+    ],
+    "tip": "Prends des hauts de cuisse, pas du blanc : la cuisse reste juteuse et s'effiloche joliment, le blanc devient sec et filandreux. Les restes sont délicieux le lendemain dans un croque-monsieur.",
+    "kids": "Laisse les enfants rouler eux-mêmes leur wrap. Pour les adultes : quelques gouttes de Tabasco ou du jalapeño.",
+    "freeze": true,
+    "guid": "3fd8fe08-b3df-4177-ba6a-e0dd9e7f4314",
+    "cuisine": "mexican",
+    "protein": "chicken",
+    "side": "tortilla"
+  },
+  {
+    "id": 6,
+    "title": "Sauce bolognaise extra légumes",
+    "slug": "sauce-bolognaise-extra-legumes",
+    "chapter": "Néerlandais & européen",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 h",
+    "high": "3–4 h",
+    "intro": "Une bolognaise riche et bien tomatée où courgette, carotte et céleri disparaissent en douce : manger des légumes sans que personne ne s'en aperçoive.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "bœuf haché",
+        "es": "carne picada de vacuno"
+      },
+      {
+        "q": "1",
+        "item": "oignon",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carottes",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "courgette",
+        "es": "calabacín"
+      },
+      {
+        "q": "2",
+        "item": "branches de céleri",
+        "es": "apio"
+      },
+      {
+        "q": "400 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "concentré de tomate",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "bouillon de bœuf",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 c. à c. + 1 c. à c.",
+        "item": "origan et basilic",
+        "es": "orégano y albahaca"
+      },
+      {
+        "q": "1",
+        "item": "feuille de laurier",
+        "es": "hoja de laurel"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive, poivre et sel",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "spaghetti",
+        "es": "espaguetis"
+      }
+    ],
+    "steps": [
+      "Fais dorer le haché dans l'huile d'olive, dans une poêle bien chaude, en l'égrenant. Laisse-le quelques instants sans remuer : il se forme de petites croûtes pleines de goût.",
+      "Hache finement l'oignon et le céleri, et râpe grossièrement la carotte et la courgette. Plus c'est fin, moins les enfants les retrouvent.",
+      "Mets le haché, les légumes, la tomate, le concentré, le bouillon, les herbes et le laurier dans la mijoteuse. Mélange bien et assaisonne de sel et de poivre.",
+      "Fais cuire 6–7 h en LOW ou 3–4 h en HIGH. Trop liquide ? Laisse le couvercle entrouvert pendant les 30 dernières minutes.",
+      "Retire la feuille de laurier, cuis les spaghetti al dente et nappe-les généreusement de sauce."
+    ],
+    "tip": "Juste avant de servir, ajoute un trait d'eau de cuisson des pâtes à la sauce : elle devient brillante et accroche mieux aux spaghetti. Une vraie astuce italienne.",
+    "kids": "Mixe brièvement la sauce au mixeur plongeant : ultra-lisse, et les légumes deviennent invisibles.",
+    "freeze": true,
+    "guid": "da6c0a07-bb65-4657-8cac-05dd55cf333e",
+    "cuisine": "italian",
+    "protein": "mince",
+    "side": "pasta"
+  },
+  {
+    "id": 7,
+    "title": "Chili con carne doux",
+    "slug": "chili-con-carne-doux",
+    "chapter": "Cuisines du monde",
+    "price": "9–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 h",
+    "high": "3 h",
+    "intro": "Un chili chaleureux et profond, sans rien qui brûle : un plat réconfortant dont les enfants redemandent tout simplement une deuxième assiette.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "viande hachée (bœuf ou mixte porc-bœuf)",
+        "es": "carne picada de vacuno / mixta"
+      },
+      {
+        "q": "1",
+        "item": "oignon, haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "poivron rouge, en dés",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2 gousses",
+        "item": "ail",
+        "es": "ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "concentré de tomate",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "bouillon de bœuf",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 boîte (400 g)",
+        "item": "haricots rouges, rincés",
+        "es": "alubias rojas cocidas"
+      },
+      {
+        "q": "150 g",
+        "item": "maïs",
+        "es": "maíz dulce"
+      },
+      {
+        "q": "2 c. à c.",
+        "item": "paprika doux",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "cumin moulu",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive + sel et poivre",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "riz",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Fais dorer le haché dans l'huile à feu vif en l'égrenant ; laisse-le vraiment colorer, c'est là qu'est le goût. Ajoute l'oignon, le poivron et l'ail et fais revenir 3 minutes.",
+      "Hors du feu, incorpore le paprika, le cumin et le concentré de tomate, puis verse le tout dans la mijoteuse.",
+      "Ajoute la tomate, le bouillon et les haricots rouges rincés. Assaisonne de sel et de poivre, mélange et ferme le couvercle.",
+      "Fais cuire 5–6 h en LOW ou 3 h en HIGH. Ajoute le maïs pendant la dernière demi-heure pour qu'il reste croquant.",
+      "Pendant ce temps, cuis le riz. Goûte le chili, rectifie l'assaisonnement et sers."
+    ],
+    "tip": "Utilise toujours des haricots rouges en boîte ou en bocal : secs, ils ne chauffent pas assez dans la mijoteuse pour être sans danger. Et n'hésite pas à le préparer la veille : le chili n'en est que meilleur.",
+    "kids": "Les enfants le mangent tel quel ; les adultes ajoutent des flocons de piment ou du jalapeño dans leur assiette.",
+    "freeze": true,
+    "guid": "97be1c7e-dc53-40dd-90c2-157d99094a29",
+    "cuisine": "mexican",
+    "protein": "mince",
+    "side": "rice"
+  },
+  {
+    "id": 8,
+    "title": "Ragoût de poulet espagnol aux pois chiches",
+    "slug": "ragout-de-poulet-espagnol-aux-pois-chiches",
+    "chapter": "Espagnol & méditerranéen",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Du poulet doré, des pois chiches fondants et du poivron doux dans une sauce tomate qui sent la cuisine d'un village andalou.",
+    "ingredients": [
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "500 g",
+        "item": "hauts de cuisse de poulet désossés, en gros morceaux",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 bocal/boîte",
+        "item": "pois chiches (± 250 g égouttés)",
+        "es": "garbanzos cocidos"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en dés",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2 (± 400 g)",
+        "item": "pommes de terre, en dés",
+        "es": "patatas"
+      },
+      {
+        "q": "1 + 2",
+        "item": "oignon + gousses d'ail",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "200 ml",
+        "item": "bouillon de volaille",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "paprika doux",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "½ c. à c.",
+        "item": "cumin moulu",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "origan séché",
+        "es": "orégano"
+      },
+      {
+        "q": "",
+        "item": "sel et poivre",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "baguette",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Saupoudre le poulet de sel et de poivre et fais-le dorer 3–4 minutes dans l'huile d'olive ; il n'a pas encore besoin d'être cuit.",
+      "Fais revenir l'oignon et l'ail 3 minutes dans la même matière grasse. Hors du feu, incorpore le paprika, le cumin et l'origan.",
+      "Dépose la pomme de terre et la carotte (en dés de 2 cm) au fond de la mijoteuse, puis les pois chiches rincés, le poulet et l'oignon. Verse la tomate et le bouillon par-dessus.",
+      "Fais cuire 4–5 h en LOW ou 2–3 h en HIGH, couvercle fermé, jusqu'à ce que la pomme de terre soit tendre et que le poulet atteigne 75 °C.",
+      "Goûte et assaisonne de sel et de poivre. Trop liquide ? Écrase une cuillerée de pois chiches et mélange-la à la sauce."
+    ],
+    "tip": "La pomme de terre et la carotte vont au fond : c'est là que la mijoteuse chauffe le plus, et les légumes durs ont besoin du plus de temps. Rince bien les pois chiches : le liquide du bocal a un goût salé et terne.",
+    "kids": "Doux et tendre, parfait à écraser. Pour les adultes : une pincée de pimentón picante à table.",
+    "freeze": true,
+    "guid": "7626cd17-7d39-45d7-8fcb-0ef8c0a5e93d",
+    "cuisine": "spanish",
+    "protein": "chicken",
+    "side": "bread"
+  },
+  {
+    "id": 9,
+    "title": "Soupe poireaux-pommes de terre",
+    "slug": "soupe-poireaux-pommes-de-terre",
+    "chapter": "Néerlandais & européen",
+    "price": "7–9",
+    "spice": 1,
+    "vega": true,
+    "prep": "15 min",
+    "low": "5–6 h",
+    "high": "3–4 h",
+    "intro": "Une soupe veloutée et crémeuse de poireaux et de pommes de terre : simple, économique et exactement ce qu'il te faut par une fraîche soirée d'automne.",
+    "ingredients": [
+      {
+        "q": "800 g",
+        "item": "pommes de terre farineuses, en dés",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "2",
+        "item": "poireaux",
+        "es": "puerros"
+      },
+      {
+        "q": "1",
+        "item": "oignon",
+        "es": "cebolla"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "beurre",
+        "es": "mantequilla"
+      },
+      {
+        "q": "1 litre",
+        "item": "bouillon de légumes",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "150 ml",
+        "item": "crème liquide",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "pincée",
+        "item": "noix de muscade",
+        "es": "nuez moscada"
+      },
+      {
+        "q": "",
+        "item": "poivre et sel",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Coupe les poireaux en rondelles et rince-les bien dans une passoire : il y a souvent du sable entre les feuilles. Hache l'oignon.",
+      "Fais suer doucement le poireau et l'oignon 5 minutes dans le beurre, sans coloration. Cela donne à la soupe un goût doux et rond.",
+      "Mets le poireau, l'oignon, les pommes de terre et le bouillon dans la mijoteuse, remplie aux trois quarts au maximum. Fais cuire 5–6 h en LOW ou 3–4 h en HIGH.",
+      "Mixe la soupe au mixeur plongeant jusqu'à ce qu'elle soit lisse. Garde la tête du mixeur sous la surface : ça n'éclabousse pas.",
+      "Incorpore la crème et laisse réchauffer 10 minutes. Assaisonne de sel, de poivre et d'une pincée de noix de muscade."
+    ],
+    "tip": "Mixe brièvement : trop mixée, la pomme de terre devient collante. À congeler ? Fais-le avant d'ajouter la crème, et incorpore-la après avoir réchauffé la soupe.",
+    "kids": "Sers avec des mouillettes de pain grillé au fromage à tremper dans la soupe.",
+    "freeze": true,
+    "guid": "686aaa64-626c-46cc-aab4-7e4545b149e5",
+    "cuisine": "dutch",
+    "protein": "veg",
+    "side": "bread"
+  },
+  {
+    "id": 10,
+    "title": "Curry doux de poulet au lait de coco",
+    "slug": "curry-doux-de-poulet-au-lait-de-coco",
+    "chapter": "Cuisines du monde",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Un curry velouté et doré avec une touche sucrée de pomme : le curry qui rendra tes enfants fans des cuisines du monde.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés, en morceaux",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "400 ml",
+        "item": "lait de coco (entier)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1",
+        "item": "oignon, haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en rondelles",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "poivron rouge, en dés",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1",
+        "item": "pomme sucrée, en dés",
+        "es": "manzana golden"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "curry doux en poudre",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "ail en poudre",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "1 c. à s. + 2 c. à s.",
+        "item": "maïzena + eau froide",
+        "es": "maicena"
+      },
+      {
+        "q": "",
+        "item": "sel",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "riz",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Fais revenir l'oignon 3 minutes dans l'huile, puis ajoute le curry et l'ail en poudre 30 secondes, jusqu'à ce que ça embaume. Le goût cru des épices disparaît ainsi.",
+      "Mets le poulet, la carotte, le poivron et la pomme dans la mijoteuse. Ajoute l'oignon au curry, verse la moitié du lait de coco et sale.",
+      "Fais cuire 4–5 h en LOW ou 2–3 h en HIGH, couvercle fermé, jusqu'à ce que le poulet atteigne 75 °C.",
+      "Pendant la dernière demi-heure, incorpore le reste du lait de coco et la maïzena délayée dans l'eau froide. Passe en HIGH, couvercle fermé, jusqu'à ce que la sauce épaississe.",
+      "Pendant ce temps, cuis le riz, rectifie le curry en sel et sers."
+    ],
+    "tip": "Les épices ne libèrent vraiment leur arôme que dans l'huile chaude : fais donc toujours revenir le curry un instant. La deuxième moitié du lait de coco ajoutée à la fin rend la sauce encore plus crémeuse et fraîche.",
+    "kids": "La pomme rend la sauce délicatement sucrée. Pour les adultes : sambal ou flocons de piment à table.",
+    "freeze": true,
+    "guid": "b3948253-8718-410d-88a3-93c75312875a",
+    "cuisine": "indian",
+    "protein": "chicken",
+    "side": "rice"
+  },
+  {
+    "id": 11,
+    "title": "Ragoût marocain de poulet au ras el hanout",
+    "slug": "ragout-marocain-de-poulet-au-ras-el-hanout",
+    "chapter": "Cuisines du monde",
+    "price": "9–11",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "La cannelle, le ras el hanout et les abricots moelleux remplissent ta cuisine du parfum d'un souk marocain.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés, en gros morceaux",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 + 2",
+        "item": "oignon + gousses d'ail",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en rondelles",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "courgette, en cubes",
+        "es": "calabacín"
+      },
+      {
+        "q": "1 bocal/boîte",
+        "item": "pois chiches, rincés",
+        "es": "garbanzos cocidos"
+      },
+      {
+        "q": "200 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "150 ml",
+        "item": "bouillon de volaille",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "ras el hanout",
+        "es": "ras el hanout"
+      },
+      {
+        "q": "½ c. à c.",
+        "item": "cannelle",
+        "es": "canela molida"
+      },
+      {
+        "q": "50 g",
+        "item": "abricots secs, coupés en deux",
+        "es": "orejones de albaricoque"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive + sel et poivre",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g + 300 ml",
+        "item": "semoule de couscous + bouillon bouillant",
+        "es": "cuscús"
+      }
+    ],
+    "steps": [
+      "Sale le poulet et fais-le dorer 3 minutes dans l'huile d'olive. Ajoute l'oignon et l'ail, puis le ras el hanout et la cannelle pendant 30 secondes.",
+      "Mets la carotte, les pois chiches, les abricots et le mélange au poulet dans la mijoteuse. Verse la tomate et le bouillon par-dessus.",
+      "Fais cuire 4–5 h en LOW ou 2–3 h en HIGH, couvercle fermé, jusqu'à ce que le poulet atteigne 75 °C.",
+      "Pendant la dernière heure, dépose la courgette sur le dessus et referme vite le couvercle : elle reste entière et bien verte.",
+      "Verse le bouillon bouillant sur la semoule, laisse gonfler 5 minutes à couvert et égrène à la fourchette."
+    ],
+    "tip": "Le ras el hanout varie selon les marques : l'un est doux et floral, l'autre relevé. Sens-le, commence par 1 cuillère à soupe et n'hésite pas à en rajouter à la fin.",
+    "kids": "Les abricots rendent le plat doux et sucré. Pour les adultes : une petite cuillère de harissa dans leur assiette.",
+    "freeze": true,
+    "guid": "79338300-57c2-4965-a6cf-5de2b713a476",
+    "cuisine": "moroccan",
+    "protein": "chicken",
+    "side": "couscous"
+  },
+  {
+    "id": 12,
+    "title": "Bœuf mijoté et purée de pommes de terre",
+    "slug": "boeuf-mijote-et-puree-de-pommes-de-terre",
+    "chapter": "Néerlandais & européen",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "8–9 h",
+    "high": "5–6 h",
+    "intro": "Du bœuf mijoté comme le faisait grand-mère : il s'effiloche tout seul dans une sauce aigre-douce brillante, avec une montagne de purée crémeuse à côté.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "bœuf à braiser (macreuse ou paleron), en cubes",
+        "es": "carne para guisar (morcillo)"
+      },
+      {
+        "q": "2",
+        "item": "oignons, en demi-rondelles",
+        "es": "cebollas"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en morceaux",
+        "es": "zanahorias"
+      },
+      {
+        "q": "250 ml",
+        "item": "bouillon de bœuf",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "moutarde",
+        "es": "mostaza"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "vinaigre",
+        "es": "vinagre de vino"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "sucre brun",
+        "es": "azúcar moreno"
+      },
+      {
+        "q": "2",
+        "item": "feuilles de laurier",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "2 brins",
+        "item": "thym (ou 1 c. à c. séché)",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "maïzena + 2 c. à s. d'eau froide",
+        "es": "maicena"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile, poivre et sel",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "1 kg",
+        "item": "pommes de terre farineuses",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "150 ml",
+        "item": "lait chaud",
+        "es": "leche"
+      },
+      {
+        "q": "30 g",
+        "item": "beurre",
+        "es": "mantequilla"
+      }
+    ],
+    "steps": [
+      "Sèche la viande avec du papier absorbant, sale, poivre et fais-la bien brunir sur toutes les faces dans l'huile, par petites portions. Mets-la dans la mijoteuse.",
+      "Fais dorer les oignons dans la même poêle. Déglace avec le bouillon, la moutarde, le vinaigre et le sucre, et gratte tous les sucs de cuisson.",
+      "Verse sur la viande, ajoute la carotte, le laurier et le thym, et ferme le couvercle. Fais cuire 8–9 h en LOW ou 5–6 h en HIGH.",
+      "Pendant la dernière demi-heure, incorpore à la sauce la maïzena délayée dans 2 c. à s. d'eau froide. Retire le laurier et les tiges de thym.",
+      "Pendant ce temps, cuis les pommes de terre, égoutte-les et écrase-les avec le lait chaud, le beurre et du sel pour obtenir une purée crémeuse."
+    ],
+    "tip": "Tout se joue dans le brunissage : saisis par petites portions, sinon la viande bout au lieu de colorer. Envie d'une version encore plus hollandaise ? Ajoute 2 clous de girofle.",
+    "kids": "Creuse un petit puits dans la purée et remplis-le de sauce : un petit volcan. Les enfants adorent.",
+    "freeze": true,
+    "guid": "0452c948-9f3f-4b9b-91f2-f2dfac88483f",
+    "cuisine": "dutch",
+    "protein": "beef",
+    "side": "potato"
+  },
+  {
+    "id": 13,
+    "title": "Tacos de porc effiloché",
+    "slug": "tacos-de-porc-effiloche",
+    "chapter": "Cuisines du monde",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "8–9 h",
+    "high": "5–6 h",
+    "intro": "De l'épaule de porc cuite pendant des heures dans une sauce fumée et collante : installe un bar à tacos sur la table et laisse chacun composer les siens.",
+    "ingredients": [
+      {
+        "q": "800 g",
+        "item": "épaule de porc désossée",
+        "es": "paleta de cerdo / aguja"
+      },
+      {
+        "q": "1",
+        "item": "oignon, en rondelles",
+        "es": "cebolla"
+      },
+      {
+        "q": "150 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "concentré de tomate",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "miel",
+        "es": "miel"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "vinaigre de cidre",
+        "es": "vinagre de manzana"
+      },
+      {
+        "q": "2 c. à c.",
+        "item": "paprika doux fumé",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "cumin moulu",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "ail en poudre",
+        "es": "ajo en polvo"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "sel + poivre",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "8–12",
+        "item": "petites tortillas",
+        "es": "tortillas de trigo o maíz"
+      },
+      {
+        "q": "",
+        "item": "maïs, tomate et concombre",
+        "es": "maíz dulce, tomate, pepino"
+      },
+      {
+        "q": "200 g",
+        "item": "yaourt grec",
+        "es": "yogur griego natural"
+      }
+    ],
+    "steps": [
+      "Coupe la viande en 4 gros morceaux et frotte-les avec le paprika, le cumin, l'ail en poudre, le sel et le poivre.",
+      "Dépose l'oignon au fond de la mijoteuse et la viande par-dessus. Mélange la tomate, le concentré, le miel et le vinaigre, et verse sur la viande.",
+      "Fais cuire 8–9 h en LOW ou 5–6 h en HIGH, couvercle fermé, jusqu'à ce que la viande se défasse à la fourchette.",
+      "Sors la viande, effiloche-la et retire les gros morceaux de gras. Fais réduire la sauce 5–10 minutes dans une casserole jusqu'à ce qu'elle soit sirupeuse.",
+      "Mélange la viande à la sauce réduite. Réchauffe brièvement les tortillas dans une poêle sèche et garnis-les à table avec les garnitures."
+    ],
+    "tip": "L'épaule a juste ce qu'il faut de gras et de tissu conjonctif pour devenir fondante ; une viande maigre comme le lomo devient sèche. Faire réduire la sauce, c'est ce qui fait passer de bon à génial.",
+    "kids": "Les enfants choisissent eux-mêmes leurs garnitures. Pour les adultes : jalapeño, salsa picante ou un quartier de citron vert.",
+    "freeze": true,
+    "guid": "7525c319-03f3-4c84-b1cd-b8dfbcf99fd8",
+    "cuisine": "mexican",
+    "protein": "pork",
+    "side": "tortilla"
+  },
+  {
+    "id": 14,
+    "title": "Poulet tikka masala doux et crémeux",
+    "slug": "poulet-tikka-masala-doux-et-cremeux",
+    "chapter": "Cuisines du monde",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Le curry orange et crémeux de ton restaurant indien préféré, mais assez doux pour toute la tablée.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés, en cubes de 3 cm",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1 + 2",
+        "item": "oignon + gousses d'ail",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "gingembre frais, râpé",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "200 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "concentré de tomate",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "2 c. à c.",
+        "item": "garam masala doux",
+        "es": "garam masala"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "paprika doux",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 c. à c. + ½ c. à c.",
+        "item": "cumin + curcuma",
+        "es": "comino + cúrcuma"
+      },
+      {
+        "q": "150 ml",
+        "item": "crème liquide",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "150 g",
+        "item": "yaourt grec entier",
+        "es": "yogur griego natural"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "",
+        "item": "sel",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "riz basmati",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Fais revenir l'oignon, l'ail et le gingembre 4 minutes dans l'huile. Incorpore toutes les épices et le concentré de tomate et fais cuire 1 minute, jusqu'à ce que ça embaume.",
+      "Mets le poulet dans la mijoteuse, ajoute le mélange d'épices et la tomate, sale et mélange.",
+      "Fais cuire 4–5 h en LOW ou 2–3 h en HIGH, couvercle fermé, jusqu'à ce que le poulet atteigne 75 °C.",
+      "Pendant le dernier quart d'heure, incorpore la crème. Ensuite, éteins la mijoteuse ou passe-la en WARM.",
+      "Mélange le yaourt avec quelques cuillerées de sauce chaude, et seulement ensuite incorpore-le au curry. Ne fais plus bouillir, sinon il tranche.",
+      "Cuis le riz basmati à part et sers."
+    ],
+    "tip": "Le yaourt entier tranche beaucoup moins que le yaourt maigre, et le « tempérer » d'abord avec de la sauce chaude évite les grumeaux. Le gingembre en poudre convient aussi : mets alors 1 cuillère à café au lieu du gingembre frais. À congeler ? Fais-le avant d'ajouter la crème et le yaourt.",
+    "kids": "Crémeux et doux en goût. Pour les adultes : des flocons de piment ou un piment vert finement émincé par-dessus.",
+    "freeze": true,
+    "guid": "0b520b03-1a78-463a-a80b-f6f9d02c8b7b",
+    "cuisine": "indian",
+    "protein": "chicken",
+    "side": "rice"
+  },
+  {
+    "id": 15,
+    "title": "Poulet sauce crémeuse aux champignons",
+    "slug": "poulet-sauce-cremeuse-aux-champignons",
+    "chapter": "Néerlandais & européen",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Du poulet tendre dans une sauce crémeuse aux champignons, à l'ail et au thym : un plat réconfortant qui a le goût d'heures passées en cuisine.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "250 g",
+        "item": "champignons de Paris, émincés",
+        "es": "champiñones laminados"
+      },
+      {
+        "q": "1",
+        "item": "oignon, haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "gousses d'ail, écrasées",
+        "es": "ajo"
+      },
+      {
+        "q": "150 ml",
+        "item": "bouillon de volaille",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "thym",
+        "es": "tomillo"
+      },
+      {
+        "q": "150 ml",
+        "item": "crème liquide",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "maïzena + 2 c. à s. d'eau froide",
+        "es": "maicena"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "persil frais, finement haché",
+        "es": "perejil fresco"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile, poivre et sel",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "1 kg",
+        "item": "pommes de terre farineuses (pour la purée)",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "100 ml + 25 g",
+        "item": "lait et beurre",
+        "es": "leche y mantequilla"
+      }
+    ],
+    "steps": [
+      "Saupoudre le poulet de sel et de poivre, fais-le dorer rapidement dans l'huile et mets-le dans la mijoteuse.",
+      "Fais sauter les champignons, l'oignon et l'ail 4 minutes à feu vif dans la même poêle. Les champignons perdent ainsi leur eau et prennent du goût.",
+      "Verse sur le poulet, ajoute le bouillon et parsème de thym. Fais cuire 4–5 h en LOW ou 2–3 h en HIGH.",
+      "Pendant la dernière demi-heure, incorpore la crème et la maïzena délayée dans 2 c. à s. d'eau froide. Le poulet doit atteindre 75 °C à cœur.",
+      "Pendant ce temps, cuis les pommes de terre et écrase-les avec le lait et le beurre pour faire une purée. Parsème le poulet de persil et sers."
+    ],
+    "tip": "Fais sauter les champignons à feu vif et pas trop à la fois : ils dorent au lieu de cuire à l'étouffée. C'est toute la différence entre une sauce fade et une sauce pleine de goût.",
+    "kids": "Écrase la purée avec une cuillerée de sauce : crémeux, doux et facile à manger pour les petites mains.",
+    "freeze": true,
+    "guid": "ed068490-f8ff-4784-8dc9-1b7f58e3e608",
+    "cuisine": "european",
+    "protein": "chicken",
+    "side": "potato"
+  },
+  {
+    "id": 16,
+    "title": "Porc à la sauce miel-moutarde",
+    "slug": "porc-a-la-sauce-miel-moutarde",
+    "chapter": "Néerlandais & européen",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 h",
+    "high": "3–4 h",
+    "intro": "Du porc mijoté tout tendre avec de la pomme dans une sauce crémeuse miel-moutarde : l'équilibre parfait entre sucré et salé.",
+    "ingredients": [
+      {
+        "q": "700 g",
+        "item": "épaule de porc, en cubes de 4 cm",
+        "es": "aguja o paleta de cerdo para guisar"
+      },
+      {
+        "q": "1",
+        "item": "oignon, en quartiers",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en morceaux",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "pomme sucrée, en quartiers",
+        "es": "manzana Golden"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "moutarde",
+        "es": "mostaza (Dijon o a la antigua)"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "miel",
+        "es": "miel"
+      },
+      {
+        "q": "200 ml",
+        "item": "bouillon de volaille",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "thym",
+        "es": "tomillo"
+      },
+      {
+        "q": "100 ml",
+        "item": "crème liquide",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "maïzena + 2 c. à s. d'eau froide",
+        "es": "maicena"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile, poivre et sel",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "800 g",
+        "item": "pommes de terre ou 300 g de riz",
+        "es": "patatas o arroz"
+      }
+    ],
+    "steps": [
+      "Retire l'excès de gras de la viande. Sale, poivre et fais légèrement dorer les cubes dans l'huile, en plusieurs fois.",
+      "Dépose la carotte, l'oignon et la pomme au fond de la mijoteuse et ajoute la viande par-dessus.",
+      "Mélange le bouillon, le miel, 1 c. à s. de moutarde et le thym, et verse par-dessus. Fais cuire 6–7 h en LOW ou 3–4 h en HIGH.",
+      "Pendant la dernière demi-heure, incorpore la crème, le reste de la moutarde et la maïzena délayée dans 2 c. à s. d'eau froide.",
+      "Pendant ce temps, cuis les pommes de terre ou le riz. Goûte la sauce et rectifie avec du sel, du poivre ou une petite cuillère de miel en plus."
+    ],
+    "tip": "La moutarde perd son goût pendant une longue cuisson. Ajoute donc la moitié seulement à la fin : la sauce reste fraîche et la moutarde se sent vraiment.",
+    "kids": "Trop moutardé ? Un trait de crème en plus et un peu de miel adoucissent la sauce pour les petits palais.",
+    "freeze": true,
+    "guid": "d3b2a55f-89a7-4724-9a4e-42f696b52f82",
+    "cuisine": "dutch",
+    "protein": "pork",
+    "side": "potato"
+  },
+  {
+    "id": 17,
+    "title": "Cottage pie au haché et aux légumes",
+    "slug": "cottage-pie-au-hache-et-aux-legumes",
+    "chapter": "Néerlandais & européen",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "20 min",
+    "low": "4–5 h",
+    "high": "2–3 h",
+    "intro": "Une farce savoureuse de viande hachée et de légumes sous une couette de purée crémeuse : le plat réconfortant britannique qui réunit toute la famille à table.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "bœuf haché",
+        "es": "carne picada de vacuno"
+      },
+      {
+        "q": "1",
+        "item": "oignon, haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en dés",
+        "es": "zanahorias"
+      },
+      {
+        "q": "100 g",
+        "item": "petits pois surgelés",
+        "es": "guisantes congelados"
+      },
+      {
+        "q": "200 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "concentré de tomate",
+        "es": "tomate concentrado"
+      },
+      {
+        "q": "150 ml",
+        "item": "bouillon de bœuf",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "thym",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "sauce Worcestershire (ou sauce soja)",
+        "es": "salsa Worcestershire (o salsa de soja)"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "maïzena + 2 c. à s. d'eau froide",
+        "es": "maicena"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile, poivre et sel",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "800 g",
+        "item": "pommes de terre farineuses",
+        "es": "patatas para cocer"
+      },
+      {
+        "q": "100 ml + 30 g",
+        "item": "lait et beurre",
+        "es": "leche y mantequilla"
+      }
+    ],
+    "steps": [
+      "Fais dorer le haché et l'oignon dans l'huile en égrenant. Mets-les dans la mijoteuse avec la carotte, la tomate, le concentré, le bouillon, le thym et la sauce Worcestershire.",
+      "Assaisonne de sel et de poivre et fais cuire 4–5 h en LOW ou 2–3 h en HIGH, couvercle fermé.",
+      "Pendant la dernière demi-heure, incorpore les petits pois et la maïzena délayée dans 2 c. à s. d'eau froide. La farce sera ainsi bien liée.",
+      "Pendant ce temps, cuis les pommes de terre et écrase-les avec le lait, le beurre et du sel pour obtenir une purée ferme.",
+      "Verse la farce dans un plat à four, étale la purée par-dessus et trace des sillons à la fourchette. Passe 10 minutes sous le gril bien chaud (ou 15 min à 220 °C) jusqu'à ce que ce soit doré."
+    ],
+    "tip": "Les sillons de fourchette deviennent des bords croustillants sous le gril : le meilleur morceau. Pas de gril ? Étale la purée sur la farce directement dans la mijoteuse et réchauffe 15 minutes.",
+    "kids": "Parsème la purée d'un peu de fromage râpé : tout le monde voudra la croûte dorée.",
+    "freeze": true,
+    "guid": "39098b62-acca-4bdf-a78f-a9dc031b98ca",
+    "cuisine": "british",
+    "protein": "mince",
+    "side": "potato"
+  },
+  {
+    "id": 18,
+    "title": "Poulet à la toscane",
+    "slug": "poulet-a-la-toscane",
+    "chapter": "Néerlandais & européen",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "3½–4 h",
+    "high": "2 h",
+    "intro": "Du poulet crémeux aux tomates séchées, aux épinards et au parmesan : un goût de vacances en Italie, un simple soir de semaine.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "1",
+        "item": "oignon, haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "gousses d'ail, écrasées",
+        "es": "ajo"
+      },
+      {
+        "q": "100 g",
+        "item": "tomates séchées à l'huile, en lanières",
+        "es": "tomates secos en aceite"
+      },
+      {
+        "q": "150 ml",
+        "item": "bouillon de volaille",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "origan",
+        "es": "orégano"
+      },
+      {
+        "q": "150 ml",
+        "item": "crème liquide",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "maïzena + 2 c. à s. d'eau froide",
+        "es": "maicena"
+      },
+      {
+        "q": "100 g",
+        "item": "épinards frais",
+        "es": "espinacas frescas (brotes)"
+      },
+      {
+        "q": "30 g",
+        "item": "parmesan râpé",
+        "es": "queso parmesano rallado"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive, poivre et sel",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "pâtes (penne ou macaroni)",
+        "es": "macarrones o penne"
+      }
+    ],
+    "steps": [
+      "Saupoudre le poulet de sel, de poivre et d'origan et fais-le dorer rapidement dans l'huile. N'hésite pas à utiliser l'huile du bocal de tomates.",
+      "Dépose l'oignon et l'ail au fond de la mijoteuse, puis le poulet et les tomates séchées. Verse le bouillon par-dessus.",
+      "Fais cuire 3½–4 h en LOW ou 2 h en HIGH, couvercle fermé, jusqu'à ce que le poulet atteigne 75 °C à cœur.",
+      "Pendant la dernière demi-heure, incorpore la crème et la maïzena délayée dans 2 c. à s. d'eau froide.",
+      "10 minutes avant la fin, ajoute les épinards et le parmesan ; les épinards tombent tout seuls. Pendant ce temps, cuis les pâtes et sers."
+    ],
+    "tip": "Les tomates séchées à l'huile sont plus tendres et plus savoureuses que celles en sachet. Tu n'as que celles-là ? Fais-les d'abord tremper 10 minutes dans de l'eau chaude.",
+    "kids": "Les épinards ne font pas l'unanimité ? Hache les feuilles finement : elles deviennent de discrets petits points verts dans la sauce.",
+    "freeze": true,
+    "guid": "4f47cecd-8fbf-4dfc-a43a-67b31d926738",
+    "cuisine": "italian",
+    "protein": "chicken",
+    "side": "pasta"
+  },
+  {
+    "id": 19,
+    "title": "Bœuf effiloché à la mexicaine",
+    "slug": "boeuf-effiloche-a-la-mexicaine",
+    "chapter": "Cuisines du monde",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "8–9 h",
+    "high": "5–6 h",
+    "intro": "Du bœuf qui s'effiloche après une journée de mijotage, avec du cumin, de l'origan et un filet frais de citron vert.",
+    "ingredients": [
+      {
+        "q": "700 g",
+        "item": "paleron de bœuf / bœuf à braiser",
+        "es": "aguja o espaldilla de ternera"
+      },
+      {
+        "q": "1",
+        "item": "oignon, en lanières",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "poivron rouge, en lanières",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2 gousses",
+        "item": "ail, écrasé",
+        "es": "ajo"
+      },
+      {
+        "q": "200 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100 ml",
+        "item": "bouillon de bœuf",
+        "es": "caldo de carne"
+      },
+      {
+        "q": "2 c. à c.",
+        "item": "cumin moulu",
+        "es": "comino molido"
+      },
+      {
+        "q": "2 c. à c.",
+        "item": "paprika doux fumé",
+        "es": "pimentón de la Vera dulce"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "origan séché",
+        "es": "orégano"
+      },
+      {
+        "q": "½",
+        "item": "citron vert (jus)",
+        "es": "lima"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile + sel et poivre",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "8–12",
+        "item": "tortillas",
+        "es": "tortillas de trigo o maíz"
+      }
+    ],
+    "steps": [
+      "Coupe la viande en 4 morceaux, sale, poivre et fais-la bien brunir sur toutes les faces dans l'huile, 6–8 minutes. Cette croûte, c'est du goût à l'état pur.",
+      "Dépose l'oignon et le poivron au fond de la mijoteuse et la viande par-dessus.",
+      "Mélange la tomate, le bouillon, l'ail, le cumin, le paprika et l'origan, et verse sur la viande.",
+      "Fais cuire 8–9 h en LOW ou 5–6 h en HIGH, couvercle fermé, jusqu'à ce que la viande se défasse à la fourchette.",
+      "Effiloche la viande dans la cuve, mélange-la à la sauce et presse le citron vert par-dessus. Sers dans des tortillas chaudes."
+    ],
+    "tip": "Le citron vert ne s'ajoute qu'à la fin, pour rester frais. Il en reste ? Congèle des portions avec un peu de sauce : parfait pour des quesadillas ou un burrito bowl express.",
+    "kids": "Doux et fumé. Pour les adultes : jalapeño, salsa picante ou une pincée de piment de Cayenne à table.",
+    "freeze": true,
+    "guid": "a5bedd7e-c4fc-4f6c-b898-55f62edec7f5",
+    "cuisine": "mexican",
+    "protein": "beef",
+    "side": "tortilla"
+  },
+  {
+    "id": 20,
+    "title": "Poulet teriyaki",
+    "slug": "poulet-teriyaki",
+    "chapter": "Cuisines du monde",
+    "price": "9–11",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4 h",
+    "high": "2 h",
+    "intro": "Du poulet brillant, sucré-salé, au gingembre et à l'ail : en moins d'une semaine, tout le monde en redemande.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "80 ml",
+        "item": "sauce soja",
+        "es": "salsa de soja"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "miel",
+        "es": "miel"
+      },
+      {
+        "q": "100 ml",
+        "item": "eau",
+        "es": ""
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "vinaigre de riz ou de cidre",
+        "es": "vinagre de arroz / de manzana"
+      },
+      {
+        "q": "1 gousse",
+        "item": "ail, écrasé",
+        "es": "ajo"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "gingembre frais, râpé",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "1½ c. à s. + 3 c. à s.",
+        "item": "maïzena + eau froide",
+        "es": "maicena"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "riz",
+        "es": "arroz"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "graines de sésame grillées",
+        "es": "sésamo tostado"
+      }
+    ],
+    "steps": [
+      "Mélange la sauce soja, le miel, l'eau, le vinaigre, l'ail et le gingembre dans la mijoteuse.",
+      "Ajoute les hauts de cuisse entiers ou en gros morceaux et nappe-les de sauce. Ferme le couvercle.",
+      "Fais cuire 4 h en LOW ou 2 h en HIGH, jusqu'à ce que le poulet atteigne 75 °C.",
+      "Délaye la maïzena dans l'eau froide et incorpore-la à la sauce. Passe en HIGH et laisse épaissir 20–30 minutes, couvercle fermé, jusqu'à ce que la sauce soit brillante.",
+      "Coupe ou effiloche le poulet, mélange-le à la sauce et sers sur du riz parsemé de sésame."
+    ],
+    "tip": "Le haut de cuisse reste juteux et absorbe mieux la sauce que le blanc. Trop salé pour les enfants ? Prends une sauce soja réduite en sel ou remplace 2 cuillères à soupe par de l'eau.",
+    "kids": "Sucré-salé et collant : un favori des enfants. Pour les adultes : sriracha ou flocons de piment.",
+    "freeze": true,
+    "guid": "84b63f83-cce0-4588-b9ef-f8168f71f614",
+    "cuisine": "japanese",
+    "protein": "chicken",
+    "side": "rice"
+  },
+  {
+    "id": 21,
+    "title": "Poulet thaï au coco et sauce cacahuète",
+    "slug": "poulet-thai-au-coco-et-sauce-cacahuete",
+    "chapter": "Cuisines du monde",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "4 h",
+    "high": "2 h",
+    "intro": "Coco crémeuse, cacahuète gourmande et un filet frais de citron vert : une soirée street food thaïe, tout simplement dans ta propre mijoteuse.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés, en morceaux",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "400 ml",
+        "item": "lait de coco (entier)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1",
+        "item": "oignon, haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "1",
+        "item": "poivron rouge, en lanières",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en julienne",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2–3 c. à s.",
+        "item": "beurre de cacahuète",
+        "es": "crema de cacahuete"
+      },
+      {
+        "q": "1–2 c. à s.",
+        "item": "curry doux en poudre",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "sauce soja",
+        "es": "salsa de soja"
+      },
+      {
+        "q": "1",
+        "item": "citron vert (jus)",
+        "es": "lima"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile + sel",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "riz jasmin",
+        "es": "arroz jazmín"
+      }
+    ],
+    "steps": [
+      "Fais revenir l'oignon 3 minutes dans l'huile, puis ajoute le curry 30 secondes, jusqu'à ce qu'il embaume.",
+      "Mets le poulet, le poivron, la carotte et l'oignon au curry dans la mijoteuse. Verse la moitié du lait de coco et la sauce soja par-dessus.",
+      "Fais cuire 4 h en LOW ou 2 h en HIGH, couvercle fermé, jusqu'à ce que le poulet atteigne 75 °C.",
+      "Pendant la dernière demi-heure, fouette le reste du lait de coco avec le beurre de cacahuète jusqu'à ce que ce soit lisse, et incorpore-le au ragoût. Couvercle fermé, encore 20–30 minutes.",
+      "Incorpore le jus de citron vert, rectifie en sel et sers avec le riz."
+    ],
+    "tip": "Délaye d'abord le beurre de cacahuète dans le lait de coco froid : il se dissout sans grumeaux et n'attache pas au fond. Le citron vert seulement à la fin, pour qu'il reste frais.",
+    "kids": "Crémeux et gourmand. Attention aux allergies à l'arachide chez les copains ! Pour les adultes : du sambal.",
+    "freeze": true,
+    "guid": "f49f2d39-c188-4431-aac8-cda7e23b85cb",
+    "cuisine": "thai",
+    "protein": "chicken",
+    "side": "rice"
+  },
+  {
+    "id": 22,
+    "title": "Poulet grec au citron et pommes de terre",
+    "slug": "poulet-grec-au-citron-et-pommes-de-terre",
+    "chapter": "Espagnol & méditerranéen",
+    "price": "9–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 h",
+    "high": "3 h",
+    "intro": "Du poulet ensoleillé au citron, à l'ail et à l'origan sur des pommes de terre qui absorbent tout le jus : une terrasse grecque en été, un soir de semaine.",
+    "ingredients": [
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "700 g",
+        "item": "pommes de terre à chair ferme",
+        "es": "patatas"
+      },
+      {
+        "q": "1",
+        "item": "oignon, en rondelles",
+        "es": "cebolla"
+      },
+      {
+        "q": "2 gousses",
+        "item": "ail, écrasé",
+        "es": "ajo"
+      },
+      {
+        "q": "1",
+        "item": "citron (zeste + jus)",
+        "es": "limón"
+      },
+      {
+        "q": "150 ml",
+        "item": "bouillon de volaille",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "3 c. à s.",
+        "item": "huile d'olive",
+        "es": "aceite de oliva virgen extra"
+      },
+      {
+        "q": "2 c. à c.",
+        "item": "origan séché",
+        "es": "orégano"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "thym séché",
+        "es": "tomillo"
+      },
+      {
+        "q": "",
+        "item": "sel et poivre",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "200 g",
+        "item": "yaourt grec",
+        "es": "yogur griego natural"
+      },
+      {
+        "q": "½",
+        "item": "concombre, en dés",
+        "es": "pepino"
+      }
+    ],
+    "steps": [
+      "Coupe les pommes de terre en quartiers de 3 cm et dépose-les au fond de la mijoteuse avec l'oignon, l'ail, du sel et du poivre.",
+      "Sale et poivre le poulet. Si tu veux, fais-le dorer 3 minutes dans une poêle bien chaude : plus belle couleur et goût plus riche.",
+      "Pose le poulet sur les pommes de terre. Fouette le jus de citron, l'huile d'olive, le bouillon, l'origan et le thym, et verse par-dessus.",
+      "Fais cuire 5–6 h en LOW ou 3 h en HIGH, couvercle fermé, jusqu'à ce que les pommes de terre soient tendres et que le poulet atteigne 75 °C.",
+      "Juste avant de servir, râpe le zeste de citron par-dessus et arrose les pommes de terre de jus. Sers avec le yaourt et le concombre."
+    ],
+    "tip": "Ne râpe le zeste qu'à la fin : des heures de cuisson ternissent le citron, alors qu'un zeste frais fait tout ressortir. Envie de bords croustillants ? Passe encore les pommes de terre 10 minutes sous le gril du four.",
+    "kids": "Trop acide pour les petits ? Utilise un demi-citron et donne plus de zeste aux adultes.",
+    "freeze": false,
+    "guid": "ef38dd6d-e72f-482c-9a4c-a8305b1a9b4b",
+    "cuisine": "greek",
+    "protein": "chicken",
+    "side": "potato"
+  },
+  {
+    "id": 23,
+    "title": "Ragoût de poisson crémeux à la tomate",
+    "slug": "ragout-de-poisson-cremeux-a-la-tomate",
+    "chapter": "Poisson & crevettes",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "3–4 h + 20–30 min",
+    "high": "1½–2 h + 15–20 min",
+    "intro": "Du merlu tendre qui cuit doucement dans une sauce crémeuse tomate-poivron : un poisson qui convainc même les plus hésitants à table.",
+    "ingredients": [
+      {
+        "q": "500 g",
+        "item": "filet de merlu sans peau (frais ou décongelé)",
+        "es": "merluza (filetes sin piel)"
+      },
+      {
+        "q": "1 + 2",
+        "item": "oignon + gousses d'ail",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "poivron rouge, en dés",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1",
+        "item": "carotte, en dés",
+        "es": "zanahoria"
+      },
+      {
+        "q": "200 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100 ml",
+        "item": "fumet de poisson ou bouillon de légumes",
+        "es": "caldo de pescado"
+      },
+      {
+        "q": "150 ml",
+        "item": "crème liquide ou lait de coco",
+        "es": "nata para cocinar / leche de coco"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "paprika doux",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "origan séché",
+        "es": "orégano"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive + sel et poivre",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "riz",
+        "es": "arroz"
+      }
+    ],
+    "steps": [
+      "Mets l'oignon et l'ail hachés, le poivron, la carotte, la tomate, le bouillon, l'huile, le paprika, l'origan, le sel et le poivre dans la mijoteuse.",
+      "Fais cuire 3–4 h en LOW ou 1½–2 h en HIGH, couvercle fermé, jusqu'à ce que les légumes soient tendres.",
+      "Incorpore la crème ou le lait de coco. Sèche le poisson, coupe-le en morceaux de 4 cm, sale-le et dépose-le délicatement dans la sauce.",
+      "Ferme le couvercle et fais cuire 20–30 minutes en LOW (15–20 en HIGH), jusqu'à ce que le poisson soit blanc et se détache tout juste. Ne remue pas.",
+      "Pendant ce temps, cuis le riz. Sers délicatement le poisson avec la sauce dans les assiettes."
+    ],
+    "tip": "Le merlu surgelé est bon marché et parfait : laisse-le décongeler une nuit au réfrigérateur et sèche-le bien. Vérifie au bout de 15 minutes en HIGH ou 20 en LOW, car un poisson trop cuit devient sec.",
+    "kids": "Vérifie qu'il n'y a pas d'arêtes avant de servir. Pour les adultes : une pincée de pimentón picante par-dessus.",
+    "freeze": false,
+    "guid": "c5662b5f-d957-4649-8b21-ec8bf09c5af1",
+    "cuisine": "mediterranean",
+    "protein": "fish",
+    "side": "rice"
+  },
+  {
+    "id": 24,
+    "title": "Crevettes crémeuses à l'ail et pâtes",
+    "slug": "crevettes-cremeuses-a-l-ail-et-pates",
+    "chapter": "Poisson & crevettes",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "10 min",
+    "low": "2–3 h, puis 10–15 min en HIGH",
+    "high": "1–1½ h + 10–15 min",
+    "intro": "De l'ail confit tout doux, une sauce crémeuse et des crevettes juteuses mélangées à tes pâtes : une ambiance de restaurant pour trois fois rien.",
+    "ingredients": [
+      {
+        "q": "300–350 g",
+        "item": "crevettes crues décortiquées, décongelées",
+        "es": "gambas peladas crudas"
+      },
+      {
+        "q": "2–3 gousses",
+        "item": "ail, finement haché",
+        "es": "ajo"
+      },
+      {
+        "q": "1",
+        "item": "oignon, finement haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "100 ml",
+        "item": "bouillon de légumes ou fumet de poisson",
+        "es": "caldo de verduras / de pescado"
+      },
+      {
+        "q": "150 ml",
+        "item": "crème liquide",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "huile d'olive",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "½ c. à c.",
+        "item": "paprika doux",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "½",
+        "item": "citron (jus)",
+        "es": "limón"
+      },
+      {
+        "q": "2 c. à s.",
+        "item": "persil frais, haché",
+        "es": "perejil fresco"
+      },
+      {
+        "q": "",
+        "item": "sel et poivre",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "pâtes (linguine ou tagliatelle)",
+        "es": "espaguetis / tallarines"
+      }
+    ],
+    "steps": [
+      "Fais suer doucement l'oignon et l'ail 3 minutes dans l'huile d'olive, sans coloration. Mets-les dans la mijoteuse avec le bouillon et le paprika.",
+      "Fais cuire 2–3 h en LOW ou 1–1½ h en HIGH, couvercle fermé, jusqu'à ce que l'oignon et l'ail soient tendres et doux.",
+      "Sèche bien les crevettes décongelées. Pendant ce temps, cuis les pâtes et garde une tasse d'eau de cuisson.",
+      "Passe la mijoteuse en HIGH, incorpore la crème et les crevettes. Couvercle fermé, 10–15 minutes, jusqu'à ce qu'elles soient roses et juste cuites.",
+      "Ajoute le jus de citron, le persil, le sel et le poivre, puis mélange avec les pâtes. Trop épais ? Un trait d'eau de cuisson."
+    ],
+    "tip": "Choisis des crevettes crues ; les crevettes précuites deviennent vite caoutchouteuses et n'ont besoin que de 5 minutes. En forme de C, elles sont parfaitement cuites ; un O bien serré signifie qu'elles ont cuit trop longtemps.",
+    "kids": "Pas fans de crevettes ? Sers-leur d'abord leurs pâtes avec seulement la sauce crémeuse.",
+    "freeze": false,
+    "guid": "8b6d7f4f-6283-42e3-89e4-17b1a8160af0",
+    "cuisine": "italian",
+    "protein": "prawns",
+    "side": "pasta"
+  },
+  {
+    "id": 25,
+    "title": "Ragoût espagnol de bacalao",
+    "slug": "ragout-espagnol-de-bacalao",
+    "chapter": "Poisson & crevettes",
+    "price": "10–12",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "3–4 h + 20–30 min",
+    "high": "2 h + 15–20 min",
+    "intro": "Du cabillaud d'un blanc nacré sur un lit de pommes de terre, de poivron et de tomate, arrosé d'une bonne huile d'olive : la cuisine familiale espagnole à l'état pur.",
+    "ingredients": [
+      {
+        "q": "500 g",
+        "item": "bacalao dessalé ou cabillaud frais",
+        "es": "bacalao desalado / bacalao fresco"
+      },
+      {
+        "q": "1 + 2",
+        "item": "oignon + gousses d'ail",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "poivron rouge, en lanières",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "400 g",
+        "item": "pommes de terre",
+        "es": "patatas"
+      },
+      {
+        "q": "200 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "100–150 ml",
+        "item": "fumet de poisson ou bouillon de légumes",
+        "es": "caldo de pescado"
+      },
+      {
+        "q": "3 c. à s.",
+        "item": "huile d'olive",
+        "es": "aceite de oliva virgen extra"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "paprika doux",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "poignée",
+        "item": "olives vertes dénoyautées (facultatif)",
+        "es": "aceitunas verdes sin hueso"
+      },
+      {
+        "q": "",
+        "item": "sel et poivre",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "baguette",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Coupe les pommes de terre en rondelles de 1 cm et dépose-les au fond de la mijoteuse. Répartis l'oignon, l'ail et le poivron par-dessus.",
+      "Mélange la tomate, le bouillon, 2 c. à s. d'huile et le paprika, verse par-dessus et sale légèrement. Fais cuire 3–4 h en LOW ou 2 h en HIGH.",
+      "Les pommes de terre sont tendres ? Sèche le poisson, coupe-le en morceaux de 5 cm et dépose-les sur le dessus. Arrose avec le reste de l'huile.",
+      "Ferme le couvercle et fais cuire 20–30 minutes en LOW (15–20 en HIGH), jusqu'à ce que le poisson soit d'un blanc nacré et se détache en lamelles.",
+      "Parsème d'olives, goûte seulement maintenant pour le sel et sers avec du pain pour saucer."
+    ],
+    "tip": "Tu le dessales toi-même ? Mets le bacalao 24–36 heures dans de l'eau froide au réfrigérateur et change l'eau 3–4 fois. Plus simple : du « bacalao desalado » surgelé, ou tout simplement du cabillaud frais.",
+    "kids": "Vérifie les arêtes et sers le poisson avec les pommes de terre. Les olives, seulement pour ceux qui aiment.",
+    "freeze": false,
+    "guid": "dac3f547-a3a7-4796-a377-508e349e3527",
+    "cuisine": "spanish",
+    "protein": "fish",
+    "side": "bread"
+  },
+  {
+    "id": 26,
+    "title": "Curry doux de crevettes au coco",
+    "slug": "curry-doux-de-crevettes-au-coco",
+    "chapter": "Poisson & crevettes",
+    "price": "10–12",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "2–3 h, puis 10–15 min en HIGH",
+    "high": "1–1½ h + 10–15 min",
+    "intro": "Un curry coco jaune pâle avec des crevettes juteuses et un filet frais de citron vert : les vacances dans un bol, prêtes en un clin d'œil.",
+    "ingredients": [
+      {
+        "q": "300–350 g",
+        "item": "crevettes crues décortiquées, décongelées",
+        "es": "gambas peladas crudas"
+      },
+      {
+        "q": "400 ml",
+        "item": "lait de coco (entier)",
+        "es": "leche de coco"
+      },
+      {
+        "q": "1 + 1",
+        "item": "oignon + gousse d'ail",
+        "es": "cebolla + ajo"
+      },
+      {
+        "q": "1",
+        "item": "carotte, en julienne",
+        "es": "zanahoria"
+      },
+      {
+        "q": "1",
+        "item": "poivron rouge, en lanières",
+        "es": "pimiento rojo"
+      },
+      {
+        "q": "1–2 c. à s.",
+        "item": "curry doux en poudre",
+        "es": "curry en polvo"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "gingembre frais, râpé (ou 1 c. à c. en poudre)",
+        "es": "jengibre fresco"
+      },
+      {
+        "q": "1",
+        "item": "citron vert (jus)",
+        "es": "lima"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile + sel",
+        "es": "aceite de girasol"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "riz",
+        "es": "arroz basmati"
+      }
+    ],
+    "steps": [
+      "Fais revenir l'oignon, l'ail et le gingembre 3 minutes dans l'huile, puis ajoute le curry 30 secondes, jusqu'à ce qu'il embaume.",
+      "Mets le mélange dans la mijoteuse avec la carotte et le poivron. Verse le lait de coco par-dessus, sale et mélange.",
+      "Fais cuire 2–3 h en LOW ou 1–1½ h en HIGH, couvercle fermé, jusqu'à ce que les légumes soient tendres.",
+      "Passe en HIGH et incorpore les crevettes bien séchées. Couvercle fermé, 10–15 minutes, jusqu'à ce qu'elles soient roses et juste cuites.",
+      "Incorpore le jus de citron vert, rectifie en sel et sers aussitôt avec le riz."
+    ],
+    "tip": "Les crevettes passent de juteuses à caoutchouteuses en quelques minutes : prépare le riz avant de les ajouter et sers tout de suite. Le lait de coco entier donne la sauce la plus riche.",
+    "kids": "Un curry doux et crémeux. Pour les adultes : sambal ou flocons de piment à table.",
+    "freeze": false,
+    "guid": "e64704bd-1cf4-4bd2-bbdb-be7829efd9c6",
+    "cuisine": "thai",
+    "protein": "prawns",
+    "side": "rice"
+  },
+  {
+    "id": 27,
+    "title": "Ragoût espagnol de pommes de terre au chorizo",
+    "slug": "ragout-espagnol-de-pommes-de-terre-au-chorizo",
+    "chapter": "Espagnol & méditerranéen",
+    "price": "8–10",
+    "spice": 2,
+    "vega": false,
+    "prep": "15 min",
+    "low": "6–7 h",
+    "high": "3–4 h",
+    "intro": "Des patatas a la riojana pour toute la famille : des pommes de terre fondantes dans une sauce rouge profond et fumée, pleine de chorizo.",
+    "ingredients": [
+      {
+        "q": "300 g",
+        "item": "chorizo doux, en rondelles",
+        "es": "chorizo dulce (sarta)"
+      },
+      {
+        "q": "600 g",
+        "item": "pommes de terre à chair ferme",
+        "es": "patatas"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en rondelles",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "oignon, haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "2 gousses",
+        "item": "ail",
+        "es": "ajo"
+      },
+      {
+        "q": "400 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "400 ml",
+        "item": "bouillon de volaille ou de légumes",
+        "es": "caldo de pollo / de verduras"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "paprika doux",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "2",
+        "item": "feuilles de laurier",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive",
+        "es": "aceite de oliva"
+      },
+      {
+        "q": "",
+        "item": "sel et poivre",
+        "es": ""
+      }
+    ],
+    "serve": [
+      {
+        "q": "1",
+        "item": "baguette",
+        "es": "barra de pan"
+      }
+    ],
+    "steps": [
+      "Épluche les pommes de terre et « casse »-les en morceaux de 3 cm : entaille-les à moitié au couteau, puis fais levier pour détacher. Les bords irréguliers lieront ensuite la sauce.",
+      "Fais revenir le chorizo 3 minutes dans l'huile jusqu'à ce qu'il rende sa graisse rouge. Ajoute l'oignon et l'ail 3 minutes ; hors du feu, incorpore le paprika.",
+      "Mets les pommes de terre et la carotte dans la mijoteuse, ajoute le mélange au chorizo, puis la tomate, le bouillon et le laurier. Le liquide doit arriver juste sous le niveau des pommes de terre.",
+      "Fais cuire 6–7 h en LOW ou 3–4 h en HIGH, couvercle fermé, jusqu'à ce que les pommes de terre soient tendres.",
+      "Écrase quelques morceaux de pomme de terre contre la paroi pour épaissir la sauce. Retire le laurier et sale seulement maintenant : le chorizo est déjà salé."
+    ],
+    "tip": "« Casser » la pomme de terre (chascar, disent les Espagnols) libère de l'amidon qui lie la sauce, sans farine. S'il y a beaucoup de gras en surface, retire-le à la cuillère avant de servir.",
+    "kids": "Coupe le chorizo en petites demi-lunes : les enfants adorent les piquer entre les pommes de terre.",
+    "freeze": true,
+    "guid": "802e6fa5-c61d-4fd9-8eb0-3dcbeda9f025",
+    "cuisine": "spanish",
+    "protein": "pork",
+    "side": "bread"
+  },
+  {
+    "id": 28,
+    "title": "Soupe crémeuse tomate-lentilles",
+    "slug": "soupe-cremeuse-tomate-lentilles",
+    "chapter": "Petits budgets",
+    "price": "6–8",
+    "spice": 1,
+    "vega": true,
+    "prep": "10 min",
+    "low": "6 h",
+    "high": "3 h",
+    "intro": "Une soupe épaisse et crémeuse, pleine de lentilles corail et de tomate : nourrissante, vraiment pas chère et lancée en dix minutes.",
+    "ingredients": [
+      {
+        "q": "250 g",
+        "item": "lentilles corail",
+        "es": "lentejas rojas"
+      },
+      {
+        "q": "400 g",
+        "item": "coulis de tomate",
+        "es": "tomate triturado"
+      },
+      {
+        "q": "1",
+        "item": "oignon, haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en rondelles",
+        "es": "zanahorias"
+      },
+      {
+        "q": "900 ml",
+        "item": "bouillon de légumes",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "cumin moulu",
+        "es": "comino molido"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "paprika doux",
+        "es": "pimentón dulce"
+      },
+      {
+        "q": "100 ml",
+        "item": "crème liquide",
+        "es": "nata para cocinar"
+      },
+      {
+        "q": "½",
+        "item": "citron (jus)",
+        "es": "limón"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive, poivre et sel",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Rince les lentilles dans une passoire sous l'eau froide jusqu'à ce que l'eau soit claire. Tu évites ainsi l'écume et un goût farineux.",
+      "Mets les lentilles, la tomate, l'oignon, la carotte, le bouillon, le cumin et le paprika dans la mijoteuse et mélange bien.",
+      "Fais cuire 6 h en LOW ou 3 h en HIGH. Les lentilles corail se défont toutes seules et lient la soupe.",
+      "Mixe la soupe jusqu'à ce qu'elle soit lisse, ou laisse-la rustique. Trop épaisse ? Ajoute un trait d'eau chaude.",
+      "Incorpore la crème et le jus de citron, réchauffe 5 minutes et assaisonne de sel et de poivre. Arrose chaque assiette d'un filet d'huile d'olive."
+    ],
+    "tip": "Ce petit peu de jus de citron à la fin, c'est mon secret : il rend tout à coup les lentilles, au goût terreux, fraîches et vives. Les lentilles épaississent en refroidissant ; allonge les restes avec un peu d'eau.",
+    "kids": "Sers avec une touche de crème et de la baguette à tremper. Pour les adultes : des flocons de piment à table.",
+    "freeze": true,
+    "guid": "5e34e2aa-6573-4945-92b6-95196973f76f",
+    "cuisine": "mediterranean",
+    "protein": "veg",
+    "side": "bread"
+  },
+  {
+    "id": 29,
+    "title": "Ragoût de poulet et légumes à l'ancienne",
+    "slug": "ragout-de-poulet-et-legumes-a-l-ancienne",
+    "chapter": "Petits budgets",
+    "price": "8–10",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 h",
+    "high": "3 h",
+    "intro": "Un bon ragoût à l'ancienne avec du poulet tendre, des pommes de terre et des carottes dans une sauce liée : une seule cocotte, tout dedans, tout le monde content.",
+    "ingredients": [
+      {
+        "q": "1 c. à s.",
+        "item": "huile",
+        "es": "aceite de girasol"
+      },
+      {
+        "q": "600 g",
+        "item": "hauts de cuisse de poulet désossés, en gros morceaux",
+        "es": "contramuslo de pollo deshuesado"
+      },
+      {
+        "q": "700 g",
+        "item": "pommes de terre à chair ferme",
+        "es": "patatas para guisar"
+      },
+      {
+        "q": "4",
+        "item": "carottes",
+        "es": "zanahorias"
+      },
+      {
+        "q": "2",
+        "item": "oignons, en quartiers",
+        "es": "cebollas"
+      },
+      {
+        "q": "300 ml",
+        "item": "bouillon de volaille",
+        "es": "caldo de pollo"
+      },
+      {
+        "q": "2",
+        "item": "feuilles de laurier",
+        "es": "hojas de laurel"
+      },
+      {
+        "q": "1 c. à c.",
+        "item": "thym séché",
+        "es": "tomillo"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "maïzena + 2 c. à s. d'eau froide",
+        "es": "maicena"
+      },
+      {
+        "q": "",
+        "item": "poivre et sel",
+        "es": ""
+      }
+    ],
+    "serve": [],
+    "steps": [
+      "Coupe les pommes de terre et les carottes en gros morceaux de 3 cm et dépose-les au fond de la mijoteuse. C'est là qu'il fait le plus chaud.",
+      "Saupoudre le poulet de sel, de poivre et de thym et fais-le dorer rapidement dans l'huile. Ajoute les oignons et fais-les revenir 2 minutes.",
+      "Pose le poulet et les oignons sur les légumes, verse le bouillon et ajoute le laurier. Remplis la cuve aux trois quarts au maximum.",
+      "Fais cuire 5–6 h en LOW ou 3 h en HIGH, couvercle fermé, jusqu'à ce que les pommes de terre soient tendres et que le poulet atteigne 75 °C.",
+      "Pendant la dernière demi-heure, incorpore la maïzena délayée dans 2 c. à s. d'eau froide. Retire le laurier et sers."
+    ],
+    "tip": "Le haut de cuisse reste juteux pendant une longue cuisson, le blanc devient sec. Coupe de gros morceaux pour qu'ils ne se défassent pas. Un peu de persil frais par-dessus apporte de la couleur.",
+    "kids": "Écrase les pommes de terre et les carottes avec un peu de sauce pour en faire une purée : facile et rassurant.",
+    "freeze": false,
+    "guid": "40b795f9-cc5c-41ef-8112-d804baa8558a",
+    "cuisine": "dutch",
+    "protein": "chicken",
+    "side": "potato"
+  },
+  {
+    "id": 30,
+    "title": "Ragoût italien de haché et légumes",
+    "slug": "ragout-italien-de-hache-et-legumes",
+    "chapter": "Petits budgets",
+    "price": "8–10",
+    "spice": 1,
+    "vega": false,
+    "prep": "15 min",
+    "low": "5–6 h",
+    "high": "3 h",
+    "intro": "Un ragoût rustique et coloré de viande hachée et de gros légumes en sauce tomate : délicieux avec des pâtes comme avec du riz, et doux pour ton budget.",
+    "ingredients": [
+      {
+        "q": "400 g",
+        "item": "haché mixte porc-bœuf",
+        "es": "carne picada mixta (cerdo y vacuno)"
+      },
+      {
+        "q": "400 g",
+        "item": "tomates en dés (boîte ou brique)",
+        "es": "tomate troceado"
+      },
+      {
+        "q": "1",
+        "item": "oignon, haché",
+        "es": "cebolla"
+      },
+      {
+        "q": "2",
+        "item": "carottes, en rondelles",
+        "es": "zanahorias"
+      },
+      {
+        "q": "1",
+        "item": "courgette, en cubes de 3 cm",
+        "es": "calabacín"
+      },
+      {
+        "q": "2",
+        "item": "gousses d'ail, écrasées",
+        "es": "ajo"
+      },
+      {
+        "q": "2 c. à c.",
+        "item": "herbes italiennes",
+        "es": "hierbas italianas (o orégano y albahaca)"
+      },
+      {
+        "q": "200 ml",
+        "item": "bouillon de légumes",
+        "es": "caldo de verduras"
+      },
+      {
+        "q": "1 c. à s.",
+        "item": "huile d'olive, poivre et sel",
+        "es": "aceite de oliva"
+      }
+    ],
+    "serve": [
+      {
+        "q": "300 g",
+        "item": "pâtes ou riz",
+        "es": "pasta o arroz"
+      }
+    ],
+    "steps": [
+      "Fais dorer le haché avec l'oignon et l'ail dans l'huile d'olive en égrenant. Assaisonne de sel et de poivre.",
+      "Dépose la carotte au fond de la mijoteuse et ajoute le haché par-dessus.",
+      "Incorpore les tomates en dés, le bouillon et les herbes. Pose la courgette sur le dessus : elle restera plus ferme.",
+      "Fais cuire 5–6 h en LOW ou 3 h en HIGH, couvercle fermé.",
+      "Mélange le tout et goûte. Pendant ce temps, cuis les pâtes ou le riz et nappe-les généreusement de ragoût."
+    ],
+    "tip": "Il en reste ? Le lendemain, verse-le dans un plat à four, parsème de fromage et enfourne 15 minutes à 200 °C : un gratin offert.",
+    "kids": "Choisis de petites pâtes rigolotes et coupe la courgette plus finement : facile à manger à la cuillère pour les petits.",
+    "freeze": true,
+    "guid": "788c3a44-0904-4481-8906-9e0e89584b53",
+    "cuisine": "italian",
+    "protein": "mince",
+    "side": "pasta"
+  }
+]

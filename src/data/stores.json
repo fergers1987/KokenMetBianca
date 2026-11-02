@@ -1,0 +1,1314 @@
+{
+  "aceite de girasol": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "aceites",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "aceite de oliva": {
+    "stores": [
+      "Mercadona",
+      "Lidl",
+      "MAS"
+    ],
+    "aisle_es": "aceites",
+    "tip_nl": "Andalusië is olijfolieland: ook de huismerken zijn goed en betaalbaar, vaak in literflessen.",
+    "tip_en": "Andalusia is olive oil country: even own-brand oils are good value, often sold by the litre.",
+    "tip_es": "Andalucía es tierra de olivar: incluso las marcas blancas son buenas y económicas.",
+    "tip_de": "Andalusien ist Olivenölland: Selbst die Eigenmarken sind gut und günstig, oft in Literflaschen.",
+    "tip_fr": "L'Andalousie est le pays de l'huile d'olive : même les marques de distributeur offrent un bon rapport qualité-prix, souvent vendues au litre."
+  },
+  "aceite de oliva virgen extra": {
+    "stores": [
+      "Mercadona",
+      "MAS",
+      "El Corte Inglés"
+    ],
+    "aisle_es": "aceites",
+    "tip_nl": "Kijk naar 'virgen extra' op het etiket; lokale molens uit de provincie verkopen vaak via MAS.",
+    "tip_en": "Check for 'virgen extra' on the label; local Málaga mills often appear in regional chains like MAS.",
+    "tip_es": "Fíjate en 'virgen extra'; las almazaras malagueñas suelen estar en cadenas regionales como MAS.",
+    "tip_de": "Achte auf „virgen extra“ auf dem Etikett; Öl von lokalen Mühlen aus Málaga findest du oft in regionalen Ketten wie MAS.",
+    "tip_fr": "Vérifie la mention « virgen extra » sur l'étiquette ; les huiles des moulins locaux de Málaga sont souvent présentes dans les chaînes régionales comme MAS."
+  },
+  "aceitunas verdes sin hueso": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "conservas / encurtidos",
+    "tip_nl": "Manzanilla-olijven zonder pit zijn standaard; in markten vind je vaak losse lokale olijven.",
+    "tip_en": "Pitted manzanilla olives are standard; markets often sell loose local olives too.",
+    "tip_es": "La manzanilla sin hueso es lo habitual; en los mercados suele haber aceitunas aliñadas a granel.",
+    "tip_de": "Entsteinte Manzanilla-Oliven sind Standard; auf Märkten gibt es oft auch lose Oliven aus der Region.",
+    "tip_fr": "Les olives manzanilla dénoyautées sont la norme ; les marchés vendent souvent aussi des olives locales en vrac."
+  },
+  "agua": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "agua",
+    "tip_nl": "Kraanwater is veilig; veel mensen gebruiken flessenwater vanwege de smaak.",
+    "tip_en": "Tap water is safe; many locals use bottled water because of the taste.",
+    "tip_es": "El agua del grifo es potable; muchos usan agua embotellada por el sabor.",
+    "tip_de": "Leitungswasser ist unbedenklich; viele Einheimische nehmen wegen des Geschmacks Wasser aus der Flasche.",
+    "tip_fr": "L'eau du robinet est potable ; beaucoup d'habitants utilisent de l'eau en bouteille à cause du goût."
+  },
+  "aguja o espaldilla de ternera": {
+    "stores": [
+      "Carnicería",
+      "Mercadona",
+      "Mercado municipal"
+    ],
+    "aisle_es": "carnicería",
+    "tip_nl": "Vraag aan de toonbank om 'aguja de ternera en tacos para guisar'; ze snijden het meteen.",
+    "tip_en": "Ask at the counter for 'aguja de ternera en tacos para guisar'; they will dice it for you.",
+    "tip_es": "Pide en el mostrador 'aguja de ternera en tacos para guisar'; te la cortan al momento.",
+    "tip_de": "Frag an der Theke nach „aguja de ternera en tacos para guisar“; dort wird es für dich gewürfelt.",
+    "tip_fr": "Demande au comptoir de l'« aguja de ternera en tacos para guisar » ; on te la coupera en dés."
+  },
+  "aguja o paleta de cerdo para guisar": {
+    "stores": [
+      "Carnicería",
+      "Mercadona",
+      "MAS"
+    ],
+    "aisle_es": "carnicería",
+    "tip_nl": "Vraag 'aguja de cerdo en tacos'; voorverpakt heet het vaak 'cerdo para guisar'.",
+    "tip_en": "Ask for 'aguja de cerdo en tacos'; pre-packed it is often labelled 'cerdo para guisar'.",
+    "tip_es": "Pide 'aguja de cerdo en tacos'; envasada suele llamarse 'cerdo para guisar'.",
+    "tip_de": "Frag nach „aguja de cerdo en tacos“; abgepackt heißt es oft „cerdo para guisar“.",
+    "tip_fr": "Demande de l'« aguja de cerdo en tacos » ; en barquette, c'est souvent étiqueté « cerdo para guisar »."
+  },
+  "paleta de cerdo / aguja": {
+    "stores": [
+      "Carnicería",
+      "Mercadona",
+      "MAS"
+    ],
+    "aisle_es": "carnicería",
+    "tip_nl": "Paleta of aguja blijft mals na lang garen; laat de slager het in blokken snijden.",
+    "tip_en": "Shoulder (paleta) or neck (aguja) stays tender when slow-cooked; ask the butcher to dice it.",
+    "tip_es": "La paleta o la aguja quedan tiernas en cocción lenta; pide que te la corten en tacos.",
+    "tip_de": "Schulter (paleta) oder Nacken (aguja) bleibt beim langsamen Garen zart; lass es dir beim Metzger würfeln.",
+    "tip_fr": "L'épaule (paleta) ou l'échine (aguja) reste tendre en cuisson lente ; demande au boucher de la couper en dés."
+  },
+  "carne para guisar (morcillo o aguja de ternera)": {
+    "stores": [
+      "Carnicería",
+      "Mercadona",
+      "Mercado municipal"
+    ],
+    "aisle_es": "carnicería",
+    "tip_nl": "Voorverpakt heet het vaak 'ternera para guisar'; bij de slager vraag je om morcillo.",
+    "tip_en": "Pre-packed it is usually labelled 'ternera para guisar'; at the butcher ask for morcillo (shin).",
+    "tip_es": "Envasada suele ponerse 'ternera para guisar'; en la carnicería pide morcillo.",
+    "tip_de": "Abgepackt heißt es meist „ternera para guisar“; beim Metzger fragst du nach Morcillo (Hesse).",
+    "tip_fr": "En barquette, c'est généralement étiqueté « ternera para guisar » ; chez le boucher, demande du morcillo (jarret)."
+  },
+  "carne para guisar (morcillo)": {
+    "stores": [
+      "Carnicería",
+      "Mercado municipal",
+      "Mercadona"
+    ],
+    "aisle_es": "carnicería",
+    "tip_nl": "Morcillo (schenkel) is ideaal voor de slowcooker; de slager snijdt het graag in blokken.",
+    "tip_en": "Morcillo (beef shin) is ideal for the slow cooker; butchers happily dice it for you.",
+    "tip_es": "El morcillo es ideal para cocción lenta; el carnicero te lo corta en tacos.",
+    "tip_de": "Morcillo (Rinderhesse) ist ideal für den Slow Cooker; Metzger würfeln es dir gern.",
+    "tip_fr": "Le morcillo (jarret de bœuf) est idéal pour la mijoteuse ; les bouchers te le coupent volontiers en dés."
+  },
+  "carne picada de vacuno": {
+    "stores": [
+      "Carnicería",
+      "Mercadona",
+      "Lidl"
+    ],
+    "aisle_es": "carnicería",
+    "tip_nl": "'Preparado de carne picada' bevat toevoegingen; wil je puur gehakt, laat het vers malen.",
+    "tip_en": "'Preparado de carne picada' contains additives; for pure mince, ask the butcher to grind it fresh.",
+    "tip_es": "El 'preparado de carne picada' lleva aditivos; para carne picada pura, pide que la piquen.",
+    "tip_de": "„Preparado de carne picada“ enthält Zusatzstoffe; für reines Hackfleisch lass es dir beim Metzger frisch durchdrehen.",
+    "tip_fr": "Le « preparado de carne picada » contient des additifs ; pour de la viande hachée pure, demande au boucher de la hacher à la minute."
+  },
+  "carne picada de vacuno / mixta": {
+    "stores": [
+      "Carnicería",
+      "Mercadona",
+      "Lidl"
+    ],
+    "aisle_es": "carnicería",
+    "tip_nl": "Let op 'preparado' op het etiket; bij de slager kun je zelf de mix kiezen.",
+    "tip_en": "Watch for 'preparado' on the label; at the butcher you can choose your own mix.",
+    "tip_es": "Ojo con 'preparado' en la etiqueta; en la carnicería eliges tú la mezcla.",
+    "tip_de": "Achte auf „preparado“ auf dem Etikett; beim Metzger kannst du deine eigene Mischung wählen.",
+    "tip_fr": "Méfie-toi de la mention « preparado » sur l'étiquette ; chez le boucher, tu peux choisir ton propre mélange."
+  },
+  "carne picada mixta (cerdo y vacuno)": {
+    "stores": [
+      "Carnicería",
+      "Mercadona",
+      "Lidl"
+    ],
+    "aisle_es": "carnicería",
+    "tip_nl": "Vraag 'mitad cerdo, mitad ternera'; voorverpakt heet het vaak 'picada mixta'.",
+    "tip_en": "Ask for 'mitad cerdo, mitad ternera'; pre-packed it is usually called 'picada mixta'.",
+    "tip_es": "Pide 'mitad cerdo, mitad ternera'; envasada suele llamarse 'picada mixta'.",
+    "tip_de": "Frag nach „mitad cerdo, mitad ternera“; abgepackt heißt es meist „picada mixta“.",
+    "tip_fr": "Demande « mitad cerdo, mitad ternera » ; en barquette, ça s'appelle généralement « picada mixta »."
+  },
+  "contramuslo de pollo deshuesado": {
+    "stores": [
+      "Mercadona",
+      "Lidl",
+      "Carnicería"
+    ],
+    "aisle_es": "carnicería / aves",
+    "tip_nl": "Ligt meestal voorverpakt bij het verse vlees als 'contramuslo deshuesado'; poelier ontbeent het ook.",
+    "tip_en": "Usually pre-packed with the fresh meat as 'contramuslo deshuesado'; a poultry stall will also debone it.",
+    "tip_es": "Suele estar envasado en carnicería como 'contramuslo deshuesado'; en la pollería te lo deshuesan.",
+    "tip_de": "Meist abgepackt beim Frischfleisch als „contramuslo deshuesado“; am Geflügelstand werden die Schenkel auch für dich entbeint.",
+    "tip_fr": "Généralement en barquette au rayon viande fraîche, sous le nom « contramuslo deshuesado » ; un volailler te les désossera aussi."
+  },
+  "chorizo dulce (sarta)": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "charcutería",
+    "tip_nl": "Kies 'dulce' (niet 'picante') en de hoefijzervorm 'sarta'; ligt bij de voorverpakte vleeswaren.",
+    "tip_en": "Pick 'dulce' (not 'picante') in the horseshoe 'sarta' shape; found with the packed cured meats.",
+    "tip_es": "Elige 'dulce', no 'picante', en formato sarta; está en charcutería envasada.",
+    "tip_de": "Nimm „dulce“ (nicht „picante“) in Hufeisenform („sarta“); zu finden bei der abgepackten Wurst.",
+    "tip_fr": "Choisis du « dulce » (pas du « picante ») en forme de fer à cheval, dite « sarta » ; au rayon charcuterie emballée."
+  },
+  "bacalao desalado / bacalao fresco": {
+    "stores": [
+      "Pescadería",
+      "Mercadona",
+      "Mercado municipal"
+    ],
+    "aisle_es": "pescadería / congelados",
+    "tip_nl": "Ontzouten kabeljauw ligt vaak in de diepvries; verse kabeljauw vind je bij de vishandel.",
+    "tip_en": "Desalted cod is often in the freezer section; fresh cod is at the fishmonger.",
+    "tip_es": "El bacalao desalado suele estar en congelados; el fresco, en la pescadería.",
+    "tip_de": "Entsalzener Stockfisch liegt oft in der Tiefkühlabteilung; frischen Kabeljau gibt es an der Fischtheke.",
+    "tip_fr": "La morue dessalée se trouve souvent au rayon surgelés ; le cabillaud frais, chez le poissonnier."
+  },
+  "merluza (filetes sin piel)": {
+    "stores": [
+      "Pescadería",
+      "Mercado municipal",
+      "Mercadona"
+    ],
+    "aisle_es": "pescadería / congelados",
+    "tip_nl": "Vraag aan de viskraam 'filetes sin piel ni espinas'; diepvriesfilets werken ook prima.",
+    "tip_en": "Ask the fish stall for 'filetes sin piel ni espinas'; frozen fillets work fine too.",
+    "tip_es": "Pide 'filetes sin piel ni espinas'; los filetes congelados también sirven.",
+    "tip_de": "Frag am Fischstand nach „filetes sin piel ni espinas“; TK-Filets gehen auch gut.",
+    "tip_fr": "Demande au poissonnier des « filetes sin piel ni espinas » ; les filets surgelés conviennent aussi très bien."
+  },
+  "gambas peladas crudas": {
+    "stores": [
+      "Mercadona",
+      "Lidl",
+      "Pescadería"
+    ],
+    "aisle_es": "congelados",
+    "tip_nl": "Meestal in de diepvries als 'gamba pelada cruda'; laat ontdooien voor gebruik.",
+    "tip_en": "Usually frozen as 'gamba pelada cruda'; thaw before using.",
+    "tip_es": "Normalmente en congelados como 'gamba pelada cruda'; descongélalas antes.",
+    "tip_de": "Meist tiefgekühlt als „gamba pelada cruda“; vor der Verwendung auftauen.",
+    "tip_fr": "Généralement surgelées sous le nom « gamba pelada cruda » ; décongèle-les avant utilisation."
+  },
+  "ajo": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "Los of in netjes; paarse knoflook (ajo morado) is vaak het meest aromatisch.",
+    "tip_en": "Loose or in nets; purple garlic (ajo morado) is often the most aromatic.",
+    "tip_es": "Suelto o en malla; el ajo morado suele ser el más aromático.",
+    "tip_de": "Lose oder im Netz; violetter Knoblauch (ajo morado) ist oft am aromatischsten.",
+    "tip_fr": "En vrac ou en filet ; l'ail violet (ajo morado) est souvent le plus parfumé."
+  },
+  "ajo en polvo": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "Heet ook 'ajo granulado'; staat bij de kruiden.",
+    "tip_en": "Also sold as 'ajo granulado'; in the spice aisle.",
+    "tip_es": "También como 'ajo granulado', en especias.",
+    "tip_de": "Auch als „ajo granulado“ erhältlich; im Gewürzregal.",
+    "tip_fr": "Aussi vendu sous le nom « ajo granulado » ; au rayon épices."
+  },
+  "alubias rojas cocidas": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "legumbres / conservas",
+    "tip_nl": "Gekookte peulvruchten staan in glazen potten; even afspoelen voor gebruik.",
+    "tip_en": "Cooked beans come in glass jars; rinse before using.",
+    "tip_es": "Vienen en tarro de cristal; enjuágalas antes de usar.",
+    "tip_de": "Gekochte Bohnen gibt es im Glas; vor der Verwendung abspülen.",
+    "tip_fr": "Les haricots cuits sont vendus en bocal ; rince-les avant utilisation."
+  },
+  "garbanzos cocidos": {
+    "stores": [
+      "Overal",
+      "Mercado municipal"
+    ],
+    "aisle_es": "legumbres / conservas",
+    "tip_nl": "In glazen potten in elke supermarkt; markten verkopen soms ook los gekookte kikkererwten.",
+    "tip_en": "In glass jars in every supermarket; markets sometimes sell freshly cooked chickpeas by weight.",
+    "tip_es": "En tarro en cualquier súper; en algunos mercados se venden cocidos a granel.",
+    "tip_de": "Im Glas in jedem Supermarkt; auf Märkten gibt es manchmal frisch gekochte Kichererbsen nach Gewicht.",
+    "tip_fr": "En bocal dans tous les supermarchés ; les marchés vendent parfois des pois chiches fraîchement cuits au poids."
+  },
+  "lentejas pardinas": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "legumbres",
+    "tip_nl": "Spaanse standaardlinze: kleine bruine linzen die heel blijven, ook in de slowcooker.",
+    "tip_en": "The Spanish standard lentil: small brown lentils that hold their shape, even in a slow cooker.",
+    "tip_es": "La lenteja de siempre: pequeña, no se deshace en cocción lenta.",
+    "tip_de": "Die spanische Standardlinse: kleine braune Linsen, die ihre Form behalten, sogar im Slow Cooker.",
+    "tip_fr": "La lentille de base en Espagne : de petites lentilles brunes qui gardent leur forme, même à la mijoteuse."
+  },
+  "lentejas rojas": {
+    "stores": [
+      "Carrefour",
+      "Lidl",
+      "Tienda marroquí/árabe"
+    ],
+    "aisle_es": "legumbres / internacional",
+    "tip_nl": "Niet elke supermarkt heeft ze; Arabische en Aziatische winkels verkopen ze vaak goedkoop.",
+    "tip_en": "Not every supermarket stocks them; Arab and Asian shops often sell them cheaply.",
+    "tip_es": "No están en todos los súper; las tiendas árabes y asiáticas suelen tenerlas baratas.",
+    "tip_de": "Nicht jeder Supermarkt führt sie; arabische und asiatische Läden verkaufen sie oft günstig.",
+    "tip_fr": "Tous les supermarchés n'en ont pas ; les épiceries arabes et asiatiques en vendent souvent à bas prix."
+  },
+  "apio": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "Wordt vaak als hele krop verkocht; restjes invriezen voor bouillon.",
+    "tip_en": "Often sold as a whole head; freeze leftovers for stock.",
+    "tip_es": "Se vende a menudo la mata entera; congela lo que sobre para caldo.",
+    "tip_de": "Wird oft als ganze Staude verkauft; Reste für Brühe einfrieren.",
+    "tip_fr": "Souvent vendu en pied entier ; congèle les restes pour faire du bouillon."
+  },
+  "arroz": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "arroz y pasta",
+    "tip_nl": "Neem 'arroz largo' als bijgerecht; 'arroz redondo' is voor paella en rijstepap.",
+    "tip_en": "Use 'arroz largo' as a side; 'arroz redondo' is for paella and rice pudding.",
+    "tip_es": "Para guarnición, arroz largo; el redondo es para paella y arroz con leche.",
+    "tip_de": "Nimm „arroz largo“ als Beilage; „arroz redondo“ ist für Paella und Milchreis.",
+    "tip_fr": "Prends de l'« arroz largo » en accompagnement ; l'« arroz redondo » sert pour la paella et le riz au lait."
+  },
+  "arroz basmati": {
+    "stores": [
+      "Mercadona",
+      "Lidl",
+      "Tienda asiática"
+    ],
+    "aisle_es": "arroz y pasta",
+    "tip_nl": "Huismerk basmati is prima; grote zakken zijn voordeliger in Aziatische winkels.",
+    "tip_en": "Own-brand basmati is fine; big bags are cheaper in Asian shops.",
+    "tip_es": "El basmati de marca blanca va bien; en tiendas asiáticas hay sacos más económicos.",
+    "tip_de": "Basmati von der Eigenmarke ist völlig in Ordnung; große Säcke sind in Asia-Läden günstiger.",
+    "tip_fr": "Le basmati de marque distributeur convient très bien ; les grands sacs sont moins chers dans les épiceries asiatiques."
+  },
+  "arroz jazmín": {
+    "stores": [
+      "Tienda asiática",
+      "Carrefour",
+      "Lidl"
+    ],
+    "aisle_es": "arroz y pasta / internacional",
+    "tip_nl": "Niet overal standaard; Aziatische winkels hebben het zeker, vaak in grote zakken.",
+    "tip_en": "Not always stocked; Asian shops reliably have it, often in large bags.",
+    "tip_es": "No siempre está; en tiendas asiáticas es seguro, en sacos grandes.",
+    "tip_de": "Nicht immer vorrätig; Asia-Läden haben ihn zuverlässig, oft in großen Säcken.",
+    "tip_fr": "Pas toujours disponible ; les épiceries asiatiques en ont toujours, souvent en grands sacs."
+  },
+  "azúcar moreno": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "azúcar y dulces",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "barra de pan": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "panadería",
+    "tip_nl": "Vers afgebakken bij elke supermarkt; de bakker om de hoek is vaak lekkerder.",
+    "tip_en": "Freshly baked in every supermarket; the local panadería is often better.",
+    "tip_es": "Recién horneada en cualquier súper; la panadería del barrio suele ser mejor.",
+    "tip_de": "In jedem Supermarkt frisch gebacken; die Bäckerei um die Ecke (panadería) ist oft besser.",
+    "tip_fr": "Cuit sur place dans tous les supermarchés ; la panadería du quartier est souvent meilleure."
+  },
+  "barra de pan / pan rústico": {
+    "stores": [
+      "Overal",
+      "Mercado municipal"
+    ],
+    "aisle_es": "panadería",
+    "tip_nl": "Voor stevig brood vraag 'pan de pueblo' of 'pan rústico' bij een bakker.",
+    "tip_en": "For a sturdy loaf ask for 'pan de pueblo' or 'pan rústico' at a bakery.",
+    "tip_es": "Para un pan con más miga, pide 'pan de pueblo' o 'pan rústico'.",
+    "tip_de": "Für ein kräftiges Brot frag in der Bäckerei nach „pan de pueblo“ oder „pan rústico“.",
+    "tip_fr": "Pour un pain bien consistant, demande du « pan de pueblo » ou du « pan rústico » à la boulangerie."
+  },
+  "calabacín": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "caldo de carne": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "caldos y sopas",
+    "tip_nl": "Bouillon zit in pakken (brik) bij de soepen; vergelijk het zoutgehalte.",
+    "tip_en": "Stock comes in cartons near the soups; compare salt levels.",
+    "tip_es": "El caldo viene en brik junto a las sopas; compara la sal.",
+    "tip_de": "Brühe gibt es im Tetrapak bei den Suppen; vergleich den Salzgehalt.",
+    "tip_fr": "Le bouillon est vendu en brique près des soupes ; compare la teneur en sel."
+  },
+  "caldo de pollo": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "caldos y sopas",
+    "tip_nl": "Bouillon zit in pakken (brik) bij de soepen; vergelijk het zoutgehalte.",
+    "tip_en": "Stock comes in cartons near the soups; compare salt levels.",
+    "tip_es": "El caldo viene en brik junto a las sopas; compara la sal.",
+    "tip_de": "Brühe gibt es im Tetrapak bei den Suppen; vergleich den Salzgehalt.",
+    "tip_fr": "Le bouillon est vendu en brique près des soupes ; compare la teneur en sel."
+  },
+  "caldo de pollo / de verduras": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "caldos y sopas",
+    "tip_nl": "Bouillon zit in pakken (brik) bij de soepen; vergelijk het zoutgehalte.",
+    "tip_en": "Stock comes in cartons near the soups; compare salt levels.",
+    "tip_es": "El caldo viene en brik junto a las sopas; compara la sal.",
+    "tip_de": "Brühe gibt es im Tetrapak bei den Suppen; vergleich den Salzgehalt.",
+    "tip_fr": "Le bouillon est vendu en brique près des soupes ; compare la teneur en sel."
+  },
+  "caldo de verduras": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "caldos y sopas",
+    "tip_nl": "Bouillon zit in pakken (brik) bij de soepen; vergelijk het zoutgehalte.",
+    "tip_en": "Stock comes in cartons near the soups; compare salt levels.",
+    "tip_es": "El caldo viene en brik junto a las sopas; compara la sal.",
+    "tip_de": "Brühe gibt es im Tetrapak bei den Suppen; vergleich den Salzgehalt.",
+    "tip_fr": "Le bouillon est vendu en brique près des soupes ; compare la teneur en sel."
+  },
+  "caldo de pescado": {
+    "stores": [
+      "Mercadona",
+      "Carrefour",
+      "Pescadería"
+    ],
+    "aisle_es": "caldos y sopas",
+    "tip_nl": "Visbouillon in pak is gangbaar; bij de vishandel krijg je soms koppen en graten voor zelfgemaakt.",
+    "tip_en": "Fish stock in cartons is common; fishmongers may give heads and bones for homemade stock.",
+    "tip_es": "Hay caldo de pescado en brik; en la pescadería a veces te dan cabezas y espinas.",
+    "tip_de": "Fischfond im Tetrapak ist weit verbreitet; an der Fischtheke bekommst du manchmal Köpfe und Gräten für selbst gemachten Fond.",
+    "tip_fr": "Le fumet de poisson en brique est courant ; les poissonniers peuvent te donner des têtes et des arêtes pour un fumet maison."
+  },
+  "caldo de verduras / de pescado": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "caldos y sopas",
+    "tip_nl": "Bouillon zit in pakken (brik) bij de soepen; vergelijk het zoutgehalte.",
+    "tip_en": "Stock comes in cartons near the soups; compare salt levels.",
+    "tip_es": "El caldo viene en brik junto a las sopas; compara la sal.",
+    "tip_de": "Brühe gibt es im Tetrapak bei den Suppen; vergleich den Salzgehalt.",
+    "tip_fr": "Le bouillon est vendu en brique près des soupes ; compare la teneur en sel."
+  },
+  "canela molida": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "comino molido": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "Arabische winkels en marktkramen verkopen komijn los, vaak verser en goedkoper.",
+    "tip_en": "Arab shops and market stalls sell cumin loose, often fresher and cheaper.",
+    "tip_es": "En tiendas árabes y puestos de especias lo venden a granel, más fresco.",
+    "tip_de": "Arabische Läden und Marktstände verkaufen Kreuzkümmel lose, oft frischer und günstiger.",
+    "tip_fr": "Les épiceries arabes et les étals de marché vendent le cumin en vrac, souvent plus frais et moins cher."
+  },
+  "comino + cúrcuma": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "Beide in de kruidenafdeling; kurkuma staat soms onder 'cúrcuma molida'.",
+    "tip_en": "Both in the spice aisle; turmeric is labelled 'cúrcuma molida'.",
+    "tip_es": "Ambos en especias; la cúrcuma aparece como 'cúrcuma molida'.",
+    "tip_de": "Beides im Gewürzregal; Kurkuma heißt dort „cúrcuma molida“.",
+    "tip_fr": "Les deux au rayon épices ; le curcuma est étiqueté « cúrcuma molida »."
+  },
+  "nuez moscada": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "orégano": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "tomillo": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "hoja de laurel": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "hojas de laurel": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "curry en polvo": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "Spaanse curry is vrij mild; voor pittiger kies je een Aziatische winkel.",
+    "tip_en": "Spanish curry powder is fairly mild; Asian shops sell hotter blends.",
+    "tip_es": "El curry de súper es suave; en tiendas asiáticas hay mezclas más picantes.",
+    "tip_de": "Spanisches Currypulver ist recht mild; Asia-Läden verkaufen schärfere Mischungen.",
+    "tip_fr": "Le curry en poudre espagnol est assez doux ; les épiceries asiatiques vendent des mélanges plus forts."
+  },
+  "garam masala": {
+    "stores": [
+      "Tienda asiática",
+      "Carrefour",
+      "El Corte Inglés"
+    ],
+    "aisle_es": "especias / internacional",
+    "tip_nl": "Niet altijd bij de gewone supermarkt; Indiase of Aziatische winkels hebben het vrijwel altijd.",
+    "tip_en": "Not always in regular supermarkets; Indian or Asian shops nearly always stock it.",
+    "tip_es": "No siempre en el súper; las tiendas asiáticas o indias casi siempre lo tienen.",
+    "tip_de": "Nicht immer im normalen Supermarkt; indische oder asiatische Läden haben es fast immer.",
+    "tip_fr": "Pas toujours dans les supermarchés classiques ; les épiceries indiennes ou asiatiques en ont presque toujours."
+  },
+  "ras el hanout": {
+    "stores": [
+      "Mercadona",
+      "Tienda marroquí/árabe"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "Mercadona heeft het in het kruidenschap; Marokkaanse winkels verkopen eigen, geuriger mengsels.",
+    "tip_en": "Mercadona stocks it in the spice aisle; Moroccan shops sell their own, more fragrant blends.",
+    "tip_es": "Mercadona lo tiene en especias; las tiendas marroquíes venden mezclas propias más aromáticas.",
+    "tip_de": "Mercadona führt es im Gewürzregal; marokkanische Läden verkaufen eigene, aromatischere Mischungen.",
+    "tip_fr": "Mercadona en propose au rayon épices ; les épiceries marocaines vendent leurs propres mélanges, plus parfumés."
+  },
+  "hierbas italianas (o orégano y albahaca)": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "Heet vaak 'hierbas provenzales' of 'especias italianas'.",
+    "tip_en": "Often labelled 'hierbas provenzales' or 'especias italianas'.",
+    "tip_es": "Busca 'hierbas provenzales' o 'especias italianas'.",
+    "tip_de": "Oft als „hierbas provenzales“ oder „especias italianas“ beschriftet.",
+    "tip_fr": "Souvent étiqueté « hierbas provenzales » ou « especias italianas »."
+  },
+  "orégano y albahaca": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "pimentón de la Vera dulce": {
+    "stores": [
+      "Mercadona",
+      "El Corte Inglés",
+      "Carrefour"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "Gerookte paprika: zoek het DOP-label 'Pimentón de la Vera' en kies 'dulce'.",
+    "tip_en": "Smoked paprika: look for the 'Pimentón de la Vera' DOP label and pick 'dulce'.",
+    "tip_es": "Busca el sello DOP 'Pimentón de la Vera' y elige el dulce.",
+    "tip_de": "Geräuchertes Paprikapulver: Achte auf das DOP-Siegel „Pimentón de la Vera“ und nimm „dulce“.",
+    "tip_fr": "Paprika fumé : cherche le label DOP « Pimentón de la Vera » et choisis « dulce »."
+  },
+  "pimentón dulce": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "especias",
+    "tip_nl": "Gewoon pimentón dulce is niet gerookt; dat is 'de la Vera'.",
+    "tip_en": "Plain pimentón dulce is unsmoked; the smoked one says 'de la Vera'.",
+    "tip_es": "El pimentón dulce normal no es ahumado; el ahumado es 'de la Vera'.",
+    "tip_de": "Normaler Pimentón dulce ist ungeräuchert; auf dem geräucherten steht „de la Vera“.",
+    "tip_fr": "Le pimentón dulce classique n'est pas fumé ; sur le fumé, il est écrit « de la Vera »."
+  },
+  "cebolla": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "cebolla + ajo": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "cebollas": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "Zakken van 1-2 kilo zijn voordeliger dan los.",
+    "tip_en": "1-2 kg bags are cheaper than loose.",
+    "tip_es": "La malla de 1-2 kg sale más barata.",
+    "tip_de": "Säcke mit 1–2 kg sind günstiger als lose Ware.",
+    "tip_fr": "Les sacs de 1 à 2 kg sont moins chers qu'en vrac."
+  },
+  "champiñones laminados": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "Voorgesneden in bakjes; vers op de markt zijn ze vaak goedkoper.",
+    "tip_en": "Pre-sliced in trays; fresh at the market they are often cheaper.",
+    "tip_es": "Laminados en bandeja; en el mercado suelen ser más baratos.",
+    "tip_de": "Vorgeschnitten in Schalen; frisch vom Markt sind sie oft günstiger.",
+    "tip_fr": "Déjà émincés en barquette ; frais au marché, ils sont souvent moins chers."
+  },
+  "espinacas frescas (brotes)": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería / ensaladas",
+    "tip_nl": "Zakjes 'brotes de espinaca' liggen bij de verpakte salades.",
+    "tip_en": "Bags of 'brotes de espinaca' sit with the packaged salads.",
+    "tip_es": "Las bolsas de brotes están junto a las ensaladas envasadas.",
+    "tip_de": "Beutel mit „brotes de espinaca“ liegen bei den abgepackten Salaten.",
+    "tip_fr": "Les sachets de « brotes de espinaca » se trouvent avec les salades en sachet."
+  },
+  "jengibre fresco": {
+    "stores": [
+      "Mercadona",
+      "Tienda asiática",
+      "Mercado municipal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "Ligt meestal los bij de groente; afgebroken stukje kopen mag.",
+    "tip_en": "Usually sold loose with the vegetables; breaking off a piece is fine.",
+    "tip_es": "Suele venderse suelto en frutería; puedes partir un trozo.",
+    "tip_de": "Meist lose beim Gemüse; ein Stück abzubrechen ist völlig okay.",
+    "tip_fr": "Généralement vendu en vrac avec les légumes ; tu peux tout à fait en casser un morceau."
+  },
+  "lima": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "limón": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "manzana Golden": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "manzana golden": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "maíz dulce": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "conservas",
+    "tip_nl": "Blik of glas bij de conserven; 'sin azúcar añadido' bestaat ook.",
+    "tip_en": "Tin or jar with the preserves; 'no added sugar' versions exist.",
+    "tip_es": "En lata o tarro; hay versión sin azúcar añadido.",
+    "tip_de": "In Dose oder Glas bei den Konserven; es gibt auch Varianten ohne Zuckerzusatz.",
+    "tip_fr": "En boîte ou en bocal au rayon conserves ; il existe des versions sans sucre ajouté."
+  },
+  "maíz dulce + pepino": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "conservas / frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "maíz dulce, tomate, pepino": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "conservas / frutería",
+    "tip_nl": "Tomaat en komkommer zijn op de markt vaak smaakvoller en goedkoper.",
+    "tip_en": "Tomatoes and cucumber are often tastier and cheaper at the market.",
+    "tip_es": "Tomate y pepino suelen ser más sabrosos y baratos en el mercado.",
+    "tip_de": "Tomaten und Gurken sind auf dem Markt oft leckerer und günstiger.",
+    "tip_fr": "Les tomates et le concombre sont souvent plus savoureux et moins chers au marché."
+  },
+  "pepino": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "perejil fresco": {
+    "stores": [
+      "Overal",
+      "Mercado municipal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "Op de markt krijg je peterselie soms gratis bij je groenten; vraag het gerust.",
+    "tip_en": "At the market parsley is sometimes thrown in free with your veg; just ask.",
+    "tip_es": "En el mercado a veces te regalan el perejil con la compra.",
+    "tip_de": "Auf dem Markt gibt es Petersilie zum Gemüse manchmal gratis dazu; frag einfach.",
+    "tip_fr": "Au marché, on te donne parfois le persil gratuitement avec tes légumes ; il suffit de demander."
+  },
+  "pimiento rojo": {
+    "stores": [
+      "Overal",
+      "Mercado municipal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "Spaanse paprika's zijn groot en vlezig; markten verkopen vaak per kilo goedkoper.",
+    "tip_en": "Spanish peppers are large and fleshy; markets often sell them cheaper per kilo.",
+    "tip_es": "En el mercado suelen salir más baratos al peso.",
+    "tip_de": "Spanische Paprika sind groß und fleischig; auf Märkten sind sie pro Kilo oft günstiger.",
+    "tip_fr": "Les poivrons espagnols sont gros et charnus ; les marchés les vendent souvent moins cher au kilo."
+  },
+  "pimiento rojo y amarillo": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "Gele paprika's zijn duurder; driekleurenverpakkingen zijn handig.",
+    "tip_en": "Yellow peppers cost more; tricolour packs are handy.",
+    "tip_es": "El amarillo es más caro; los packs tricolor son prácticos.",
+    "tip_de": "Gelbe Paprika sind teurer; Packungen mit drei Farben sind praktisch.",
+    "tip_fr": "Les poivrons jaunes coûtent plus cher ; les lots tricolores sont pratiques."
+  },
+  "puerros": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "zanahoria": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "zanahorias": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "patatas": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "patatas o arroz": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería / arroz",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "patatas para cocer": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "Zakken zijn vaak gelabeld 'para cocer' of 'para freír'; kies de eerste.",
+    "tip_en": "Bags are often labelled 'para cocer' or 'para freír'; choose the first.",
+    "tip_es": "Las mallas indican 'para cocer' o 'para freír'; elige la primera.",
+    "tip_de": "Säcke sind oft mit „para cocer“ oder „para freír“ beschriftet; nimm die erste Sorte.",
+    "tip_fr": "Les sacs portent souvent la mention « para cocer » ou « para freír » ; choisis la première."
+  },
+  "patatas para guisar": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "frutería",
+    "tip_nl": "Zoek 'patata para guisar/cocer' op de zak; die valt minder snel uit elkaar.",
+    "tip_en": "Look for 'para guisar/cocer' on the bag; these hold together better.",
+    "tip_es": "Busca 'para guisar o cocer' en la malla; aguantan mejor.",
+    "tip_de": "Achte auf „para guisar/cocer“ auf dem Sack; diese zerfallen weniger.",
+    "tip_fr": "Cherche « para guisar/cocer » sur le sac ; elles se tiennent mieux à la cuisson."
+  },
+  "orejones de albaricoque": {
+    "stores": [
+      "Mercadona",
+      "Lidl",
+      "Mercado municipal"
+    ],
+    "aisle_es": "frutos secos",
+    "tip_nl": "Bij de noten en gedroogd fruit; marktkramen verkopen ze vaak los.",
+    "tip_en": "With the nuts and dried fruit; market stalls often sell them loose.",
+    "tip_es": "En frutos secos; en los puestos del mercado, a granel.",
+    "tip_de": "Bei den Nüssen und Trockenfrüchten; Marktstände verkaufen sie oft lose.",
+    "tip_fr": "Au rayon fruits secs ; les étals de marché en vendent souvent en vrac."
+  },
+  "huevo": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "huevos",
+    "tip_nl": "Eieren staan niet gekoeld in Spaanse winkels; dat is normaal.",
+    "tip_en": "Eggs are not refrigerated in Spanish shops; that is normal.",
+    "tip_es": "En las tiendas los huevos no se refrigeran; es lo normal.",
+    "tip_de": "Eier sind in spanischen Läden nicht gekühlt; das ist normal.",
+    "tip_fr": "Dans les magasins espagnols, les œufs ne sont pas réfrigérés ; c'est normal."
+  },
+  "leche": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "lácteos",
+    "tip_nl": "Meestal houdbare melk in pakken; verse melk staat in de koeling.",
+    "tip_en": "Mostly UHT milk in cartons; fresh milk is in the chiller.",
+    "tip_es": "Casi todo es UHT en brik; la fresca está en refrigerados.",
+    "tip_de": "Meist H-Milch im Tetrapak; Frischmilch steht im Kühlregal.",
+    "tip_fr": "Surtout du lait UHT en brique ; le lait frais est au rayon frais."
+  },
+  "leche y mantequilla": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "lácteos",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "mantequilla": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "lácteos",
+    "tip_nl": "Kies 'sin sal' of 'con sal' bewust; beide zijn overal te koop.",
+    "tip_en": "Choose 'sin sal' or 'con sal' deliberately; both are widely sold.",
+    "tip_es": "Elige con o sin sal; ambas se encuentran fácilmente.",
+    "tip_de": "Wähl bewusst „sin sal“ oder „con sal“; beides ist überall erhältlich.",
+    "tip_fr": "Choisis bien entre « sin sal » et « con sal » ; les deux sont très répandus."
+  },
+  "nata para cocinar": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "lácteos",
+    "tip_nl": "Kookroom zit vaak in houdbare pakjes, niet in de koeling.",
+    "tip_en": "Cooking cream often comes in shelf-stable cartons, not chilled.",
+    "tip_es": "La nata para cocinar suele estar en brik fuera de la nevera.",
+    "tip_de": "Kochsahne gibt es oft ungekühlt im haltbaren Tetrapak.",
+    "tip_fr": "La crème liquide est souvent vendue en brique longue conservation, non réfrigérée."
+  },
+  "nata para cocinar / leche de coco": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "lácteos / internacional",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "leche de coco": {
+    "stores": [
+      "Mercadona",
+      "Tienda asiática",
+      "Lidl"
+    ],
+    "aisle_es": "internacional / conservas",
+    "tip_nl": "Staat bij 'cocina internacional' of conserven; Aziatische winkels hebben vollere varianten.",
+    "tip_en": "Found in the international or tinned aisle; Asian shops carry richer versions.",
+    "tip_es": "Está en cocina internacional o conservas; en tiendas asiáticas hay más cremosas.",
+    "tip_de": "Im Regal mit internationalen Produkten oder Konserven; Asia-Läden haben cremigere Varianten.",
+    "tip_fr": "Au rayon produits du monde ou conserves ; les épiceries asiatiques proposent des versions plus riches."
+  },
+  "yogur griego natural": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "lácteos",
+    "tip_nl": "Let op: 'griego' is vaak gezoet; kies 'natural' zonder suiker.",
+    "tip_en": "Careful: 'griego' is often sweetened; pick 'natural' without sugar.",
+    "tip_es": "Ojo: el griego suele ser azucarado; elige el natural.",
+    "tip_de": "Achtung: „griego“ ist oft gesüßt; nimm „natural“ ohne Zucker.",
+    "tip_fr": "Attention : le « griego » est souvent sucré ; choisis du « natural » sans sucre."
+  },
+  "queso parmesano rallado": {
+    "stores": [
+      "Mercadona",
+      "Lidl",
+      "El Corte Inglés"
+    ],
+    "aisle_es": "quesos",
+    "tip_nl": "Kies Parmigiano Reggiano of Grana Padano, niet de goedkope 'mezcla' raspkaas.",
+    "tip_en": "Choose Parmigiano Reggiano or Grana Padano, not cheap grated 'mezcla' cheese.",
+    "tip_es": "Elige Parmigiano o Grana Padano, no el queso rallado mezcla.",
+    "tip_de": "Nimm Parmigiano Reggiano oder Grana Padano, keine billige geriebene Käsemischung („mezcla“).",
+    "tip_fr": "Choisis du Parmigiano Reggiano ou du Grana Padano, pas du fromage râpé bon marché « mezcla »."
+  },
+  "crema de cacahuete": {
+    "stores": [
+      "Mercadona",
+      "Lidl",
+      "Carrefour"
+    ],
+    "aisle_es": "desayunos / untables",
+    "tip_nl": "Staat meestal bij het ontbijt en broodbeleg; kies 100% pinda zonder suiker.",
+    "tip_en": "Usually with breakfast spreads; choose 100% peanut without sugar.",
+    "tip_es": "Suele estar en desayunos; busca la 100% cacahuete.",
+    "tip_de": "Meist bei den Brotaufstrichen; nimm 100 % Erdnuss ohne Zucker.",
+    "tip_fr": "Généralement avec les pâtes à tartiner ; choisis du 100 % cacahuète, sans sucre."
+  },
+  "cuscús": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "arroz y pasta",
+    "tip_nl": "Marokkaanse winkels verkopen grotere zakken en ook grove couscous.",
+    "tip_en": "Moroccan shops sell bigger bags and coarse couscous too.",
+    "tip_es": "En tiendas marroquíes hay sacos grandes y cuscús grueso.",
+    "tip_de": "Marokkanische Läden verkaufen größere Packungen und auch groben Couscous.",
+    "tip_fr": "Les épiceries marocaines vendent de plus grands sacs, et aussi du couscous à gros grain."
+  },
+  "espaguetis": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "arroz y pasta",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "espaguetis / tallarines": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "arroz y pasta",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "macarrones o penne": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "arroz y pasta",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "pasta o arroz": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "arroz y pasta",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "guisantes congelados": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "congelados",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "harina de trigo": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "harinas",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "maicena": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "harinas",
+    "tip_nl": "Maïzena is hier ook een merknaam; 'harina fina de maíz' is hetzelfde.",
+    "tip_en": "Maizena is a brand; 'harina fina de maíz' is the same thing.",
+    "tip_es": "Maizena es una marca; la harina fina de maíz es lo mismo.",
+    "tip_de": "Maizena ist eine Marke; „harina fina de maíz“ ist dasselbe.",
+    "tip_fr": "Maizena est une marque ; la « harina fina de maíz », c'est la même chose."
+  },
+  "miel": {
+    "stores": [
+      "Overal",
+      "Mercado municipal"
+    ],
+    "aisle_es": "desayunos / dulces",
+    "tip_nl": "Lokale honing koop je op markten; 'miel de caña' uit Frigiliana is melasse, geen honing.",
+    "tip_en": "Buy local honey at markets; Frigiliana's 'miel de caña' is molasses, not honey.",
+    "tip_es": "La miel local, en el mercado; la miel de caña es melaza, no miel.",
+    "tip_de": "Kauf lokalen Honig auf dem Markt; die „miel de caña“ aus Frigiliana ist Zuckerrohrmelasse, kein Honig.",
+    "tip_fr": "Achète du miel local au marché ; la « miel de caña » de Frigiliana est de la mélasse, pas du miel."
+  },
+  "mostaza": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "salsas",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "mostaza (Dijon o a la antigua)": {
+    "stores": [
+      "Mercadona",
+      "Carrefour",
+      "El Corte Inglés"
+    ],
+    "aisle_es": "salsas",
+    "tip_nl": "Dijon is gangbaar; korrelmosterd heet 'a la antigua' en is soms alleen bij grotere winkels.",
+    "tip_en": "Dijon is common; wholegrain is 'a la antigua' and sometimes only in bigger stores.",
+    "tip_es": "La Dijon es habitual; la antigua a veces solo en tiendas grandes.",
+    "tip_de": "Dijon-Senf ist verbreitet; grober Senf heißt „a la antigua“ und ist manchmal nur in größeren Märkten erhältlich.",
+    "tip_fr": "La moutarde de Dijon est courante ; l'ancienne s'appelle « a la antigua » et ne se trouve parfois que dans les grands magasins."
+  },
+  "pan rallado": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "harinas / panadería",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "salsa Worcestershire (o salsa de soja)": {
+    "stores": [
+      "Carrefour",
+      "El Corte Inglés",
+      "Iceland"
+    ],
+    "aisle_es": "salsas / internacional",
+    "tip_nl": "Heet in Spanje vaak 'salsa Perrins'; niet altijd overal, sojasaus is een prima vervanger.",
+    "tip_en": "Often called 'salsa Perrins' in Spain; not stocked everywhere, soy sauce substitutes fine.",
+    "tip_es": "Se conoce como 'salsa Perrins'; si no la encuentras, usa soja.",
+    "tip_de": "Heißt in Spanien oft „salsa Perrins“; nicht überall erhältlich, Sojasoße ist ein guter Ersatz.",
+    "tip_fr": "Souvent appelée « salsa Perrins » en Espagne ; on n'en trouve pas partout, mais la sauce soja la remplace très bien."
+  },
+  "salsa de soja": {
+    "stores": [
+      "Overal",
+      "Tienda asiática"
+    ],
+    "aisle_es": "salsas / internacional",
+    "tip_nl": "Supermarkten hebben basis; Aziatische winkels bieden lichte en donkere soja voordeliger.",
+    "tip_en": "Supermarkets stock the basics; Asian shops sell light and dark soy for less.",
+    "tip_es": "El súper tiene la básica; en tiendas asiáticas hay clara y oscura más baratas.",
+    "tip_de": "Supermärkte haben das Basissortiment; Asia-Läden verkaufen helle und dunkle Sojasoße günstiger.",
+    "tip_fr": "Les supermarchés ont l'essentiel ; les épiceries asiatiques vendent la sauce soja claire et foncée moins cher."
+  },
+  "sésamo tostado": {
+    "stores": [
+      "Mercadona",
+      "Tienda asiática",
+      "Carrefour"
+    ],
+    "aisle_es": "especias / frutos secos",
+    "tip_nl": "Zoek bij de kruiden of zaden; Aziatische winkels verkopen grotere zakken.",
+    "tip_en": "Look in the spice or seeds section; Asian shops sell bigger bags.",
+    "tip_es": "Búscalo en especias o semillas; en tiendas asiáticas, bolsas grandes.",
+    "tip_de": "Schau im Gewürz- oder Saatenregal; Asia-Läden verkaufen größere Beutel.",
+    "tip_fr": "Regarde au rayon épices ou graines ; les épiceries asiatiques vendent de plus grands sachets."
+  },
+  "tomate concentrado": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "conservas",
+    "tip_nl": "Tubes of blikjes; restje in de diepvries in een ijsblokjesvorm.",
+    "tip_en": "Tubes or small tins; freeze leftovers in an ice-cube tray.",
+    "tip_es": "En tubo o lata; congela lo que sobre en cubitera.",
+    "tip_de": "In Tuben oder kleinen Dosen; Reste im Eiswürfelbehälter einfrieren.",
+    "tip_fr": "En tube ou en petite boîte ; congèle les restes dans un bac à glaçons."
+  },
+  "tomate triturado": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "conservas",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "tomate troceado": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "conservas",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "tomates secos en aceite": {
+    "stores": [
+      "Mercadona",
+      "Lidl",
+      "El Corte Inglés"
+    ],
+    "aisle_es": "conservas / encurtidos",
+    "tip_nl": "Potjes staan bij de conserven of Italiaanse producten; markten hebben soms losse gedroogde tomaten.",
+    "tip_en": "Jars sit with preserves or Italian products; markets sometimes sell loose dried tomatoes.",
+    "tip_es": "Junto a conservas o productos italianos; en mercados a veces a granel.",
+    "tip_de": "Gläser stehen bei den Konserven oder italienischen Produkten; auf Märkten gibt es manchmal lose getrocknete Tomaten.",
+    "tip_fr": "Les bocaux sont au rayon conserves ou produits italiens ; les marchés vendent parfois des tomates séchées en vrac."
+  },
+  "tortillas de trigo": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "panadería / internacional",
+    "tip_nl": "Staan bij het verpakte brood of de Mexicaanse producten.",
+    "tip_en": "Found with packaged bread or Mexican products.",
+    "tip_es": "Están junto al pan envasado o la comida mexicana.",
+    "tip_de": "Zu finden beim abgepackten Brot oder bei den mexikanischen Produkten.",
+    "tip_fr": "Au rayon pain emballé ou produits mexicains."
+  },
+  "tortillas de trigo o maíz": {
+    "stores": [
+      "Overal",
+      "Carrefour",
+      "El Corte Inglés"
+    ],
+    "aisle_es": "panadería / internacional",
+    "tip_nl": "Tarwetortilla's zijn overal; maïstortilla's vind je eerder bij grotere supermarkten.",
+    "tip_en": "Wheat tortillas are everywhere; corn tortillas are easier to find in bigger stores.",
+    "tip_es": "Las de trigo están en todas partes; las de maíz, mejor en súper grandes.",
+    "tip_de": "Weizentortillas gibt es überall; Maistortillas findest du eher in größeren Märkten.",
+    "tip_fr": "Les tortillas de blé sont partout ; les tortillas de maïs se trouvent plus facilement dans les grands magasins."
+  },
+  "vinagre de Jerez": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "aceites y vinagres",
+    "tip_nl": "Andalusisch product, dus overal en goed; 'Reserva' is voller van smaak.",
+    "tip_en": "An Andalusian product, widely sold and good; 'Reserva' has more depth.",
+    "tip_es": "Producto andaluz, fácil de encontrar; el Reserva es más intenso.",
+    "tip_de": "Ein andalusisches Produkt, überall erhältlich und gut; „Reserva“ hat mehr Tiefe.",
+    "tip_fr": "Un produit andalou, très répandu et de qualité ; le « Reserva » a plus de profondeur."
+  },
+  "vinagre de arroz / de manzana": {
+    "stores": [
+      "Tienda asiática",
+      "Carrefour",
+      "Overal"
+    ],
+    "aisle_es": "aceites y vinagres / internacional",
+    "tip_nl": "Rijstazijn vooral bij Aziatische winkels; appelazijn is in elke supermarkt een goede vervanger.",
+    "tip_en": "Rice vinegar mainly in Asian shops; cider vinegar from any supermarket substitutes well.",
+    "tip_es": "El de arroz, en tiendas asiáticas; el de manzana del súper sirve igual.",
+    "tip_de": "Reisessig vor allem in Asia-Läden; Apfelessig aus jedem Supermarkt ist ein guter Ersatz.",
+    "tip_fr": "Le vinaigre de riz se trouve surtout dans les épiceries asiatiques ; le vinaigre de cidre de n'importe quel supermarché le remplace bien."
+  },
+  "vinagre de manzana": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "aceites y vinagres",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  },
+  "vinagre de vino": {
+    "stores": [
+      "Overal"
+    ],
+    "aisle_es": "aceites y vinagres",
+    "tip_nl": "",
+    "tip_en": "",
+    "tip_es": "",
+    "tip_de": "",
+    "tip_fr": ""
+  }
+}

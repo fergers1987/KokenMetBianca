@@ -1,0 +1,467 @@
+{
+ "content": {
+  "cover_kicker": "El libro de olla lenta para familias en España",
+  "cover_subtitle": "30 recetas familiares y económicas, suaves para los niños",
+  "cover_badges": [
+   "Para 4 personas",
+   "Desde 1,50 € por persona",
+   "Suave para los niños",
+   "Todo del supermercado español"
+  ],
+  "tagline": "Tú cortas, la olla lenta hace el resto.",
+  "foreword_title": "Bienvenidos a la mesa",
+  "foreword": [
+   "Entre semana solo quieres una cosa: una comida caliente y rica en la mesa, sin pasarte horas en la cocina después de un día largo. Por eso este libro gira en torno a la olla lenta. Cortas un poco, doras un momento y ella hace el trabajo.",
+   "Cada receta es para cuatro personas: dos adultos y dos niños. Mantengo los sabores suaves para que todos coman lo mismo. Quien lo quiera más picante, que añada salsa picante en la mesa. Los ingredientes los encuentras en cualquier supermercado español y la mayoría de las comidas cuestan entre 6 y 12 €.",
+   "Estofado holandés, unas buenas lentejas o un curry suave: elige lo que mejor encaje con tu semana, enciende la olla lenta y disfruta del aroma que llena la casa. ¡Que aproveche! – Bianca"
+  ],
+  "how_to_title": "Cómo leer las recetas",
+  "how_to": [
+   {
+    "label": "Precio",
+    "text": "Precio orientativo de la comida completa para cuatro personas, según los precios del supermercado español."
+   },
+   {
+    "label": "Picante",
+    "text": "Una guindilla es suave para niños, dos es especiado pero no picante, tres es picante. El picante extra, mejor en la mesa."
+   },
+   {
+    "label": "Vegetariano",
+    "text": "Una hoja significa vegetariano: sin carne ni pescado, hecho con caldo de verduras."
+   },
+   {
+    "label": "Preparación",
+    "text": "El tiempo para cortar y dorar antes de que todo vaya a la olla lenta."
+   },
+   {
+    "label": "Olla lenta LOW/HIGH",
+    "text": "Cada receta indica un tiempo para LOW (bajo) y otro para HIGH (alto). LOW da el resultado más tierno. El pollo está hecho a 75 °C en el centro."
+   },
+   {
+    "label": "Congelar",
+    "text": "Copo de nieve: se puede congelar en raciones hasta tres meses. ¿Sin copo de nieve? Entonces está más rico recién hecho."
+   }
+  ],
+  "chapters": {
+   "Holandés y europeo": {
+    "tagline": "Clásicos de siempre, a fuego lento",
+    "intro": "Estofado, boloñesa, cottage pie y pollo cremoso: platos de siempre que gustan a todos. La olla lenta deja la carne tiernísima y la salsa llena de sabor mientras tú haces otras cosas."
+   },
+   "Español y mediterráneo": {
+    "tagline": "Sol en el plato",
+    "intro": "Lentejas con chorizo dulce, guiso de pollo con garbanzos y pollo griego al limón. Guisos mediterráneos sencillos con ingredientes que encuentras en el lineal de cualquier supermercado español."
+   },
+   "Cocina del mundo": {
+    "tagline": "De viaje, pero suave para los niños",
+    "intro": "Curry, teriyaki, tacos y guiso marroquí: el mundo en tu mesa, pero con especias suaves. ¿Alguien quiere más picante? Pon un bote de salsa picante en la mesa."
+   },
+   "Pescado y gambas": {
+    "tagline": "Pescado que gusta a todos",
+    "intro": "Primero la salsa se cocina tranquilamente y solo al final se añade el pescado o las gambas. Así todo queda jugoso. Merluza, bacalao y gambas peladas los encuentras frescos o congelados."
+   },
+   "Favoritos económicos": {
+    "tagline": "Mucho sabor por poco dinero",
+    "intro": "Platos sencillos y nutritivos que demuestran que comer bien no tiene por qué ser caro. Sopa de lentejas, guiso de pollo de toda la vida y guiso de carne picada con verduras, de 6 a 10 € por comida."
+   }
+  },
+  "basics_title": "Lo básico de la olla lenta: cómo sacarle el máximo partido",
+  "glossary_title": "Tu lista de la compra: español–inglés",
+  "glossary_intro": "Esta lista recoge los nombres que verás en el supermercado español, con su equivalente en inglés. Así sabrás, por ejemplo, que el 'contramuslo de pollo' es 'chicken thigh' y la 'nata para cocinar' es 'cooking cream'.",
+  "back_cover_headline": "Comida familiar rica, sin pasarte horas en la cocina",
+  "back_cover_blurb": "¿Una comida caliente en la mesa sin pasarte toda la tarde en la cocina? Con este libro cortas un poco, doras un momento y dejas que la olla lenta haga el resto. Treinta recetas económicas para cuatro personas, con especias suaves para que los niños coman lo mismo. Del estofado holandés al curry suave, con ingredientes del supermercado español.",
+  "back_cover_bullets": [
+   "30 recetas para 4 personas (2 adultos + 2 niños)",
+   "Precio orientativo de 6 a 12 € por comida",
+   "Especias suaves, los niños comen lo mismo",
+   "Ingredientes del supermercado español",
+   "Cada ingrediente con su nombre del súper, más una lista de la compra en español e inglés"
+  ],
+  "toc_title": "¿Qué comemos hoy?",
+  "closing_line": "Enciende la olla lenta, pon la mesa y disfrutad juntos. ¡Que aproveche!",
+  "note_s": "Los precios son orientativos (precios de 2026) para la comida completa. Cada olla lenta es distinta: toma los tiempos como referencia.",
+  "in_book": "Qué encontrarás en este libro: 30 recetas · 5 capítulos · lo básico de la olla lenta · lista de la compra en español e inglés.",
+  "signature": "Con cariño, Bianca",
+  "site_intro": "Aquí tienes las 30 recetas del libro para olla lenta, con cada ingrediente tal como aparece en el supermercado español. Además, encontrarás una guía de supermercados de la Costa del Sol para que hacer la compra sea fácil y rápido."
+ },
+ "basics": [
+  [
+   "Llénala de ½ a ¾",
+   "Una olla demasiado vacía se reseca y una demasiado llena no se hace a tiempo. Mantén la olla entre la mitad y tres cuartos de su capacidad."
+  ],
+  [
+   "Lo duro, abajo",
+   "Las patatas, la zanahoria y la cebolla van al fondo, donde está el calor. La carne, encima."
+  ],
+  [
+   "Tapa cerrada",
+   "Cada vez que levantas la tapa, el tiempo de cocción se alarga 15–20 minutos. Mira solo al final."
+  ],
+  [
+   "Tamaño",
+   "Todas las recetas son para una olla lenta de 3,5–5 litros. ¿Más grande (6 l o más)? Usa el tiempo más corto y compruébala antes."
+  ],
+  [
+   "LOW o HIGH",
+   "HIGH es más o menos entre una vez y media y dos veces más rápido que LOW. LOW deja la carne más tierna; HIGH es para cuando empiezas más tarde."
+  ],
+  [
+   "Dorar = sabor",
+   "Dorar un momento la carne, el chorizo y la cebolla da una salsa más intensa. Sofreír brevemente las especias en aceite les da más sabor."
+  ],
+  [
+   "Menos líquido",
+   "En la olla lenta casi no se evapora nada. Usa menos caldo que en una cazuela normal; siempre puedes aclarar la salsa después."
+  ],
+  [
+   "Nata y pescado al final",
+   "La nata, el yogur, el pescado y las gambas se añaden al final, o después de triturar o apagar, según indique la receta."
+  ],
+  [
+   "Espesar",
+   "Disuelve primero la maicena en un chorrito de agua fría y añádela a la salsa en la última media hora, en HIGH."
+  ],
+  [
+   "Nunca congelado",
+   "No pongas carne ni pollo congelados en la olla lenta. Descongélalos la noche anterior en la nevera."
+  ],
+  [
+   "Bien hecho",
+   "El pollo está hecho a 75 °C en el centro: la carne está blanca y el jugo sale transparente. ¿Dudas? Media horita más."
+  ],
+  [
+   "Legumbres de bote",
+   "Usa legumbres cocidas de lata o de bote. Las alubias rojas secas no alcanzan suficiente temperatura en la olla lenta."
+  ],
+  [
+   "Recalentar",
+   "Recalienta las sobras en una sartén, un cazo o el microondas hasta que estén bien calientes, no en la olla lenta."
+  ],
+  [
+   "Sobras",
+   "A la nevera antes de 2 horas y a consumir en 3 días. Se pueden congelar hasta 3 meses; descongela en la nevera."
+  ],
+  [
+   "Mantenlo suave",
+   "Cocina suave para toda la mesa. Pon salsa picante, copos de guindilla o pimentón picante para quien quiera."
+  ]
+ ],
+ "glossary": [
+  [
+   "Carne y pescado",
+   [
+    [
+     "contramuslo de pollo deshuesado",
+     "boneless chicken thighs"
+    ],
+    [
+     "carne para guisar (morcillo)",
+     "stewing beef"
+    ],
+    [
+     "aguja o espaldilla de ternera",
+     "beef chuck / shoulder"
+    ],
+    [
+     "carne picada de vacuno",
+     "beef mince"
+    ],
+    [
+     "carne picada mixta",
+     "mixed beef and pork mince"
+    ],
+    [
+     "paleta o aguja de cerdo",
+     "pork shoulder"
+    ],
+    [
+     "chorizo dulce",
+     "mild chorizo"
+    ],
+    [
+     "merluza",
+     "hake"
+    ],
+    [
+     "bacalao fresco",
+     "fresh cod"
+    ],
+    [
+     "bacalao desalado",
+     "desalted salt cod"
+    ],
+    [
+     "gambas peladas crudas",
+     "raw peeled prawns"
+    ]
+   ]
+  ],
+  [
+   "Verdura y fruta",
+   [
+    [
+     "patatas para cocer / para guisar",
+     "potatoes (floury / waxy)"
+    ],
+    [
+     "cebolla · ajo",
+     "onion · garlic"
+    ],
+    [
+     "zanahoria",
+     "carrot"
+    ],
+    [
+     "puerro",
+     "leek"
+    ],
+    [
+     "apio",
+     "celery"
+    ],
+    [
+     "calabacín",
+     "courgette"
+    ],
+    [
+     "pimiento rojo / amarillo",
+     "pepper (red / yellow)"
+    ],
+    [
+     "champiñones",
+     "mushrooms"
+    ],
+    [
+     "espinacas frescas",
+     "fresh spinach"
+    ],
+    [
+     "pepino",
+     "cucumber"
+    ],
+    [
+     "limón · lima",
+     "lemon · lime"
+    ],
+    [
+     "manzana golden",
+     "sweet apple (Golden)"
+    ],
+    [
+     "jengibre fresco",
+     "fresh ginger"
+    ],
+    [
+     "perejil fresco",
+     "fresh parsley"
+    ]
+   ]
+  ],
+  [
+   "Despensa",
+   [
+    [
+     "tomate triturado",
+     "passata"
+    ],
+    [
+     "tomate troceado",
+     "chopped tomatoes"
+    ],
+    [
+     "tomate concentrado",
+     "tomato purée"
+    ],
+    [
+     "tomates secos en aceite",
+     "sun-dried tomatoes in oil"
+    ],
+    [
+     "lentejas pardinas",
+     "pardina lentils"
+    ],
+    [
+     "lentejas rojas",
+     "red lentils"
+    ],
+    [
+     "garbanzos cocidos",
+     "chickpeas (jar)"
+    ],
+    [
+     "alubias rojas cocidas",
+     "kidney beans (tin)"
+    ],
+    [
+     "maíz dulce",
+     "sweetcorn"
+    ],
+    [
+     "guisantes congelados",
+     "frozen peas"
+    ],
+    [
+     "aceitunas verdes sin hueso",
+     "pitted green olives"
+    ],
+    [
+     "orejones de albaricoque",
+     "dried apricots"
+    ],
+    [
+     "leche de coco",
+     "coconut milk"
+    ],
+    [
+     "crema de cacahuete",
+     "peanut butter"
+    ],
+    [
+     "salsa de soja",
+     "soy sauce"
+    ],
+    [
+     "miel",
+     "honey"
+    ],
+    [
+     "mostaza",
+     "mustard"
+    ],
+    [
+     "caldo de verduras / pollo / carne / pescado",
+     "stock (vegetable / chicken / beef / fish)"
+    ],
+    [
+     "aceite de oliva · de girasol",
+     "olive oil · sunflower oil"
+    ],
+    [
+     "vinagre de Jerez / de vino / de manzana",
+     "sherry, wine, cider vinegar"
+    ],
+    [
+     "harina de trigo · maicena",
+     "plain flour · cornflour"
+    ],
+    [
+     "pan rallado",
+     "breadcrumbs"
+    ],
+    [
+     "azúcar moreno",
+     "brown sugar"
+    ],
+    [
+     "arroz (basmati / jazmín)",
+     "rice (basmati / jasmine)"
+    ],
+    [
+     "espaguetis · macarrones",
+     "spaghetti · pasta"
+    ],
+    [
+     "cuscús",
+     "couscous"
+    ],
+    [
+     "tortillas de trigo / maíz",
+     "wraps · tortillas"
+    ],
+    [
+     "barra de pan",
+     "baguette"
+    ]
+   ]
+  ],
+  [
+   "Hierbas y especias",
+   [
+    [
+     "pimentón dulce",
+     "sweet paprika"
+    ],
+    [
+     "pimentón de la Vera",
+     "smoked paprika"
+    ],
+    [
+     "comino molido",
+     "ground cumin"
+    ],
+    [
+     "cúrcuma",
+     "turmeric"
+    ],
+    [
+     "canela molida",
+     "ground cinnamon"
+    ],
+    [
+     "curry en polvo",
+     "curry powder (mild)"
+    ],
+    [
+     "nuez moscada",
+     "nutmeg"
+    ],
+    [
+     "orégano · albahaca",
+     "oregano · basil"
+    ],
+    [
+     "tomillo",
+     "thyme"
+    ],
+    [
+     "hoja de laurel",
+     "bay leaf"
+    ],
+    [
+     "ajo en polvo",
+     "garlic powder"
+    ],
+    [
+     "sésamo tostado",
+     "toasted sesame seeds"
+    ]
+   ]
+  ],
+  [
+   "Lácteos y huevos",
+   [
+    [
+     "nata para cocinar",
+     "cooking cream"
+    ],
+    [
+     "yogur griego natural",
+     "plain Greek yoghurt"
+    ],
+    [
+     "leche · mantequilla",
+     "milk · butter"
+    ],
+    [
+     "queso parmesano rallado",
+     "grated Parmesan"
+    ],
+    [
+     "huevo",
+     "egg"
+    ]
+   ]
+  ]
+ ],
+ "chapters": [
+  "Holandés y europeo",
+  "Español y mediterráneo",
+  "Cocina del mundo",
+  "Pescado y gambas",
+  "Favoritos económicos"
+ ],
+ "spiceWords": [
+  "Suave",
+  "Especiado",
+  "Picante"
+ ]
+}
