@@ -18,6 +18,6 @@ Zie ook `docs/AFSPRAKEN.md` voor alle afspraken.
    - bij de oorspronkelijke 30 alleen de swaps en de "Optioneel:"-stappen
    - de hoofdstukken Vegetarisch, Zoet en Meer uit de slowcooker, plus de bijbehorende UI-teksten
 4. **Supermarktgids:** aanvullen voor nieuwe Spaanse namen (`src/data/new/missing-stores.txt`), met tips in 5 talen.
-5. **Domein:** in `site.config.json` zetten zodra de gebruiker het doorgeeft.
+5. **Bezoekers meten:** Cloudflare Web Analytics aanzetten (gebruiker, via het dashboard).
 
 Na elke stap bouwen, controleren, committen en pushen.

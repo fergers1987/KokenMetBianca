@@ -7,7 +7,7 @@ Dit bestand legt vast wat we hebben afgesproken. Lees het voordat je verder bouw
 - **Map:** `F:\Koken`. Het is geen game, dus het hoort niet in `F:\GameDev`.
 - **Repo:** https://github.com/fergers1987/KokenMetBianca (privé, branch `main`).
 - **Hosting:** Cloudflare Workers (static assets) via Git-koppeling. Elke push naar `main` rolt automatisch uit. Build `npm run build`, deploy `npx wrangler deploy`, zie `wrangler.jsonc`.
-- **Domein:** al gekocht via Cloudflare. Nog in `site.config.json` → `siteUrl` zetten zodra de gebruiker de naam doorgeeft.
+- **Domein:** **slowcookerspain.com**, gekocht via Cloudflare en gekoppeld aan de Worker `kokenmetbianca`. Staat in `site.config.json` → `siteUrl`. De Worker-naam in `wrangler.jsonc` moet `kokenmetbianca` blijven.
 - **Geen verzonnen biografische feiten over Bianca.**
 
 ## Website

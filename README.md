@@ -29,7 +29,7 @@ Het makkelijkst is **Workers & Pages → Create → Import a repository**:
 2. Cloudflare herkent `wrangler.jsonc`. Vul in (meestal al ingevuld):
    - **Build command:** `npm run build`
    - **Deploy command:** `npx wrangler deploy`
-3. Deploy. Je krijgt een adres als `koken-met-bianca.<account>.workers.dev`.
+3. Deploy. Je krijgt een adres als `kokenmetbianca.<account>.workers.dev`.
 4. **Eigen domein:** ga naar het project, dan *Settings → Domains & Routes → Add → Custom domain*. Het domein moet in hetzelfde Cloudflare-account staan.
 5. Zet daarna het domein in `site.config.json`, bijvoorbeeld `"siteUrl": "https://www.jouwdomein.nl"`, en push. Dan krijg je canonical-links, `og:image`, `sitemap.xml` en `robots.txt` met de juiste adressen.
 
